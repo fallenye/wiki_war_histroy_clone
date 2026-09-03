@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"raw\" -path:\"sources\" -file:\"SCHEMA\" -file:\"log\" ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.58860759493671,
+  "lineSizeMultiplier": 0.689240506329114,
+  "collapse-forces": true,
+  "centerStrength": 0.0822784810126582,
+  "repelStrength": 12.6849542809643,
+  "linkStrength": 0.607594936708861,
+  "linkDistance": 500,
+  "scale": 0.09392927902846329,
+  "close": false
+}

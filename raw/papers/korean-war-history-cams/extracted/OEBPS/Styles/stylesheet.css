@@ -1,0 +1,322 @@
+/* Version: 2023.9.14 */
+/* Generic useful styles: */
+body {
+	font-size: 100%;
+	padding: 0;
+}
+p {
+	font-weight: normal;
+	text-align: justify;
+	text-indent: 2em;
+	margin: 0 0 0.5em 0;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.underline {
+	text-decoration: underline;
+}
+.strike {
+	text-decoration: line-through;
+}
+.small {
+	font-size: 0.75em;
+}
+small {
+	font-size: 0.75em;
+}
+.big {
+	font-size: 1.2em;
+}
+.center {
+	text-align: center;
+	text-indent: 0em;
+}
+.right {
+	text-align: right;
+	text-indent: 0em;
+}
+.image {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: 0em;
+	text-align: center;
+}
+.typeface{
+	font-family: monospace
+}
+div.newpage {
+	page-break-before: always;
+}
+h1 {
+	text-indent: 0em;
+	text-align: center
+}
+h2 {
+	text-indent: 0em;
+	text-align: center
+}
+h3 {
+	text-indent: 0em;
+	text-align: center
+}
+h4 {
+	text-indent: 0em;
+	text-align: center
+}
+
+/* Start of Book: */
+div.titlepage {
+	text-align: center;
+	text-indent: 0em;
+	padding: 5em 1.5em 2.5em;
+}
+div.series-listing {
+	page-break-before: always;
+}
+div.dedication {
+	page-break-before: always;
+	padding: 5em 0;
+}
+div.acknowledgments {
+	page-break-before: always;
+	padding: 2.5em 0 0;
+}
+div.epigraph {
+	page-break-before: always;
+	padding: 5em 0 0;
+}
+/* Chapters: */
+div.chapter {
+	page-break-before: always;
+}
+div.heading {
+	text-indent: 0;
+	text-align: center;
+}
+div.section {
+	text-align: justify;
+}
+
+img.auto {
+	max-width: 100%;
+	height: auto
+}
+img.inline {
+	width: 1.1em;
+	height: auto
+}
+
+span.pizhu {
+	color: #ab1942;
+	font-size: 0.80em;
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
+}
+span.bold_Kaiti {
+	font-weight: bold;
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
+}
+
+span.red {
+	color: #ff00ff;
+}
+span.bred {
+	color: #ff00ff;
+	font-weight: bold
+}
+
+span.blue {
+	color: #ab1942;
+}
+span.bblue {
+	color: #ab1942;
+	font-weight: bold
+}
+
+span.orange {
+	color: #00cc00;
+}
+span.borange {
+	color: #ff00ff;
+	font-weight: bold
+}
+
+a.zici_zhu {
+	color: blue;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-decoration: underline
+}
+
+ul.left {
+	text-align: left;
+	text-indent: 0em;
+}
+
+.linehr {
+	color: gray;
+	display: block;
+	height: 2px;
+	margin: 0.5em auto;
+	border: currentColor inset 1px
+}
+
+/* Replace <br/> */
+p.newLineTop {
+	font-weight: normal;
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-align: justify;
+	text-indent: 2em;
+}
+p.title {
+	font-weight: bold;
+	font-size: 1.2em;
+	padding: 2.5em 0;
+}
+p.author {
+	font-style: normal;
+}
+p.series-info {
+	font-style: italic;
+	font-size: 0.9em;
+}
+p.series-title {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+p.series-content {
+	white-space: pre-line;
+	text-indent: 0;
+}
+p.series-current {
+	white-space: pre-line;
+	text-indent: 0;
+	font-weight: bold;
+}
+p.first {
+	text-indent: 0em;
+}
+p.verse {
+	margin: 0.5em 1 em 0 em;
+	text-indent: -0.5em;	
+}
+p.emphasis {
+	font-weight: bold;
+	text-align:justify;
+	text-indent: 2em;
+}
+p.refGray {
+	color: #646464;
+	text-align:justify;
+	text-indent: 2em;
+}
+p.separator {
+	text-align: center;
+	text-indent: 0em;
+}
+p.left {
+	text-align: left;
+	text-indent: 0em;
+}
+p.center {
+	text-align: center;
+	text-indent: 0em;
+}
+p.Kaiti {
+	font-weight:normal;
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
+	text-align:justify;
+	text-indent: 2em;
+	margin: 0 0 0.5em 0;
+}
+p.left_Kaiti {
+	font-weight:normal;
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
+	text-align:left;
+	text-indent: 0em;
+}
+p.right_KaiTi {
+	font-weight:normal;
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
+	text-align: right;
+}
+p.line {
+	border-bottom: 2px dotted #7A7A7A
+}
+p.linew {
+	border-bottom: 3px solid #7A7A7A
+}
+p.zici_hdr {
+	font-size: 1.25em;
+	font-weight: bold;
+	text-indent: 2em;
+}
+
+blockquote {
+	padding: 1.5em;	
+}
+
+/* note.png */
+.note {
+	width: 24px;
+}
+
+/* front.xhtml */
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.centered {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0.67em
+    }
+.centered1 {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 1.33em
+    }
+.centered2 {
+    display: block;
+    font-size: 0.90em;
+    line-height: 170%;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+
+
+/* Legacy, in order to minimize failures*/
+.header {
+	text-align: center;
+	text-indent: 0em;
+}
+.signature {
+	text-align: right;
+	text-indent: 0em;
+}

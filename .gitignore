@@ -1,0 +1,66 @@
+# =========================
+# 原始资料 / 大文件
+# =========================
+
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.djvu
+
+# Office / 文档原稿
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# 如果 raw 目录主要保存原始资料，可直接忽略二进制原稿
+raw/**/*.pdf
+raw/**/*.epub
+raw/**/*.mobi
+raw/**/*.azw
+raw/**/*.azw3
+raw/**/*.djvu
+raw/**/*.zip
+raw/**/*.rar
+raw/**/*.7z
+
+# =========================
+# Obsidian 自动生成 / 本地状态
+# =========================
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 缓存 / 临时文件
+.obsidian/cache/
+.obsidian/.trash/
+
+# 插件运行产生的数据
+.obsidian/plugins/*/data.json
+
+# Obsidian Trash
+.trash/
+
+# =========================
+# 系统垃圾文件
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~

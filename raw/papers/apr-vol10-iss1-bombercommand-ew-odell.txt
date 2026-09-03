@@ -1,0 +1,1154 @@
+                                                                                                             97
+                                                                                            Photo: RAF AHB
+
+
+
+
+                                               A Boeing Fortress B Mk III electronic warfare aircraft of
+                                               RAF Bomber Command
+
+
+
+
+    To What Extent Did Royal Air Force
+    Employment of Electronic Warfare
+Contribute to the Outcome of the Strategic
+ Night Bomber Offensive of World War II?
+                              By Sqn Ldr Rob O’Dell RAF
+
+ The war in the air is a technological war              technical operations. In particular, the
+ which cannot be won by a technologically               night bomber offensive of World War II
+ inferior fighting force, however high its moral        saw the first intensive employment of
+ or dauntless its resolution’                           Electronic Warfare (EW), precipitating a
+ (Luftwaffe 158 victory ace,                            race for technical supremacy arguably
+ Colonel Johannes Steinhoff.2)                          unprecedented in the history of
+                                                        warfare.
+ Introduction
+                                                        Many contemporary studies of the Royal
+ During World War II offensive strategic                Air Force (RAF) bomber offensive have
+ air power evolved from principles little               suggested that the campaign was of
+ changed from the German Gotha raids                    little relevance to the final collapse of
+ of World War I to highly complex and                   Germany. Indeed, RAF ‘area bombing’
+98
+
+     of German cities has sometimes been           The campaign is examined in 4 stages.
+     accused of undermining the moral             Firstly, the period from September 1939
+     superiority of the Allies. Moreover, fuel    to December 1941 saw extremely poor
+     shortages and the loss of the Luftwaffe’s    results from RAF night bombing due
+     early warning network of radars and          to unsuitable aircraft and navigation
+     Command and Control (C2) facilities to       methods, while German military
+     advancing Allied land forces is generally    expansion had emphasised offensive
+     cited as the primary factor in the final     rather than defensive operations.
+     collapse of Germany’s night defences.        Consequently, Luftwaffe night defences
+                                                  were ill-equipped to challenge early
+     This essay offers an alternative             RAF bomber sorties; however, the
+     perspective that RAF employment of           appointment of the inspirational
+     EW was the most significant factor in        Colonel Josef Kammhuber saw a
+     the campaign. Bomber Command EW              rapid expansion of the night-fighter
+     allowed the RAF to limit the effects of      force, enhanced by improved C2
+     increasingly advanced Luftwaffe C2           and Germany’s technological lead
+     and fighter technologies, ultimately         in early warning and gun-laying
+     reducing German Air Defences (AD) to         radars. Nevertheless, Britain retained
+     virtual impotence. It is also suggested      a lead in Airborne Interception (AI)
+     that RAF navigational systems enabled        technology which enabled RAF night-
+     quantum leaps to be made in bombing          fighters to challenge early Luftwaffe
+     accuracy, given the conditions and           intruder operations over Britain.
+     technology available.                        Moreover, British AI radar contributed
+                                                  significantly to Britain’s development
+     In reaching its conclusions, this essay      of long range navigation capabilities.
+     examines the impact of the principle         Overall, the period was characterised
+     RAF and Luftwaffe EW technologies            by stalemate between the RAF and
+     upon the strategic night bomber              the Luftwaffe as they each struggled
+     offensive against Europe during 1939-        to overcome early technical and
+     45. The EW capabilities examined             organisational limitations.
+     include navigation, radar, passive
+     detection, Signals Intelligence (SIGINT)     The second phase, between January 1942
+     including Electronic Intelligence            and July 1943, saw rapid developments
+     (ELINT) and Communications                   by both sides. The Luftwaffe took an
+     Intelligence (COMINT), and Radio             increasing toll on RAF bombers as
+     Counter Measures (RCM) jamming. The          the so called ‘Kammhuber Line’ was
+     significance of such systems is compared     refined and Germany’s own AI radar
+     with other factors in the campaign           equipped night-fighters entered service.
+     such as leadership, C2, and the wider        However, the RAF introduced a variety
+     strategic context of the conflict. RAF       of navigation and RCM systems which
+     studies suggested that loss rates of         improved bombing accuracy and
+     5% over a period of 3 months reduced         enabled more effective penetrations of
+     the effectiveness of a bomber force to       Luftwaffe defences. Despite innovative
+     unacceptable levels, whilst losses of 7%     German technology, further RAF tactical
+     made a force ineffective.3 Therefore,        refinements, under the leadership of the
+     for the analytical purposes of this essay,   aggressive ‘Bomber’ Harris, led to RAF
+     RAF losses exceeding 5% are considered       ascendancy during this period which
+     unacceptable whilst those exceeding 7%       included the ‘Thousand Bomber Raids’.
+     are classed as unsustainable.                Nevertheless, RAF losses were barely
+                                                                                       99
+sustainable and at times threatened to      the most significant single factor in
+curtail the entire campaign.                RAF victory during the night bomber
+                                            campaign.
+The third phase commenced in July
+1943 with the Battle of Hamburg.            September 1939 – December 1941:
+This was a pivotal operation in which       Stalemate
+RAF employment of ‘Window’ EW
+jamming paralyzed existing methods          …only 5% of aircraft getting within 15
+of Luftwaffe C2. After a brief period       miles of their targets…I don’t think it
+where RAF losses plummeted, Window          would have surprised anyone who was
+precipitated an overhaul of German          bombing in 1941.
+defences and the introduction of a          Bomber Command Pilot4)
+wide range of innovative measures
+which allowed a rapid recovery by           Faced with the threat of German
+the Luftwaffe. RAF losses reached           aggression, Britain had emphasised
+unprecedented levels in early 1944          defensive measures during its pre-war
+and forced the withdrawal of a third        expansion. Therefore, in 1939 Bomber
+of Harris’ bombers from operations.         Command could muster a combined
+Ironically, much of the Luftwaffe’s         daily average of just over 200 of its
+success was due to passive tracking         principle aircraft types, the Whitley,
+                                                                                       Part of the
+of the navigation and EW systems            Wellington and Hampden.5 All 3 were        Chain home
+upon which the British crews were           characterised by inadequate performance,   radar system
+increasingly reliant. Only continued        payload and
+RAF RCM, diversionary tactics and           defensive armament.
+expanding Allied aircrew training and       Significantly, they
+aircraft manufacturing programmes           also lacked any form
+prevented RAF failure.                      of accurate long-
+                                            range navigational
+From April 1944 the RAF regained            system beyond
+the initiative from the Luftwaffe. The      dead reckoning
+invasion of Europe and decreasing           navigation supported
+German fuel supplies were significant       by radio fixes and
+factors in this reversal. However, it is    astro-navigation. In
+suggested that omnipotent RAF EW            contrast, Luftwaffe
+and, in particular, the formation of a      doctrine emphasised
+dedicated Bomber Command RCM                the offensive tactical
+and intruder force ultimately proved        employment of air
+decisive. Despite continued German          power in support of
+technological developments during the       land forces.6 Indeed,
+last year of the War, Luftwaffe defences    Germany considered
+and C2 were systematically disrupted        the possibility of
+by this RAF EW supremacy.                   nocturnal attacks by
+                                            bombers so remote it
+The primacy of EW was illustrated in        possessed only small
+June 1945 when RAF and Luftwaffe            numbers of obsolete
+personnel evaluated Bomber Command          biplanes for night-
+tactics during trials against the largely   fighting tasks in 1939.7
+intact German C2 system in Denmark.         The emerging EW
+It is suggested that these experiments,     capabilities of each
+against an AD system unhindered by          nation reflected these
+Allied land forces, proved that EW was      priorities.
+100
+      Britain had developed the Chain Home         but, lacking AI, the Bf109D proved
+      AD radar and its associated C2 system,       severely limited in the role.12
+      and led the world in airborne radar
+      technology. In contrast, Germany had         Following the German bombing of
+      focused upon the offensive potential         Rotterdam on 14 May 1940, Churchill
+      of EW. The Knickebein (Crooked Leg)          authorised attacks against point targets
+      navigation system allowed accurate           in mainland Germany. By 4 June 1940,
+      ‘blind’ bombing through cloud cover.         RAF bombers had flown some 1700
+      However, in September 1939 Germany           night sorties over Germany for the loss
+      also possessed small numbers of Freya        of only 39 aircraft.13 However, without
+      early warning and prototype Wurzburg         navigation aids crews struggled to
+      gun-laying radars, each developed in         find their targets. One pilot describing
+      complete secrecy.8 Freya had a range         a bombing raid against a railway
+      of 75 miles but could not measure an         station in Dusseldorf stated that upon
+      aircrafts altitude whilst Wurzburg           reaching their target area German
+      was a small radar with a range of 25         blackout procedures prevented them
+      miles and an ability to plot an aircraft’s   from locating the station. They then
+      position and altitude to extremely fine      conducted a fruitless ‘square search’ of
+      limits.9 Yet despite German success          the city before dropping their weapons
+      in navigation and ground based               into the darkness.14 This illustrates the
+      radar, the Luftwaffe lagged behind           problem of locating targets at night
+      Britain in night-fighter AI technology       without appropriate navigation systems
+      and C2. German disregard of such             and the impotence of German night
+      defensive EW capabilities would later        defences at the time. Furthermore,
+      prove significant. In contrast, the          Germany also lacked the EW capabilities
+      RAF’s 80 Wing increasingly disrupted         required to locate the bombers at night,
+      Knickebein and other German                  beyond primitive sound detection
+      navigation systems from November             systems.
+      1940 in what became known as the
+      ‘Battle of the Beams’. The emerging          Faced with increasing RAF raids,
+      significance of such EW techniques was       the significance of Luftwaffe night-
+      not lost upon the RAF and wider British      fighter defences increased. On 19 July
+      scientific community.                        1940 Goring appointed Colonel Josef
+                                                   Kammhuber to formally establish a
+      Early Bomber Command daylight sorties        force of twin-engined night-fighters,
+      against German naval targets resulted        the Nachtjagd. Initially, Kammhuber
+      in loss rates of up to 50% and forced        advocated aggressive ‘long range night-
+      Bomber Command to adopt a night              fighting’ intruder operations against
+      strategic bombing policy in April 1940.10    RAF bomber airfields, commenting,
+      Unknown to Britain, the Luftwaffe            ‘…vigorous and correctly launched long
+      daylight successes had been partly due       range night-fighter operations are, in my
+      to Freya radars detecting approaching        view, the most effective tactics of any
+      RAF bombers at ranges of over 70             kind of night-fighting.’15
+      miles11. EW had already fundamentally
+      influenced the campaign. In contrast,        EW again contributed to these intruder
+      nocturnal RAF leaflet dropping over          operations. In the hours preceding
+      German cities had forced the allocation      a bombing raid, RAF aircraft would
+      of single-seat Bf109D fighters to night      test radios and other systems. By
+      defence duties. To aid vision and limit      eavesdropping on such communications,
+      the glare from searchlights these fighters   the Luftwaffe Radio Monitoring Service,
+      operated with their canopies removed         known as the ‘Y-Service’, was able to
+                                                                                          101
+determine the approximate numbers of         RAF losses rose immediately. Between
+bombers planned to fly that night, and       June 1940 and February 1941 the average
+their departure airfields. Such COMINT       Bomber Command loss rate was under
+allowed night-fighters to catch RAF          2%.20 However, attrition increased
+bombers as they departed airfields           to 3.5% between July and November
+in Britain and produced immediate            1941 with losses of up to 21% recorded
+results.16 Prior to 1 August 1940, only 10   over Germany itself.21 Including non-
+aircraft had been destroyed by Luftwaffe     operational losses in England, the entire
+night-fighters.17 In contrast, long range    front line strength of Bomber Command
+night-fighter operations over Britain        had statistically been wiped out in the
+accounted for almost 100 RAF aircraft        final 4 months of 1941.22
+within 12 months of commencing
+in October 1940.18 Success for the           Following the first Ground Controlled
+Luftwaffe aircraft would undoubtedly         Intercept (GCI) kill employing Freya
+have been greater had they been              information passed to a night-fighter,
+furnished with effective AI radar. In        Kammhuber initiated ‘dark night-
+contrast, RAF Beaufighter night-fighters     fighting’ GCI zones ahead of his Helle-
+equipped with AI and controlled by the       gurtel. Whereas searchlight activity
+formidable RAF C2 system were able           had previously indicated the likely
+to account for 26 Luftwaffe intruders        presence of night-fighters, bomber
+throughout the same period.19 Despite        crews now faced attack without
+the success of Kammhuber’s tactics,          warning. However, although the
+Hitler wanted the German population          Wurzburg was extremely accurate,
+to be able to see RAF bombers being          its range of 20 miles limited the time
+destroyed over their own territory and       available to track targets. As a result
+intruder operations ceased in October        the Wurzburg-Riese (Giant Wurzburg)
+1941.                                        was developed, with range doubled
+                                             to 40 miles.23 Despite these promising
+With Kammhuber’s Nachtjagd                   developments, by October 1941 around
+still lacking AI radar, ‘illuminated’        only 50 RAF aircraft had been destroyed
+night-fighter operations employing           in GCI engagements compared with
+searchlights were conceived as the only      325 in cooperation with searchlights. In
+realistic method to locate and attack        an attempt to refine the integration of
+bombers in the dark over Germany.            EW data into Luftwaffe C2, Wurzburg-
+This involved the establishment of a         Riese information was displayed on a
+Helle-gurtel (searchlight belt) but this     newly developed plotting system, the
+was limited by cloud and the time            Seeburg-Tisch (Seeburg-Table), at each
+taken by searchlight crews to acquire        radar station. Using information from
+bombers in the darkness. In October          the radars, the position of a bomber
+1940 a solution arrived with delivery        and night-fighter were projected onto
+of production Wurzburg radars. The           a horizontal map of the area. This
+accuracy of Wurzburg allowed radar           allowed Fighter Controllers, known as
+guided ‘master-searchlights’ to be           Jagerleitoffiziers (JLO), to better direct
+introduced, as well as an increasing         engagements.
+number of radar controlled Flak. Upon
+acquiring a target, the bluish beam of the   Meanwhile, RAF bombing accuracy
+master-searchlight’s 200 cm lens would       remained compromised by poor
+slew directly onto a bomber and attract      navigational accuracy. Between June
+smaller 150 cm unguided searchlights to      and July 1941, less than 7% of crews
+‘cone’ the target for engagement by Flak     came within 5 miles of their targets
+and night-fighters.                          on moonless nights.24 Such poor
+102
+      bombing accuracy was aggravated             to locate their targets whilst German
+      by the increasing use of decoy ‘fire        defences struggled to find RAF attackers
+      sites’ throughout Germany. These            in the darkness. Yet, even at this early
+      replicated cities under air attack with     stage, EW had played a decisive role in
+      fires, explosions and even sparks from      shaping the RAF’s campaign. Luftwaffe
+      simulated tram cables, and diverted up      employment of radar had contributed
+      to 69% of RAF bombs on specific raids.25    to the decision by the RAF to switch
+                                                  from daylight to night operations.
+      The first attempt to improve navigation     Similarly, SIGINT was assisting the RAF
+      was Gee, a radio aid employing              in mapping GCI sites and Gee promised
+      ground transmissions from Britain to        to considerably improve RAF bombing
+      produce a complex grid of pulses. By        effectiveness.
+      interpreting the pulses on a display in
+      the aircraft, navigators could determine    January 1942-July 1943: The EW battle
+      their position to within 2 miles when       Intensifies
+      up to 400 miles from the transmitters.26
+      However, it would be March 1942             I don’t like high-frequency gadgets. I once
+      before sufficient Gee sets were available   went on a flight in southern Germany and
+      to commence full operational use.           ended up in northern Germany by mistake,
+      Therefore, by the end of 1941 it had        all because of your high-frequency gadgets.
+      been recognised that a city was the         (Adolf Hitler, 194328)
+      smallest feature which most crews
+      could be guaranteed to hit given current    Increasing Wurzburg production
+      navigational technology and precision       now allowed the development of the
+      targeting was abandoned in favour of an     Himmelbett (four-poster bed) system,
+      ‘area bombing’ policy.27                    often referred to as the ‘Kammhuber
+                                                  Line’. Himmelbett coordinated Freya
+      Meanwhile, it was clear that the            and Wurzburg capabilities within a
+      Luftwaffe was employing radar by            series of boxes approximately 20 miles
+      the increasing reports of night-fighter     wide. Following long range Freya
+      attacks independent from searchlights.      detection, a ‘Red’ Wurzburg would
+      It was essential that the nature of         obtain a target’s altitude whilst a ‘Blue’
+      such radars be ascertained to enable        radar controlled fighters to within
+      countermeasures to be developed             visual range of their quarry. In boxes
+      and EW would once again prove               close to the coast, early warning was
+      instrumental in the hunt that followed.     augmented by 2 new radar types,
+      By Spring 1941, SIGINT Wellingtons          Mammut (Mammoth) and Wassermann
+      had located several radar sites and         (Aquarius), each capable of detecting a
+      intercepted signals associated with         target’s position and altitude to ranges
+      both Freya and Wurzburg. Moreover,          of 150 miles.29 Himmelbett C2 methods
+      intercepts of German Morse code             combined with these new radars showed
+      appeared to provide range and bearings      much promise but its efficiency was still
+      on British aircraft from locations which    hampered by the lack of effective night-
+      coincided with the suspected radar          fighter radar.
+      stations. Such COMINT identified
+      several other radar sites.                  This shortcoming was remedied
+                                                  in February 1942 when the first
+      In this first phase of the night bomber     Lichtenstein AI radars were delivered.
+      offensive, the RAF and the Luftwaffe        Although less advanced than its British
+      were severely hampered by technical         equivalent, RAF losses immediately
+      limitations. Bombers proved unable          increased from 2.5% to 3.7% between
+                                                                                         103
+February and May 1942. From June, the        previous winter’s losses of only 2.5%.36
+average was approximately 5% although        Indications of a German AI first came
+specific raids resulted in losses of up to   from ELINT, detecting unidentified
+15%.30 Whilst some casualties were due       signals on a frequency of 490 Megahertz
+to the clear summer nights, Germany’s        (MHz), and COMINT. However, direct
+night defences were being transformed        association with night-fighter activity
+by EW.                                       was only obtained when an ELINT
+                                             Wellington accompanied a raid to
+Under the newly appointed Air Chief          Frankfurt on 3 September 1942. Near
+Marshal Sir Arthur Harris, Bomber            Mainz, faint 490 MHz signals increased
+Command employment of Gee                    in strength until the aircraft was
+commenced on 8/9 March 1942 in a             attacked by a JU88 night-fighter. Despite
+raid upon Essen. The industrial haze         being forced to ditch the Wellington off
+precluded visual refinement of Gee           Dover, the final link in Himmelbett’s
+fixes and Essen records recorded only a      reliance upon EW systems had been
+‘few houses and a church destroyed’.31       confirmed and countermeasures were
+Gee’s accuracy was, however, sufficient      initiated.
+to enable bombers to be concentrated
+in a ‘stream’. By routing this stream        Active jamming of German night
+through a single Himmelbett box              defences commenced on 6/7 December
+defences could be saturated, with            1942 during a raid against Mannheim.
+similar effects against the Flak and         Defiants equipped with a ‘Mandrel’
+searchlights over the target itself. This    jamming system circled over the North
+tactic was initiated over Germany in         Sea to blind coastal Freya, Mammut
+the ‘Thousand Bomber Raid’ against           and Wassermann radars. Meanwhile,
+Cologne on 30 May 1942 when 3 waves          Mandrel equipped bombers provided
+of bombers were concentrated within          RCM along the route. This forced
+150 minutes compared to previous             the Germans to embark on a lengthy
+raids exceeding 7 hours.32 Despite           programme to modify radars for
+clear visibility favouring the night-        alternative frequencies. Simultaneously,
+fighters, losses in successive waves         German control frequencies were
+were 4.8%, 4.1% and 1.9% suggesting          targeted via ‘Tinsel’ communications
+that Gee bomber streaming had enabled        jamming. Tinsel allowed a bomber’s
+the defenders to be progressively            radio operator to activate a microphone
+overwhelmed.33                               in one of the bomber’s engine
+                                             compartments and transmit engine noise
+The Germans were quick to realise the        directly onto the Luftwaffe frequency.37
+significance of Gee, and a Y-Service unit    This was an unpleasant surprise for the
+formed in July 1942 to jam Gee’s signal      Luftwaffe and a night-fighter diarist
+via a system codenamed ‘Heinrich’. By        noted of Mandrel and Tinsel’s first
+August, Gee had been impaired over           use, ‘Heavy jamming of Freya. It was
+occupied Europe, although it remained        nearly impossible to control the night-
+sufficient for bomber stream tactics to      fighters’.38 The result was an RAF loss
+be maintained.34 With Gee jammed,            rate reduced that night to 3.7%.39
+and increasing numbers of Luftwaffe
+Lichtenstein and ground based radars,        Aside from the introduction of RCM,
+RAF losses again increased from an           1942 saw several other enhancements
+average of 3.7% between February-May         within Bomber Command. In August
+1942 to 4.5% during August-December          a dedicated Pathfinder Force (PFF)
+1942.35 The latter figure is particularly    had been created, from experienced
+significant when compared to the             crews, to accurately mark routes and
+104
+      targets for the main bomber force using     the Nazi technical community whose
+      a variety of marker flares. Despite         own research into such radars was in its
+      the jamming of Gee, the percentage of       infancy. Even Goring, whose interest in
+      bombs plotted as being released within      EW was limited, was concerned by the
+      3 miles of the aiming point rose from       discovery:
+      35% to 50% following the instigation of
+      PFF operations.40 Of more significance       I expected the British…to be
+      to bomber offensive, however, was            advanced, but frankly I never thought
+      the introduction of 2 new navigation         that they would get so far ahead. I
+      systems by Bomber Command, Oboe              did hope that even if we were behind
+      and H2S, which Harris described as           we could be in the same race!45
+      introducing ‘a new era in the technique
+      of night bombing’.41                        Besides navigational improvements,
+                                                  the RAF also introduced 2 threat
+      Like Knickebein Oboe relied upon 2          warning devices in early 1943. The
+      intersecting beams from transmitters        first, ‘Monica’, was a tail-warning
+      in Britain allowing extremely accurate      radar which provided a series of beeps
+      flight along a radius until a second beam   increasing in frequency as an aircraft
+      provided countdown and bomb release         approached from behind the bomber.
+      signals for the navigator. Introduced       In practice, Monica was unpopular
+      on PFF Mosquitoes in December 1942,         due to the high rates of false alarms
+      the high operating altitude of this         resulting from other bombers. ‘Boozer’
+      superlative aircraft allowed Oboe signals   however was a passive system designed
+      to be received up to 270 miles from         to warn of Wurzburg gun-laying and
+      the transmitter, sufficient to cover the    Lichtenstein night-fighter radars.
+      majority of the Ruhr.42 The accuracy        Unfortunately, the increasing amounts
+      of Oboe Mosquito bombing was such           of radars now being fielded meant that
+      that it aroused German suspicions           Boozer also provided almost constant
+      that homing beacons had been placed         warnings. Neither system reduced
+      in factories by agents.43 The second        losses and Monica would soon be
+      system was H2S, a navigation radar          exploited by the Luftwaffe.
+      first used operationally on 30 January                                          Photo: RAF AHB
+
+      1943 which owed its origins to AI
+      technology. Mounted beneath the
+      bombers’ fuselage H2S produced an
+      image for the navigator of coastlines,
+      rivers and even built up areas within a
+      6 mile radius. As it was carried by the
+      bombers themselves, H2S offered more
+      accurate navigation without reliance
+      upon vulnerable external signals.
+
+      By April 1943, approximately 60% of
+      sorties dispatched bombed within 3                                                  Ju 88 R-1
+      miles of the aiming point compared to
+      less than 30% prior to the introduction     On 9 May 1943 a Luftwaffe crew
+      of H2S and Oboe.44 However, the             defected to Scotland with their
+      secret of H2S was compromised by the        Lichtenstein equipped JU88R.
+      loss of a Stirling near Rotterdam. The      Examination of the aircraft confirmed
+      discovery of this equipment, codenamed      that Lichtenstein was vulnerable to a
+      ‘Rotterdam’ by the Germans, shocked         simple jamming technique, known as
+                                                                                          105
+‘Window’. This employed the dropping         Beaufighters were fitted with the British
+of metal strips cut to half the wavelength   AI Mk IV radar and a system named
+of the target radar to create false plots    ‘Serrate’ which passively homed onto
+on an operators radar screen. Plans to       Lichtenstein signals.52 Within weeks the
+jam the 53.5cm wavelength Wurzburg           small number of Serrate Beaufighters
+radars via Window were already               had accounted for 23 night-fighters over
+well advanced and the Lichtenstein’s         Europe.53
+wavelength of 61cm meant that metal
+strips approximately 27cm long would         The period between January 1942 and
+degrade both.46 The British had known        July 1943 saw a transformation in the
+of this jamming principle for several        night bomber campaign. In January
+years but feared that use of Window          1942 Bomber Command had only 88
+would compromise its secrets and allow       4-engined types out of a total of 802
+the technique to be employed against         bombers available for operations. By
+their own radars. Ironically, Germany        July 1943, this total had increased to 978
+had already recognised the value of such     4-engined bombers and 51 mosquitoes
+metal strips and had avoided its use for     out of a total of 1153 aircraft.54 The
+similar reasons to the British. However,     Luftwaffe night-fighter force had also
+the differing approaches taken regarding     increased in size, from 132 serviceable
+the use of Window by each side               aircraft in December 1941 to 371 in June
+illustrates the influence of leadership      1943.55 However, the Himmelbett Line’s
+upon EW during the campaign.                 effectiveness had been reduced via
+                                             the introduction of the bomber stream
+Churchill himself had been closely           and RCM, whilst bombing accuracy
+involved in decisions regarding              increased by 43%, largely due to H2S,
+Window’s deployment.47 Harris too            Oboe and PFF marking.56 Losses
+retained a sound understanding of the        resulting from Lichtenstein resulted in
+increasing technology employed by            the RAF introducing EW threat warning
+his Command.48 In contrast, Goring’s         systems. Despite the significance
+interest in EW was limited and he once       of EW in the bomber campaign, the
+remarked, ‘radio aids contain boxes          German leadership failed to appreciate
+with coils, and I don’t like boxes with      the importance of such technology. In
+coils.’49 When presented with the results    contrast, Harris and Churchill took a
+of experiments with Germany’s own            personal interest in EW throughout
+version of Window in 1942, Goring            the conflict and were about to inflict a
+was so horrified that he forbade further     crushing blow upon Germany.
+experiments, even those aimed at
+developing countermeasures, lest the         July 1943-March 1944: Germany
+secret leak out to Britain.50 Following      recovers from disaster
+the development by the British of
+modifications to limit the effect of         The enemy are reproducing themselves…it
+Window on their own radars, Churchill        is impossible…too many hostiles…I cannot
+himself authorised the operational           control you!
+introduction of Window from July 1943.51     (Luftwaffe JLO encountering Window
+Goring’s decision to ignore the question     for the first time57)
+of Window was about to have enormous
+repercussions for Germany’s defences.        During the first minutes of 25 July 1943,
+                                             some 746 RAF bombers en route to
+To add to the challenges faced by the        Hamburg started releasing 92 million
+Luftwaffe RAF Beaufighters now started       strips of Window, creating radar echoes
+to accompany the bomber stream.              similar to a force of 11 000 bombers.58
+106
+      Almost immediately Wurzburg radars,            weakened his credibility still further. In
+      critical to the direction of night-fighters,   November 1942 Kammhuber was sacked
+      Flak and searchlights were being               and replaced by General ‘Beppo’ Schmid.
+      swamped by responses. One radar                Schmid overhauled Luftwaffe C2, with
+      operator described, ‘an indecipherable         Divisional Command Posts assuming
+      jumble of echo points.’59 Night-fighters       responsibility for night-fighting from
+      suffered equally, ‘My radar operator           individual radar sites. These new
+      suddenly had more targets than could           bunkers employed huge vertical plotting
+      have been possible…I was picking up            boards to display the evolving battle and
+      targets that didn’t exist everywhere.’60       were christened ‘Battle Opera Houses’
+      To assess the impact of Window, Tinsel         by General Adolf Galland due to their
+      jamming had been suspended for the             internal resemblance to theatres.66
+      night and satisfied British COMINT             Simultaneously the rigid Himmelbett
+      operators listened to the results:             C2 was replaced with a more flexible
+                                                     Reportage (running commentary)
+       We gained an impression of panic              exploiting the fact that Window
+       and confusion from the German                 highlighted the route of the bomber
+       controllers. They were highly                 stream as a whole. By monitoring the
+       agitated. Stress, fear, anger and             GCI broadcast, night-fighters infiltrated
+       bewilderment were evident in their            the stream and attempted to close
+       voices.61                                     visually with RAF aircraft. Additionally
+                                                     single-engine fighters were reintroduced
+      Bomber crews also recalled 		                  to night-fighting duties over the target
+      Window’s effect:                               area in a form of illuminated night-
+                                                     fighting named Wilde Sau (Wild Boar).
+       It was a magic effect…I felt                  However, despite early successes during
+       reasonably safe over a target for the         clear summer months, Wilde Sau proved
+       first time…The Master Searchlights            prohibitively costly in landing accidents
+       and all the others were waving                by single-engined fighters operating at
+       aimlessly about in the sky like a man         night without blind-flying equipment.67
+       trying to swat an ant in a swarm.62           One Wilde Sau pilot remarked on the
+                                                     desperation of the tactic, ‘If you were
+      Window reduced losses to a mere                above clouds and wanted to land, you
+      1.5% on this first raid of what became         just had to look for the ‘duty hole in the
+      known as the Battle of Hamburg.63 In           clouds’. If you couldn’t find it, you baled
+      comparison, a raid to Hamburg in July          out. It was a matter of profit and loss’.68
+      1942 in similar meteorological conditions
+      had cost 7.2% of the bombers.64                However, Wilde Sau spawned the
+                                                     Zahme Sau (Tame Boar) method
+      To take maximum advantage of Window,           whereby large numbers of twin-
+      3 further raids were mounted against           engined night-fighters used Reportage
+      Hamburg within 10 days. Although               to attack the bomber stream along its
+      Window remained effective, the                 entire route. Zahme Sau was first used
+      Luftwaffe recovered more quickly than          in strength during the RAF attack on
+      expected and loss rates grew to 2.2%,          the V-weapons test site at Peenemunde
+      3.6% and 4.1%. Nevertheless, in the            on 17/18 August 1943 and inflicted
+      words of one experienced Luftwaffe             7% losses.69 A secondary advantage
+      JLO, ‘Window was the death sentence            of Zahme Sau was that it reduced the
+      for [Himmelbett].’65 With some already         amount of night-fighters operating
+      questioning Kammhuber’s emphasis               within range of Serrate Beaufighters.
+      upon rigid C2, the Battle of Hamburg           In this respect at least, the introduction
+                                                                                         107
+of Window had proved detrimental to         previous comparable raid to Stuttgart in
+RAF operations.                             April 1944 had resulted in losses of 5%.74
+Due to Zahme Sau’s reliance upon the        Although Nachtjagd rapidly recovered
+Reportage broadcast, RAF EW next            from the shock of Window via Zahme
+targeted Luftwaffe communications.          Sau, Reportage and improved C2,
+Monitoring stations in England              Mosquitoes continued dropping bombs
+determined the in-use frequency             or flares with high degrees of accuracy
+and informed bombers so that Tinsel         via Oboe. Attempts to jam Oboe had
+jammers could be combined to                met with limited success until an Oboe
+overwhelm the commentary. This              Mosquito was finally downed and its
+‘Special Tinsel’ was first used in late     secrets compromised in January 1944.
+August over Monchengladbach and             Within a week, Oboe signals were being
+reduced losses to 3.8%.70 A more            jammed by a network of ground EW
+sophisticated communications jamming        transmitters and associated bombing
+system named ‘Airborne Cigar’ (ABC)         accuracy fell from a 90% hit rate to less
+followed in October on specially            than 25%.75 However, the British had
+equipped Lancasters. ABC aircraft           long anticipated that Oboe would be
+carried a German linguist crewmember        jammed and immediately introduced
+to monitor Luftwaffe communications         Oboe Mark II and III employing
+and jam up to 3 separate frequencies.       different centimetric wavelengths. To
+Additionally, ground based jamming          disguise the introduction of these new
+named ‘Corona’ employed other               frequencies, the original signal was
+German linguists in England to transmit     maintained as a decoy, a ruse which
+false orders to night-fighters. The         proved effective for over 6 months.76
+nicknames ascribed to such jamming by
+Luftwaffe crews give some indications       By October, H2S was being fitted
+of their effect. The warbling tone of ABC   to main force bombers and further
+was known as Dudelsack (bagpipes),          improved via ‘Fishpond’. This
+whilst the transmission of engine noise     modification provided warnings of
+via Tinsel was named Seelenbohrer           aircraft approaching from below via a
+(Soul-borer).71                             second radar display installed at the
+                                            Wireless Operator’s position. Such
+In the face of such jamming, the German     attacks were a favoured tactic of night-
+forces Anne-Marie radio station was         fighters and avoided a bomber tail
+used as a crude means of fighter            gunner’s field of fire. By November, 553
+direction. For instance, Waltzes meant      of 1030 H2S sorties were equipped with
+that fighters should go to Munich           Fishpond, with the remainder of radars
+whilst jazz meant Berlin, and a further     so modified by early 1944.77
+ground based jammer, ‘Dartboard’, was
+introduced to obliterate Anne-Marie         The value of H2S and Fishpond,
+transmissions.72 Similarly, ‘Drumstick’     however, encouraged the majority of
+jamming from England obliterated            crews to operate radar throughout a
+Luftwaffe Morse commands. The               sortie. Having rebuilt an H2S set from
+introduction of such jamming often          downed bombers, Germany developed
+caught the Luftwaffe by surprise and        several passive H2S detection systems.
+degraded communications considerably        Naxos, was fitted to night-fighters
+until countermeasures could be              from November 1943 and enabled the
+introduced. Indeed, the introduction of     detection of H2S signals at up to 60
+ABC on a raid against Stuttgart reduced     miles.78 Korfu was a ground based
+losses to 1.2% when combined with           equivalent augmented by Naxburg,
+an effective diversionary raid.73 The       a Wurzburg radar modified by the
+108
+      addition of a passive H2S detector. In      Germany due to 15.2% attrition of the
+      addition a further passive system,          type within 3 raids.82 The Stirling,
+      Flensburg was fitted to night-fighters      the first of the RAF 4-engined heavy
+      to detect RAF Monica tail-warning           bombers, had a lower operational
+      radars.79 Moreover, the Germans now         ceiling than the Halifax and Lancasters,
+      used RAF Identification Friend or Foe       and therefore, was more vulnerable to
+      (IFF) transmissions to highlight bombers    Flak and night-fighters. Additionally,
+      within the Window cloud. Unknown            Window was sometimes less
+      to the RAF, the Luftwaffe was now           concentrated at these lower levels due to
+      exploiting British EW systems to track      wind dispersal.
+      the bomber stream literally from take-off
+      to landing.                                 Oblivious to SN-2, Flensburg and Naxos,
+                                                  RAF losses mounted correspondingly.
+      Despite the value of such passive EW        During November 1943, average losses
+      systems, Lichtenstein remained severely     over Germany were 4.1%, in December
+      degraded by Window. A solution was          4.4% and in January 6.3%.83 More
+      provided by Lichtenstein SN-2 using         alarming for Bomber Command were
+      frequencies unaffected by Window and        the statistics from specific raids. The
+      by early 1944, the majority of night-       highest loss experienced in November
+      fighters were so equipped.80 Moreover,      was 6.2% against Berlin, whilst 8.7%
+      many aircraft had been fitted with          failed to return on 2/3 December.
+      upward firing Schrage Musik (Jazz           Finally, 8.8% of bombers were lost
+      Music) cannon. This enabled night-          during a raid on Magdeburg on 21/22
+      fighters to formate beneath a bomber        January 1944, almost exclusively to
+      prior to attack, appearing no different     night-fighters; of this figure, 15.6% of
+      on Fishpond than another bomber,            the Halifax force was destroyed.84 It
+      before dispatching their prey at point      is also significant to note that severe
+      blank range. Schrage Musik became           weather had grounded many night-
+      the weapon of choice for Nachtjagd and      fighters on 4 of the 9 raids where losses
+      accounted for 50% of night-fighter kills    fell below 5%.85 As the night-fighters
+      by 1945.81                                  were growing in lethality, so too was the
+                                                  effectiveness of the Luftwaffe Reportage,
+      During November 1943 - March 1944,          which was proving increasingly
+      the RAF mounted 32 major raids on           skilled at exploiting unrestrained use
+      Germany, 16 of which were against           of H2S and Monica by the RAF. On at
+      the German capital, in a period which       least one occasion, Luftwaffe ground
+      became known as the Battle of Berlin.       stations were able to accurately track
+      Not only was this to prove Bomber           the progress of the bomber stream
+      Command’s biggest test, it was also to      when only 40 miles from the British
+      see the full weight of each sides EW        coast.86 Indeed, General Schmid himself
+      capabilities thrown against the other.      subsequently described H2S as ‘the
+      Bomber Command’s navigational               most reliable basis for plotting the
+      systems would be severely tested by the     enemy’s courses.’87 Such losses were
+      winter conditions, whilst its defensive     unsustainable and Bomber Command
+      and RCM technology would be facing          suspended operations for a 2 week
+      the reorganised and re-equipped             period from 1 February 1944.
+      Luftwaffe night-defences.
+                                                  While the EW initiative now lay with
+      Within a week Harris was forced             the Luftwaffe, the RAF was increasingly
+      to permanently withdraw Stirling            capable of absorbing such attrition.
+      squadrons from operations over              Between January 1943 and March 1944,
+                                                                                            109
+the number of crews available to Bomber       bear the burden of the night offensive.93
+Command had almost doubled from 515           Nevertheless, use of diversionary raids
+to 974.88 In contrast, Luftwaffe night-       and 100 Group intruder operations had
+fighter crew strength had only increased      an increasing effect on the Luftwaffe.
+by 67 to 376 in the 12 months from            Raids to Stuttgart on 20/21 February
+March 1943.89                                 and Essen on 26/27 March 1944 were
+                                              particularly successful examples of
+Despite continuing British losses, an H2S     diversionary tactics where losses fell to
+Mark III variant was introduced from          1.5% and 1.3% respectively;94 however,
+November offering improved resolution         such diversionary tactics also diluted
+and largely negating German attempts          Bomber Command strength by a
+at seducing H2S bombing with radar            considerable measure.
+reflecting decoy sites in open country.
+Indeed, to be effective against these new     The reduced losses associated with
+H2S wavelengths, 500 reflectors were          diversionary tactics also illustrate the
+required for every square mile; each          lethality of night-fighters in comparison
+reflector calibrated to within one-third of   to Flak, and the continued significance of
+a degree to the others.90 Throughout this     EW. On most nights, Window continued
+period, an additional RAF navigation          to degrade the Flak and searchlight
+system, named G-H, was entering               Wurzburg radars, resulting in kill
+service. This was essentially an inverse      ratios favouring the SN-2 equipped
+Oboe, incorporating a transmitter-            night-fighters. Despite a doubling of
+receiver unit to measure distance from        heavy Flak batteries and an increase in
+ground stations in England. Offering          the amount of RAF night sorties, the
+accuracies similar to Oboe it could,          number of kills attributed to Flak barely
+however, be used by up to 100 aircraft        increased during late 1943.95 During a
+simultaneously. However, G-H                  similar period, the fighter-Flak kill ratio
+required considerable skill by aircrew as     was 2.7 to one.96 In contrast, on 24/25
+opposed to Oboe where the workload            March 1944 extremely strong winds
+lay primarily with the ground stations        dispersed both Window and the bomber
+to provide positional information.            stream itself. Without their usual EW
+Nevertheless, from November G-H was           protection, 50 of the 72 bombers lost that
+introduced on both Mosquitoes and             night were attributed to radar guided
+Lancasters.91 More ominously for the          Flak.97 Moreover, when diversions failed
+Luftwaffe was the formation of Bomber         the consequences were catastrophic,
+Command’s 100 Group, comprising               as was proved over Nuremburg
+Serrate and AI equipped Mosquito              on 30/31 March 1944. Ignoring
+intruders, on 23 November 1943.               diversionary mine-laying operations
+                                              in the Heligoland area, the Luftwaffe
+When operations over Germany                  took advantage of a clear night and
+recommenced losses remained high.             enemy contrails to destroy 95 out of
+On 19/20 February 1944, Leipzig was           795 bombers.98 This 11.9% attrition
+raided by 823 bombers for the loss of         was the single highest loss for Bomber
+78 aircraft, 9.5% of the force; of this       Command during the entire war.
+amount, the Halifax crews suffered
+14.9% of those losses. Like the Stirlings     The period between July 1943 and April
+in November, Harris was forced to             1944 saw the significance of EW raised to
+permanently withdraw Halifax Mark II          unprecedented levels. Window crippled
+and V squadrons from operations over          the existing Himmelbett system but
+Germany.92 Only the Lancaster and             precipitated tactical and technological
+Halifax III squadrons now remained to         changes enabling the Luftwaffe to
+110
+                                                       From April 1944, Bomber Command was
+                                                       redirected against France and Belgium
+                                                       in preparation for D-Day, Operation
+                                                       Overlord. Further targets in France were
+                                                       associated with Operation Crossbow,
+                                                       the destruction of V1 sites. Bomber
+                                                       Command’s experience of coordinating
+                                                       diversionary raids to frustrate Zahme
+                                                       Sau in recent months now proved
+                                                       beneficial to this entirely different
+                                                       scenario. Although diversions diluted
+                                                       RAF assets over targets, navigation and
+A BF-110 equipped with SN-2 radar                      bombing accuracy had been refined
+                                                       to compensate and would now prove
+         passively track radar emissions from          decisive in the most crucial period of
+         the bomber stream. Meanwhile, despite         the War.
+         RAF communications jamming, Zahme
+         Sau tactics allowed a greater number          In an echo of Bomber Command policy
+         of night-fighters to infiltrate the           of 1939-41, targeting directives again
+         bomber stream. With improved EW               specified railway marshalling yards,
+         systems, most notably SN-2, the night-        ammunition depots and airfields,
+         fighters brought Bomber Command               rather than area objectives. However,
+         to its knees. Between November 1943           the accuracy required for such a policy
+         and March 1944 Bomber Command                 was now provided by the EW and
+         lost no less than 1047 aircraft, with a       tactical advances made by Bomber
+         further 1682 damaged.99 As a result,          Command. By 1944 there were 11
+         the RAF was forced to introduce               approved bombing techniques, 9 of
+         elaborate deception tactics which             which employed Oboe, H2S or G-H.102
+         depleted the number of bombers                The switch to multiple, precision attacks
+         available over the intended target.           in France was a welcome change for
+         The enforced withdrawal of Harris’            bomber crews recently subjected to long
+         Stirling and Halifax squadrons from           flights deep into Germany. The new
+         operations over Germany, some 33%             task would limit their exposure to night-
+         of his heavy bomber force, suggested          fighters, and both Oboe and G-H would
+         that Luftwaffe EW was now dictating           be available for all targets.
+         RAF tactics.100 Yet the Nachtjagd
+         had reached its zenith. The RAF was           Recent experience of coordinating
+         capable of absorbing such losses and          separate diversionary forces was now
+         the introduction of 100 Group was             applied to accurately attack multiple
+         soon to prove decisive.                       small targets. Oboe bombing accuracy
+                                                       now averaged 680 yards, reducing to
+         April 1944 – May 1945: RAF EW turns           380 yards when reinforced by visual
+         the tables                                    means.103 Such accuracy was vital when
+                                                       attacking targets within French towns
+         It has been reported that the attacks which   and results greatly exceeded Harris’
+         take place so often at night now, are         own estimates.104 Between April and
+         considerably more effective than daylight     July 1944, Bomber Command dispatched
+         attacks…an extraordinary accuracy in          1249 sorties in over 100 operations
+         attacking the target is reported.101          against targets associated with
+         (Albert Speer, 19 January 1945)               Operations Overlord and Crossbow.
+                                                       Simultaneously, the proportion of bombs
+                                                                                        111
+dropped on Germany declined from             Jostle, ABC, Tinsel, Corona, Dartboard
+40% to 8%.105                                and Drumstick, that the latest night-
+                                             fighter variants now carried an
+Significantly, Bomber Command’s EW           additional crewmember to assist with
+now proved relevant to the invasion          the bewildering range of systems
+itself. It was clear that coastal radars     required to overcome RAF RCM.
+would pose a significant threat to           However, even with numerous options
+Operation Overlord if they detected the      for radio communication the Luftwaffe
+approaching air and naval armadas.           was still sometimes forced to revert
+Accordingly, a new type of longer            to visual signals initially designed
+‘concertina’ Window was deployed             to support single-engine Wilde Sau
+against coastal radars to simulate 2 large   fighters whose limited communications
+naval forces approaching the French          equipment demanded such measures.
+coast further north. This Window was         It is a measure of the impact of 100
+to be dropped by Bomber Command              Group RCM that the twin-engined
+Stirlings and Lancasters, supported          Nachtjagd had also now been reduced
+by Mandrel RCM jamming. However,             to a complex series of star-shells fired
+to be effective the Window needed to         by the Flak, searchlights and visual
+be dropped accurately by formations          beacons to assist their navigation and
+of bombers gradually advancing in a          direction.110
+complex rectangular pattern towards
+the French coast. This accuracy              On 13 July 1944 an inexperienced
+was provided by Gee and G-H.106              JU88G night-fighter crew landed in
+Simultaneously, 29 bombers enticed           Suffolk following a navigational error.
+night-fighters away from Normandy via        Examination of the aircraft showed
+Window spoofing and ABC jamming              that it was equipped with both SN-
+over the River Somme.107 As Operation        2 and Flensburg, each unknown to
+Overlord commenced, Bomber                   British intelligence. The new operating
+Command’s EW had the desired effects.        frequency of SN-2 was quickly
+Luftwaffe night-fighters intercepted the     determined and it was apparent that
+Window ‘bomber stream’, and German           Operation Overlord ‘concertina’
+naval artillery and E-boats attempted to     Window would also be effective against
+engage the ‘ghost’ armada laid by the        this new AI radar. Within days, such
+Lancasters and Stirlings.108                 Window was being employed by
+                                             Bomber Command.111 Adolf Galland
+As Bomber Command busied itself over         lamented the impact of these improved
+occupied Europe, 100 Group intruders         RAF EW methods, ‘They had obstinately
+were joined by a variety of larger           improved their tactics and instruments.
+aircraft. After initial operations with      Our night-fighters were blinded again…
+Mandrel and ABC equipped Stirlings           by new methods of interference.’112
+and Halifax, modified B-17s and B-
+24s, whose higher operating altitudes        Next, the JU88G Flensburg was
+enhanced the jamming ranges available,       evaluated against Lancasters operating
+were delivered. Known in RAF service         Monica. The danger of the tail warning
+as the Fortress III and Liberator VI         radar was now revealed as Monica
+respectively, these aircraft carried large   emissions were detected by Flensburg at
+amounts of Window and ‘Jostle’. Jostle       up to 130 miles.113 Harris immediately
+was a powerful jammer capable of             ordered the removal of Monica from
+radiating 2000 watts over German VHF         all Bomber Command aircraft and
+night-fighter control frequencies.109 So     restrictions placed upon the use of IFF
+effective were the combined impact of        and H2S.114
+112
+      Despite the deteriorating strategic          night flying to altitudes as low as 100
+      situation of Germany in the summer           feet in an attempt to avoid the attentions
+      of 1944, the Luftwaffe’s technical           of Mosquitoes.118
+      capabilities remained, and they continued
+      to introduce innovative systems in an        In October 1944 100 Group Fortresses
+      attempt to counter RAF EW. A new radar       were equipped with the ‘Piperack’
+      designed to operate in the face of RCM,      system designed to jam Luftwaffe SN-2
+      the Jagdschloss (Hunting-lodge) was          radars and compliment the concertina
+      capable of showing the entire 360 degree     Window already in use. Increasingly,
+      panoramic air situation. Jagdschloss         Fortresses and Liberators accompanied
+      operated in the centimetric frequency        the bomber stream or conducted their
+      range which was more resistant to            own diversionary raids whilst Halifax
+      EW and produced extremely accurate           aircraft maintained Mandrel screens.
+      positional data ideal for control of         An indication of the impact of 100
+      aircraft.115 Although insufficient numbers   Group can be gauged by an incident
+      of Jagdschloss were yet available, one       when a Fortress failed to receive a recall
+      experienced JLO recalled:                    signal cancelling a raid. The aircraft
+                                                   continued alone to the Ruhr, dropping
+       It was technically the most advanced        Window whilst conducting ABC and
+       control device…we had a perfect             Jostle RCM. COMINT indicated the
+       picture of [the raid] approaching. Kill     Luftwaffe believed a force of 50 aircraft
+       followed kill. There was no jamming         had been involved rather than a lone
+       on the equipment.116                        Fortress.119 In another raid on 22/23
+                                                   March 1945 against Berlin, 100 Group
+      With the secrets of SN-2 and Flensburg       Window dropping successfully diverted
+      compromised, further measures were           6 squadrons of night-fighters from the
+      introduced by 100 Group. ‘Modified           intended target.120
+      Serrate’ capable of detecting SN-2
+      emissions was fitted to 100 Group            Luftwaffe night defences were now
+      Mosquitoes. Additionally, a further          facing an irreversible decline. Between
+      system known as ‘Perfectos’ was              August 1944 and January 1945 Bomber
+      added, which enabled RAF intruders           Command losses during the principle
+      to ‘challenge’ all Luftwaffe IFF in the      night raids amounted to only 1.3%.121
+      area. The IFF sets would then reply,         Where higher losses were encountered
+      compromising the night-fighters              it is significant that meteorological
+      position and confirming that they were       conditions were often such that night-
+      hostile; a valuable advantage in airspace    fighters had not needed their degraded
+      containing large numbers of friendly         EW systems.
+      bombers. Although the Germans
+      simply countered Perfectos by turning        However, it would be naive to suggest
+      their IFF off, Luftwaffe C2 was now          that other factors were not relevant
+      denied the ability to positively identify    to the decline of the Luftwaffe’s night
+      night-fighters within the bomber             defences. The loss of Germany’s
+      stream. The 100 Group intruders now          forward radar and Y-Service sites
+      initiated what became known as the           in France and Belgium significantly
+      ‘Moskito panic’ by Luftwaffe crews.          reduced the warning of approaching
+      One night-fighter pilot recalled the         raids. An additional advantage was the
+      impact of 100 Group intruder ops, ‘…it       forward deployment of mobile Oboe
+      was a strain on our nerves. [We used]        and G-H equipment which extended
+      extreme caution when we took off.’117        the range of these navigational aids
+      Others resorted to extremely dangerous       into Germany, eventually covering
+                                                                                       113
+Berlin itself. Moreover, the quality of
+Luftwaffe aircrew declined rapidly            Visibility could not have been better.
+from 1944 due to the curtailment of           There might have been between
+training in the face of reduced fuel          20 and 30 of them, flying in loose
+production, itself a product of the           formation. The Tommies must have
+strategic bomber campaign. This               taken [my JU88] for one of their own
+qualitative reduction initiated a vicious     machines because not a single one of
+circle in the face of overwhelming            them took evasive action.125
+Allied air superiority. Between January
+1941 and June 1944 the Luftwaffe lost        In June 1945, following the German
+31 000 aircrew. Yet between June and         surrender, the RAF was presented
+October 1944 a further 13 000 casualties     with the opportunity to examine
+were inflicted.122 These losses were         the Luftwaffe’s AD infrastructure in
+predominantly inflicted in daylight          Schleswig-Holstein and Denmark,
+combat and had little direct effect upon     which had been bypassed by advancing
+the experten night-fighter crews still       Allied land forces and remained
+operating exclusively in darkness.           virtually intact. Following a series
+Nevertheless, in the final months            of interviews with the Luftwaffe
+of the war, the Luftwaffe remained           personnel and the examination of
+capable of meeting the EW challenges         aircraft and equipment, 11 trials
+being faced. Small numbers of Me262          were flown. These ‘Post Mortem’
+jet-fighters equipped with a new             exercises involved the entire German
+AI radar, Neptun (Neptune) finally           AD network in Denmark, some 10
+challenged the invulnerability of high       GCI sites and 40 individual radars
+flying Mosquitoes and accounted for a        linked to a Divisional Command
+disproportionate number during 1945.         Post.126 These facilities were manned
+                                             by experienced Luftwaffe operators
+The Nachtjagd also remained capable          with RAF observers able to note at
+of launching large numbers of aircraft       first hand the results of their EW. The
+and inflicting unacceptable losses upon      German ‘defenders’ faced a fully
+Bomber Command. In Operation                 representative raid of RAF bombers.
+Gisella on 3/4 March 1945, 200 night-        Although peacetime safety required
+fighters followed bombers returning          trials be flown during daylight without
+from raids in Germany and destroyed 20       the involvement of night-fighters, Post
+RAF aircraft over England.123 On 16/17       Mortem provided a graphic illustration
+March 1945, night-fighters accounted         of the significance of EW upon the
+for 8.7% of a force of 277 Lancasters        outcome of the night bomber offensive.
+attacking Nuremburg.124 Such figures
+contradict assertions that it was shortage   Luftwaffe operators proved able to
+of fuel and loss of territory which          overcome Mandrel but failed to maintain
+crippled the night-defences. Rather,         situational awareness on the bomber
+such losses illustrate what happened         streams advance. On the most elaborate
+when RAF EW protection was removed.          Post Mortem trial, RAF bombers were
+In the case of Operation Gisella, the        totally lost by the German AD system
+Luftwaffe intruders over England were        and were able to simulate an attack and
+unhindered by RCM. Similarly, RCM            re-cross the Danish coast undetected.
+support over Nuremburg was negated           Whilst the real raid progressed, false
+by excellent visibility allowing night-      contacts derived from Window had been
+fighters to visually acquire targets. One    plotted. In other cases, Window was
+pilot who destroyed 7 Lancasters that        assessed to have been dropped when
+night reported:                              none was present. Luftwaffe estimates
+114
+      of the size of the bomber formations        force were quickly shown to be flawed.
+      were also inaccurate. On one occasion       Early Freya radars played a key role
+      Window was misidentified as a force         in this realisation, and the subsequent
+      of 150 bombers. Significantly, on no        decision by Bomber Command to
+      occasion during Post Mortem did the         adopt night tactics. However, the RAF
+      Germans succeed in identifying decoy        lacked the navigational capability to
+      from genuine raids. Perhaps more            mount a strategic night offensive. The
+      tellingly, one Luftwaffe radar operator     rudimentary dead reckoning navigation
+      involved in Post Mortem confided that he    then employed by bomber crews
+      needed to be a ‘clairvoyant’ to discharge   resulted in targeting errors measured in
+      his duties in the face of RAF EW.127        tens of miles as entire cities were missed
+                                                  in the blackout below. This weakness
+      The final months of the war had seen        was further exploited by the German
+      EW’s significance rise to its zenith. The   employment of sophisticated decoy
+      navigational accuracy provided by           and fire sites. It is therefore suggested
+      Oboe, G-H and H2S was the foundation        that lack of an effective navigational
+      for Bomber Command’s primary                capability was the most significant
+      tactical innovations of PFF marking,        weakness of Bomber Command’s early
+      diversionary raids and the bomber           operations. The solution was provided
+      stream. Such capabilities proved            by navigational systems such as Gee,
+      pivotal in preparations for Operation       H2S, Oboe and G-H.
+      Overlord within occupied countries.
+      Meanwhile RAF RCM, and 100 Group            As the efficiency of RAF navigation
+      in particular, denied the Luftwaffe the     improved, so too did the defences it
+      capability to defend their airspace. Such   was required to penetrate and EW
+      advances were of direct significance to     was also at the forefront of Germany’s
+      what was arguably the War’s campaign        efforts. Radar was central to the
+      fulcrum, Operaion Overlord. The             mounting toll of RAF bombers inflicted
+      advance of Allied armies, the shortage      by Kammhuber’s Himmelbett system.
+      of fuel and the decline in Luftwaffe        The introduction of Lichtenstein on
+      aircrew standards undoubtedly played        Luftwaffe night-fighters was the final
+      significant parts in the campaign’s final   element required to complete the
+      year. However, the rarely acknowledged      German defences. In response, the
+      Post Mortem results suggest that EW         RAF introduced the bomber stream to
+      was the most significant factor in the      overwhelm German defences and a
+      final demise of the Nachtjagd.              variety of EW devices. The unrestrained
+                                                  employment of EW systems such as tail
+      Conclusion                                  warning and navigation radars allowed
+                                                  the Germans to plot RAF bombers with
+      Few campaigns remain as controversial       considerable accuracy. Meanwhile,
+      as the RAF strategic bomber offensive       the RAF expanded their EW efforts by
+      against Germany, and contemporary           jamming Luftwaffe early warning radars
+      studies often cite the lack of fuel and     and communications via such systems
+      Eisenhower’s armies as the principle        as Mandrel and Tinsel. However, it
+      factors in the Nachtjagd’s demise.          was the introduction of Window which
+      Throughout the many debates on the          changed the entire nature of the night
+      subject, however, the impact of EW is       campaign. At a stroke Himmelbett
+      often neglected.                            was made virtually obsolete, and the
+                                                  Battle of Hamburg precipitated an
+      In 1939, RAF concepts of the self-          unparalleled shock wave through
+      defending daylight strategic bomber         the Nazi leadership, Milch himself
+                                                                                         115
+commenting after Hamburg that ‘I am          lost all credibility in the eyes of his
+beginning to think that we are sitting out   aircrew. In comparison, Churchill
+on a limb. And the British are sawing        and Harris each took a personal
+that limb off’.128                           interest in the fielding of key EW
+                                             capabilities. More significant to the
+This galvanised the Luftwaffe into           Luftwaffe, however, were the loss of
+measures which saw the lethality of          early warning stations to the Allied
+their night defences rebuilt. Wilde Sau,     advance and increasingly tenuous fuel
+Zahme Sau and Reportage facilitated a        supplies. These undoubtedly had a
+rapid recovery throughout the winter         major bearing upon operations and
+of 1943-44. Moreover, the blinding           are often cited as the primary causes of
+of Wurzburg and Lichtenstein by              the Luftwaffe’s decline, yet even in the
+Window expedited deployment of the           final months of the war, sufficient fuel
+SN-2 AI radar and further EW passive         remained for night-fighters to operate in
+detection measures. Within months            large numbers and inflict heavy losses
+the Luftwaffe had not only recovered         upon Bomber Command. However,
+from Hamburg, but was inflicting             such occasions were invariably when
+unprecedented losses upon Bomber             circumstances negated the value of EW.
+Command. But Zahme Sau relied upon
+Reportage which was heavily targeted         The pre-eminence of EW in Bomber
+by RAF communications jamming and            Command’s night offensive is strongly
+this forced Luftwaffe night-fighters         reinforced by the Post Mortem exercises
+to carry increasing amounts of radio         against a German AD system unfettered
+equipment which both degraded aircraft       by Allied armies. The results from Post
+performance and complicated C2.              Mortem definitively demonstrate the
+                                             impotence of Luftwaffe night defences
+Respite for Bomber Command was               when exposed to RAF EW, which
+initially provided by subordination          reflected experiences over Germany in
+to Operation Overlord and Operation          the final year of the war. The ability of
+Crossbow tasks which reduced                 a large and anticipated RAF bomber
+exposure to German defences.                 force to penetrate Luftwaffe defences,
+However, it is suggested that RCM            accurately navigate to and ‘attack’ a
+and communications jamming by the            simulated target, and egress without
+RAF was ultimately responsible for           being plotted by the Germans is mute
+the terminal degradation of Luftwaffe        testimony to the significance of EW.
+night defences. Once the secrets of
+SN-2 and Flensburg were laid bare            The influence of EW was evident from
+the final Luftwaffe advantages were          the very first weeks of the bomber
+removed. RAF intruders equipped with         campaign. Such technology raised
+a phalanx of EW devices precipitated         navigational accuracy to unprecedented
+the Nachtjagd Moskito Panic, whilst          levels, facilitated effective weapons
+expanded RCM and Window spoofs saw           delivery in all weather conditions, and
+bomber losses plummet to less than 1%        reduced the world’s most sophisticated
+over Germany itself.                         AD system to impotence. When RAF
+                                             EW could not be effectively applied,
+Nevertheless, other factors also             losses were immediately incurred.
+influenced the campaign. German              Whilst the advancing Allied armies
+and British leadership displayed very        and the Luftwaffe’s own critical fuel
+different attitudes towards EW. Goring       supplies were significant, they did not
+in particular never appreciated the          prevent the Nachtjagd from flying in
+significance of such technology and          large numbers even in the final weeks
+116
+      of the conflict. It is therefore suggested         (London and Glasgow, Fontana).
+      that RAF EW technology was the primary             Hastings, Max (1992), Bomber Command,
+      factor in the maintenance of Bomber                (London, Penguin).
+      Command’s effectiveness throughout the
+                                                         Hill, Robert (1977), The Great Coup, (London,
+      strategic offensive, and was instrumental
+                                                         Corgi).
+      in the final collapse of Germany’s night
+      defences. This study concludes with the            Hinchliffe, Peter (1996), The Other Battle:
+      words of the most respected commander              Luftwaffe Night Aces Versus Bomber
+      of Germany’s wartime fighter defences:             Command, (Shrewsbury, Airlife Publishing
+                                                         Limited).
+      Today the night-fighter achieves nothing. The
+      reason for this lies in the enemy’s jamming        Isby, David C, ed. (2003), Fighting the Bombers:
+      operations, which completely blot out ground       The Luftwaffe’s struggle against the Allied
+      and airborne search equipment. All other           Bomber Offensive, (London, Greenhill Books).
+      reasons are secondary.
+                                                         Lorant, Jean-Yves and Goyat, Richard (2005),
+      (General Adolf Galland, 5 January                  Jagdgeschwader 300: ‘Wilde Sau’ Volume One
+      1945.129)                                          June 1943 - September 1944, (Hamilton, MT
+                                                         59840 USA, Eagle Editions).
+      Bibliography
+                                                         Lovell, Sir Bernard (1991), Echoes of War: The
+      Books                                              Story of H2S Radar, (Bristol, Adam Hilger).
+      Baker, David (1996), Adolf Galland: The
+      Authorised Biography, (London, Windrow and         March, Daniel J, ed. (1998), British Warplanes of
+      Greene Ltd).                                       World War II, (London, Aerospace Publishing).
+
+      Bowman, Martin (2000), de Havilland                Middlebrook, Martin (2000a), The Battle of
+      Mosquito: Part 1, Wings of Fame, Vol 18,           Hamburg: The Firestorm Raid, (London,
+      pp.38-91.                                          Cassell & Co).
+
+      Bowman, Martin W and Cushing, Tom (1996),          Middlebrook, Martin (2000b), The Nuremburg
+      Confounding The Reich: The Operational             Raid: 30-31 March 1944, (London, Cassell & Co).
+      History of 100 Group (Bomber Support) RAF,
+      (Sparkford, Patrick Stephens Limited).             Middlebrook, Martin (2000c), The Peenemunde
+                                                         Raid:17-18 August 1943, (London, Cassell &
+      Bowyer, Michael J F (1980), The Stirling           Co).
+      Bomber, (London, Faber and Faber).
+                                                         Middlebrook, Martin (2001), The Berlin Raids:
+      Cox, Sebastian, ed (1998), The Strategic Air       RAF Bomber Command Winter 1943-44,
+      War Against Germany 1939-1945, The Official        (London, Cassell & Co).
+      Survey of the British Bombing Survey Unit,
+      (London, Frank Cass Publishers).                   Middlebrook, Martin and Everitt, Chris
+                                                         (1987), The Bomber Command War Diaries:
+      Donald, David, ed. (1994), Warplanes of the        An Operational Reference Book, 1939-1945,
+      Luftwaffe, (London, Aerospace Publishing).         (Harmondsworth, Penguin).
+
+      Jones, Geoffrey (1978), Raider: The Halifax and    Otter, Patrick (1993), Maximum Effort III: The
+      its Flyers, (London, William Kimber and Co Ltd).   Untold Stories, (Hull, Hutton Press Limited).
+
+      March, Daniel J and Heathcott, John, ed. (1997),   Overy, Richard (1997), Bomber Command
+      The Aerospace Encyclopedia of Air Warfare,         1939-45: Reaping the Whirlwind, (London,
+      Volume One 1911-1945, (London, Aerospace           Harper Collins).
+      Publishing).
+                                                         Price, Dr Alfred (1978), Instruments of
+      Galland, Adolf (1971), The First and the Last,     Darkness: The History of Electronic Warfare,
+                                                                                                      117
+2nd edn. (London, Macdonald and Jane’s
+Publishers Limited).                              Luftwaffe Night Fighter Control
+                                                  Methods: Part 3, (http://gyges.dk/
+Price, Dr Alfred (2005), ‘Confound and            Wilde%20&%20Zahme%20Sau.htm).
+Destroy’, RAF: The Official Magazine, Issue 7,
+pp. 66-72.                                        Navigational Aids Oboe AMES Type 9000,
+                                                  (http://www.radarpages.co.uk/mob/
+Pritchard, David (1989), The Radar War:           navaids/oboe/oboe3.htm).
+Germany’s Pioneering Achievement 1904-45,
+(Wellingborough, Patrick Stephens Limited).       RAF Strategic Bombing: From Art to Science
+Probert, Henry (2001), Bomber Harris: His Life    and Back, (http://www.stable.demon.co.uk/
+and Times, (London, Greenhill Books).             general/bomb.htm).
+
+Smith, J R and Kay, Anthony (1975), German        Schrage Musik and The Wesseling Raid 21/22
+Aircraft of the Second World War, (London,        June 1944, (http://www.207squadron.rafinfo.
+Putnam).                                          org.uk/wesseling_schrage_musik.htm).
+
+Weal, John (1999), Luftwaffe Nachtflieger Part
+1, Wings of Fame, Vol 14, pp.104-125.
+                                                  Notes
+                                                  1
+Weal, John (1999), Luftwaffe Nachtflieger Part    2 Isby (2003), p.157.
+2, Wings of Fame, Vol 15, pp.102-125.             3 Webster and Frankland (1961, Vol IV), p.446.
+                                                  4 Overy (1997), p.75.
+Webster, Sir Charles and Frankland, Dr Noble      5 Webster and Frankland (1961, Vol I), p.129.
+(1961), The Strategic Air Offensive Against       6 Isby (2003), pp.14-15.
+Germany 1939-1945: Volume I: Preparation,         7 Hinchliffe (1996), p.23.
+(London, Her Majesty’s Stationary Office).        8 Freya was a mythical Nordic goddess whose
+                                                  guardian, Heimdal, could see 100 miles.
+                                                  9 Price (1978), p.60.
+Webster, Sir Charles and Frankland, Dr Noble
+                                                  10 Webster and Frankland (1961, Vol IV), p.110.
+(1961), The Strategic Air Offensive Against       11 Middlebrook & Everitt (1987), p.26.
+Germany 1939-1945: Volume II: Endeavour,          12 Hinchliffe (1996), p.31.
+(London, Her Majesty’s Stationary Office).        13 Price (1978), p.62.
+                                                  14 Westermann (2001), p.90.
+Webster, Sir Charles and Frankland, Dr Noble      15 Isby (2003), p.63.
+(1961), The Strategic Air Offensive Against       16 Hinchliffe (1996), p.47.
+Germany 1939-1945: Volume III: Victory,           17 Isby (2003), p.63.
+(London, Her Majesty’s Stationary Office).        18 Hinchliffe (1996), p.48.
+                                                  19 id.
+                                                  20 Middlebrook & Everitt (1987), pp.91-122.
+Webster, Sir Charles and Frankland, Dr Noble      21 ibid, pp.219 & p.126.
+(1961), The Strategic Air Offensive Against       22 Hastings (1992), p.126.
+Germany 1939-1945: Volume IV: Annexes and         23 Pritchard (1989), p.74.
+Appendices, (London, Her Majesty’s Stationary     24 Hastings (1992), p.108.
+Office).                                          25 Westermann (2001), p.126.
+                                                  26 RAF Strategic Bombing: From Art to Science and
+Westermann, Edward B (2001), Flak: German         Back’, http://www.stable.demon.co.uk/general/
+Anti-Aircraft Defenses, 1914-1945, (United        bomb.htm/ accessed 8 March 2006.
+                                                  27 Hastings (1992), p.123.
+States of America, University Press of Kansas).
+                                                  28 Price (1978), p.138.
+                                                  29 ibid, pp.67-69.
+Internet Sources                                  30 Hinchliffe (1996) p.98.
+Josef Kammhuber, (http://en.wikipedia.org/        31 Middlebrook & Everitt (1987), p.246.
+wiki/Josef_Kammhuber).                            32 Price (1978), p.105.
+                                                  33 Middlebrook & Everitt (1987), p.273.
+List of World War II Electronic Warfare           34 Price (1978), p.104.
+Equipment, (http://en.wikipedia.org/wiki/         35 Middlebrook & Everitt (1987), pp.268 & 333.
+List_of_World_War_II_electronic_warfare_          36 ibid, p.237.
+                                                  37 Price (1978), p.112.
+equipment).
+118
+      38 Price (1978), p.129.                               96 ibid, p.228.
+      39 Middlebrook & Everitt (1987), p.329.               97 Middlebrook & Everitt (1987), p.484.
+      40 Webster and Frankland (1961, Vol I), p.434.        98 ibid, p.487.
+      41 ibid, p.435.                                       99 Price (1978), p.198.
+      42 Price (1978), p.124.                               100 Middlebrook & Everitt (1987), p.447.
+      43 ibid, p.133.                                       101 Webster and Frankland (1961, Vol III), p.121.
+      44 Cox (1998), p.49.                                  102 ibid, p.122.
+      45 Price (1978), p.131.                               103 Middlebrook & Everitt (1987), p.490.
+      46 Hinchliffe (1996), p.144.                          104 Cox (1998), p.18.
+      47 Price (1978), p.114.                               105 Webster and Frankland (1961, Vol IV), p.158.
+      48 Probert (2001), p.232.                             106 Price (1978), p.208.
+      49 Price (1978), p.48.                                107 ibid, p.209.
+      50 ibid, p120.                                        108 ibid, p.210.
+      51 ibid, p.149.                                       109 ibid, p.222.
+      52 Although a new AI Mark X radar immune to           110 Hinchliffe, (1996), p.298.
+      Window was available, security concerns prohibited    111 Price (1978), p.214.
+      its use over occupied territories until 1944.         112 Galland (1971), p.245.
+      53 ibid, p.166.                                       113 Price (1978), p.215.
+      54 Cox (1998), p.41.                                  114 id.
+      55 Webster and Frankland (1961, Vol IV), p.502.       115 Hinchliffe (1996), p.293.
+      56 Cox (1998), p.46.                                  116 id.
+      57 Price (1978), p.157.                               117 ibid, p.260.
+      58 ibid, p.155.                                       118 Price (1978), p.239.
+      59 Westermann (2001), p.214.                          119 Bowman & Cushing (1996), p.108.
+      60 Middlebrook (2000a), p.128.                        120 Price (1978), p.230.
+      61 bid, p.129.                                        121 Middlebrook & Everitt (1987), pp.592-641.
+      62 ibid, pp.137-138.                                  122 Hastings (1992), p.336.
+      63 Middlebrook & Everitt (1987), p.411.               123 Middlebrook & Everitt (1987), p.674.
+      64 ibid, p.290.                                       124 ibid, p.682.
+      65 Middlebrook (2000a), p.129.                        125 Hinchliffe (1996), p.330.
+      66 Galland (1971), p.139.                             126 Price (1987), p.240.
+      67 Hastings (1992), p.238.                            127 ibid, pp.240-242.
+      68 Hinchliffe (1996), pp.212-214.                     128 ibid, p.163.
+      69 Price (1978), p.169.                               129 ibid, p.226.
+      70 ibid, p.173.
+      71 Hinchliffe (1996), p.196.
+      72 Price (1978), p.188.
+      73 Hinchliffe (1996), p.195.
+      74 Middlebrook & Everitt (1987), p.377.
+      75 Price (1978), p.191.
+      76 ibid, p.219.
+      77 Lovell (1991), p.209.
+      78 ibid, p.234.
+      79 Price (1978), p.215.
+      80 Hinchliffe (1996), p.193.
+      81 Isby (2003), p.224.
+      82 Middlebrook (2001), p.118.
+      83 Middlebrook & Everitt (1987), pp.452-469.
+      84 id.
+      85 id.
+      86 Middlebrook & Everitt (1987), pp.465.
+      87 Isby (2003), p.123.
+      88 Webster and Frankland (1961, Vol IV), p.428.
+      89 ibid, p.502.
+      90 Price (1978), p.218.
+      91 Webster and Frankland (1961, Vol IV), pp.15-16.
+      92 Middlebrook & Everitt (1987), p.473.
+      93 Despite its designation, the Halifax Mark III
+      entered service after the Mark V and was capable of
+      flying at higher altitudes than the Mark II and V.
+      94 ibid, pp.474 & 485.
+      95 Westermann (2001), p.229.
+
