@@ -47,7 +47,9 @@ Combat，2023）** → [[sources/f-4-wild-weasel-units-in-combat|来源页]]。
 来源⑤：**Alfred Price《Instruments of Darkness（电子战史话，1939–1945）》2017
 修订版** → [[sources/instruments-of-darkness-price|来源页]]（WWII 电子战；综合
 [[concepts/electronic-warfare-in-ww2|WWII 电子战概念页]] 及早期
-[[events/battle-of-the-beams|波束之战]]）。
+[[events/battle-of-the-beams|波束之战]]。
+*（此外战后冷战段入口：[[concepts/electronic-warfare-cold-war-1946-64|电子战·冷战早期(1946–64)]]，
+  源见来源⑩；此段主源即卷二。）*
 来源⑥：**Sqn Ldr Rob O’Dell RAF《RAF 电子战对德战略夜轰炸战之贡献》（Air Power
 Review 10-1, 2007）** → [[sources/apr-vol10-iss1-odell|来源页]]（RAF 侧第二来源：1939–45
 德国夜轰战四阶段量化复盘与 Post-Mortem）。
@@ -61,6 +63,9 @@ Review 10-1, 2007）** → [[sources/apr-vol10-iss1-odell|来源页]]（RAF 侧�
   扫描OCR）** → [[sources/us-electronic-warfare-history-vol1-price|来源页]]。为**美侧**电子战
   系统通史，与库内英侧（[[sources/instruments-of-darkness-price|Instruments]]）及德/日单页互补；
   分批续摄——本批主干线（哈佛 RRL / 482 大队锚点 → 时间线 B2）。
+来源⑩：**Alfred Price《美国电子战史·第二卷（复兴的年代 1946–1964）》（老乌鸦会/总参四部1993内发，
+  OCR）** → [[sources/us-electronic-warfare-history-vol2-price|来源页]]。卷一同系列；覆盖冷战早期/
+  朝鲜战争/前越战——按卷一模式“来源＋章图”（本页即批1），详摄按需逐章续。
 主题枢纽：[[concepts/sead|防空压制 SEAD/DEAD]]；
 平台谱系：[[entities/equipment/f-100f-wild-weasel-i|F-100F]] →
 [[entities/equipment/f-105-wild-weasel|F-105]] →

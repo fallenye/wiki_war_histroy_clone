@@ -51,6 +51,12 @@ updated: 2026-09-02
 - **1942（中）** — 英对德防空雷达开始 **Mandrel** 噪声干扰与 Moonshine 欺骗试投；
   德方 Düppel 试验遭希特勒禁令（抑制），双方各自 Window/反–C 研究并行（见
   [[electronic-warfare-in-ww2]]）。
+- **1942-02-末** — 空降-工兵突击 **Operation Biting（[[bruneval-raid-1942-capture-wuerzburg|布吕纳瓦尔]]）**
+  俘获德 Würzburg 实物（序列推估约数百部/约百部月）；为对火控雷达频之反制提供基线（书“Discovery”）。
+- **1942-05-30 夜** — RAF **[[millennium-raid-cologne-1942|千机炸科隆]]**（“轰炸机流”之实战初证；英“窗”虽首批
+  抵部却临阵被高层暂禁未放——为 1942 的电磁战决策锚点）。
+- 1940-11 之 [[moonlight-sonata-1940-x-beam-raids|德 X 束夜袭（月光奏鸣曲/考文垂等）]] 为该束战——细目详见
+  各自专页。
 
 ### 1943
 

@@ -55,3 +55,11 @@ updated: 2026-09-02
 - 相关单位：[[raf-no80-wing]]；相关雷达：[[freya-early-warning-radar]]（同年代防空线）
 - 电子战反 CM 工具发展的前～後：[[window-chaff]]
 - 来源：[[instruments-of-darkness-price]] 第 1 章
+
+### 本篇的专题子页（建于此轮）
+
+- [[moonlight-sonata-1940-x-beam-raids|“月光奏鸣曲”（X-Gerät/考文垂等 1940-11 ）]]
+- [[bruneval-raid-1942-capture-wuerzburg|布吕纳瓦尔突袭（Operation Biting；夺获 Würzburg）]]
+- 设备页：[[german-beam-nav|Knickebein / X-Gerät 导航系统]]；人物锚：[[rv-jones|R.V. Jones]]、
+  [[john-frost|J. Frost]]
+- 另见同源千机轰炸（技术争议侧）：[[millennium-raid-cologne-1942|科隆千机轰炸 1942]]

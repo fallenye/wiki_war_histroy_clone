@@ -6,7 +6,7 @@ end_date: 1945-09-02
 tags: [war]
 sources: [dictionary-of-american-naval-aviation-squadrons, instruments-of-darkness-price]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # 第二次世界大战（索引）
@@ -16,9 +16,22 @@ updated: 2026-09-02
 > (B) 1939–45 **电子战**专史（Alfred Price, *Instruments of Darkness*）。完整战役档案
 > 仅按来源逐期补，不作为武断全集。
 
+## 战区（Theater / Front；按 SCHEMA 5.2，WWII 大规模战争分战区导航）
+
+- **[[wars/world-war-ii/theaters/european-theater/index|欧洲战区（含地中海）]]**：波束之战/夜战 RCM、布吕
+  讷瓦、千机科隆等；[[wars/world-war-ii/theaters/european-theater/timeline|欧洲区时间线]]
+- **[[wars/world-war-ii/theaters/pacific-theater/index|太平洋战区（远东·对日）]]**：对日 EW/B‑29、冲绳等
+  （当前数据较疏、多由主时间线承载）·[[wars/world-war-ii/theaters/pacific-theater/timeline|太平洋区时间线]]
+- **[[wars/world-war-ii/theaters/north-atlantic-theater/index|北大西洋海区（海军陆基巡逻/DANAS）]]**：
+  VP-HL 线·[[wars/world-war-ii/theaters/north-atlantic-theater/timeline|北大西洋区时间线]]
+- （东线/苏联侧等后续资料充实后再开战区）
+
 ## 战役与行动
 
 - [[battle-of-the-beams|Battle of the Beams（波束之战，1940–41）]]
+- [[moonlight-sonata-1940-x-beam-raids|月光奏鸣曲（德 X 束夜袭，1940-11）]]
+- [[bruneval-raid-1942-capture-wuerzburg|布吕讷瓦突袭 Operation Biting（1942-02）]]
+- [[millennium-raid-cologne-1942|科隆千机大轰炸（千机轰炸，1942-05-30）]]
 - RAF 对德战略夜间轰炸战（1939–45 全程）：尚无以事件页立档；其战役级复盘／量化见
   [[electronic-warfare-in-ww2]] 与 [[apr-vol10-iss1-odell|APR 10-1 文章]]、时间线 “B1” 节。
 - 电子战纵深战役节点见 [[wars/world-war-ii/timeline|WWII 时间线·电子战锚点]]（如
@@ -33,6 +46,7 @@ updated: 2026-09-02
 
 - 雷达（德/欧）：[[freya-early-warning-radar|Freya 预警族（含 Mammut/Wassermann）]] ·
   [[wuerzburg-radar|Würzburg 火控/GCI]] · [[lichtenstein-airborne-radar|Lichtenstein 机载]]
+- 德轰炸波束导航：[[german-beam-nav|Knickebein / X‑Gerät]]（兼 [[battle-of-the-beams|波束之战]] 主线）
 - 美方早期装备（至珍珠港）：[[us-early-radar-pre-pearl|SCR-268/270 与 CXAM 等（美早期雷达）]]
 - 美方干扰/测向/侦察接收合集页：[[us-ww2-rf-equipment-compendium|二战美电战设备合集（APT/APR/SCR-587/DAQ/TDY…）]]
 - RCM/反制：[[window-chaff|Window/Chaff（箔条）]]
@@ -50,8 +64,9 @@ updated: 2026-09-02
 
 ## 人物
 
-- （截至目前人物为线索性（R. V. Jones/Addison/Cockburn/Lindemann 等虽为重要历史
-  人物但未另建 canonical 人物页）；按后续来源是否深化再决定。）
+- 已建 canonical 锚点：[[rv-jones|R.V. Jones（科技情报，波束战/布吕讷瓦侧）]]、
+  [[john-frost|John Frost（布吕讷瓦突袭部队长）]]
+- （其余仍线索性——Addison/Cockburn/Lindemann 等未另建页；按后续来源深耕再定。）
 
 ## 地点
 

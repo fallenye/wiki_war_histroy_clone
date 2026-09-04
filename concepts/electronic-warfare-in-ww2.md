@@ -10,14 +10,14 @@ created: 2026-09-02
 updated: 2026-09-02
 ---
 
-# 二战电子战总览（据 Instruments of Darkness）
+# 二战电子战总览
 
 该概念页把 1939–45 的空战电子战（导航无线电、雷达及其反制、箔条、夜战地面体系与
 欺骗）做导航汇总；具体参数/战术引用 canonical 装备与事件页，不再在本页展开成详史。
 
-## 主要线索
+## 欧洲电子战线
 
-- **防守反束（1940–41，Battle of the Beams）**——英国用科学情报＋抗干扰救城市：
+- **波束之战（1940–41，Battle of the Beams）**——英国用科学情报＋抗干扰救城市：
   挡 Knickebein / X-Gerät / Y-Gerät（见 [[battle-of-the-beams|事件页]]）。
 - **1941–42 转守为攻**——查明德 Kammhuber 夜战线并为其打造对策；英方对德早期预警雷达
   上手噪声 jam（Mandrel）/转发欺骗（Moonshine），同时为己方轰炸机开发自己的电波导航

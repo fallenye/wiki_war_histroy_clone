@@ -54,6 +54,13 @@ updated: 2026-09-02
 - 主要部队：[[george-afb-f-4g|George/35th TFW]]、[[52nd-tfw|52nd TFW]]、[[67th-tfs|67th TFS]]
   等，细目见 [[wars/vietnam-war/index|越南战争]]与 [[wars/gulf-war/index|海湾战争]]。
 
+## 关联行动（本库事件专页）
+
+- [[operation-spring-high-1965|Operation Spring High（SAM Site 6/7，1965-07）]]
+- [[operation-proud-deep-alpha-1971|Operation Proud Deep Alpha（AGM 攻势，1971-12）]]
+- [[pepper-01-loss-1966|“Pepper 01”战损（首个 F‑105F EWO 阵亡）]]
+- （总的越战早期/收束另见 [[rolling-thunder|滚雷]] 与 [[linebacker-ii-wild-weasel-sead|Linebacker II 页]]）
+
 ## 史料冲突与口径
 
 多条作战/命中数字（如越战 ARM 击杀数、Gulf War 命中率统计）在不同来源间口径不一。
