@@ -66,6 +66,10 @@ Review 10-1, 2007）** → [[sources/apr-vol10-iss1-odell|来源页]]（RAF 侧�
 来源⑩：**Alfred Price《美国电子战史·第二卷（复兴的年代 1946–1964）》（老乌鸦会/总参四部1993内发，
   OCR）** → [[sources/us-electronic-warfare-history-vol2-price|来源页]]。卷一同系列；覆盖冷战早期/
   朝鲜战争/前越战——按卷一模式“来源＋章图”（本页即批1），详摄按需逐章续。
+来源⑪：**Alfred Price《美国电子战史·第三卷（响彻盟军的滚滚雷声 1964–2000）》（AOC 约2000/总参四部
+  2002 内发，OCR 740p）** → [[sources/us-electronic-warfare-history-vol3-price|来源页]]。卷一至三（至 1946 /
+  1946–64 / 1964–2000）由此闭环为主美侧电子战通史第三段（越战—海湾—科索沃）；"来源＋章图"本页即批1，
+  逐章续摄待指令。
 主题枢纽：[[concepts/sead|防空压制 SEAD/DEAD]]；
 平台谱系：[[entities/equipment/f-100f-wild-weasel-i|F-100F]] →
 [[entities/equipment/f-105-wild-weasel|F-105]] →

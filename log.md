@@ -556,3 +556,148 @@
   people/ingwald-haugen（Problem Child/四机 QRC-160 编队）、people/charles-morgan。
 - 增量更新：concepts/sead（关联行动 专页锚）。
 - 检查：104 内容页、wikilink 0 断；SCHEMA 未改（见下）。
+### 2026-09-03（新源·美国电子战史·卷三 来源+章图 主干批1）
+- 卷三「响彻盟军的滚滚雷声」(1964–2000) sha 97af4f8ba…；OCR 740p。原作者 Alfred Price/AOC，中译总参
+  四部2002-12。
+- raw: us-electronic-warfare-history-vol3-price.pdf / .txt(27,933行~1.59MB)。
+- 建 source 页 + 章主题表(1情报攻击…11后卫I…17两种电子干扰系统/24来自空间窃听/26科索沃...27明天后天、
+  含 OCR 目录错行注明)；root index 记来源⑪ (卷一至三闭环)。
+- 检查: 105 内容页、wikilink 0 断；SCHEMA 不变(见下)。断点：ch1 情报攻击-1（正文起始约 raw 行583）后续按
+  需指令续。
+### 2026-09-03（卷三·批2·ch1 情报攻击-1：冷战情报搜集/遥测——并回顾线）
+- 读 ch1（raw≈583-1444）：苏航迹/码追踪、CIA遥测与B-47改机、功率方向图测（高王/扇歌）与EC-121改(强盗/
+  APS-20→APR-9方法)、EB-47E值更、早期天基照期(1959-02–1960-06 12次失败〔OCR〕)等；末接越南升级。
+- 增量 concepts/electronic-warfare-cold-war-1946-64（尾加卷III回顾章段；OCR个别名保留）。
+- 断点：ch2（一个遥远国度的危机，raw≈1445起）。
+### 2026-09-03（卷三·批3·ch2 遥远国度的危机：行动与装备专页）
+- 读 ch2（raw≈1445-2485）：报复循环→Rolling Thunder(1965-03)；1965 夏初始 SAM 战（F-4C 7-24 击、Spring
+  High 7-27、Iron Hand 8 初出 Midway/Coral Sea）；8-21 Left Hook（火蜂无人机诱 + 3×RB-66C 方位 + EC-121 中
+  继）等；早期 QRC-160-1 失误/吊舱弃 4 部 & RF-101 无效等。
+- 新建 3：events/operation-left-hook-1965、entities/equipment/ec-121-warning-star、rb-66c-elint（各据源内
+   越战定位+早期法注）；sead 概念行动列表补链。
+- 检查：108 内容页、wikilink 0 断；SCHEMA 未改（见 checksum）。
+- 断点：ch3（与地对空导弹共处，raw≈2486 起）。
+### 2026-09-03（卷三·批4·ch3 与地对空导弹共处→装备专页）
+- 读 ch3（raw≈2486-3419）：SA-2“扇歌”威胁里美军南海空军-海军电子防（Shoe Horn ALQ-51 往 A-4）、EB/RB66C
+  “猎豹4”击落、VMJ EF-10B 伴随、A-1 EA-1F 过渡、RA-5C/ALQ-61（企业号）等；Iron Hand 阶段陆续。
+- 新建装备 4：entities/equipment/{alq-51-shoehorn, ef-10b-skyknight, ea-1f-queer-spad, ra-5c-vigilante}。
+  （行动本批未见全新增独立代号战场——仍处 Iron Hand/Rolling Thunder 之战术技续中，故未新开行动页。）
+- 检查：112 内容页、wikilink 0 断；SCHEMA 未改。
+- 断点：ch4（“野鼬鼠”初露锋芒，raw≈3420 起）。
+### 2026-09-03（卷三·批5·ch4 野鼬鼠初露锋芒：行动+装备+人物专页）
+- 读 ch4（raw≈3420-4118）：Weasel I（F-100F）训练/300对SADS-1；12-20 武庙、12-22 安沛遭遇；1966-04-18
+  百舌鸟Iron Hand首战IR-133；首批机组列表（Lamb、Donovan诸Ewo等）。
+- 新建4：entities/equipment/ir-133-search-receiver、events/weasel-combat-encounters-1965-12、
+  events/iron-hand-first-shrike-1966、people/jack-donovan；sead关联行动表补。
+- 检查：116 内容页、wikilink 0 断；SCHEMA 未改。
+- 断点：ch5（干扰吊舱传奇，raw≈4119 起）。
+### 2026-09-03（卷三·批6·ch5 干扰吊舱传奇：装备专页）
+- 读 ch5（raw≈4119-4762）：QRC-160-1/1A 干扰飞机编队Problem Child、APR-25/26(含WR-300)、部署及 1966-09
+  -/10 装F-105；反对-支持论证等；吊舱家族后置型不复制。
+- 新建2 页：entities/equipment/qrc-160-pod-family（Problem Child 时代/1A 效果概述）、
+  entities/equipment/apr-25-26-rhaw。
+- 人物：本批无经可靠源新增可确证人物（Haugen 已建页；反方发言人（布里斯/t）OCR未能定名──不做）。
+- 行动：ch5 未现新命名行动页级；Route Package 1 不另开。
+- 检查：118 内容页、0 断；SCHEMA 不变（见 checksum）。
+- 断点：ch6（措施与反措施，raw≈4763）。
+### 2026-09-03（卷三·批7·ch6 措施与反措施：行动+装备+人物专页）
+- 读 ch6（raw≈4763-5722）：空识别-报知（PIRAZ/红冠 距岸25mi巡洋舰）；EC-121更名College Eye(1967)、
+  QRC-248 米格SRO-2应答询问(1967-05)；反部（Sidesaddle对ALQ-51A、感测“宏观”EC-121微细收）等。
+- 新建3：entities/equipment/qrc-248-iff-exploit、entities/people/robin-olds（第8TFW/F-4C 越战语境）、
+  events/piraz-red-crown-identification-1966（北部湾识别-报知体制 1966）；ec-121 页补 CollegeEye/红冠语境；
+  QRC/APR-25-26 等已在(卷三两卷正面不重复)。
+- 检查：121 内容页、相关新页 0 断链；SCHEMA 未改。
+- 断点：ch7（远和宽，raw≈5723）。
+### 2026-09-03（卷三·批8·ch7 远和宽：行动+装备专页）
+- 读 ch7（raw≈5723-6905）：舰载有源干扰/告警（ULQ-6→SLQ-22/23/24、SLQ-12、ALR-45/50）与反舰导弹语境
+  （埃拉特被 S-2N-2 冥河 1967 击沉首次舰射导弹毁舰）；ALQ-59 B-52 通信干扰机、ALR-45 等；模拟器 DEES/
+  AFEWES；EA-6B 1968-05 首飞等。
+- 新建3：events/eilat-sinking-1967、entities/equipment/eilat shipjam??（=ulq-6-slq-22-shipejam）、
+  entities/equipment/ea-6b-prowler。人物：本章为装备综述无稳定新人名可直接立（不臆造）。
+- 检查：124 内容页、相关断链 0；SCHEMA 不变(见 checksum)。
+- 断点：ch8（持续时间最长的战争，raw≈6906）。
+### 2026-09-03（卷三·批9·ch8 持续时间最长的战争：行动+装备+人物专页）
+- 读 ch8（raw≈6906-7795）：Igloo White 传感(1968)；Commando Club Skyspot(TSQ-81, Phou Pha Thi)；
+  EA-6A(1966-11抵舰港,U-Pack/ALQ-76-A箱ALT-6B噪) 与更大型 EA-6B；EKA-3B加油+干扰应急(沿至EA-6B)；
+  RU-6/8系列陆搜索分队、金兰湾 Crazy Cat P2V(6架分工)等。
+- 新建4：events/igloo-white-1968、entities/equipment/ea-6a-electronic-warfare、
+  entities/equipment/eka-3b-tanker-jammer、entities/people/william-gardner。
+- 检查：128 内容页、4 新页 0 断链；SCHEMA 未改。
+- 断点：ch9（1960s中 条令/编队…见源 raw≈7796）。
+### 2026-09-03（卷三·批10·ch9 情报攻击—2：装备+事件专页；修正错位段定页）
+- 读 ch9（raw≈7795-8547，止 ch10 实力检验8548）：可靠高置信内容为 RC-135 信号情报族（RC-135M“战斗苹果”
+  1967、串接4252战略联队约18h；RC-135E 里萨安 相控阵 7.5MW 改至1966秋；RC-135S 遥测窃听；ASD-1 大型
+  机载分析+GSQ-17 地面回放）、VQ-1 EC-121 Willie Victor 1969-04-14/15 遭朝机无警示击落等。
+- 新建2：entities/equipment/rc-135-signals-family、events/ec-121-vq1-shootdown-1969。人物：本章为平台/代号,
+  无可靠代表性人名可立。
+- 检查：130 内容页、2 页 0 断链、库内无反乱/替换字符残留；SCHEMA 未改。
+- 断点自 ch9 末进入 ch10「实力检验」（Linebacker/1972 及相关装备），相应下次批续 [raw8548…]。
+### 2026-09-03（卷三·批11·ch10 实力检验：行动+装备专页与既有页增量）
+- 读 ch10（raw≈8548-9854）：Lam Son 719(1971-02)直升机电战检验；F-111A EW 套件(ALR-41+APS-109A 告警、
+  ALQ-94 欺骗逆锥扫、ALQ-87 吊舱、ALE-28/AAR-34)；ALQ-119(Pacer Granite 反 SA-3 应急) ；ALE-38(F-4)；
+  EA-6B(4机组)、SA-7 亮相等。
+- 新建2：events/lam-son-719-1971、entities/equipment/alq-119-jammer-pod；给 f-111a 补 EW 套件节并按原文核
+  正（ALE-38 属 F-4、不含 F-111 干扰语）。
+- 人物：本章人名多“任务/采访联络官”式（如 Albert Haber、Gene Simmons）缺代表性主角级，不浅建=遵守规则。
+- 检查：132 内容页、相关 0 断；全文无替换字符残留(log 一处已修)；SCHEMA 未改，断点 ch11(后卫II, raw9855)。
+### 2026-09-03（卷三·批12·ch11 后卫II/Linebacker II 1972-12：B-52 防御性 EW 专页）
+- 读 ch11（raw≈9855-11326）：1972-12-14 尼克松决策；12-18 起对河内/海防三昼夜最大攻击（夜间逐波等）；
+  参战 B-52D/G 分第三/第五阶段 EW 改装（原书分栏 OCR 错位须对原版）；最压 Fan Song/导弹链为 ALT-68/13/28；
+  三阶段机≈7部、五阶段≈10；TTR 机动三机 Z 摆；SA-3 短波多机自扰间距约束（~75 ft）等。
+- 新建1：entities/equipment/b-52g-sac-ew-suite（B-52 后卫II 防御性 EW 要点，专余分栏随后源补）。
+- 人物：ch11 人名（安迪·维多利亚、麦卡西上校、Roland Scott 等）皆机组/访谈见证角色，无战役主线主角-浅，
+  按规则不建。
+- 检查：133 内容页、新页 0 断、无 �/混杂；SCHEMA 未改（见下）。断点 ch12 新技术影响(11327)。
+### 2026-09-03（卷三·批13·ch12 新技术的影响—1（1972~75）：装备页×2，人物0）
+- 读 ch12（raw≈11327–12012）：电子战综合重编 EWIR 数据库、SA-6/1973 效应、功率管理与自动调谐、
+  舰外快速散开销条 Mk33 RBOC→Mk36 SRBOC、陆军 RU-21 A/B/C（ARD-22 测向/ALR-32 情报吊舱/ALT-29 通信
+  干扰）、CHEAP 等。本章为技术横断面、无独立战役及代表级人物（人名皆访谈/作者）。
+- 新建2：entities/equipment/rboc-srboc-chaff、entities/equipment/ru-21-electric-warrior（扫描清 �/？ 残留）
+- 检查：135 内容页、相关 0 断；SCHEMA 未改（191d…）。断点按 TOC ch13（≈raw12013，对应表内同号）。
+### 2026-09-03（卷三·批14a·ch13 短期/近期/其他民族战争：起步——SA‑6 装备页）
+- ch13(raw≈12013…)覆盖多役：1973-10 中东(SA-6 首战/以空军重损、SA-2/SA-3、ALQ-101-6/-8 限用)、
+  后续 1982 贝卡/波斯湾、EP-3 静默等；按需逐役开专页（下批续）。
+- 新建1：entities/equipment/sa-6-2k12-kub；正文只用原书可支撑要点(S.A-CW制导/对ALQ抗性/2600架次与50机之
+  损、19单元宣称17等注明口径)。人物仍无代表级。
+- 检查：136 内容页、新页0 断、无 ?/�；SCHEMA 191cd…。
+
+### 2026-09-03（卷三批14b · ch13 续：1973-10 中东空气-SAM/EW）
+- 新建 events/yom-kippur-1973-air-sam-ew（开战/前4天约2600架次·失近50机≈七分之一·静默与ALQ-101对SA-6等，全按该书ch13措词/口径收）。
+- 连同SA-6页两页均0断链、无?/乱字。人物仍未出现可直接代表级的叙事主角（witness only）。
+- 检查：137内容页；SCHEMA未改，下步按序续ch13余役（贝卡/两伊/波斯湾）或ch14。
+
+### 2026-09-03（卷三批14c · ch13 续：贝卡谷地1982）
+- 新建 events/bekaa-valley-1982-sam-suppression：以 Price ch13 作范例段（情报综合→假目标无人机诱开机 SAM→主攻→无人复核；作者对报道不实现象的提示）。0 断链、无杂字。
+- ch13（短期/其他民族战争）主干役已覆盖：1973-10（SA-6页+空气SAM/EW页）、贝卡1982；仍余两伊时期/波斯湾等，随 ch18-22 主线将由后续批次接。全库 138 内容页
+
+### 2026-09-03（卷三批15 · ch14 新技术的影响—2：SLQ-31/32 竞标专页）
+- 新建 entities/equipment/slq-31-slq-32-1976（1976 莱希号CG-16 双样机实舰对比；Rotman 透镜 vs 喇叭阵列；含 WLR-1 前置背景）。已清正文少与标点。
+- 全章以产品/采办为主，无独立命名行动、亦无代表性主角级人物（多为军种采办/访谈人）—不臆建。
+- 检查：139 内容页；0 真断；SCHEMA 191cd20f951e9952。
+
+### 2026-09-03（卷三批16 · ch15 情报攻击 3：S300 / 米格31雷达 2 页）
+- 读 ch15（raw≈13694-14482，1971~1991 SIGINT 主段）：SA-10/S-300（80年代替代SA-5、Flap Lip 相控阵）、米格-31 Zaslon、TR-1/RTASS-TREDS、MASINT、1989德军入西德等。
+- 新建 2：sa-10-s300、mig31-zaslon（均只有 Price 卷III 章内要点，0断链/no?/no-乱）。
+- 其余（TR-1/RTASS 等）及命名行动/代表人物的出现与否留卷内相应小节续；检查 141 页；SCHEMA未改。
+
+### 2026-09-03（卷三批17 · ch16 新技术影响3 摘记：EA-6B 型号沿革增量）
+- ch16(raw≈14483-15854)为 70/80 年代产品/项目综述（ALQ-161A、ASPJ/ALQ-165、EA-6 EXCAP/ICAP、TLQ通信干扰族等），无独立行动、亦无代表性人物（人名皆项目官，如 Monte Correll 因提 B-1B 意见停权；不浅建）。
+- 本步给既有 ea-6b-prowler 补：EXCAP 1974-01 首飞；ICAP 1977-04 上舰/达 C-J；基线 ALQ-99+ALQ-92。未必要新专页的其余则留按其整条目。
+- 页数仍 141；SCHEMA 未改。
+
+### 2026-09-03（卷三批18 · ch17 两种电子干扰系统的故事：ALQ‑165 案例专页）
+- 新建 entities/equipment/alq-165-aspj：完整研制/试验(1985样机→AFEWES/帕图克森整合1986)、拨款中断(87冻结)、20 套产品验证/1989-12 首交、空/海分道(1991-07 36套)、OPEVAL1991-08~92-05 双指标(+30### 2026-09-03（卷三批18 · ch17 两种电子干扰系统的故事：ALQ-165 案例专页）
+- 新建 entities/equipment/alq-165-aspj：研制/试验（1985 样机 → AFEWES/帕图克森整合 1986）、87 春冻结、20 套产品验证与 1989-12 首交、空海分道（1991-07 36 套）、OPEVAL 1991-08 至 1992-05 双指标（+30% 生存未证）、约 15 亿美元/136 套后裁撤；收参议员与凯泽上校引语及作者败因归结。
+- 人物政策同上（项目当事人非代表性主角，不开）；ALQ-161A/B-1 此章同述（后续整页承接）。检查 142 内容页；SCHEMA 未改。
+### 2026-09-03（卷三批20 · ch19 隐身探索 ：F117A & 海影 2 专页；人物无）
+- 读 ch19（raw≈16884-18079；“甚低可见度”全谱）：DARPA 1974 招标→RCS 验证(1975)→Have Blue(HB1001 1977-11 C-5A 至格鲁姆湖)→F-117/4450试验群(Tonopah,C-5 转场)；Tacit Blue; Navy Sea Shadow; A-12 系线; 1980 后代 GT…。
+- 新建2：entities/equipment/f-117a-have-blue、entities/equipment/sea-shadow-1980s（章内要点：长宽/吨/员、平面斜接浴缸形）。B2/N-G等按 ch 内其他专题留述。人物仍无（书中 Paul?阳氏 为佩里特别助理 name OCR 未尽稳定，不浅建）。
+- 全库 144 内容页、0 断、无 ?/乱码；SCHEMA 191cd20f951e9952。
+### 2026-09-03（卷三批21 · ch20 沙漠盾牌(1990-08~1991-01-17)：行动+REDCAP 装置 2 页）
+- 读 ch20（raw18080-18696）：RC-135 先遣；EF-111/F-4G/EC-130 压制单元集結；远距 14-17h/6-7 次加油；REDCAP+AFEWES 对伊雷达编程之准备；电磁管制/隐蔽对抗等。
+- 新建2：events/desert-shield-1990-91、entities/equipment/redcap-ew-sim（职能性言简）。人物：主章无代表级人物（伊恩·哈密尔顿为卷首引言典），不开。
+- 检查：146 内容页（+2），SCHEMA 未改（191d…）。
+### 2026-09-03（卷三批22 · ch21 沙漠风暴空中(上段)：TF Normandy 行动专页）
+- 读 ch21（raw≈18697…）上段并提取开头（1-17 03:00 H；B-52/ALCM 远程；105th/…；Normandy 8架AH-64+2 MH-53J 引导直升低空破 EW/GCI 两站前窗；EF111/EA6B/HARM 编/跟压制）。中段以既有装备族（EA-6B RS HARM、RC-135V/W、EC-130H Rivet Fire+心理战等）描述为主。
+- 新建1 ：events/tf-normandy-1991-ewgci-raid（只按原书叙事写 /不转述未载杀伤）。人物：无代表主角（巴兰考等即执行军官引述）不过度单开。
+- 检查：147 内容页、相关 0 断、SCHEMA 未改；余 ch21 中段可逐批增量。

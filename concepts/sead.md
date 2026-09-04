@@ -57,8 +57,13 @@ updated: 2026-09-02
 ## 关联行动（本库事件专页）
 
 - [[operation-spring-high-1965|Operation Spring High（SAM Site 6/7，1965-07）]]
-- [[operation-proud-deep-alpha-1971|Operation Proud Deep Alpha（AGM 攻势，1971-12）]]
+- [[operation-left-hook-1965|Operation Left Hook（无人机诱弹+RB-66C方位，1965-08）]]
 - [[pepper-01-loss-1966|“Pepper 01”战损（首个 F‑105F EWO 阵亡）]]
+- [[weasel-combat-encounters-1965-12|Wild Weasel I：1965-12 首度遭遇（武庙/安沛）]]
+- [[iron-hand-first-shrike-1966|Iron Hand：“百舌鸟”首次作战（1966-04）]]
+- [[operation-proud-deep-alpha-1971|Operation Proud Deep Alpha（AGM 攻势，1971-12）]]
+- 平台关联：（上述电子情报/指挥机 [[ec-121-warning-star|EC‑121]]、[[rb-66c-elint|RB‑66C]]）
+
 - （总的越战早期/收束另见 [[rolling-thunder|滚雷]] 与 [[linebacker-ii-wild-weasel-sead|Linebacker II 页]]）
 
 ## 史料冲突与口径
