@@ -50,7 +50,8 @@ updated: 2026-09-05
   [[airfield-construction-protection-1951-spring|前推机场修建掩护（顺安/永柔/顺川 1951春）]] ·
   [[shunchon-airfield-carpetbombing-counter-1951|顺川机场·遏制"地毯式轰炸"（524团 1951）]] ·
   [[anju-jiang-ji-bridge-1951-07|安州双桥护交战（谈判期 1951-07）]] ·
-  [[shunchon-chengchon-double-bridge-505-flood-1951|顺川成川双桥护交·夏洪保安（505团 1951）]]；
+  [[shunchon-chengchon-double-bridge-505-flood-1951|顺川成川双桥护交·夏洪保安（505团 1951）]] ·
+  [[anzhou-hub-antistrangulation-airdef-1951-0708|安州枢纽反绞杀防空战（夏洪暴雨，513团/4连）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。

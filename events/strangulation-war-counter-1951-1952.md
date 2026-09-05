@@ -55,5 +55,7 @@ updated: 2026-09-03
 ## 关联
 
 - 战争：[[wars/korean-war/index|朝鲜战争]]；时间线 [[wars/korean-war/timeline]]
-- 组织/装备：[[pva-airforce-korea]]、[[mig-15]]、[[f-86-sabre]]
+- 组织/装备：[[pva-airforce-korea]]、[[mig-15]]、[[f-86-sabre]]；防空侧分部护交（本书防空线）
+  [[anzhou-hub-antistrangulation-airdef-1951-0708|安州枢纽反绞杀防空]]（505/513 名等逐役），见
+  防空 org [[korea-pva-air-defense]]。
 - 来源：[[kangmeiyuanchao-zhanzhenshi-cams-milhistory]]

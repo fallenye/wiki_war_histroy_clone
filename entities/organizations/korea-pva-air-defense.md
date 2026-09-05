@@ -94,14 +94,18 @@ updated: 2026-09-05
   [[yongdok-warehouse-night-airdef-1951|阳德仓库夜间防空战（夜战 B-26）]] ·
   [[andong-airdef-1951-04|安东桥 4 月防空战（王秉珩殉/慰问 3落 B-29）]] ·
   [[airfield-construction-protection-1951-spring|前推机场修建掩护防空（1951 春）]] ·
-  [[shunchon-airfield-carpetbombing-counter-1951|顺川机场·遏制"地毯式轰炸"（524团 1951）]]。
+  [[shunchon-airfield-carpetbombing-counter-1951|顺川机场·遏制"地毯式轰炸"（524团 1951）]] ·
+  [[anju-jiang-ji-bridge-1951-07|安州双桥护交战（谈判期）]] ·
+  [[anzhou-hub-antistrangulation-airdef-1951-0708|安州枢纽反绞杀·夏洪暴雨防空战]]。与既有反
+  绞杀条目 [[strangulation-war-counter-1951-1952]] 并轨（防空侧）。
 - 人物：[[wang-bingheng|王秉珩]]（高炮第 17 团 4 连连长，1951-04 殉）· [[han-jingshan|韩景山]]
   （高炮第 4 团电话班长，烈士）· [[li-jingui|李金贵]]（高炮 524/14 团 2 连连长）·
   [[li-honghua|李宏华]]（高炮 524 团 6 连连长）· [[mao-an-ying|毛岸英]]（志司殉难〔防空源引述〕）·
   [[zhou-shidi|周士第]]（防空司令，军委防空领导主官）· [[chen-wenyi|陈文义]]
   （阳德独立高炮营营长，夜战 B-26 探法）· [[dong-zhaohua|董兆华]]（524 团 3 连连长，
   顺川/沸流低空捕飞）· [[zhang-antong|张安桐]]（524 团 2 连炮长，改弹击落 B-29）·
-  [[liu-yongsong|刘永松]]（505 团团长，顺川成川双桥护交与洪期保安统筹）。
+  [[liu-yongsong|刘永松]]（505 团团长，顺川成川双桥护交与洪期保安统筹）·
+  [[ma-liangshan|马良善]]（513 团 2 营 4 连连长，"打不垮的 4 连"）。
 - 野战师单位：[[field-aa-64th-div-korea|野战高炮第 64 师]]（辖 611/612 及指挥 524 团等；
   安州-清川、大宁江、顺安机场等）；野战高炮第 63 师（607〔85mm〕/608、609〔37mm〕，
   师长吴忠泰，永柔机场等 1951-04）——师属精确建制随后续批按原文补。
