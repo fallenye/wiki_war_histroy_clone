@@ -56,6 +56,7 @@ updated: 2026-09-05
   [[geyan-station-airdef-63div-1951-12|阁岩车站保卫战（63师/607团冬季 1951-12）]] ·
   [[dingshanli-longxian-bridge-524-1951|丁山里·长鲜江桥血战（524团机动 1951冬）]] ·
   [[yuanli-saturation-bombing-524-1952|院里—兰田里抗击"饱和轰炸"（524团 1952-04）]] ·
+  [[nantingli-warehouse-airdef-24-1952|楠亭里仓库保卫战（独立24营 1952-05-08）]] ·
   [[yuntian-deception-fake-gun-513-1952|云田"隐真示假"伏击战（513团 1952-03）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
