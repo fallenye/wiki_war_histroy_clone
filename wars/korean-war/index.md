@@ -63,7 +63,8 @@ updated: 2026-09-05
   [[pyongyang-defense-airdef-533-1952-08|保卫平壤·高炮533团入朝第一仗（1952-08-29）]] ·
   [[shangganling-aircover-anti-spotter-1952|上甘岭防空·反"蚊子机/炮兵校正机"掩护炮兵（1952-10~11）]] ·
   [[daningjiang-bridge-512reg-1952-11|激战大宁江·高炮512团保卫桥（1952-11-01/06）]] ·
-  [[anzhou-sixdays-1953|安州六昼夜激战·反"购买计划"（1953-01-09~15）]]；
+  [[anzhou-sixdays-1953|安州六昼夜激战·反"购买计划"（1953-01-09~15）]] ·
+  [[searchlight-direct-blinding-escort-1953|探照灯照落敌机·夜战反护航（421团7连/401团8连 1953-03~06）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
