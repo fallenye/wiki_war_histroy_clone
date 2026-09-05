@@ -1355,3 +1355,10 @@
 - 更新：events/anzhou-sixdays-1953 页加补充资料节全文；页尾〔异文核〕注同时更新（注明 1-11 为雪休整日、六战役日排定）。index/org/timeline 已在该役原建时接线（防空批32），本批无需重接。
 - QA：newpages-check 1 file CLEAN；glitch-scan 全命中为合法白名单 token（型号/wikilink slug/yml 键）无问号/替换符/括号失衡类泄漏；SCHEMA 191cd2 未变；内容页仍 203（无新增页）。
 - 断点：防空书 ch1-35 主干 + ch32 逐日深描至此皆完整；下一步可 fresh 补书末（ch35-after 附总叙/装页）或转其它分线。
+
+### 2026-09-05（防空批37·书末衬底溯源——防空书 全 35 章+主线已毕，仅余书末衬底；加史源分注于既有 sources 页，无新建 canonical）
+- 断点：防空书（《抗美援朝防空作战实录》）正文至 ch35 已全（防空批34b）＋ch32 逐日深描已回补（防空批36）。本批读到 raw 19450 行书尾，确认其后仅为书末衬底无正文：**主要参考书目**（他源 3 种：《当代中国·抗美援朝战争》；《朝鲜战争中的美国空军1950-53》1961；《空中威力》1957——即各事件页所引美方公开评论之源）＋**「参考回忆片断」25 篇**（参战老兵回忆索引，揭示全书实为这些回忆撮集之纪实、系单侧亲历者口径的结构性根因）＋图片启事。
+- 更新：源页 sources/kangmeiyuanchao-fangkong-zuozhan-shilu 新增「书末衬底：主要参考书目与参考回忆片断」节，把 25 篇中可溯者以表格回链到既有事件/org 页（邢绍洲→anzhou-sixdays、牛得山524团→yuanli/dingshanli、郭清江水丰→supung、金波平壤→pyongyang533、夏文进郭山→guoshan、苗树人长甸→yalu-triple、牛万里辑安→jian-mampo、阮松涛奥勃莱→feiliujiang、张菊明→dingshanli、张金凯优待吉本斯→shunchon-aug24、陈文义阳德→yongdok、蔡子悟/汤道成探照灯→防空org 等），并注不另开 canonical。
+- 甄别：本批为书尾溯源增补，**无新行动/装备/代表人物 canonical 开页**（衬底不出现既有页外的新战斗/新装备/可立人物；25 篇作者多即既有役页中团连指挥，随役随叙不作新 person）。书主线至此判定**摄入完整**。
+- QA：newpages-check 1 source file CLEAN（自加表内 wikilink 全解析；`warn non-SCHEMA key source_kind` 与 glitch hw-punct 行59 TOC 为历史既有、非本次所示）；SCHEMA 191cd2 未变；内容页仍 203（改既有源页、非新增文件）。
+- 断点：防空书整本（35 章正文+spine+书末衬底）已全；后续若需新增 canonical 应为另取一源分线（该库既有 空军线 yingjichangkong 或 官方 CAMS 主干线可作下一来源续摄入）按用户指令开页——本条为应对「继续摄入」之书内已穷、非臆造新页。
