@@ -701,3 +701,18 @@
 - 读 ch21（raw≈18697…）上段并提取开头（1-17 03:00 H；B-52/ALCM 远程；105th/…；Normandy 8架AH-64+2 MH-53J 引导直升低空破 EW/GCI 两站前窗；EF111/EA6B/HARM 编/跟压制）。中段以既有装备族（EA-6B RS HARM、RC-135V/W、EC-130H Rivet Fire+心理战等）描述为主。
 - 新建1 ：events/tf-normandy-1991-ewgci-raid（只按原书叙事写 /不转述未载杀伤）。人物：无代表主角（巴兰考等即执行军官引述）不过度单开。
 - 检查：147 内容页、相关 0 断、SCHEMA 未改；余 ch21 中段可逐批增量。
+
+### 2026-09-05（防空 Spine · 《抗美援朝防空作战实录》新源登记＋骨架）
+- 新源：陈辉亭、陈雷《抗美援朝防空作战实录》（解放军文艺出版社 2010-10 第 1 版，
+  ISBN 978-7-5033-2273-0；主题=志愿军地面防空兵 反美轰炸实录）。源 PDF 505p/OCR
+  （Acrobat ClearScan）；提取 txt 19,450 行≈1.318MB，35 章。我侧叙事，战果/数字按
+  该书我方口径记录。sha256（PDF）aef80df97e05…（txt）1a718134ff1c…。
+- 登记 raw：raw/papers/kangmeiyuanchao-fangkong-zuozhan-shilu.{pdf,txt}。
+- 新建：sources/kangmeiyuanchao-fangkong-zuozhan-shilu（源页＋35 章地图）；
+  entities/organizations/korea-pva-air-defense（志愿军防空兵 org 骨架：前言总规模＋
+  ch1-2 建 10 高炮团/东北防空/军委防空司令部 1950-10-23/入朝初期主力）。
+- 更新：wars/korean-war/index（防空兵线栏目＋sources 增入本源）；wars/korean-war/timeline
+  （加〔防〕标目 1950-07/08/10-19/10-23 等可靠日期目）；根 index（加来源⑫与防空线枢纽）。
+- 读到：前言＋ch1（全套 ch1）+ch2（精读部分，含美东轰炸背景/购炮上书/防空司令部）。
+- 断点：下一批从 ch2 尾部/ch3 续读（ch3=入朝高炮掩护炮兵，含高炮14团行军故事）。
+- 检查：见本批 glitch + 链接抽查。

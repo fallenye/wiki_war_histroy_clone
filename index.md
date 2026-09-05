@@ -18,7 +18,7 @@ Rolling Thunder 战役层资料，并开始 WWII 海军陆基巡逻航空（DANA
 - [[wars/vietnam-war/index|越南战争]]（Wild Weasel/SEAD 侧重；战役页 Rolling Thunder 等）
 - [[wars/gulf-war/index|海湾战争]]（沙漠盾牌/风暴及战后禁飞区）
 - [[wars/world-war-ii/index|第二次世界大战]]（现有：海军重巡逻陆基中队 VP-HL-1/3/5 等）
-- [[wars/korean-war/index|朝鲜战争（抗美援朝）]]（志愿军空军线与官方全史主干，见 来源⑦/⑧）
+- [[wars/korean-war/index|朝鲜战争（抗美援朝）]]（志愿军空军线与官方全史主干＋防空兵线，见 来源⑦/⑧/⑫）
 
 ## 主要战役/事件入口（越南战争）
 
@@ -70,6 +70,10 @@ Review 10-1, 2007）** → [[sources/apr-vol10-iss1-odell|来源页]]（RAF 侧�
   2002 内发，OCR 740p）** → [[sources/us-electronic-warfare-history-vol3-price|来源页]]。卷一至三（至 1946 /
   1946–64 / 1964–2000）由此闭环为主美侧电子战通史第三段（越战—海湾—科索沃）；"来源＋章图"本页即批1，
   逐章续摄待指令。
+来源⑫：**陈辉亭、陈雷《抗美援朝防空作战实录》（解放军文艺出版社 2010，OCR 扫描 505p）**
+ → [[sources/kangmeiyuanchao-fangkong-zuozhan-shilu|来源页]]。**朝鲜战争志愿军地面防空兵线**
+ 专源（高射炮兵/探照灯/雷达反轰炸反封锁叙事）：建立 [[entities/organizations/korea-pva-air-defense|志愿军防空兵(org)]]，
+ 逐章 canonical 随后续批次增补。
 主题枢纽：[[concepts/sead|防空压制 SEAD/DEAD]]；
 平台谱系：[[entities/equipment/f-100f-wild-weasel-i|F-100F]] →
 [[entities/equipment/f-105-wild-weasel|F-105]] →
@@ -91,6 +95,7 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
 朝鲜战争-空线：[[entities/organizations/pva-airforce-korea|志愿军空军/空联司]]、
 [[entities/equipment/mig-15|MiG-15]] 对 [[entities/equipment/f-86-sabre|F-86]]、[[entities/people/li-han-pva|李汉]]、
 [[entities/people/wang-hai-pva|王海]]、[[events/daehwa-island-bombing-1951|大和岛轰炸]]；
+防空(地)线：[[entities/organizations/korea-pva-air-defense|志愿军防空兵（高炮/探照灯/雷达）]]；
 地面官线（第 8 批已建 canonical）：五次战役 first→fifth 等见 [[wars/korean-war/index|朝鲜战争索引]]。
 详目见各战争索引与 `log.md`。
 
@@ -101,6 +106,10 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
   Darkness—WWII 电子战）亦同日建立电子战线；第 6 批（Air Power Review 10-1：RAF 电子战
   分析）作 RAF 侧第二来源增量；第 7 批（《鹰击长空》）新开志愿军空军视角朝鲜战争空线；
   本批次为**第 8 批**（军事科学院官方三卷全史——完成朝鲜战争“战争主干”：综合时间线、
-  五次战役＋上甘岭/金城/停战等 canonical；为分批续接任务，断点见 log）。
+  五次战役＋上甘岭/金城/停战 等 canonical；为分批续接任务，断点见 log）。
+- 后续（2026-09-03~04）续摄美国电子战史卷一~三及各批 canonical（详见 log、concepts 与各战争索引）。
+- 〔防空 Spine，2026-09-05〕新增朝鲜战争**地面防空兵线**来源⑫《抗美援朝防空作战实录》，
+  建立 sources 页与 [[entities/organizations/korea-pva-air-defense|志愿军防空兵]]org 骨架，
+  时间线加〔防〕标目；逐章(高炮/探照灯反轰炸反封锁各役)后续按“继续摄入”逐批增补，断点见 log。
 - 尚未建立 topics/、timelines/master.md。
 - 资料层：raw/papers 保存原始 PDF 与提取文本；更新记录见 [[log.md|log.md]]。

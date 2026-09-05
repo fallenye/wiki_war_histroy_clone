@@ -4,17 +4,18 @@ type: war
 start_date: 1950-06-25
 end_date: 1953-07-27
 tags: [war]
-sources: [yingjichangkong-pva-airforce, kangmeiyuanchao-zhanzhenshi-cams-milhistory]
+sources: [yingjichangkong-pva-airforce, kangmeiyuanchao-zhanzhenshi-cams-milhistory, kangmeiyuanchao-fangkong-zuozhan-shilu]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # 朝鲜战争（抗美援朝，1950–1953）——索引
 
 > 本索引汇总各条目。权威主战场+谈判以三卷官方全史
 > [[kangmeiyuanchao-zhanzhenshi-cams-milhistory]] 分批复写（当前为“战争主干”第一批）；
-> 志愿军空军侧另由 [[yingjichangkong-pva-airforce]] 叙事支撑。全文分批续摄中，每批断点
-> 见 `log.md`。
+> 志愿军空军侧另由 [[yingjichangkong-pva-airforce]] 叙事支撑，地面防空侧由
+> [[kangmeiyuanchao-fangkong-zuozhan-shilu|防空作战实录]]（防空兵专题，逐章续摄）支撑。
+> 全文分批续摄中，每批断点见 `log.md`。
 
 ## 战役与事件（地面战线）
 
@@ -32,8 +33,12 @@ updated: 2026-09-03
 - 空军与防空线：[[daehwa-island-bombing-1951|大和岛轰炸]] 等，见下方军用装备与
   [[yingjichangkong-pva-airforce]]来源该线。
 
-## 战场力量/后勤相关（分批栏）
-- 高炮/铁道部队反“绞杀战”、防空与铁统抢修作战→依 j03_ch10 于后续批次增补。
+## 战场力量/防空（地面防空兵线）
+- 防空兵（高射炮兵/探照灯/雷达）总纲：[[korea-pva-air-defense|中国人民志愿军防空兵]]
+  ——首批设防（1950-07 安东/辑安/水丰）、军委防空司令部成立（1950-10）、入朝掩护炮兵；
+  该线据《防空作战实录》逐章增补中。
+- 反“绞杀战”及铁统抢修防空作战（既有）见 [[strangulation-war-counter-1951-1952]]；
+  地面/谈判主干另有依 j03_ch10 的高炮铁道防空增补批次。
 
 ## 人物（分级分批）
 - 本轮（第一批）暂不建传体 canonical；需后续按其章节导读后建页的：彭德怀、邓华、
