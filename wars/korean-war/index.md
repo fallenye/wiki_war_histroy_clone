@@ -49,6 +49,7 @@ updated: 2026-09-05
   [[andong-airdef-1951-04|安东桥 4 月防空战（4-07 王秉珩殉；4-12 慰问团前 3 落 B-29）]] ·
   [[airfield-construction-protection-1951-spring|前推机场修建掩护（顺安/永柔/顺川 1951春）]] ·
   [[shunchon-airfield-carpetbombing-counter-1951|顺川机场·遏制"地毯式轰炸"（524团 1951）]] ·
+  [[shunchon-aug24-524reg-3co-b29-1951|顺川机场 8-24 鏖战（3连"半个连"/B-29空勤吉本斯）]] ·
   [[anju-jiang-ji-bridge-1951-07|安州双桥护交战（谈判期 1951-07）]] ·
   [[shunchon-chengchon-double-bridge-505-flood-1951|顺川成川双桥护交·夏洪保安（505团 1951）]] ·
   [[anzhou-hub-antistrangulation-airdef-1951-0708|安州枢纽反绞杀防空战（夏洪暴雨，513团/4连）]]；
