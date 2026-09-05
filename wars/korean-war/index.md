@@ -40,8 +40,10 @@ updated: 2026-09-05
 - 防空作战（据本书逐役）：
   [[gaojiao1-yunshan-fangkong-1950-11|云山防空作战（志愿军高炮入朝首役）]] ·
   [[andong-yalu-bridge-airdef-1950-11|安东鸭绿江桥防空战（1950-11）]] ·
-  [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（高炮首落 B-29）]]；
+  [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（高炮首落 B-29）]] ·
+  [[dayudong-hq-airstrike-1950-11|大榆洞志司遇空袭（毛岸英牺牲，防空洞教训）]]；
   主力炮 [[sov-85mm-aa-gun|苏式 85mm 高炮]] ↔ [[japanese-type88-75mm-aa-gun|日制八八式 75mm 高炮]]。
+- 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
 - 反“绞杀战”及铁统抢修防空作战（既有）见 [[strangulation-war-counter-1951-1952]]；
   地面/谈判主干另有依 j03_ch10 的高炮铁道防空增补批次。
 
@@ -51,7 +53,8 @@ updated: 2026-09-05
   /李奇微/范佛里特（对手）·金日成等。
 - 既有人物（空军成长线）：[[li-han-pva|李汉]]、[[wang-hai-pva|王海]]。
 - 防空人物：[[wang-bingheng|王秉珩]]（高炮17团4连连长，安东首战击落喷气机者）·
-  [[han-jingshan|韩景山]]（高炮4团电话班长，以身作导线护通信壮烈牺牲）。
+  [[han-jingshan|韩景山]]（高炮4团电话班长，以身作导线护通信壮烈牺牲）·
+  [[mao-an-ying|毛岸英]]（志司参谋，大榆洞遇空袭牺牲〔防空源引述〕）。
 
 ## 装备与技术
 - 既有喷气机页：[[mig-15|MiG-15]] · [[f-86-sabre|F-86]] · [[polikarpov-po-2|波-2]]

@@ -72,7 +72,8 @@ updated: 2026-09-05
   对空首战）]]；整月保卫战：[[andong-yalu-bridge-airdef-1950-11|安东鸭绿江桥防空战（1950-11）]]
   · [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（1950-11~12，高炮首落 B-29）]]。
 - 人物：[[wang-bingheng|王秉珩]]（高炮第 17 团 4 连连长）· [[han-jingshan|韩景山]]
-  （高炮第 4 团电话班长，烈士）。
+  （高炮第 4 团电话班长，烈士）· [[mao-an-ying|毛岸英]]（志司殉难〔防空源引述〕）。
+- 防空预警/运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
 - 主力炮：[[sov-85mm-aa-gun|苏式 85mm 高射炮]]（中口径、B-29 击落先例）·
   [[japanese-type88-75mm-aa-gun|日制八八式 75mm 高射炮]]（首批入朝团老炮）；37mm 等随
   后续批次视需建页。
