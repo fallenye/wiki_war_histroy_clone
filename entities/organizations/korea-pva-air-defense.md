@@ -74,17 +74,20 @@ updated: 2026-09-05
   对空首战）]]；整月保卫战：[[andong-yalu-bridge-airdef-1950-11|安东鸭绿江桥防空战（1950-11）]]
   · [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（1950-11~12，高炮首落 B-29）]] ·
   [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951-02~03，四战四捷）]] ·
-  [[feiliujiang-bridge-airdef-1951|沸流江桥防空战（拉炮上山/俘飞行员 1951-02）]]。
+  [[feiliujiang-bridge-airdef-1951|沸流江桥防空战（拉炮上山/俘飞行员 1951-02）]] ·
+  [[yongdok-warehouse-night-airdef-1951|阳德仓库夜间防空战（夜战 B-26）]]。
 - 人物：[[wang-bingheng|王秉珩]]（高炮第 17 团 4 连连长）· [[han-jingshan|韩景山]]
   （高炮第 4 团电话班长，烈士）· [[li-jingui|李金贵]]（高炮 524/14 团 2 连连长）·
   [[li-honghua|李宏华]]（高炮 524 团 6 连连长）· [[mao-an-ying|毛岸英]]（志司殉难〔防空源引述〕）·
-  [[zhou-shidi|周士第]]（防空司令，军委防空领导主官）。
+  [[zhou-shidi|周士第]]（防空司令，军委防空领导主官）· [[chen-wenyi|陈文义]]
+  （阳德独立高炮营营长，夜战 B-26 探法）。
 - 野战师单位：[[field-aa-64th-div-korea|野战高炮第 64 师]]（辖 611/612 及指挥 524 团等；
   安州-清川、大宁江等）。
 - 防空预警/运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
 - 主力炮：[[sov-85mm-aa-gun|苏式 85mm 高射炮]]（中口径、B-29 击落先例）·
-  [[sov-76-2mm-aa-gun|苏式 76.2mm 高射炮]]（二战淘汰抵数，够不到高空 B-29）·
-  [[japanese-type88-75mm-aa-gun|日制八八式 75mm 高射炮]]（首批入朝团老炮）。
+  [[sov-37mm-aa-gun|苏式 37mm 高射炮]]（小口径主力）· [[sov-76-2mm-aa-gun|苏式 76.2mm
+  高射炮]]（二战淘汰抵数，够不到高空 B-29）· [[japanese-type88-75mm-aa-gun|日制八八式
+  75mm 高射炮]]（首批入朝团老炮）。
 - 专役专章（据 ch4-35，逐批增补为 events/… 并回链本页）；另见反绞杀战既有条目
   [[strangulation-war-counter-1951-1952]] 之防空侧描述。
 - 来源：[[kangmeiyuanchao-fangkong-zuozhan-shilu]]
