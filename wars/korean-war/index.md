@@ -41,7 +41,8 @@ updated: 2026-09-05
   [[gaojiao1-yunshan-fangkong-1950-11|云山防空作战（志愿军高炮入朝首役）]] ·
   [[andong-yalu-bridge-airdef-1950-11|安东鸭绿江桥防空战（1950-11）]] ·
   [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（高炮首落 B-29）]] ·
-  [[dayudong-hq-airstrike-1950-11|大榆洞志司遇空袭（毛岸英牺牲，防空洞教训）]]；
+  [[dayudong-hq-airstrike-1950-11|大榆洞志司遇空袭（毛岸英牺牲，防空洞教训）]] ·
+  [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951 四战四捷）]]；
   主力炮 [[sov-85mm-aa-gun|苏式 85mm 高炮]] ↔ [[japanese-type88-75mm-aa-gun|日制八八式 75mm 高炮]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
 - 反“绞杀战”及铁统抢修防空作战（既有）见 [[strangulation-war-counter-1951-1952]]；
@@ -52,8 +53,9 @@ updated: 2026-09-05
   洪学智、韩先楚、宋时轮（志愿军指挥层）·毛泽东/周恩来/高岗（决策）·麦克阿瑟
   /李奇微/范佛里特（对手）·金日成等。
 - 既有人物（空军成长线）：[[li-han-pva|李汉]]、[[wang-hai-pva|王海]]。
-- 防空人物：[[wang-bingheng|王秉珩]]（高炮17团4连连长，安东首战击落喷气机者）·
+- 防空人物：[[wang-bingheng|王秉珩]]（高炮17团4连长，安东首战击落喷气机）·
   [[han-jingshan|韩景山]]（高炮4团电话班长，以身作导线护通信壮烈牺牲）·
+  [[li-jingui|李金贵]]（高炮524/14团2连长，辑安首落B-29/大同江四战）·
   [[mao-an-ying|毛岸英]]（志司参谋，大榆洞遇空袭牺牲〔防空源引述〕）。
 
 ## 装备与技术
