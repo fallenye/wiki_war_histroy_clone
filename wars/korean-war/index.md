@@ -44,7 +44,8 @@ updated: 2026-09-05
   [[dayudong-hq-airstrike-1950-11|大榆洞志司遇空袭（毛岸英牺牲，防空洞教训）]] ·
   [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951 四战四捷）]] ·
   [[feiliujiang-bridge-airdef-1951|沸流江桥防空战（拉炮上山、俘飞行员）]] ·
-  [[yongdok-warehouse-night-airdef-1951|阳德仓库夜间防空战（夜战 B-26 战例）]]；
+  [[yongdok-warehouse-night-airdef-1951|阳德仓库夜间防空战（夜战 B-26 战例）]] ·
+  [[yalu-spring-1951-triple-bridge-airdef|春季鸭绿江三桥对空战（1951-03）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
@@ -62,7 +63,8 @@ updated: 2026-09-05
   [[li-honghua|李宏华]]（高炮524团6连长，沸流江拉炮上山指挥）·
   [[mao-an-ying|毛岸英]]（志司参谋，大榆洞遇空袭牺牲〔防空源引述〕）·
   [[zhou-shidi|周士第]]（防空司令，军委防空领导主官）·
-  [[chen-wenyi|陈文义]]（阳德高炮营营长，夜战 B-26 探法）。
+  [[chen-wenyi|陈文义]]（阳德高炮营营长，夜战 B-26 探法）·
+  [[zhang-peiguang|张培光]]（高炮505团电话员，断桥接线立功）。
 
 ## 装备与技术
 - 既有喷气机页：[[mig-15|MiG-15]] · [[f-86-sabre|F-86]] · [[polikarpov-po-2|波-2]]
