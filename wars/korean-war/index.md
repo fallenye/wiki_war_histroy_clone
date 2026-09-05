@@ -64,7 +64,8 @@ updated: 2026-09-05
   [[shangganling-aircover-anti-spotter-1952|上甘岭防空·反"蚊子机/炮兵校正机"掩护炮兵（1952-10~11）]] ·
   [[daningjiang-bridge-512reg-1952-11|激战大宁江·高炮512团保卫桥（1952-11-01/06）]] ·
   [[anzhou-sixdays-1953|安州六昼夜激战·反"购买计划"（1953-01-09~15）]] ·
-  [[searchlight-direct-blinding-escort-1953|探照灯照落敌机·夜战反护航（421团7连/401团8连 1953-03~06）]]；
+  [[searchlight-direct-blinding-escort-1953|探照灯照落敌机·夜战反护航（421团7连/401团8连 1953-03~06）]] ·
+  [[anzhou-0720-f86f-1953|安州 7-20 击落 F-86F 大捷（防空源"胜利的句号" 1953-07-20）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
