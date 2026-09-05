@@ -68,6 +68,10 @@ updated: 2026-09-05
 - 战争：[[wars/korean-war/index|朝鲜战争]]；时间线 [[wars/korean-war/timeline]]。
 - 兄弟系：空军线 [[pva-airforce-korea|志愿军空军/空联司]]（本书防空兵为地面防空，
   不并入空军战斗飞行页）。
-- 专役专章（据 ch4-35，逐批增补为 events/… 并回链本页）；例见反绞杀战既有条目
+- 入朝首役：[[gaojiao1-yunshan-fangkong-1950-11|高炮第1团云山防空战（1950-11 志愿军高炮
+  对空首战）]]。
+- 主力老炮：[[japanese-type88-75mm-aa-gun|日制八八式 75mm 高射炮]]（首批入朝团用，随后续批次
+  续补苏式 85mm/37mm 等专页）。
+- 专役专章（据 ch4-35，逐批增补为 events/… 并回链本页）；另见反绞杀战既有条目
   [[strangulation-war-counter-1951-1952]] 之防空侧描述。
 - 来源：[[kangmeiyuanchao-fangkong-zuozhan-shilu]]
