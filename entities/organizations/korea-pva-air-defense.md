@@ -73,10 +73,11 @@ updated: 2026-09-05
 - 入朝首役：[[gaojiao1-yunshan-fangkong-1950-11|高炮第1团云山防空战（1950-11 志愿军高炮
   对空首战）]]；整月保卫战：[[andong-yalu-bridge-airdef-1950-11|安东鸭绿江桥防空战（1950-11）]]
   · [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（1950-11~12，高炮首落 B-29）]] ·
-  [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951-02~03，四战四捷）]]。
+  [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951-02~03，四战四捷）]] ·
+  [[feiliujiang-bridge-airdef-1951|沸流江桥防空战（拉炮上山/俘飞行员 1951-02）]]。
 - 人物：[[wang-bingheng|王秉珩]]（高炮第 17 团 4 连连长）· [[han-jingshan|韩景山]]
   （高炮第 4 团电话班长，烈士）· [[li-jingui|李金贵]]（高炮 524/14 团 2 连连长）·
-  [[mao-an-ying|毛岸英]]（志司殉难〔防空源引述〕）。
+  [[li-honghua|李宏华]]（高炮 524 团 6 连连长）· [[mao-an-ying|毛岸英]]（志司殉难〔防空源引述〕）。
 - 防空预警/运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
 - 主力炮：[[sov-85mm-aa-gun|苏式 85mm 高射炮]]（中口径、B-29 击落先例）·
   [[japanese-type88-75mm-aa-gun|日制八八式 75mm 高射炮]]（首批入朝团老炮）；37mm 等随

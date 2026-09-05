@@ -42,7 +42,8 @@ updated: 2026-09-05
   [[andong-yalu-bridge-airdef-1950-11|安东鸭绿江桥防空战（1950-11）]] ·
   [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（高炮首落 B-29）]] ·
   [[dayudong-hq-airstrike-1950-11|大榆洞志司遇空袭（毛岸英牺牲，防空洞教训）]] ·
-  [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951 四战四捷）]]；
+  [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951 四战四捷）]] ·
+  [[feiliujiang-bridge-airdef-1951|沸流江桥防空战（拉炮上山、俘飞行员）]]；
   主力炮 [[sov-85mm-aa-gun|苏式 85mm 高炮]] ↔ [[japanese-type88-75mm-aa-gun|日制八八式 75mm 高炮]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
 - 反“绞杀战”及铁统抢修防空作战（既有）见 [[strangulation-war-counter-1951-1952]]；
@@ -56,6 +57,7 @@ updated: 2026-09-05
 - 防空人物：[[wang-bingheng|王秉珩]]（高炮17团4连长，安东首战击落喷气机）·
   [[han-jingshan|韩景山]]（高炮4团电话班长，以身作导线护通信壮烈牺牲）·
   [[li-jingui|李金贵]]（高炮524/14团2连长，辑安首落B-29/大同江四战）·
+  [[li-honghua|李宏华]]（高炮524团6连长，沸流江拉炮上山指挥）·
   [[mao-an-ying|毛岸英]]（志司参谋，大榆洞遇空袭牺牲〔防空源引述〕）。
 
 ## 装备与技术
