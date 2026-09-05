@@ -54,7 +54,8 @@ updated: 2026-09-05
   [[shunchon-chengchon-double-bridge-505-flood-1951|顺川成川双桥护交·夏洪保安（505团 1951）]] ·
   [[anzhou-hub-antistrangulation-airdef-1951-0708|安州枢纽反绞杀防空战（夏洪暴雨，513团/4连）]] ·
   [[geyan-station-airdef-63div-1951-12|阁岩车站保卫战（63师/607团冬季 1951-12）]] ·
-  [[dingshanli-longxian-bridge-524-1951|丁山里·长鲜江桥血战（524团机动 1951冬）]]；
+  [[dingshanli-longxian-bridge-524-1951|丁山里·长鲜江桥血战（524团机动 1951冬）]] ·
+  [[yuntian-deception-fake-gun-513-1952|云田"隐真示假"伏击战（513团 1952-03）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
