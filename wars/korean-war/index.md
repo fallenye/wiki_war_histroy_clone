@@ -48,7 +48,8 @@ updated: 2026-09-05
   [[yalu-spring-1951-triple-bridge-airdef|春季鸭绿江三桥对空战（1951-03）]] ·
   [[andong-airdef-1951-04|安东桥 4 月防空战（4-07 王秉珩殉；4-12 慰问团前 3 落 B-29）]] ·
   [[airfield-construction-protection-1951-spring|前推机场修建掩护（顺安/永柔/顺川 1951春）]] ·
-  [[shunchon-airfield-carpetbombing-counter-1951|顺川机场·遏制"地毯式轰炸"（524团 1951）]]；
+  [[shunchon-airfield-carpetbombing-counter-1951|顺川机场·遏制"地毯式轰炸"（524团 1951）]] ·
+  [[anju-jiang-ji-bridge-1951-07|安州双桥护交战（谈判期 1951-07）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
