@@ -61,7 +61,8 @@ updated: 2026-09-05
   [[guoshan-bridge-night-coord-airdef-1952|郭山大桥空·炮·灯协同夜战（62师+探照灯 1952-06-10）]] ·
   [[supung-hydro-plant-defense-1952-06|保卫水丰发电站·大坝保卫战（504团 1952-06-23，兼后续夜袭拦截）]] ·
   [[pyongyang-defense-airdef-533-1952-08|保卫平壤·高炮533团入朝第一仗（1952-08-29）]] ·
-  [[shangganling-aircover-anti-spotter-1952|上甘岭防空·反"蚊子机/炮兵校正机"掩护炮兵（1952-10~11）]]；
+  [[shangganling-aircover-anti-spotter-1952|上甘岭防空·反"蚊子机/炮兵校正机"掩护炮兵（1952-10~11）]] ·
+  [[daningjiang-bridge-512reg-1952-11|激战大宁江·高炮512团保卫桥（1952-11-01/06）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
