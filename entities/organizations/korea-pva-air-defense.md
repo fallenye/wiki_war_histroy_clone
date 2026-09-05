@@ -81,7 +81,8 @@ updated: 2026-09-05
   · [[jian-mampo-bridge-airdef-1950|辑安—满浦桥防空战（1950-11~12，高炮首落 B-29）]] ·
   [[shuncheon-taedong-bridge-airdef-1951|顺川大同江桥防空战（1951-02~03，四战四捷）]] ·
   [[feiliujiang-bridge-airdef-1951|沸流江桥防空战（拉炮上山/俘飞行员 1951-02）]] ·
-  [[yongdok-warehouse-night-airdef-1951|阳德仓库夜间防空战（夜战 B-26）]]。
+  [[yongdok-warehouse-night-airdef-1951|阳德仓库夜间防空战（夜战 B-26）]] ·
+  [[andong-airdef-1951-04|安东桥 4 月防空战（王秉珩殉/慰问 3落 B-29）]]。
 - 人物：[[wang-bingheng|王秉珩]]（高炮第 17 团 4 连连长）· [[han-jingshan|韩景山]]
   （高炮第 4 团电话班长，烈士）· [[li-jingui|李金贵]]（高炮 524/14 团 2 连连长）·
   [[li-honghua|李宏华]]（高炮 524 团 6 连连长）· [[mao-an-ying|毛岸英]]（志司殉难〔防空源引述〕）·
