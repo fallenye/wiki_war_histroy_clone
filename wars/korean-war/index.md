@@ -46,7 +46,8 @@ updated: 2026-09-05
   [[feiliujiang-bridge-airdef-1951|沸流江桥防空战（拉炮上山、俘飞行员）]] ·
   [[yongdok-warehouse-night-airdef-1951|阳德仓库夜间防空战（夜战 B-26 战例）]] ·
   [[yalu-spring-1951-triple-bridge-airdef|春季鸭绿江三桥对空战（1951-03）]] ·
-  [[andong-airdef-1951-04|安东桥 4 月防空战（4-07 王秉珩殉；4-12 慰问团前 3 落 B-29）]]；
+  [[andong-airdef-1951-04|安东桥 4 月防空战（4-07 王秉珩殉；4-12 慰问团前 3 落 B-29）]] ·
+  [[airfield-construction-protection-1951-spring|前推机场修建掩护（顺安/永柔/顺川 1951春）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
@@ -65,7 +66,8 @@ updated: 2026-09-05
   [[mao-an-ying|毛岸英]]（志司参谋，大榆洞遇空袭牺牲〔防空源引述〕）·
   [[zhou-shidi|周士第]]（防空司令，军委防空领导主官）·
   [[chen-wenyi|陈文义]]（阳德高炮营营长，夜战 B-26 探法）·
-  [[zhang-peiguang|张培光]]（高炮505团电话员，断桥接线立功）。
+  [[zhang-peiguang|张培光]]（高炮505团电话员，断桥接线立功）·
+  [[dong-zhaohua|董兆华]]（高炮524团3连长，顺川/沸流捕飞）。
 
 ## 装备与技术
 - 既有喷气机页：[[mig-15|MiG-15]] · [[f-86-sabre|F-86]] · [[polikarpov-po-2|波-2]]
