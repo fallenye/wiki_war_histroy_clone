@@ -62,7 +62,8 @@ updated: 2026-09-05
   [[supung-hydro-plant-defense-1952-06|保卫水丰发电站·大坝保卫战（504团 1952-06-23，兼后续夜袭拦截）]] ·
   [[pyongyang-defense-airdef-533-1952-08|保卫平壤·高炮533团入朝第一仗（1952-08-29）]] ·
   [[shangganling-aircover-anti-spotter-1952|上甘岭防空·反"蚊子机/炮兵校正机"掩护炮兵（1952-10~11）]] ·
-  [[daningjiang-bridge-512reg-1952-11|激战大宁江·高炮512团保卫桥（1952-11-01/06）]]；
+  [[daningjiang-bridge-512reg-1952-11|激战大宁江·高炮512团保卫桥（1952-11-01/06）]] ·
+  [[anzhou-sixdays-1953|安州六昼夜激战·反"购买计划"（1953-01-09~15）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
@@ -86,7 +87,8 @@ updated: 2026-09-05
   [[zhang-antong|张安桐]]（高炮524团2连炮长，改弹击落B-29）·
   [[sitaizhi-504-reg-9co|斯太志]]（高炮504团9连指导员，1952-06-23 水丰大坝保卫战牺牲）·
   [[lujiquan-533|卢纪泉]]（高炮533团1连连长，1952-08-29 平壤保卫战屡落敌机）·
-  [[peng-zixin-119-artillery|彭子新]]（119师高炮营参谋长，上甘岭前沿潜伏单炮反炮兵校正机）。
+  [[peng-zixin-119-artillery|彭子新]]（119师高炮营参谋长，上甘岭前沿潜伏单炮反炮兵校正机）·
+  [[xing-shaozhou-502|邢绍洲]]（502团1营1连连长，安州六昼夜"上甘岭"钉子阵，1953-01）。
 
 ## 装备与技术
 - 既有喷气机页：[[mig-15|MiG-15]] · [[f-86-sabre|F-86]] · [[polikarpov-po-2|波-2]]
