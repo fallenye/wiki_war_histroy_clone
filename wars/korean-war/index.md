@@ -58,7 +58,8 @@ updated: 2026-09-05
   [[yuanli-saturation-bombing-524-1952|院里—兰田里抗击"饱和轰炸"（524团 1952-04）]] ·
   [[nantingli-warehouse-airdef-24-1952|楠亭里仓库保卫战（独立24营 1952-05-08）]] ·
   [[yuntian-deception-fake-gun-513-1952|云田"隐真示假"伏击战（513团 1952-03）]] ·
-  [[guoshan-bridge-night-coord-airdef-1952|郭山大桥空·炮·灯协同夜战（62师+探照灯 1952-06-10）]]；
+  [[guoshan-bridge-night-coord-airdef-1952|郭山大桥空·炮·灯协同夜战（62师+探照灯 1952-06-10）]] ·
+  [[supung-hydro-plant-defense-1952-06|保卫水丰发电站·大坝保卫战（504团 1952-06-23，兼后续夜袭拦截）]]；
   主力炮 [[sov-85mm-aa-gun|苏85mm]] · [[sov-76-2mm-aa-gun|苏76.2mm]] ·
   [[sov-37mm-aa-gun|苏37mm]] ↔ [[japanese-type88-75mm-aa-gun|日制75mm]]。
 - 防空预警／运输防空制度：[[fang-kong-shao-sentry-earlywarning|防空哨（对空监视哨）]]。
@@ -79,7 +80,8 @@ updated: 2026-09-05
   [[chen-wenyi|陈文义]]（阳德高炮营营长，夜战 B-26 探法）·
   [[zhang-peiguang|张培光]]（高炮505团电话员，断桥接线立功）·
   [[dong-zhaohua|董兆华]]（高炮524团3连长，顺川/沸流捕飞）·
-  [[zhang-antong|张安桐]]（高炮524团2连炮长，改弹击落B-29）。
+  [[zhang-antong|张安桐]]（高炮524团2连炮长，改弹击落B-29）·
+  [[sitaizhi-504-reg-9co|斯太志]]（高炮504团9连指导员，1952-06-23 水丰大坝保卫战牺牲）。
 
 ## 装备与技术
 - 既有喷气机页：[[mig-15|MiG-15]] · [[f-86-sabre|F-86]] · [[polikarpov-po-2|波-2]]
