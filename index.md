@@ -19,6 +19,8 @@ Rolling Thunder 战役层资料，并开始 WWII 海军陆基巡逻航空（DANA
 - [[wars/gulf-war/index|海湾战争]]（沙漠盾牌/风暴及战后禁飞区）
 - [[wars/world-war-ii/index|第二次世界大战]]（现有：海军重巡逻陆基中队 VP-HL-1/3/5 等）
 - [[wars/korean-war/index|朝鲜战争（抗美援朝）]]（志愿军空军线与官方全史主干＋防空兵线，见 来源⑦/⑧/⑫）
+- [[wars/cold-war-cuban-missile-crisis/index|古巴导弹危机（冷战 1962）]]（核对抗/危机决策线；来源⑬，
+  与电子战线 Price 卷二 ch19-20 互参）
 
 ## 主要战役/事件入口（越南战争）
 
@@ -74,6 +76,22 @@ Review 10-1, 2007）** → [[sources/apr-vol10-iss1-odell|来源页]]（RAF 侧�
  → [[sources/kangmeiyuanchao-fangkong-zuozhan-shilu|来源页]]。**朝鲜战争志愿军地面防空兵线**
  专源（高射炮兵/探照灯/雷达反轰炸反封锁叙事）：建立 [[entities/organizations/korea-pva-air-defense|志愿军防空兵(org)]]，
  逐章 canonical 随后续批次增补。
+来源⑬：**Michael Dobbs《One Minute to Midnight：Kennedy, Khrushchev, and Castro on the Brink of
+ Nuclear War》（Knopf 2008）** → [[sources/one-minute-to-midnight-dobbs|来源页]]。**古巴导弹危机（1962）
+ 冷战核危机线**主源（分钟级叙事史）；开 [[wars/cold-war-cuban-missile-crisis/index|冷战线]]。
+来源⑭：**Graham Allison & Philip Zelikow《Essence of Decision: Explaining the Cuban Missile Crisis》
+（2nd ed., Addison-Wesley 1999）** → [[sources/essence-of-decision-allison-zelikow|来源页]]。**决策分析
+ 经典**（三模型框架）+ 据 1990s 档案对危机史实之修正/补充（同上冷战线）。
+来源⑮：**Gregory W. Pedlow & Donald E. Welzenbach《The CIA and the U-2 Program, 1954–1974》（CIA
+ 历史参谋部 1998，OCR 扫描）** → [[sources/cia-and-u2-program-pedlow-welzenbach|来源页]]。**U-2 项目
+ 官方史**（冷战越界侦察），含古巴 1962 U-2 侦察之权威时间线与指挥关系（同上冷战线；并补 U-2 项目线）。
+来源⑯：**Matthew M. Aid & Cees Wiebes (eds.)《Secrets of Signals Intelligence during the Cold War
+ and Beyond》（Frank Cass · Studies in Intelligence，2001）** → [[sources/secrets-sigint-cold-war-aid-wiebes|来源页]]。
+ **冷战后 SIGINT 史学开创性论文集**（NSA/GCHQ/加/西德/法/北欧/荷兰诸篇）：建立 SIGINT 概念（Comint/Elint/
+ Fisint）与 NSA/GCHQ/UKUSA 组织线，并行接冷战线。
+来源⑰：**Philip Taubman《Secret Empire：Eisenhower, the CIA, and the Hidden Story of America's Space
+ Espionage》（Simon & Schuster 2003，OCR 扫描）** → [[sources/secret-empire-taubman|来源页]]。**越顶侦察
+ 全景史**（U-2／SR-71／CORONA 卫星；艾森豪威尔—CIA 秘密体系），接入冷战线（古巴危机“卫星无用、U-2 顶用”之判断）。
 主题枢纽：[[concepts/sead|防空压制 SEAD/DEAD]]；
 平台谱系：[[entities/equipment/f-100f-wild-weasel-i|F-100F]] →
 [[entities/equipment/f-105-wild-weasel|F-105]] →
@@ -112,4 +130,34 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
   建立 sources 页与 [[entities/organizations/korea-pva-air-defense|志愿军防空兵]]org 骨架，
   时间线加〔防〕标目；逐章(高炮/探照灯反轰炸反封锁各役)后续按“继续摄入”逐批增补，断点见 log。
 - 尚未建立 topics/、timelines/master.md。
+- 〔冷战线，2026-09-29〕新增**古巴导弹危机（1962）**线，来源⑬ Michael Dobbs《One Minute to Midnight》
+  （→ [[sources/one-minute-to-midnight-dobbs|来源页]]）：建立
+  [[wars/cold-war-cuban-missile-crisis/index|战争线索引]]＋[[wars/cold-war-cuban-missile-crisis/timeline|时间线]]，
+  及 6 事件页（黑色星期六／U-2 被击落／Maultsby 越境／B-59 上浮／海上隔离／化解）、
+  8 装备页（R-12、R-14、FKR、Jupiter、U-2、USS Oxford；SA-2 增补）、
+  5 组织页（Anadyr、第 43 导弹师、ExComm、JCS/OPLAN 316、SAC）、
+  14 人物页。
+- 〔冷战线，2026-09-29 增补〕来源⑭ Allison & Zelikow《Essence of Decision》2nd ed.（→
+  [[sources/essence-of-decision-allison-zelikow|来源页]]）：**分析框架 + 档案修正**。新建
+  [[concepts/three-models-government-behavior|政府行为三模型]]、[[concepts/anadyr-deployment-motives|部署动机四假说]]
+  概念页，及事件页 [[cuban-missile-crisis-turkey-deal-secret-channel-1962-10-27|土耳其交易秘密双轨]]；
+  据此补 [[cuban-missile-crisis-resolution-1962-10-28|化解]] 页苏方决策内情、补时间线危机前信号（〔析〕）。
+  见 log（SCHEMA 说明：均属既有 `war`/`event`/`entity`/`concept`/`source` 类型，未改 SCHEMA）。
+- 〔冷战线，2026-09-29 增补〕来源⑮ CIA 官方史 Pedlow & Welzenbach《The CIA and the U-2 Program,
+  1954–1974》（→ [[sources/cia-and-u2-program-pedlow-welzenbach|来源页]]，OCR）：新建
+  [[concepts/u2-aquatone-program|U-2／AQUATONE 项目]]、[[events/grand-slam-u2-powers-shootdown-1960-05-01|GRAND SLAM·Powers 1960]]、
+  [[entities/organizations/cia-office-of-special-activities|CIA 特别行动处（OSA）]]；据 CIA 档案**修正/细化**
+  [[entities/equipment/u-2-reconnaissance|U-2 页]]与 [[u2-shootdown-cuba-1962-10-27|古巴 U-2 事件]]（10-12 指挥权
+  由 CIA 移交国防部、10-14 首飞发现者系 SAC 飞行员、Anderson 之机为 CIA 借予之 U-2C、IDEALIST 459 小时等）。
+- 〔情报·SIGINT 线，2026-09-29〕来源⑯ Aid & Wiebes《Secrets of Signals Intelligence during the Cold War
+  and Beyond》（→ [[sources/secrets-sigint-cold-war-aid-wiebes|来源页]]，OCR）：新建
+  [[concepts/sigint|信号情报 SIGINT（Comint/Elint/Fisint）]]、[[concepts/ukusa-alliance|UKUSA 协定]]、
+  [[entities/organizations/nsa|NSA]]、[[entities/organizations/gchq|GCHQ]]；与既有
+  [[concepts/electronic-warfare-cold-war-1946-64|电子战·冷战早期]]互参（EW=对抗／SIGINT=收集），
+  并接入冷战线情报机构节。见 log（未改 SCHEMA）。
+- 〔越顶侦察·卫星线，2026-09-29〕来源⑰ Taubman《Secret Empire》（→ [[sources/secret-empire-taubman|来源页]]，OCR）：
+  新建 [[concepts/corona-reconnaissance-satellite|CORONA 照相侦察卫星]]、
+  [[events/discoverer-xiv-first-film-recovery-1960-08-19|Discoverer XIV 首次回收（1960-08-19）]]、
+  [[entities/organizations/cia-directorate-science-technology|CIA 科技处（DS&T）]]；补 U-2 项目页卫星衔接节、
+  冷战线 index 增“越顶侦察·卫星线”节与危机判断（CORONA 在古巴危机“完全无用”）。见 log（未改 SCHEMA）。
 - 资料层：raw/papers 保存原始 PDF 与提取文本；更新记录见 [[log.md|log.md]]。

@@ -6,10 +6,11 @@ equipment_type: missile
 wars:
   - vietnam-war
   - gulf-war
+  - cold-war-cuban-missile-crisis
 tags: [equipment, sam]
-sources: [f-4-wild-weasel-units-in-combat, f-105-wild-weasel-vs-sa2, rolling-thunder-1965-68-hallion]
+sources: [f-4-wild-weasel-units-in-combat, f-105-wild-weasel-vs-sa2, rolling-thunder-1965-68-hallion, one-minute-to-midnight-dobbs, us-electronic-warfare-history-vol2-price]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-29
 ---
 
 # SA-2 Guideline（S-75 Dvina）
@@ -25,7 +26,11 @@ updated: 2026-09-02
 - 雷达配套：制导 "Fan Song"（RSNA-75）、搜索 P-12 "Spoon Rest"、U 形测高 PRV-11
   "Side Net" 等；车辆可公路运输（PR-11AM 转运车、SM-63-1 单轨发射架、ZiL-151）。
 - 1962-10-27 古巴击落 4080th SRW U-2F（Major Rudy Anderson 亡）；1960-05-01 击落
-  U-2C（Gary Powers）。
+  U-2C（Gary Powers）。〔古巴役细节据
+  [[one-minute-to-midnight-dobbs|Dobbs]]：Banes 阵地（Maj Ivan Gerchenov 指挥）以
+  Spoon Rest 搜索、Fruit Set 火控制导，近炸引信两弹齐发；下令链为 Grechko/Garbuz（El Chico 代
+  Pliyev）→ Camagüey 师部 → Victoria de las Tunas 团部，见
+  [[u2-shootdown-cuba-1962-10-27|事件页]]。〕
 - 越战威胁演进：到 1965-12，Hanoi/Haiphong 一带已部署约 64 座可作战 SA-2 阵地；
   到 1967 年，北越的 "Fan Song" 单元数已从 WW I 初的约 20 部增至约 270 部。
 - SA-2 自 1960s-1990s 长期构成美国反击对象；野鼬机动要点与电子对策见 [[sead]]。

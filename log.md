@@ -1362,3 +1362,166 @@
 - 甄别：本批为书尾溯源增补，**无新行动/装备/代表人物 canonical 开页**（衬底不出现既有页外的新战斗/新装备/可立人物；25 篇作者多即既有役页中团连指挥，随役随叙不作新 person）。书主线至此判定**摄入完整**。
 - QA：newpages-check 1 source file CLEAN（自加表内 wikilink 全解析；`warn non-SCHEMA key source_kind` 与 glitch hw-punct 行59 TOC 为历史既有、非本次所示）；SCHEMA 191cd2 未变；内容页仍 203（改既有源页、非新增文件）。
 - 断点：防空书整本（35 章正文+spine+书末衬底）已全；后续若需新增 canonical 应为另取一源分线（该库既有 空军线 yingjichangkong 或 官方 CAMS 主干线可作下一来源续摄入）按用户指令开页——本条为应对「继续摄入」之书内已穷、非臆造新页。
+
+### 2026-09-29（冷战线批1·新来源⑬ Michael Dobbs《One Minute to Midnight》（古巴导弹危机 1962）开新战争线）
+- 来源：/mnt/share/test/One minute to midnight… (Dobbs Michael).epub
+  SHA256 36ab4e41012e43b4f072cf4c3aa5e13c014ddcce9d08ea1bde1eeea3d1067c86（与库内既有 hash 全不同，新源）。
+- 提取：EPUB 本地解包（zipfile）＋ HTML 正文抽取（未 OCR）→ raw/papers/one-minute-to-midnight-dobbs/
+  {one-minute-to-midnight-dobbs.epub, one-minute-to-midnight-dobbs.txt}（79 文档、约 100.9 万字符，
+  含 split 分节标记；图片页仅取图注）。
+- 判读：本书为**古巴导弹危机**（Cuban Missile Crisis 1962）分钟级叙事史，非本库既有四战（二战/朝鲜/越南/海湾）
+  之一 → 按库规**不塞入既有战争线**，新建**冷战线**（核对抗/危机决策）：
+  wars/cold-war-cuban-missile-crisis/{index,timeline}。**未改 SCHEMA.md**（沿用既有 type: war / event /
+  entity / source；冷战线 = 新战争线，Schema §1 明列可扩展至不同时期战争）。**无 SCHEMA EXTENSION PROPOSAL。**
+- 新建（canonical，共 33 个文件）：
+  · sources/one-minute-to-midnight-dobbs（来源页；sha256/provenance/结构/性质）
+  · wars/cold-war-cuban-missile-crisis/{index, timeline}
+  · events（6）：cuban-missile-crisis-black-saturday-1962-10-27（顶点全景）；u2-shootdown-cuba-1962-10-27；
+    u2-maultsby-siberia-incursion-1962-10-27；b59-submarine-forced-surface-1962-10-27；
+    cuban-missile-crisis-naval-quarantine-1962；cuban-missile-crisis-resolution-1962-10-28
+  · entities/equipment（6）：r-12-missile、r-14-missile、fkr-cruise-missile、jupiter-mrmb、
+    u-2-reconnaissance、uss-oxford-agtr-2
+  · entities/organizations（5）：operation-anadyr、soviet-43-missile-division、excomm、
+    jcs-cuba-invasion-plan-1962、sac
+  · entities/people（14）：rudolf-anderson、charles-maultsby、vasily-arkhipov、valentin-savitsky、
+    nikita-khrushchev、fidel-castro、che-guevara、issy-pliyev、igor-statsenko、
+    john-f-kennedy、robert-kennedy、robert-mcnamara、maxwell-taylor、curtis-lemay
+- 更新（既有页）：
+  · entities/equipment/sa-2-guideline：wars 增 cold-war-cuban-missile-crisis；sources 增
+    one-minute-to-midnight-dobbs、us-electronic-warfare-history-vol2-price；补古巴 1962-10-27 击落细节
+    （Banes/Gerchenov、Spoon Rest/Fruit Set、下令链 Grechko/Garbuz）；updated→2026-09-29。
+  · index.md：战争入口增冷战线；状态节增〔冷战线〕条。
+  · concepts/electronic-warfare-cold-war-1946-64：分卷承接增古巴线相参。
+- 甄别：不新开跨战争重复页——SA-2 复用既有 canonical（只增补，不另建）；U-2 新建（原库无 U-2 页，检查后确认）；
+  敌情人物只建对危机有实质作用的（Khrushchev/Castro/Pliyev/Statsenko/Kennedy 兄弟/McNamara/Taylor/LeMay/
+  Anderson/Maultsby/Arkhipov/Savitsky/Guevara），未为一次性配角建页。
+- 史料处理：按原书口径记录；作者明示的不确定（赫鲁晓夫对卡斯特罗电文之解读 "correctly or wrongly"、B-59 核鱼雷
+  情节源自 Orlov 四十年后回忆）均**照录并标注来源**，不代为坐实；「战果/数字」标原书口径。
+- QA：newpages 检查——全部新页 YAML 解析 OK；35 个新/改文件内 wikilink 全部解析（0 断链）；
+  SCHEMA 191cd2 未变；raw 已存（原 .epub ＋提取 .txt）；内容页 203 → +33 = 236。
+- 断点：本批为冷战线**首批**（源页＋战争线主干＋黑色星期六核心事件/装备/组织/人物骨架）；本书十四章
+  之逐章细目（ch4-7 封锁/情报/核弹头细节、Afterword 后续）未逐字深描，可后续按「继续摄入」续补。
+
+### 2026-09-29（冷战线批2·来源⑭ Allison & Zelikow《Essence of Decision》2nd ed.——分析框架+档案修正；无新战争线）
+- 来源：/mnt/share/test/Essence of Decision Explaining the Cuban Missile Crisis (2nd Edition) (Graham Allison, Philip Zelikow).epub
+  SHA256 25fe96687e966189d33013e40a80dacf5c645db7a0ce3ab559087e95870569fe（与库内 hash 不同，新源）。
+- 提取：EPUB 本地解包（zipfile）＋HTML 正文抽取（未 OCR）→ raw/papers/essence-of-decision-allison-zelikow/
+  {….epub, ….txt}（17 文档 / 约 112.4 万字符）。
+- 判读：本书为**决策分析经典**（Allison 1971 初版 / 1999 二版）——以古巴导弹危机为案例提出三模型
+  （理性行动者／组织行为／政府政治），并据 1990s 美苏解密档案**修正第一版史实**。归入**既有冷战线**
+  （wars/cold-war-cuban-missile-crisis，批1 已建），**不新建线**；**未改 SCHEMA.md**。
+- 新建（canonical，5 文件）：
+  · sources/essence-of-decision-allison-zelikow（来源页；sha256/结构/论点/性质）
+  · concepts/three-models-government-behavior（三模型分析框架；跨战争/跨事件通用概念）
+  · concepts/anadyr-deployment-motives（苏部署动机四假说：古巴保卫/冷战术/导弹力量/柏林 + 危机前信号与误判）
+  · events/cuban-missile-crisis-turkey-deal-secret-channel-1962-10-27（土耳其交易公开/秘密双轨）
+- 更新（既有页）：events/cuban-missile-crisis-resolution-1962-10-28（加 sources；补苏方 Presidium 决策内情：
+  赫氏“为拯救世界必须退却”、Dobrynin 电报抵达时序、Pliyev 被申斥、令苏机停飞）；
+  events/cuban-missile-crisis-black-saturday-1962-10-27（加 sources + 三模型关联）；
+  wars/cold-war-cuban-missile-crisis/{index,timeline}（加 sources；index 增“分析框架”节与来源；
+  timeline 增危机前信号〔析〕条：1962-02/09-04/09-11/09-13/09-19/09-28、5 月动机四假说、土耳其双轨）；
+  根 index.md（来源列表增来源⑬⑭、状态节增〔冷战线增补〕条）。
+- 甄别（复用/不重复建页）：**不新开** war/event/entity 重复页——Dobbs 批1 已建的 6 事件/6 装备/5 组织/
+  14 人物页**全部复用**，本批只补来源与内容；不拆出“Allison 版”平行页（一实体一权威页）。新增仅 2 concept
+  （本书独有之分析框架与四假说综合）＋1 event（土耳其秘密通道，Dobbs 页仅略述、本书提供公开/秘密双轨
+  与 Bundy 备忘详证，故独立成页并双向链接）。
+- 史料处理：两源并列、不强行统一——10-28 撤弹“先于/后于美方加码”之辨（本书据苏档案：赫氏在得知美已
+  愿撤土耳其导弹**之前**即选择撤弹；称更贴切类比为《罗生门》而非“Trollope Ploy”）以〔析〕标注来源，
+  与 Dobbs 叙述并置；数字/引文按原书口径。
+- QA：全部新/改文件 YAML 解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA 191cd2 未变；
+  raw 已存（原 .epub ＋ 提取 .txt）；内容页 236 → +5 = 241。
+- 断点：冷战线现有两源（Dobbs 叙事 + Allison/Zelikow 分析/档案）。本书三模型之其余案例细节（ch4 组织
+  细节、ch6 发现/选择之政治全文）未逐字深描，可后续按「继续摄入」续补。
+
+### 2026-09-29（冷战线批3·来源⑮ CIA 官方史《The CIA and the U-2 Program, 1954–1974》——U-2 项目线 + 古巴侦察权威修正）
+- 来源：/mnt/share/test/CIA-and-U2-Program.pdf（用户提示：OCR 版，字词或有识别错误）
+  SHA256 1012a192f78920dc4370312a48ca3c4a987b50e8ff6dde2712f3d4e001ef53ff（新源）。
+- 提取：pdftotext -layout（CIA PDF 自带的 Paper Capture OCR 文本层，未重跑 OCR）→
+  raw/papers/cia-and-u2-program-pedlow-welzenbach/{….pdf, ….txt}（272 页 / 约 58.5 万字符）。
+  OCR 甄别：识别错字多（如 Volume→voiume、program→program、人名/型号偶错位），引用时对可疑字词标〔OCR〕
+  并按上下文校订；部分段落有解密删节（E.O. 12958 §1.5(a)(c)(d)(g)，正文以 ■■■/空白表示），照录不填补。
+- 判读：CIA 历史参谋部官方专史（U-2 项目 1954–74）。归入**既有冷战线**（不新建线）——本书之古巴 1962 u-2
+  侦察章节属该线；其 U-2 项目起源/发展部分为**新装备项目线**（concept/event/org），亦挂于冷战线。
+  **未改 SCHEMA.md。**
+- 新建（canonical，4 文件）：
+  · sources/cia-and-u2-program-pedlow-welzenbach（来源页；sha256/结构/性质/OCR+删节说明）
+  · concepts/u2-aquatone-program（U-2/AQUATONE 项目：缘起、CL-282、保密与掩护、分队制、总统否决权、
+    GRAND SLAM、IDEALIST/NIMBUS 代号、OXCART、DS&T 遗产）
+  · events/grand-slam-u2-powers-shootdown-1960-05-01（GRAND SLAM 任务、1960-05-01 Powers 被 SA-2 击落、
+    自毁装置仅毁相机之澄清、苏营三弹齐射误击友机、巴黎首脑会议破裂）
+  · entities/organizations/cia-office-of-special-activities（CIA 特别行动处 OSA；Ledford 1/6 损失率评估、撤编）
+- 更新（既有页，据 CIA 档案修正/细化）：
+  · entities/equipment/u-2-reconnaissance：加 sources；增“项目与型号背景（CL-282/AQUATONE/IDEALIST/U-2C/
+    NASA 掩护/OXCART/U-2R）”；危机作用节增〔CIA 史修正〕——**1962-10-12 古巴 U-2 侦察责任由 CIA 移交
+    国防部**、**10-14 首飞发现导弹者为 SAC 飞行员（非 CIA）**、Anderson 所驾为 **CIA 借予空军之 U-2C**、
+    9 月收紧航线（in-and-out/避 SAM/云量<25%）、IDEALIST 1961–62 在古巴共飞 **459 小时**、卫星因轨时不利
+    而无法替代 U-2 高分辨照相。
+  · events/u2-shootdown-cuba-1962-10-27：加 sources；〔CIA 史〕补机源（CIA 借予之 U-2C）与指挥权移交背景、
+    危机间 CIA 飞行员未再飞古巴。
+  · wars/cold-war-cuban-missile-crisis/{index,timeline}：加 sources；index 增“高空侦察与 U-2 相关事件”节；
+    timeline 增 10-12（指挥权移交）〔CIA 史〕条、修订 10-14 与 10-27 条目之〔CIA 史〕注。
+  · 根 index.md：来源列表增来源⑮；状态节增〔冷战线增补〕条。
+- 甄别（复用/不重复建页）：既有 [[entities/equipment/u-2-reconnaissance|U-2 装备页]]**复用并增补**（不另建
+  “CIA 史版 U-2”）；SA-2 页已含 1960/1962 两例，本批以链接互参不重写。新建仅 1 concept＋1 event＋1 org
+  （均为本书独有之项目史/官方事件细节）。
+- 史料处理：与既有源并列——1962-10-14 发现导弹一事，Dobbs 记 Heyser（CIA 系统飞行员）执飞，CIA 官方史
+  明确该次为**空军（SAC）飞行员**执飞（因 10-12 责任已移交国防部）；两说并置并各标来源，不擅断
+  （差异或因“飞机归 CIA、飞行员归空军”之双重身份/不同统计口径）。
+- QA：全部新/改文件 YAML 解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA 191cd2 未变；
+  raw 已存（原 .pdf ＋ 提取 .txt）；内容页 239 → +4 = 243。
+- 断点：冷战线现有三源（Dobbs 叙事 / Allison-Zelikow 分析 / CIA U-2 官方史）。本书更早章节（战后 RB-47
+  渗透、Suez、Lebanon、亚洲 Detachment C/G、OXCART ch6）未逐章深描，可后续按「继续摄入」续补。
+
+### 2026-09-29（冷战线批4·来源⑯ Aid & Wiebes《Secrets of Signals Intelligence during the Cold War and Beyond》——SIGINT 概念与机构线）
+- 来源：/mnt/share/test/Secrets of Signals Intelligence during the Cold War and Beyond (Matthew M. Aid,
+  Cees Wiebes (eds.)).pdf  SHA256 068990c5c3f9bc7033675aa9cc7d8f716fcab4464c0610ba4143b876eadb81ba（新源）。
+- 提取：pdftotext -layout（ABBYY FineReader 8 扫描 OCR 文本层，未重跑 OCR）→
+  raw/papers/secrets-sigint-cold-war-aid-wiebes/{….pdf, ….txt}（363 页 / 约 104 万字符）。
+- 判读：冷战 SIGINT 史学开创性论文集（Cass Studies in Intelligence）。建立**情报学科/机构线**，与既有
+  电子战线互补（EW=对抗，SIGINT=收集）；古巴、朝鲜、越南各线均可挂接。归入冷战线体系，**未改 SCHEMA.md**。
+- 新建（canonical，5 文件）：
+  · sources/secrets-sigint-cold-war-aid-wiebes（来源页；sha256/结构/10 章/核心论点）
+  · concepts/sigint（SIGINT 定义与三分类 Comint/Elint/Fisint + 九大内在特性 + 数据）
+  · concepts/ukusa-alliance（英美加澳新 SIGINT 联盟 BRUSA 1946/UKUSA 1948）
+  · entities/organizations/nsa（NSA：SSA/OP-20-G→ASA/CSA→AFSA→1952 NSA；规模 30k→65k；70 站网；
+    CRITICOMM；146 殉职/60 越南/USS Liberty 34）
+  · entities/organizations/gchq（GCHQ：Bletchley→Eastcote→Cheltenham；初期对苏原子弹）
+- 更新（既有页）：concepts/electronic-warfare-cold-war-1946-64（加 SIGINT 互参节）；
+  wars/cold-war-cuban-missile-crisis/index（加 SIGINT 情报机构节 + 主要来源）；
+  根 index.md（来源⑯ + 状态节〔SIGINT 线〕条）。
+- 甄别（不重复建页）：Sigint 与既有 Price 卷二之 ELINT/EW 记录**互补不重复**——本批只建“收集/破译/机构”
+  层面新页；Elint 交集处互链（[[concepts/sigint]]↔[[concepts/electronic-warfare-cold-war-1946-64]]）。
+  第 4-9 章（加 CSE/西德 BND/法/北欧/荷兰/荷兰-印尼）为**国别 SIGINT**，本批未逐章建页（留待续摄或按需）。
+- 史料处理：数字（人员/站数/报告量/破译量/殉职数）按原书口径照录；OCR 错字按上下文校订。
+- QA：新/改文件 YAML 解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA 191cd2 未变；
+  raw 已存（原 .pdf ＋ 提取 .txt）；内容页 243 → +5 = 248。
+- 断点：国别章节（加/西德/法/北欧/荷兰/荷兰-印尼）与 ch10 结论未逐章深描，可后续按「继续摄入」续补。
+
+### 2026-09-29（冷战线批5·来源⑰ Taubman《Secret Empire》——越顶侦察全景（U-2/SR-71/CORONA 卫星）线）
+- 来源：/mnt/share/test/Secret empire Eisenhower, the CIA, and the hidden story of Americas space
+  espionage (Taubman, Philip).pdf  SHA256 d9d7fcf7715ee95416bb2fafbcd0740818088f222f640e5b2ce4640b023af85e（新源）。
+- 提取：pdftotext -layout（Internet Archive 扫描 OCR 文本层，未重跑 OCR）→
+  raw/papers/secret-empire-taubman/{….pdf, ….txt}（约 1.09 万行 / 108.8 万字符）。
+  OCR 甄别：错字多（如 "Chapter Fight"="Chapter Eight"、"ANCT"="AND"）；对可疑处标〔OCR〕按上下文校订。
+- 判读：记者视角的越顶侦察史（U-2→SR-71→CORONA 卫星；艾森豪威尔—CIA 秘密体系）。归入冷战线体系，
+  新建“越顶侦察·卫星线”；**未改 SCHEMA.md**。
+- 新建（canonical，4 文件）：
+  · sources/secret-empire-taubman（来源页；sha256/结构/核心叙事与判断/OCR 说明）
+  · concepts/corona-reconnaissance-satellite（CORONA 照相侦察卫星：Sputnik 冲击→立项、Discoverer 掩护、
+    Agena、胶片回收、覆盖 vs 清晰度、古巴危机“完全无用”判断、导弹差距核实）
+  · events/discoverer-xiv-first-film-recovery-1960-08-19（1960-08-18 发射/08-19 空中钩取胶片舱成功；
+    与 Powers 宣判同日；判读首见“六至七条宽条纹”）
+  · entities/organizations/cia-directorate-science-technology（CIA 科技处 DS&T；Bissell→Wheelon）
+- 更新（既有页）：concepts/u2-aquatone-program（增“与卫星线之衔接”节：CORONA/Discoverer/DS&T 互链 +
+  Taubman 之“卫星在古巴危机无用”注）；wars/cold-war-cuban-missile-crisis/index（增“越顶侦察·卫星线”节 +
+  主要来源 + sources）；wars/cold-war-cuban-missile-crisis/timeline（增“越顶侦察·卫星（旁注）”节 +
+  sources）；根 index.md（来源⑰ + 状态节〔卫星线〕条）。
+- 甄别（复用/不重复建页）：**不另建**平行 U-2 页（复用 [[entities/equipment/u-2-reconnaissance|U-2]] 与
+  [[concepts/u2-aquatone-program|AQUATONE 项目]]，只做互链增补）；SA-2、CIA OSA 等既有页仅互链不重写。
+  新建仅卫星/DS&T 三页（本书核心且库内此前无）。
+- 史料处理：**重要侧证**——Taubman（据 Wheelon 回忆）称“CORONA 在 1962-10 古巴危机中完全无用（回放太慢）”，
+  与 CIA U-2 史“卫星因轨时不利无法替代 U-2”之记载**相互印证**，本库并列标注来源，不擅断。
+- QA：新/改文件 YAML 解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA 191cd2 未变；
+  raw 已存（原 .pdf ＋ 提取 .txt）；内容页 248 → +4 = 252。
+- 断点：本书更早/更晚章节（兰德 ch3、U-2 早期越苏 ch7-9、SR-71/A-12 细节、Epilogue）未逐章深描，
+  可后续按「继续摄入」续补。

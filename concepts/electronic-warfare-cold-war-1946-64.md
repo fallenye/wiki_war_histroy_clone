@@ -402,7 +402,12 @@ Alfred Price 美电子战通史**第二卷**（副题“复兴的年代”）所
 - 源：[[us-electronic-warfare-history-vol2-price|《美电子战史·卷二》]]（来源页含各章行位图）
 - 前手卷：[[us-electronic-warfare-history-vol1-price|卷一并]]（—1946）；二战美方设备
   [[us-ww2-rf-equipment-compendium|合集]]
-- 战争实例相参：[[wars/korean-war/index|朝鲜战争]]（空军线〔志愿军侧等〕既有）
+- 战争实例相参：[[wars/korean-war/index|朝鲜战争]]（空军线〔志愿军侧等〕既有）；
+  古巴导弹危机（1962）—见 [[wars/cold-war-cuban-missile-crisis/index|该线索引]]（本卷 ch19-20 侧）
+- 相邻学科互参：**信号情报（SIGINT）**之定义/分类（Comint·Elint·Fisint）与
+  [[entities/organizations/nsa|NSA]]／[[entities/organizations/gchq|GCHQ]]／[[concepts/ukusa-alliance|UKUSA]]
+  见 [[concepts/sigint|SIGINT 概念页]]（源 [[secrets-sigint-cold-war-aid-wiebes|Aid & Wiebes 2001]]）——
+  EW 记“对抗”，SIGINT 记“收集”，Elint 为交集。
 
 ## 备注
 
