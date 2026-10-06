@@ -22,6 +22,15 @@ Rolling Thunder 战役层资料，并开始 WWII 海军陆基巡逻航空（DANA
 - [[wars/cold-war-cuban-missile-crisis/index|古巴导弹危机（冷战 1962）]]（核对抗/危机决策线；来源⑬，
   与电子战线 Price 卷二 ch19-20 互参）
 
+## 专题研究
+
+- [[topics/electronic-warfare-technical-foundations|电子战技术基础（跨战争专题）]]——电子战的
+  技术概念层入口（概念/条令：频谱战、ES vs SIGINT；威胁与信号源：威胁与制导、雷达特征、LPI 雷达、
+  雷达电子防护 EP、红外/光电；系统链：天线、接收机、处理与识别、定位与定位精度；对抗：干扰、DRFM、
+  诱饵、LPI、通信对抗、通信搜索/截获/定位；卫星链路与空间 EW：轨道力学、空间传播、卫星链路、
+  链路脆弱性、观测时长、空间截获/干扰；仿真），技术参考来源⑱⑲⑳㉑㉒ Adamy《EW 101》《EW 102》
+  《EW 103》《EW 104》《EW 105》。
+
 ## 主要战役/事件入口（越南战争）
 
 - [[events/rolling-thunder|Rolling Thunder（滚雷 1965-1968，Air Campaign #3 卷）]]
@@ -92,6 +101,35 @@ Review 10-1, 2007）** → [[sources/apr-vol10-iss1-odell|来源页]]（RAF 侧�
 来源⑰：**Philip Taubman《Secret Empire：Eisenhower, the CIA, and the Hidden Story of America's Space
  Espionage》（Simon & Schuster 2003，OCR 扫描）** → [[sources/secret-empire-taubman|来源页]]。**越顶侦察
  全景史**（U-2／SR-71／CORONA 卫星；艾森豪威尔—CIA 秘密体系），接入冷战线（古巴危机“卫星无用、U-2 顶用”之判断）。
+来源⑱：**David L. Adamy《EW 101: A First Course in Electronic Warfare》（Artech House 2001）** →
+[[sources/ew-101-adamy|来源页]]。**电子战入门技术教材/技术参考**（据 *Journal of Electronic Defense*
+专栏汇编）：按 **technical reference 模式**摄入，建立本库**电子战技术概念层**（专题
+[[topics/electronic-warfare-technical-foundations|电子战技术基础]]）——链路方程与 dB 数学、天线、
+接收机体制、处理与识别、辐射源定位、干扰（J/S 与烧穿）、诱饵、LPI、仿真共 9 个概念页；不据其
+教材性叙述新增历史实体/事件（无足量史料）。
+来源⑲：**David L. Adamy《EW 102: A Second Course in Electronic Warfare》（Artech House 2004）** →
+[[sources/ew-102-adamy|来源页]]。**EW 101 续编/技术参考**（同专栏汇编）：technical reference 模式，
+新建 7 个技术概念页（威胁与制导、雷达特征、LPI 雷达、红外与光电 EW、对通信的 EW、定位精度、
+卫星通信链路），并重构 [[topics/electronic-warfare-technical-foundations|电子战技术基础]] 专题；
+未据其教材性叙述新增历史实体/事件。
+来源⑳：**David L. Adamy《EW 103: Tactical Battlefield Communications Electronic Warfare》
+（Artech House 2009）** → [[sources/ew-103-adamy|来源页]]。**战术战场通信 EW 专卷**（EW 100 系列
+第三册）：technical reference 模式，**新建 3 个通信 EW 概念页**（通信辐射源搜索与 POI、通信信号
+截获、通信辐射源定位），并**增量更新**既有页（对通信的 EW、链路方程、接收机、天线）；未据其
+教材性叙述新增历史实体/事件。
+来源㉑：**David L. Adamy《EW 104: EW Against a New Generation of Threats》（Artech House 2015）** →
+[[sources/ew-104-adamy|来源页]]。**EW 100 系列第四册/新一代威胁**（据开放源威胁信息）：
+technical reference 模式，**新建 4 页**（[[concepts/spectrum-warfare-ems|频谱战]]、
+[[concepts/radar-electronic-protection|雷达电子防护 EP]]、[[concepts/digital-rf-memory|数字射频存储 DRFM]]、
+[[concepts/electronic-support-vs-sigint|ES vs SIGINT]]），并**增量更新**既有页（干扰、红外与光电 EW、
+诱饵、对通信的 EW）；书内据开放源转录的新一代威胁型号参数照录并标注来源性质，未据其新增历史实体/事件。
+来源㉒：**David L. Adamy《EW 105: Space Electronic Warfare》（Artech House 2021）** →
+[[sources/ew-105-adamy|来源页]]。**EW 100 系列第五册/空间 EW**（EW 与卫星交叉）：technical reference
+模式，**新建 7 页**（[[concepts/orbit-mechanics-for-ew|轨道力学]]、[[concepts/space-radio-propagation|空间传播]]、
+[[concepts/satellite-links|卫星链路]]、[[concepts/satellite-link-vulnerability|卫星链路脆弱性]]、
+[[concepts/satellite-observation-duration|观测时长与多普勒]]、[[concepts/intercept-from-space|空间截获]]、
+[[concepts/jamming-from-space|空间干扰]]），并**增量更新** [[concepts/satellite-communication-links|通信卫星链路]]
+（链路几何/类型）；书内算例系演示用合成数据、已标注，未据其新增历史实体/事件（仅摄其明确提供的少量史实）。
 主题枢纽：[[concepts/sead|防空压制 SEAD/DEAD]]；
 平台谱系：[[entities/equipment/f-100f-wild-weasel-i|F-100F]] →
 [[entities/equipment/f-105-wild-weasel|F-105]] →
@@ -129,7 +167,7 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
 - 〔防空 Spine，2026-09-05〕新增朝鲜战争**地面防空兵线**来源⑫《抗美援朝防空作战实录》，
   建立 sources 页与 [[entities/organizations/korea-pva-air-defense|志愿军防空兵]]org 骨架，
   时间线加〔防〕标目；逐章(高炮/探照灯反轰炸反封锁各役)后续按“继续摄入”逐批增补，断点见 log。
-- 尚未建立 topics/、timelines/master.md。
+- 〔已建立 topics/，2026-10-05〕`topics/` 目录已启用（见下条电子战技术基础专题）；`timelines/master.md` 仍未建立。
 - 〔冷战线，2026-09-29〕新增**古巴导弹危机（1962）**线，来源⑬ Michael Dobbs《One Minute to Midnight》
   （→ [[sources/one-minute-to-midnight-dobbs|来源页]]）：建立
   [[wars/cold-war-cuban-missile-crisis/index|战争线索引]]＋[[wars/cold-war-cuban-missile-crisis/timeline|时间线]]，
@@ -160,4 +198,45 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
   [[events/discoverer-xiv-first-film-recovery-1960-08-19|Discoverer XIV 首次回收（1960-08-19）]]、
   [[entities/organizations/cia-directorate-science-technology|CIA 科技处（DS&T）]]；补 U-2 项目页卫星衔接节、
   冷战线 index 增“越顶侦察·卫星线”节与危机判断（CORONA 在古巴危机“完全无用”）。见 log（未改 SCHEMA）。
+- 〔电子战技术概念层，2026-10-05〕来源⑱ David Adamy《EW 101》（→ [[sources/ew-101-adamy|来源页]]）
+  以 **technical reference 模式**摄入：新建**专题** [[topics/electronic-warfare-technical-foundations|电子战技术基础]]
+  （`topics/` 首次启用），及 9 个技术概念页——[[concepts/ew-link-equation-and-db-math|链路方程与 dB 数学]]、
+  [[concepts/ew-antenna-parameters|EW 天线]]、[[concepts/ew-receiver-architecture|接收机体制]]、
+  [[concepts/ew-processing-and-threat-id|处理与威胁识别]]、[[concepts/emitter-location|辐射源定位]]、
+  [[concepts/jamming|干扰（J/S 与烧穿）]]、[[concepts/radar-decoys|雷达诱饵]]、
+  [[concepts/lpi-signals|LPI 信号]]、[[concepts/ew-simulation|EW 仿真]]。
+  仅摄取可跨战争复用的技术概念/分类/公式；未据教材性叙述新增历史实体/事件（无足量一手史料）。
+  见 log（未改 SCHEMA）。
+- 〔电子战技术概念层·续，2026-10-05〕来源⑲ David Adamy《EW 102: A Second Course in Electronic
+  Warfare》（Artech House 2004，→ [[sources/ew-102-adamy|来源页]]）同为 **technical reference 模式**：
+  新建 7 个技术概念页——[[concepts/ew-threats-and-guidance|威胁与制导方式]]、
+  [[concepts/radar-characteristics|雷达特征]]、[[concepts/lpi-radar|LPI 雷达]]、
+  [[concepts/infrared-electro-optical-ew|红外与光电 EW]]、[[concepts/ew-against-communications|对通信的 EW]]、
+  [[concepts/emitter-location-accuracy|定位精度]]、[[concepts/satellite-communication-links|卫星通信链路]]；
+  专题 [[topics/electronic-warfare-technical-foundations|电子战技术基础]] 据此重构为完整技术层入口。
+  同样未据教材泛述新增历史实体/事件。见 log（未改 SCHEMA）。
+- 〔电子战技术概念层·通信专项，2026-10-05〕来源⑳ David Adamy《EW 103: Tactical Battlefield
+  Communications EW》（Artech House 2009，→ [[sources/ew-103-adamy|来源页]]）同为 **technical reference
+  模式**：**新建 3 个通信 EW 概念页**——[[concepts/communications-search-and-poi|通信辐射源搜索与 POI]]、
+  [[concepts/communications-intercept|通信信号截获]]、[[concepts/communications-emitter-location|通信辐射源定位]]；
+  **增量更新**既有页 [[concepts/ew-against-communications|对通信的 EW]]、
+  [[concepts/ew-link-equation-and-db-math|链路方程]]（KED/有效高度）、[[concepts/ew-receiver-architecture|接收机]]
+  （灵敏度/动态范围/配置）、[[concepts/ew-antenna-parameters|天线]]（通信天线类型）；专题补“通信 EW 专项”节。
+  未据教材性叙述新增历史实体/事件。见 log（未改 SCHEMA）。
+- 〔电子战技术概念层·新一代威胁，2026-10-05〕来源㉑ David Adamy《EW 104: EW Against a New Generation
+  of Threats》（Artech House 2015，→ [[sources/ew-104-adamy|来源页]]，EPUB 解包）同为 **technical
+  reference 模式**：**新建 4 页**——[[concepts/spectrum-warfare-ems|频谱战]]、
+  [[concepts/radar-electronic-protection|雷达电子防护（EP）]]、[[concepts/digital-rf-memory|数字射频
+  存储（DRFM）]]、[[concepts/electronic-support-vs-sigint|电子支援 vs 信号情报]]；**增量更新**
+  [[concepts/jamming|干扰]]（老式雷达干扰技术分类）、[[concepts/infrared-electro-optical-ew|红外与光电 EW]]
+  （照明弹战术/跟踪器/激光干扰机）、[[concepts/radar-decoys|诱饵]]、[[concepts/ew-against-communications|对通信的 EW]]
+  （数字链路/抗干扰余量）；专题补“概念/条令层”节。威胁型号参数系本书据**开放源**转录，已标注来源性质。
+  见 log（未改 SCHEMA）。
+- 〔电子战技术概念层·空间 EW，2026-10-05〕来源㉒ David Adamy《EW 105: Space Electronic Warfare》
+  （Artech House 2021，→ [[sources/ew-105-adamy|来源页]]，PDF）同为 **technical reference 模式**：
+  **新建 7 页**——[[concepts/orbit-mechanics-for-ew|轨道力学]]、[[concepts/space-radio-propagation|空间无线电传播]]、
+  [[concepts/satellite-links|卫星链路]]、[[concepts/satellite-link-vulnerability|卫星链路脆弱性]]、
+  [[concepts/satellite-observation-duration|观测时长与多普勒]]、[[concepts/intercept-from-space|空间截获]]、
+  [[concepts/jamming-from-space|空间干扰]]；**增量更新** [[concepts/satellite-communication-links|通信卫星链路]]
+  （链路几何/类型）；专题补“空间 EW”节。书内算例系演示用合成数据、已标注。见 log（未改 SCHEMA）。
 - 资料层：raw/papers 保存原始 PDF 与提取文本；更新记录见 [[log.md|log.md]]。

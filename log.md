@@ -1525,3 +1525,202 @@
   raw 已存（原 .pdf ＋ 提取 .txt）；内容页 248 → +4 = 252。
 - 断点：本书更早/更晚章节（兰德 ch3、U-2 早期越苏 ch7-9、SR-71/A-12 细节、Epilogue）未逐章深描，
   可后续按「继续摄入」续补。
+
+### 2026-10-05（电子战技术概念层·来源⑱ Adamy《EW 101》——技术参考资料模式摄入）
+- 来源：/mnt/share/test/EW 101  a first course in electronic warfare (Adamy, David)
+  (z-library.sk, 1lib.sk, z-lib.sk).pdf（注意实际目录为小写 /mnt/share/test/）
+  SHA256（PDF）e080727ee8aaea1aa7b595bc697f17c2380983c2189bac6164f2d2fed8b42275（新源，库内无重复）。
+- 提取：pdftotext -layout（Internet Archive 扫描，344 页，文本层完好，未跑 OCR）→
+  raw/papers/ew-101-adamy.{pdf,txt}（约 1.478 万行 / 71.3 万字符；
+  提取文本 SHA256 30b55351d5e0895ecfaabcf990acc59b81e9da83fff309d3c2b2588609feade2）。
+- 摄入定位（按用户指示）：**technical reference 模式**——优先提取具有长期研究价值、可跨战争复用的
+  技术概念/原理/分类/参数关系/公式/作战意义，增量补齐本库**此前缺失的电子战技术概念层**；
+  **不**机械按章建页；**不**以教材性技术说明代替具体历史事件的史料证据；历史事实/装备运用/时期术语
+  仅在本书明确提供证据时摄入（本批判断：该书为入门技术教材，无足量一手史料，故未据其新增历史实体/事件）。
+- 新建（canonical，11 文件）：
+  · sources/ew-101-adamy（来源页；sha256/11 章结构/关键公式索引/局限说明）
+  · topics/electronic-warfare-technical-foundations（**专题枢纽；topics/ 首次启用**）
+  · concepts/ew-link-equation-and-db-math（dB 数学、单向链路方程、扩散/大气损耗、灵敏度与有效距离、
+    雷达距离方程链路化、干扰信号差、球面三角与多普勒/观测角）
+  · concepts/ew-antenna-parameters（波束定义、增益-波束-面积关系式、极化技巧、类型选型表、抛物面权衡、相控阵）
+  · concepts/ew-receiver-architecture（九类接收机 Table 4.1/4.2 分类与能力矩阵）
+  · concepts/ew-processing-and-threat-id（威胁识别逻辑、PRI/DOA 等参数、去交错、人机界面）
+  · concepts/emitter-location（定位目的与精度 Table 8.1、精度预算与校准、测向/定位技术 Table 8.3、
+    幅度/Watson-Watt/干涉仪/多普勒/TOA/TDOA）
+  · concepts/jamming（干扰四分类、J/S 方程（通信/远距/自卫）、烧穿距离、覆盖/欺骗、RGPO/RGPI/逆增益/
+    AGC/VGPO、对单脉冲雷达欺骗手法）
+  · concepts/radar-decoys（诱饵类型与三任务、RCS 反射增益公式 −39+10logσ+20logF、被动/主动、有效 RCS 随几何变化）
+  · concepts/lpi-signals（LPI 手段、跳频/chirp/直接序列扩频及探测-截获-定位-干扰）
+  · concepts/ew-simulation（建模/仿真/仿真注入三分法、注入点分级、威胁与天线方向图仿真、保真度）
+- 更新（既有页）：根 index.md（新增“专题研究”入口节；来源⑱ 条；状态节〔电子战技术概念层〕条；
+  “尚未建立 topics/”改注为已启用）。各概念页相互 wikilink 并与既有电子战线（WWII/冷战早期/SEAD/SIGINT）
+  及装备页（Shrike/HARM/SA-2/QRC-160/ALQ-119 等）互链。
+- 史料处理：技术概念页均标“非史料”；J/S、烧穿、RCS 反射增益等**公式录入**但不据以断言任何历史战果；
+  教材图表 OCR 错乱处（如 Table 4.2 能力矩阵、部分行内公式）以正文叙述核对，未据乱码臆造数值，
+  已在来源页“注意与局限”注明。
+- QA：11 新文件 YAML 全解析 OK（修正来源页标题未加引号的冒号问题 1 处）；wikilink 全解析（0 断链，
+  修正初稿 4 处断链/误链：radar-decoys 的 ad、lpi-signals 的 frequency-hopping、
+  ew-antenna-parameters 的 dipole/dish-antenna 及 1 处嵌套括号链接）；无重复 canonical 标题；
+  SCHEMA.md 未改动（sha256 191cd20f951e… 未变）；raw 已存（原 .pdf ＋ 提取 .txt）。
+- 断点：本书为纯技术参考，**无逐章续摄需求**；后续如需可再据其补 Eq/图（如 Table 4.2/8.3 完整矩阵）。
+
+### 2026-10-05（电子战技术概念层·续·来源⑲ Adamy《EW 102》——技术参考资料模式摄入）
+- 来源：/mnt/share/test/EW 102 A Second Course in Electronic Warfare (David Adamy)
+  (z-library.sk, 1lib.sk, z-lib.sk).pdf  SHA256（PDF）3a609e246feaec28103f9fa23c0b39d5a04a77893a2eaee4ea2547d4af82aa8b（新源）。
+- 提取：pdftotext -layout（Adobe Acrobat 生成，291 页，文本层完好，未跑 OCR）→
+  raw/papers/ew-102-adamy.{pdf,txt}（约 1.098 万行 / 52.0 万字符；
+  提取文本 SHA256 658fd6c8396eab083eb41fdcb6223960a2ec222f964d1ca7a9940a707b355fbb）。
+- 摄入定位（按用户指示）：**technical reference 模式**（同来源⑱ EW 101 批次）——优先提取可跨战争
+  复用的技术概念/分类/参数关系/公式/作战意义，增量扩展本库电子战技术概念层；不机械按章建页；
+  不以教材性技术说明代替史料；历史事实/装备运用/时期术语仅在本书明确提供证据时摄入（本批判断：
+  该书为入门技术教材，无足量一手史料，故未据其新增历史实体/事件）。
+- 新建（canonical，8 文件）：
+  · sources/ew-102-adamy（来源页；sha256/7 章结构/关键公式索引/局限说明）
+  · concepts/ew-threats-and-guidance（威胁定义与类型、四类制导方式、频段三套划分、威胁雷达扫描
+    （圆周/扇扫/光栅/圆锥/单脉冲/仅收扫描）与调制（截获/跟踪/引信参数）、通信信号威胁）
+  · concepts/radar-characteristics（雷达功能与分类、雷达距离方程三形式+dB 形式、脉冲调制与脉冲压缩、
+    CW/脉冲多普勒/FM 测距、MTI/AMTI、SAR（距离/方位分辨、聚焦阵））
+  · concepts/lpi-radar（LPI 三途径与三层级、LPID/安静/随机信号雷达、bandwidth advantage/相干检测、
+    range detection ratio/告警时间图数）——与通信侧 lpi-signals 互补
+  · concepts/infrared-electro-optical-ew（IR 频谱分带、黑体辐射、IR 制导导弹/导引头/调制盘（旭日/
+    车轮/多频/曲辐条）、IRLS 探雷算例、FLIR/IRST、夜视三代、激光指示/告警、IRCM）
+  · concepts/ew-against-communications（HF 电离层/单站定位、VHF/UHF 三传播模型（自由空间/双径/
+    菲涅尔区/刀边）、背景噪声、数字通信（调制/BER/kTB/带宽）、通信干扰、对跳频/DSSS 干扰量化、
+    纠错码、扩频发射机定位）
+  · concepts/emitter-location-accuracy（定位三途径、角度测量技术与精度、TDOA/FDOA 精确定位、
+    RMS/CEP/EEP 度量（1.037σ）、误差预算与平方和合成）——深化来源⑱的 emitter-location
+  · concepts/satellite-communication-links（EIRP/G-T/Q 术语、噪声温度体系（天线/馈线/接收机+级联
+    首级主导）、链路损耗（扩散/大气/雨雾/法拉第）、链路性能、与 EW 链路方程的关系、下链/上链干扰）
+- 更新（既有页）：topics/electronic-warfare-technical-foundations（**重构**为完整技术层入口，纳入
+  上述 7 新页，sources 增 ew-102-adamy）；根 index.md（专题研究入口加列新页；来源⑲ 条；状态节
+  〔电子战技术概念层·续〕条）。
+- 史料处理：技术概念页均标“非史料”；雷达距离方程、J/S、kTB、噪声温度、CEP/EEP 等**公式录入**但
+  不据以断言任何历史战果；教材图表 OCR 错乱处（频段表/Table 5.3/部分行内公式）以正文核对，
+  未据乱码臆造数值，已在来源页“注意与局限”注明。
+- QA：8 新文件 YAML 全解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA.md 未改动
+  （sha256 191cd2… 未变）；raw 已存（原 .pdf ＋ 提取 .txt）；本批 EW 102 新增 8 页（1 source＋7 concept），
+  与来源⑱ EW 101 批 11 页互链，构成完整电子战技术概念层。
+- 断点：本书为纯技术参考，**无逐章续摄需求**；EW 101/102 全书七/十一章技术主线已覆盖。
+
+### 2026-10-05（电子战技术概念层·通信专项·来源⑳ Adamy《EW 103》——技术参考资料模式摄入）
+- 来源：/mnt/share/test/EW 103 - Tactical Battlefield Communications Electronic Warfare
+  (David L. Adamy) (z-library.sk, 1lib.sk, z-lib.sk).pdf  SHA256（PDF）
+  423dd47c1e65f7bd2a5486990909b7fc23ae946075a637e76b131a7d42ef0daf（新源）。
+- 提取：pdftotext -layout（PDFsam 拼接，348 页；文本层完好，未跑 OCR。提取时 pdftotext 报大量
+  "Bad annotation destination" 警告，属 PDF 书签噪声，不影响正文）→
+  raw/papers/ew-103-adamy.{pdf,txt}（约 1.413 万行 / 63.3 万字符；
+  提取文本 SHA256 23fca8edbad6d652c58636f8ad2691d58308da4b5c7e74544477c673287426e9）。
+- 摄入定位（按用户指示）：**technical reference 模式**（同来源⑱⑲）——优先提取可跨战争复用的技术
+  概念/分类/参数关系/公式/作战意义；不机械按章建页；不以教材性技术说明代替史料；历史事实/装备
+  运用/时期术语仅在本书明确提供证据时摄入（本批判断：入门技术教材，无足量一手史料，未据其新增
+  历史实体/事件）。
+- **重叠判定（关键）**：EW 103 与 EW 101/102 在**天线、接收机、传播模型、J/S、LPI、定位精度**上
+  系统重叠 → **优先增量更新既有概念页**，仅对**通信搜索/截获/定位**等新主题建新页，避免重复建页。
+- 新建（canonical，4 文件）：
+  · sources/ew-103-adamy（来源页；sha256/9 章结构/关键公式索引/重叠与局限说明）
+  · concepts/communications-search-and-poi（Ch6：POI 定义、三类搜索策略（一般/定向/顺序甄别）、
+    能量检测接收机（积分-倾倒/相关/机载码片/二元滑动窗/并行）、信号环境与角度覆盖、无线电视距
+    D=4.12(√H_T+√H_R)、LPI 搜索、look-through、自相残杀、窄带搜索算例）
+  · concepts/communications-intercept（Ch8：COMINT vs 通信 ESM、截获链路方程 P_R=P_T+G_T−L+G_R、
+    定向/非定向截获、机载/非视线截获、强信号中截获弱信号、LPI 截获）
+  · concepts/communications-emitter-location（Ch7：三角定位/单站定位 SSL(<30MHz HF)/方位仰角、
+    精度定义与 CEP 近似 CEP=1.17·d·tan(RMS)、站点与北向基准、Watson-Watt/多普勒/干涉仪测向、
+    TDOA/FDOA 精确定位（isochrone/isofreq）、误差预算、扩频辐射源定位）
+- 增量更新（既有页）：
+  · concepts/ew-against-communications（增“通信信号与干扰（据 EW 103 增量）”节：模拟 β/数字带宽
+    Table 2.1/MSK、数字信号结构、组合 LPI、手机信号（FDMA/TDMA-GSM/CDMA）、通信干扰补充（J/S 一般式/
+    33%/脉冲/处理增益/部分频带/stand-in/干扰手机）；修重复编号；sources 增 ew-103）
+  · concepts/ew-link-equation-and-db-math（增“刀边衍射 KED 与天线有效高度”节；sources 增 ew-103）
+  · concepts/ew-receiver-architecture（增“灵敏度、动态范围与系统配置”节：S=kTB+NF+RFSNR、I&Q、
+    码片检测、动态范围、遥控接收系统；sources 增 ew-103）
+  · concepts/ew-antenna-parameters（增“通信天线类型”节：鞭状有效高度/对数周期/抛物面盘/DF 阵列偶极子
+    匹配网络增益损失；sources 增 ew-103）
+  · topics/electronic-warfare-technical-foundations（补“通信 EW 专项（据 EW 103）”节；sources 增 ew-103；
+    来源说明增 EW 103）；根 index.md（专题入口列新页；来源⑳ 条；状态节〔通信专项〕条）。
+- 史料处理：技术概念页均标“非史料”；截获链路、通信 J/S、CEP 近似、无线电视距等**公式录入**但不据以
+  断言任何历史战果；教材图表 OCR 错乱处以正文核对，未据乱码臆造数值，已在来源页“注意与局限”注明。
+- QA：4 新文件 YAML 全解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA.md 未改动
+  （sha256 191cd2… 未变）；raw 已存（原 .pdf ＋ 提取 .txt）。
+- 断点：本书为纯技术参考，**无逐章续摄需求**；EW 101/102/103 三部技术主线已覆盖。
+
+### 2026-10-05（电子战技术概念层·新一代威胁·来源㉑ Adamy《EW 104》——技术参考资料模式摄入，EPUB）
+- 来源：/mnt/share/test/EW 104 Electronic Warfare Against a New Generation of Threats
+  (David L. Adamy) (z-library.sk, 1lib.sk, z-lib.sk).epub  SHA256（EPUB）
+  0368d07b6247973d7b27563fa073ce84cf27ff460d3b104233a2af170262f979（新源）。
+- 提取（**EPUB 流程**，按 Skill 第 4 节）：本地 unzip 解包 → OEBPS/Text/part0000–0019.xhtml 共 20 段，
+  剥离 script/style/tag、按 block 标签重建换行、html.unescape，**保留章节顺序**；跳过封面/版权/目录等
+  非正文（仅保留其文本供导航核对）。未跑 OCR。→ raw/papers/ew-104-adamy.{epub,txt}
+  （提取文本 SHA256 8f5913aaddb7722ee02a08db0e90177be540c074410d4d9dc15f3a495d556955；约 68.8 万字符）。
+- 摄入定位（按用户指示）：**technical reference 模式**（同来源⑱⑲⑳）——优先提取可跨战争复用的技术
+  概念/分类/参数关系/公式/作战意义；不机械按章建页；不以教材性技术说明代替史料；历史事实/装备运用/
+  时期术语仅在本书明确提供证据时摄入。本书**确有**据开放源转录的新一代威胁型号参数，已照录并**明确
+  标注系本书据开放源、非一手史料**；未新增历史实体/事件。
+- **重叠判定（关键）**：EW 104 与 EW 101/102/103 在**传播模型、J/S、天线、接收机、截获/搜索/定位、
+  干扰/诱饵、IR**上系统重叠 → **优先增量更新既有页**，仅对**频谱战概念层、雷达电子防护、DRFM、
+  ES vs SIGINT** 等新主题建新页，避免重复建页。
+- 新建（canonical，5 文件）：
+  · sources/ew-104-adamy（来源页；sha256/11 章结构/关键公式索引/开放源性质说明）
+  · concepts/spectrum-warfare-ems（Ch2：EMS 第五作战域、连通性四要求、网络中心战、传输安全 vs 消息
+    安全、赛博战 vs EW（ES/EA/EP↔间谍软件/拒止/防护）、隐写术、链路干扰与抗干扰）
+  · concepts/radar-electronic-protection（Ch4：雷达 EP 技术 Table 4.1 及对抗（超低旁瓣/旁瓣对消/匿隐/
+    单脉冲/抗交叉极化/脉冲压缩/RGPO/AGC/Dicke-Fix/PD 雷达 EP/相干干扰/频率捷变/PRF 抖动/寻的干扰）；
+    PD 处理增益=CPI×PRF、距离/多普勒模糊、低/中/高 PRF；威胁系统升级据开放源；EW 影响小结）
+  · concepts/digital-rf-memory（Ch8：DRFM 框图、宽带/窄带、对脉冲压缩/频率捷变/前沿跟踪的对抗、
+    相干干扰（处理增益 28.4 dB 算例）、复杂假目标、时延需<脉冲间期、约 50 ns 捕获、需 DRFM 的雷达技术小结）
+  · concepts/electronic-support-vs-sigint（Ch11：ES vs SIGINT Table 11.1、COMINT/ELINT、天线/距离/
+    接收机/搜索/处理差异）
+- 增量更新（既有页）：
+  · concepts/jamming（增“雷达干扰技术分类（据 EW 104）”节：阻塞/点/扫频点/欺骗+各手法；sources 增 ew-104）
+  · concepts/infrared-electro-optical-ew（增“照明弹战术/跟踪器/干扰机（据 EW 104）”节：诱离/迷惑/稀释+
+    定时/光谱；rosette/交叉线阵/成像跟踪器；热砖/DIRCM 激光干扰机；sources 增 ew-104）
+  · concepts/radar-decoys（增“部署型式/保真/舰船诱饵”节；sources 增 ew-104）
+  · concepts/ew-against-communications（增“数字通信链路与抗干扰余量（据 EW 104）”节；sources 增 ew-104）
+  · topics/electronic-warfare-technical-foundations（补“概念/条令层”节，纳入频谱战/ES vs SIGINT；
+    威胁与信号源加雷达 EP；对抗加 DRFM；sources 增 ew-104；来源说明增 EW 104 四册）；根 index.md
+    （专题入口列新页；来源㉑ 条；状态节〔新一代威胁〕条）。
+- 史料处理：技术概念页均标“非史料”；书内据开放源转录的威胁型号参数（S-300/SA-10/12/6/8、MANPADS、
+  AAA 升级等）照录于雷达 EP 页并标注“本书据开放源、非一手史料”；公式录入但不据以断言历史战果；
+  EPUB 文本质量好，未见 OCR 乱码问题。
+- QA：5 新文件 YAML 全解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA.md 未改动
+  （sha256 191cd2… 未变）；raw 已存（原 .epub ＋ 提取 .txt）。
+- 断点：本书为纯技术参考，**无逐章续摄需求**；EW 100 系列四册（101–104）技术主线已全部覆盖。
+
+### 2026-10-05（电子战技术概念层·空间 EW·来源㉒ Adamy《EW 105》——技术参考资料模式摄入，PDF）
+- 来源：/mnt/share/test/Ew 105 Space Electronic Warfare (Artech House Electronic Warfare Library)
+  (David L. Adamy) (z-library.sk, 1lib.sk, z-lib.sk).pdf  SHA256（PDF）
+  7ee807af6cc7fc3b51daa577902b59a6b93d89be4d771992cd8dd01edfc014e6（新源）。
+- 提取：pdftotext -layout（zip-deflate 编码，228 页；文本层完整，未跑 OCR。提取时打印
+  "Bad annotation destination"/"xref num not found" 警告，属 PDF 结构噪声，不影响正文）→
+  raw/papers/ew-105-adamy.{pdf,txt}（约 7,292 行 / 32.8 万字符；
+  提取文本 SHA256 43f626ac996136caeae0491fefe07cf02187b1b6ee3afa0eb4d7c2b53ce34758）。
+- 摄入定位（按用户指示）：**technical reference 模式**（同来源⑱–㉑）——优先提取可跨战争复用的技术
+  概念/分类/参数关系/公式/作战意义；不机械按章建页；不以教材性技术说明代替史料；历史事实/装备运用/
+  时期术语仅在本书明确提供证据时摄入。本书提供少量史实（1960 西方开始发射成像/SIGINT 卫星；NRO 1994
+  出版、2016 解密其侦察卫星项目史），仅简要摄入；**大量算例系演示用合成数据**（作者反复声明“非真实
+  系统”），已明确标注；未新增历史实体/事件。
+- **重叠判定**：EW 105 与既有页在**传播模型、J/S、球面三角、天线**上有重叠，且 Ch4（大气内传播）
+  与 EW 103 高度重合 → **优先增量更新**；本书**独有空间 EW 方向**为主要增量，建新页。
+- 新建（canonical，8 文件）：
+  · sources/ew-105-adamy（来源页；sha256/10 章+3 附录结构/关键公式索引/合成数据说明）
+  · concepts/orbit-mechanics-for-ew（Ch3：开普勒六根数、开普勒第三定律 a³=CP²、静止/GPS/低轨、
+    SVP、球面三角形求地心角/方位/距离/仰角、地平线距离 C=arccos(RE/(RE+H)) 与表 3.3）
+  · concepts/space-radio-propagation（Ch5：空间 LOS 损耗 32.44+20logd+20logF、盘天线增益/波束宽度、
+    大气损耗随仰角、天线失配 ΔG=12(θ/α)²、极化损耗（法拉第旋转/圆-线 3dB）、雨衰 0°C 等温线）
+  · concepts/satellite-links（Ch6：链路几何、上行（指令/拦截）、下行（遥测/数据/用户/干扰）、敌对链路）
+  · concepts/satellite-link-vulnerability（Ch7：截获/欺骗/干扰（上/下行）、下行/上行截获、下行/上行
+    干扰 J/S、卫星链路 EP（纠错/多数编码/扩频·跳频 vs DSSS）、0dB J/S+25% 误码判据）
+  · concepts/satellite-observation-duration（Ch8：地平线距离、地心视角、地球自转 0.25068°/min、
+    观测时长公式 T=P[2arccos(RE/a)][1+cos(i)cos(lat)]、多普勒 ΔF=FVcosθ/c）
+  · concepts/intercept-from-space（Ch9：LEO 截获雷达信号（地心角→链路距离→各损耗→灵敏度 S=kTB+NF+RFSNR
+    →链路余量→地平线判据→可观时长）、窄波束截获、GEO 截获）
+  · concepts/jamming-from-space（Ch10：空间干扰通信网/数据链/雷达、远距雷达 J/S 公式、天线失配、
+    低 RCS 杠杆（10m²→10⁻⁴m² 使 J/S −0.5→49.5 dB）、时长 12.2min、静止轨道降 40dB）
+- 增量更新（既有页）：concepts/satellite-communication-links（增“卫星链路几何与链路类型（据 EW 105）”
+  节；sources 增 ew-105）；topics/electronic-warfare-technical-foundations（补“空间 EW”节，纳入 7 新页，
+  来源说明增 EW 105 五册；sources 增 ew-105）；根 index.md（专题入口列空间 EW；来源㉒ 条；状态节
+  〔空间 EW〕条）。
+- 史料处理：技术概念页均标“非史料”；书内**大量算例标注为演示用合成数据（非真实系统）**；少量史实
+  （卫星项目史）按原书照录；公式录入但不据以断言历史战果。PDF 警告为结构噪声，正文完整。
+- QA：8 新文件 YAML 全解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA.md 未改动
+  （sha256 191cd2… 未变）；raw 已存（原 .pdf ＋ 提取 .txt）。
+- 断点：本书为纯技术参考，**无逐章续摄需求**；EW 100 系列五册（101–105）技术主线已全部覆盖。
