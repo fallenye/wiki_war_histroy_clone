@@ -2,7 +2,7 @@
 title: 海湾战争（沙漠盾牌／沙漠风暴）
 type: war
 tags: [war, gulf-war]
-sources: [f-4-wild-weasel-units-in-combat]
+sources: [f-4-wild-weasel-units-in-combat, arabs-at-war-pollack, idf-van-creveld-sword-olive]
 created: 2026-09-02
 updated: 2026-09-02
 ---
@@ -17,6 +17,11 @@ Vigilant Warrior 直至 F-4G 退役（1996）。
 > 面向性索引只列链接不复制正文；单条目标题指向 canonical 页面。
 
 ## 战役与行动
+
+- [[events/iraq-invasion-of-kuwait-1990|伊拉克入侵科威特（1990-08-02）]]——Pollack 评为伊军"执行得最好的一次"
+- [[events/was-al-khafji-1991|海夫吉之战（1991-01-29—02-01）]]——伊拉克对沙特／卡塔尔，本书为 Pollack 视角（[[sources/arabs-at-war-pollack|Arabs at War]]）；地面战中的唯一像样交战
+- [[concepts/iraq-1991-coalition-war-pollack|伊拉克在 1991 年战争中的表现（Pollack）]]——防空网两天崩溃、西翼真空、共和国卫队殿后
+- [[concepts/egypt-1991-gulf-war-pollack|埃及军在沙漠风暴中的表现（Pollack）]]——JFC-N 的"慢一步"全程
 
 - [[desert-storm-opening-night|沙漠风暴开局夜（1991-01-17 首飞行）]]
 - Task Force Normandy（压制边境雷达，首波 Apache／Pave Low）
@@ -37,6 +42,18 @@ Vigilant Warrior 直至 F-4G 退役（1996）。
 - [[agm-88-harm|AGM-88 HARM]]
 - [[agm-45-shrike|AGM-45 Shrike（末期残量）]]、[[agm-78-standard-arm|AGM-78]]
 - ECM：AN/ALQ-119/-131/-184、AN/ALE-40、EF-111A、EC-130、EA-6B
+
+## 机构层（第四来源：Van Creveld《The Sword and the Olive》）
+
+> 本节只作入口：IDF 作为机构的沿革、兵役与人事、条令文化、军工与治理，集中在 [[topics/idf-force-history|IDF 军队史专题]]；
+> 与前三来源的战役叙述**并列**，本书的评断一律标〔Van Creveld 判断〕。
+
+- [[entities/organizations/idf-tzahal|IDF／TSAHAL]] · [[concepts/idf-manpower-and-reserves|兵役与预备役]] ·
+  [[concepts/idf-officer-corps|军官团]] · [[concepts/idf-command-culture-optional-control|optional control]] ·
+  [[concepts/idf-armor-doctrine-helem-hashiryon|装甲条令]] · [[concepts/idf-decline-thesis|“失速”论]]
+- 来源：[[sources/idf-van-creveld-sword-olive]]
+
+- 海湾战争专章（本书 ch19）：以色列在 1991 年飞毛腿威胁下基本**无力自卫**〔Van Creveld 判断〕——HAGA（民防组织）预警区划粗糙、约三分之一防毒面具不合脸、“密封室”指引自相矛盾；爱国者几乎拦不中（美以互相推责）；此后改设本土防线司令部（Home Defense Command）并加速 Chets（Arrow）反导。〔据本书 ch19〕
 
 ## 部队与组织（实体）
 

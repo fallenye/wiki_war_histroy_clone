@@ -21,6 +21,48 @@ Rolling Thunder 战役层资料，并开始 WWII 海军陆基巡逻航空（DANA
 - [[wars/korean-war/index|朝鲜战争（抗美援朝）]]（志愿军空军线与官方全史主干＋防空兵线，见 来源⑦/⑧/⑫）
 - [[wars/cold-war-cuban-missile-crisis/index|古巴导弹危机（冷战 1962）]]（核对抗/危机决策线；来源⑬，
   与电子战线 Price 卷二 ch19-20 互参）
+- [[wars/lebanon-war-1982/index|1982 年黎巴嫩战争（"加利利和平行动"）]]（来源㉔ Herzog Book VII，**单源未校、
+  以色列视角**；含贝卡谷地 SAM 战、围困西贝鲁特、萨布拉—夏蒂拉屠杀与凯汉委员会、以黎协议；作者成稿于 1983 年中）
+- **空军专题（第三来源）**：[[sources/no-margin-for-error-yonay|Yonay《No Margin for Error》]]（来源㉖；
+  以色列空军 1948—1973 的形成史，记者体、以色列视角）——已建
+  [[concepts/iaf-independence-struggle-1948|空军独立之争]]、[[concepts/iaf-doctrine-air-superiority-first|制空优先条令]]、
+  [[events/iaf-first-fighter-mission-1948|首次战斗机出击]]、[[events/iaf-czech-airlift-1948|捷克斯洛伐克空运]]、
+  [[events/iaf-volunteer-era-1948|外国志愿飞行员时代]]（1948 年）· [[concepts/iaf-blues-vs-greens|蓝军与绿军]] ·
+  [[concepts/iaf-training-revolution-ot-u-105|训练革命 OTU 105]] · [[concepts/iaf-french-shuttle-1953-56|法国穿梭]] ·
+  [[events/iaf-sinai-air-war-1956|1956 年西奈空战]] · [[concepts/moked-plan-1967|Moked 计划]] ·
+  [[events/operation-moked-1967-06-05|1967-06-05 三个小时]] · [[events/iaf-attrition-air-war-1969-70|消耗战空战]] ·
+  [[concepts/iaf-operatziot-vs-hunt|operatziot 与 hunt]] · [[events/dougman-v-1973-10-07|Dougman V]] ·
+  [[concepts/iaf-1973-intelligence-blindness|1973 年的失明]] · [[concepts/iaf-reconstruction-after-1973|战后重建]] ·
+  [[events/bekaa-valley-1982-air-battle|贝卡谷地]] · [[events/osirak-raid-1981|奥西拉克]] ·
+  [[events/entebbe-airlift-1976|恩德培（空军视角）]] · [[concepts/yonay-sources-and-methodology|本书的史料结构与化名]] ·
+  [[concepts/iaf-six-theses-yonay|本书的六条判断]]；
+  1950 年代：[[concepts/iaf-blues-vs-greens|蓝军与绿军（军种地位之争）]]、
+  [[concepts/iaf-training-revolution-ot-u-105|训练革命（OTU 105／117）]]、
+  [[concepts/iaf-french-shuttle-1953-56|法国渠道与"法国穿梭"]]、
+  [[events/iaf-sinai-air-war-1956|1956 年西奈战役中的空军]]
+- **跨战争专题**：[[topics/arab-military-effectiveness-pollack|阿拉伯军事效能专题（Pollack, 1948—1991）]]——
+  六国（埃、约、叙、伊、利、沙）的效能评估、四项常量缺陷、概念与战例入口（来源㉕）
+- **军队史专题（IDF 机构层）**：[[topics/idf-force-history|IDF 军队史专题（Van Creveld《The Sword and the Olive》）]]——
+  以"军队本身"为轴：[[entities/organizations/idf-tzahal|IDF／TSAHAL]] 沿革与指挥链、兵役与预备役、军官团、optional control、
+  女兵与 CHEN、装甲条令、军工复合体、占领治理与 Intifada、"失速"论；1948 年前身线另建
+  [[entities/organizations/ha-shomer|Bar Giora／Ha-shomer]]、[[events/nili-network-1917|NILI 间谍网]]、
+  [[events/arab-revolt-1936-39|1936—39 年阿拉伯大起义]]（Wingate／SNS／FOSH）（来源㉗；**批判史、单一作者评价框架**）
+- **反恐行动线（无独立战争线，直接挂事件页）**：[[events/entebbe-raid-1976|1976 年恩德培行动]]
+  （来源㉔ Herzog Book VI，**单源未校、以色列官方视角**）；配套
+  [[concepts/israeli-counterterrorism-policy|以色列反恐政策与 1970 年代人质事件]]、
+  人物 [[entities/people/dan-shomron|Dan Shomron]]／[[entities/people/jonathan-netanyahu|Jonathan Netanyahu]]
+- [[wars/war-of-attrition-1969-70/index|1967—1970 年消耗战（War of Attrition）]]（来源㉔ Herzog Book IV，**单源未校**；
+  运河炮战与堤道伏击、Eilat 号、卡拉梅、深入埃及的突袭、Bar-Lev 线起源、苏联防空进驻、242 决议、
+  1970"黑九月"）
+- [[wars/six-day-war-1967/index|1967 年六日战争（Six Day War）]]（来源㉔ Herzog Book III，**单源未校**；
+  空中闪击、第二次西奈战役、约旦战线与耶路撒冷、戈兰高地、USS Liberty、战后评价）
+- [[wars/war-of-independence-1948/index|1948—1949 年独立战争（第一次中东战争）]]（来源㉔ Herzog Book I，**单源未校、
+  以色列视角**；托管前的 Haganah／Palmach 与武器窘境、阿拉伯联军与入侵分工、D 计划、耶路撒冷围城与旧城陷落、
+  Latrun 四次进攻与"缅甸路"、吕大／拉姆莱、约夫／希拉姆／霍雷夫／乌夫达、四份停战协定与总评）
+- [[wars/sinai-campaign-1956/index|1956 年西奈战役（Sinai Campaign／苏伊士战争）]]（来源㉔ Herzog Book II，
+  **单源未校**；米特拉空降、阿布奥吉拉"刺猬"、拉法与加沙、沙姆沙伊赫与蒂朗海峡、英法苏伊士行动、UNEF）
+- [[wars/yom-kippur-war/index|1973 年十月战争（赎罪日战争／Yom Kippur War）]]（来源㉓ Rabinovich＋来源㉔ Herzog；
+  南线渡河—反攻—渡河合围、北线戈兰防御—反攻、Tagar/Dougman 防空压制三线；见战争索引）
 
 ## 专题研究
 
@@ -130,6 +172,23 @@ technical reference 模式，**新建 4 页**（[[concepts/spectrum-warfare-ems|
 [[concepts/satellite-observation-duration|观测时长与多普勒]]、[[concepts/intercept-from-space|空间截获]]、
 [[concepts/jamming-from-space|空间干扰]]），并**增量更新** [[concepts/satellite-communication-links|通信卫星链路]]
 （链路几何/类型）；书内算例系演示用合成数据、已标注，未据其新增历史实体/事件（仅摄其明确提供的少量史实）。
+来源㉓：**Abraham Rabinovich《The Yom Kippur War: The Epic Encounter That Transformed the Middle East》
+（Schocken Books 2004，596 页 Internet Archive 扫描，未 OCR）** → [[sources/yom-kippur-war-rabinovich|来源页]]。
+**1973 年十月战争**叙事史主源（以色列决策与战场视角；130 人次访谈＋装甲兵中心单位史）。本批为
+**骨架批**：建 [[wars/yom-kippur-war/index|战争线索引]]＋[[wars/yom-kippur-war/timeline|主时间线]]
+（至 1974 年脱离接触）、来源页与章—页对照，及 [[events/operation-badr-1973|Badr 行动]]、
+[[concepts/dovecote-plan|Dovecote]]、[[concepts/operation-tagar|Tagar]] 三页；既有的
+[[events/yom-kippur-1973-air-sam-ew|1973 中东空战/EW 页]]（Price 卷III）已挂入该战争并作增量补充。
+逐章（南线 10-08 反攻、10-14 装甲反攻、Abirei Lev 渡河、Chinese Farm、戈兰 Kuneitra/Nafakh/反攻、
+伊拉克远征军、美苏危机、核警报、Agranat）后续按"继续摄入"续建，断点见 log。
+
+来源㉗：**Martin van Creveld《The Sword and the Olive: A Critical History of the Israeli Defense Force》
+（PublicAffairs 1998／平装 2002，449 页，数字文本 PDF）** → [[sources/idf-van-creveld-sword-olive|来源页]]。
+**IDF 军队史（机构层）批判史**：不以战役为轴，而以建军沿革、兵役与人事、指挥文化、军工、审查与治理为轴。
+建 [[topics/idf-force-history|IDF 军队史专题]] 与 8 个概念页（兵役/预备役、军官团、optional control、女兵 CHEN、装甲条令、
+建国工具、文官控制与审查、军工复合体）＋占领治理与"失速论"两页＋军民信任破裂事件页；
+并把机构层入口挂入 1948/1956/1967/消耗战/1973/1982/海湾 七个战争索引与三个时间线（本书评断一律标〔Van Creveld 判断〕）。
+
 主题枢纽：[[concepts/sead|防空压制 SEAD/DEAD]]；
 平台谱系：[[entities/equipment/f-100f-wild-weasel-i|F-100F]] →
 [[entities/equipment/f-105-wild-weasel|F-105]] →
@@ -239,4 +298,64 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
   [[concepts/satellite-observation-duration|观测时长与多普勒]]、[[concepts/intercept-from-space|空间截获]]、
   [[concepts/jamming-from-space|空间干扰]]；**增量更新** [[concepts/satellite-communication-links|通信卫星链路]]
   （链路几何/类型）；专题补“空间 EW”节。书内算例系演示用合成数据、已标注。见 log（未改 SCHEMA）。
-- 资料层：raw/papers 保存原始 PDF 与提取文本；更新记录见 [[log.md|log.md]]。
+- 〔十月战争线，2026-10-22〕来源㉓ Rabinovich《The Yom Kippur War》（→ [[sources/yom-kippur-war-rabinovich|来源页]]，
+  Internet Archive 扫描、未 OCR）：新开 **1973 年十月战争**战争线（[[wars/yom-kippur-war/index|索引]]＋
+  [[wars/yom-kippur-war/timeline|时间线]]），骨架批建 [[events/operation-badr-1973|Badr 渡河行动]]、
+  [[concepts/dovecote-plan|Dovecote]]、[[concepts/operation-tagar|Tagar]] 三页，并把既有
+  [[events/yom-kippur-1973-air-sam-ew|1973 空战/EW 页]]挂入本战争、按新源补写以方决策与战损；
+  第 2 批（2026-10-22）续建八页：10-08 以军反攻失败、Kuneitra 缺口、Nafakh、赫尔蒙山失守、
+  戈兰反攻与越紫线（含伊拉克远征军介入）、10-14 埃军装甲反攻、[[events/operation-stouthearted-men|以军渡河 Abirei Lev]]、
+  [[events/dougman-5-1973|Dougman 5]]；第 3 批（2026-10-22）续建五页：[[events/chinese-farm-battle-1973|Chinese Farm 血战]]、
+  [[events/operation-abirei-lev|西岸破出与合围第三军团]]、[[events/us-soviet-airlift-1973|美苏空运竞赛]]、
+  [[events/yom-kippur-1973-naval-war|10 月海战]]、[[events/decision-to-cross-1973-10-12|10-10—12 指挥交接与渡河决策]]；
+  第 4 批（2026-10-22）续建四页：[[events/un-security-council-resolution-338|338 决议与萨达特停火转向]]、
+  [[events/chermon-missouri-final-battles-1973-10|赫尔蒙山再夺与 Missouri]]、
+  [[events/ceasefire-violations-third-army-encirclement-1973-10|停火后续战与第三军团被围]]；
+  第 5 批（2026-10-22）续建五页：[[events/suez-city-battle-1973|苏伊士城战斗]]、
+  [[events/nuclear-alert-1973-10-24|10-24 美苏核对峙（DEFCON 3）]]、
+  [[events/km-101-and-disengagement-1973-74|km 101 与埃叙脱离接触]]、
+  [[events/agranat-commission-1973|Agranat 委员会与战后清算]]、
+  [[concepts/yom-kippur-1973-outcome-assessment|战果、伤亡与历史评价]]，并开人物层四页
+  （[[entities/people/moshe-dayan|达扬]]、[[entities/people/golda-meir|梅厄]]、
+  [[entities/people/david-elazar|埃拉扎尔]]、[[entities/people/anwar-sadat|萨达特]]）；
+  第 6 批（2026-10-22）补读书末未读的 ch1／ch2／ch3／ch6，建
+  [[events/sadat-road-to-war-1970-73|萨达特走向战争]]、
+  [[events/summer-lull-and-deception-1973|1973 夏季松弛与埃及欺骗工程]]、
+  [[concepts/idf-doctrine-and-bar-lev-line|IDF 教义与 Bar-Lev 线]]与
+  [[entities/people/hafez-al-assad|阿萨德]]，并把主时间线前推至 1970。全书 ch1—ch38 至此全部摄入。
+  及概念/地点四页（[[concepts/israeli-intelligence-failure-1973|情报"概念"]]、
+  [[concepts/yom-kippur-1973-equipment-comparison|装备对照]]、[[entities/places/golan-heights|戈兰高地]]、
+  [[entities/places/suez-canal-bar-lev-line|运河与 Bar-Lev 线]]）。后续逐章续建（断点见 log）。未改 SCHEMA。
+来源㉔ Herzog《The Arab-Israeli Wars: War and Peace in the Middle East》（Arms & Armour 1982／
+  Vintage 1984；→ [[sources/arab-israeli-wars-herzog|来源页]]，Internet Archive 扫描、未 OCR，440 页）：
+  本书覆盖 1948—1982 七段战争，本轮摄入 **Book V（1973 年赎罪日战争）**——作为 Rabinovich 线的
+  **第二主源**（前军情负责人视角的全景通史），并行建
+  [[concepts/yom-kippur-1973-egyptian-orbat-herzog|埃军编成（Herzog 口径）]]、
+  [[events/bar-lev-forts-defense-1973|Bar-Lev 诸堡防御战]]、
+  [[events/idf-counterattack-1973-10-08-herzog|10-08 反攻（Herzog 版）]]、
+  [[events/crossing-and-corridor-herzog|渡河与走廊之战（Herzog 版）]]、
+  [[events/northern-front-herzog-1973|北线全战役（Herzog 版）]]、
+  [[events/air-naval-war-herzog-1973|海战与空战（Herzog 版）]]、
+  [[concepts/yom-kippur-1973-herzog-assessment|Herzog 的总结评价]]与
+  [[entities/people/motti-ashkenazi|Motti Ashkenazi]]；两书冲突数字一律并列标注、不合并。
+  Book II（1956）另开新战争线 [[wars/sinai-campaign-1956/index|1956 年西奈战役]]（含时间线与五战役页、两概念页、
+  一人物页）；Book III（1967）另开新战争线 [[wars/six-day-war-1967/index|1967 年六日战争]]（含时间线与五战役/事件页、
+  两概念页、两人物页）；Book IV（消耗战）另开新战争线 [[wars/war-of-attrition-1969-70/index|1967—1970 年消耗战]]（时间线与七页）；
+  并把既有 [[events/eilat-sinking-1967|Eilat 号页]]（Price 线）补入 Herzog 叙述作并列。
+  Book VI（恩德培）已摄入（事件页＋政策页＋人物 2 页，未单开战争线，因其不属战争）。
+  Book VII（1982 黎巴嫩）已摄入（新开 wars/lebanon-war-1982 线，15 页）。
+  **七卷全部摄入完毕**（Book I 1948／II 1956／III 1967／IV 消耗战／V 1973／VI 恩德培／VII 1982）。
+来源㉕ Kenneth M. Pollack《Arabs at War: Military Effectiveness, 1948—1991》（University of Nebraska Press，
+  Bison Books 2004；→ [[sources/arabs-at-war-pollack|来源页]]，EPUB 文本型、zipfile 解包未 OCR，六国六章）：
+  本书**不是战史而是"军事效能"评估**，用于回答"阿拉伯军队为何打得差"。本轮已摄入
+  导论、结论与埃及／约旦／叙利亚／伊拉克／利比亚／沙特六章的主要评估段落，建立跨战争专题
+  [[topics/arab-military-effectiveness-pollack|阿拉伯军事效能专题]]、总诊断
+  [[concepts/arab-military-ineffectiveness-pollack|Pollack 总诊断]]、概念页
+  [[concepts/military-effectiveness|军事效能]]、[[concepts/unit-cohesion-question|部队凝聚力之争]]、
+  四项缺陷页（[[concepts/arab-tactical-leadership|战术领导力]]／[[concepts/arab-information-management|信息管理]]／
+  [[concepts/arab-technical-skills|技术技能]]／[[concepts/arab-maintenance-record|维护保养]]），
+  国别评估页（约旦 3 页、叙利亚 3 页、伊拉克 1 页、利比亚 1 页、沙特 1 页），
+  战例页 [[events/was-al-khafji-1991|海夫吉之战]]，并把埃及 1973 的两个既有页（
+  [[events/operation-badr-1973|Badr]]、[[events/october-14-1973-egyptian-armor-attack|10-14 反攻]]）
+  补入 Pollack 对照节。**数字冲突一律并列标注、不合并。**
+- 资料层：raw/papers 保存原始 PDF 与提取文本；更新记录见 `log.md`。

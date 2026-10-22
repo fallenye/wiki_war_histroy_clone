@@ -1,0 +1,649 @@
+                  Chapter 23
+                   OPERATZIOT
+
+
+
+
+No single image so haunted the lAF fighter community in the early
+1970s as that of Shmuel Hetz being plucked out of the sky by an
+SA-3 missile on July 18, 1970. More than anything, it was that image
+that fueled the feverish quest for a missile cure, that consumed and
+dominated the force through and beyond the decade. The quest
+began on the day the War of Attrition ended, and quickly enveloped
+the entire force. At his magic shop, Joseph Na’or combed through
+foreign literature, particularly U.S. military surplus catalogs, and
+began to collect mounds of electronic discards that he assembled
+into home-made missile-zapping hardware. At lAF Intelligence,
+must-have lists were drawn up and rushed over to Mossad and
+AMAN, which mobilized their assets around the world. At lAF
+Operations, a new plan called Srita was developed in case the
+Egyptians attempted a Canal crossing under their missile umbrella
+before the lAF had figured out a way for properly taking care of the
+missiles (it called for Phantoms and Skyhawks to toss bombs at the
+bridges on the Canal from a distance, without venturing into missile
+range).
+  By now the SA-2s were no problem, and even handling the SA-3
+missiles was relatively easy, since Na’or soon had   enough junked
+
+                                   <
+
+
+
+
+324                NO MARGIN FOR ERROR
+American hardware to build a jamming system that could confound
+the SA-3s the way that the American pods confounded the SA-2s in
+the summer of 1970. The problem was that the new SA-6 missiles
+were so new that their electronic behavior or even what they looked
+like was a mystery. What was known was that the SA-6s were far
+smaller than the SA-2s or SA-3s, that each SA-6 battery consisted
+of no more than three missiles mounted on a half-track, and that
+they could be moved around the battlefield quickly and easily as in
+a shell    game. Also, the SA-6’s two-phase engine made it virtually
+invisible in the air, since the initial rocket launch with its telltale
+smoky contrails lasted only six seconds, after which a clean-burning
+ramjet engine kicked in. Not until the summer of 1972, in a hazard-
+ous mission led by Aviem Sela, did two Phantoms from Ramat
+David manage to bring back detailed photographs of five Syrian
+SA-6 batteries located between the Golan Heights and Damascus.
+   As new information was assembled, it was funneled to lAF Oper-
+ations and from there to the squadrons, where it was worked up into
+new attack and evasion tactics. But there the quest for protection
+against missiles split and proceeded along two different, even con-
+tradictory trajectories. The split grew out of Shmuel Hetz’s fateful
+pod-formation strike in the summer of 1970, and from the “phys-
+ics” versus “electronics” arguments that Iftach Spector and Hetz
+began in the days just before Hetz was killed.
+  Iftach Spector, particularly since taking over the 171     Phantom
+squadron      at   Hazerim, once again pushed “physics.” Using a
+dummy-missile field that Ariel Sharon, then head of IDF Southern
+Command, built for the lAF in the Sinai, Spector and his pilots,
+stopwatches running, worked incessantly on getting to the missiles
+so fast and low that their fire-control radars wouldn’t even detect the
+approaching Phantoms. Speed, stealth, minimum radar exposure,
+and pilots’ improvisation were everything. Instead of flying straight
+and level into harm’s way with the pods broadcasting, Spector’s
+pilots slithered in at   ground level, using only sticks and throttles
+under total electronic silence. When they reached their targets, they
+quickly climbed up, struck, and bounced back to the ground to get
+away. Different combinations of speed, direction, and bombing
+altitude    and angles were   tried, to   shave off a second here, two
+seconds there.
+
+                            Opera t z    t   o t                    325
+
+   To make up for insufficient intelligence or lack of electronic
+guidance, Spector developed a missile-hunting technique which he
+called    hunt.
+             His pilots went out in teams, each consisting of
+“decoy” Phantoms that flew high to tease the batteries and spot
+missile launches, and “hunter” Phantoms that came from below at
+their targets. Although the Phantoms now carried more sophis-
+ticated American jamming pods that could disrupt both SA-2 and
+SA-3 missiles, Spector had his pilots switch them off, so their telltale
+beams would not announce the Phantoms’ approach. Only at the
+last moment, when enemy missiles were already in the air, could the
+
+pods be switched on for protection.
+   In the spring of 1973, Spector codified his “hunt” doctrine by
+gathering leading pilots from all lAF fighter and attack squadrons
+for an intense antimissile warfare workshop at his squadron. At the
+end, each participant was to impart his newly acquired skills to the
+rest of his squadron members. The course, however, ended in July,
+just three months before    Yom Kippur. By the time war broke out,
+only Spector’s own squadron had mastered the new tactics.
+  In marked contrast, from his new post as head of lAF Strike
+Planning at lAF Operations, Avihu Ben-Nun relied on huge and
+intricate attack formations,   backed by massive electronic support
+systems, to overwhelm rather than finesse missile defenses         —
+frontal   tank attack to Spector’s    commando strike.     many
+                                                           Like
+young officers of his generation, Ben-Nun was awed by the Moked
+airfield-attack plan that   brought the dramatic victory in 1967. In-
+deed, the plan he unveiled at the end of 1972 for eliminating the
+Egyptian missiles, code-named Tagar, was bigger and more com-
+plex than anything the lAF had ever attempted. Using hundreds
+of planes in several attack waves, weaving in and out with the
+split-second timing of a Swiss watch, Tagar intended to systemati-
+cally peel off Egypt’s missile defenses layer by layer until there
+was nothing left.
+  On paper —which was the only way the plan could be presented,
+analyzed, and debated — Tagar was awesome.      began with an
+                                                    It
+
+aerial strike against the antiaircraft gun batteries that guarded the
+missiles against low-flying planes. The entire Canal front was lined
+with “exit towers,” tall markers carrying huge numbers. Low-flying
+Phantoms charged toward their assigned markers at designated
+
+326                 NO MARGIN FOR ERROR
+speeds and directions, then pulled up at precisely dictated angles
+and power. At predetermined altitudes, each plane released its
+bombs and looped back toward home, while the bombs continued
+to fly across the sky as if hurled     by giant slingshots, to devastate
+their targets deep inside Egypt.
+  Next, dozens of refueled and rearmed Phantoms, backed by
+Skyhawks and Super-Mysteres carrying elaborate electronic jam-
+ming and deception systems, zeroed in on the missiles’ radar control
+units, their “eyes and ears.” Not all Phantoms carried the same
+ordnance. Some came in high and carried small Shrike antiradiation
+missiles, which would home in on any enemy radar that came to life.
+Others came in low with giant regular or cluster bombs. This combi-
+nation checkmated the Egyptians by forcing them to either “shut
+off the radar, which would let us attack with regular bombs, or
+
+switch the radar on and get hit by the Shrikes,” says Eitan Peled,
+veteran of numerous antimissile attacks in 1970, and one of Tagar s
+planners.*
+  Finally, with the radars destroyed,        waves of Skyhawks safely
+swept in to destroy the missiles themselves. The entire operation
+could take anywhere from a few hours to a couple of days. In early
+1973, a second antimissile plan, code-named Dougman P, was de-
+veloped to counter the growing missile buildup on the Syrian front.
+  To Spector,        the plans were an offense.   Deriding Ben-Nun’s
+“Swiss watch” schemes as '^operatziot/' Spector argued that they
+were too massive, complex, and rigid, like doing battle by bureau-
+cracy. So little leeway was built into the plans, he argued, that if one
+plane was late or off course, it threw everything and everybody off.
+Every cog and spring of the “Swiss watch” was so closely meshed
+to the others that unless everything worked perfectly, everything
+had to fail. It gave the lAF no better than a heads-or-tails odds of
+success.
+  “As interceptor pilots, we were used to having a wingman leave
+a flight leader to get something done. We called it 'Modia ve’-
+holech' (Notify and leave),” Spector would say later. “But in those
+operatziot you could not simply notify and leave, because you
+would be tampering with a huge formation. ... I felt the operatziot
+in a sense closed us up, turned us into Arab pilots or Russian pilots
+[while]    I   wanted us to be Jewish pilots.”^
+
+                              O r E HA T Z I   ()   T                 327
+
+   Spector was not the only one to criticize Ben-Nun’s approach. So
+did Beni Peled, although for different reasons. Peled had nothing
+against electronics or organizational complexity, but to his engi-
+neer’s mind, trained on worst-case scenarios, Ben-Nun’s plans
+seemed based on an assumption that everything would work out
+perfectly    —   perfect weather, perfect intelligence, perfect surprise.
+Peled also objected to lAF Operations’ underlying assumption that
+the missiles could be attacked only by planes, as opposed to say,
+tank or commando strikes, and that only Phantoms could do the
+job.   “When I took command, everybody knew my intentions to
+demolish all those [MoW-like] plans,” Peled says.
+   On May 13, 1973, three days after he took command, Peled put
+his reservations on record when Dayan and Elazar dropped in at his
+bunker to find out how the lAF planned to handle the Arab missiles
+if war broke out. Peled sat quietly as lAF Operations officers put on
+
+an impressive presentation of Tagar and Dougman F, but he grew
+uneasy as the guests seemed relieved that the lAF once again as-
+sumed responsibility for the outcome of the next war.
+  “There are vast differences between carrying out these plans
+when we are the initiators, and between carrying them out in re-
+sponse to enemy attack,” Peled warned them. That was particularly
+true in the case of Dougman F, the plan to take out the Syrian
+missiles on the Golan Heights. Whipped out in a rush along the
+general outlines of Tagar,        Dougman V differed in one critical
+aspect   —the prevalence     of mobile SA-6 missiles on the Syrian front
+precluded the kind of elaborate foreplay that assured the success of
+Tagar in the south. There could be no last-minute reconnaissance
+flights to   determine precisely where the missile batteries were, or
+artillery-suppressing slingshot attacks to pave the        way   for the
+bombers. Since any Israeli movement would spook the Syrians into
+shuffling their missiles, Dougman       V had to come straight “out of
+the blue.” In fact, the mission planners used those very words, in
+English, to describe their concept and tactics. Put another way,
+Dougman V was at best a gamble on the missiles being where they
+were the last time anybody looked, whenever that was.
+  To have any chance of success, Peled told Dayan and Elazar, the
+lAF had to have everything just right. It needed at least forty-eight
+hours of advance warning so it could attack under as perfect as
+
+                                     <
+
+
+
+
+328               NO MARGIN FOR ERROR
+possible flying conditions.   And it had to attack first to maintain
+surprise. Finally, since either Tagar or Dougman V would require
+every flyable vehicle the lAF had, the Greens had to have it under-
+stood that, until the missiles were wiped out, they could have no air
+support    —whether   it   took two hours or two days.
+   “Beni, my friend,” Peled would recall Dayan telling him at the
+end of the meeting, “do you really think that if we knew we were
+going to be attacked we’d let the lAF sit quietly? Of course we
+would be the initiators.” Thus five months before war actually
+broke out, the blueprint for victory seemed clear and reassuring. If
+the missiles were the new wrinkle on the old military balance,
+Tagar and Dougman V effectively ironed them out.
+   But Zeira’s intelligence failure, and the Israeli government’s deci-
+sion to let the Arabs strike first, destroyed that blueprint. The
+advance notice shrank from forty-eight to eight hours on the morn-
+ing of Yom Kippur, and then to nothing as weather and government
+objections precluded an lAF first strike altogether. And instead of
+having a few hours or days to itself to handle the missiles during the
+first hours of the Arab offensive, the lAF first had to defend the
+
+national airspace against Arab fighters, bombers, and commando-
+bearing helicopters. Only at the end of the first day did Peled get
+around to doing anything about the missiles, sending a few Phan-
+toms in the dark to toss bombs slingshot style in the direction of the
+Egyptian missiles and Canal-crossing positions. The Phantoms
+were not expected to accomplish much, and they didn’t. Something
+far more drastic    had to be done.
+  The trouble was, with the exception of Tagar and Dougman P,
+the lAF had no way of dealing with the missiles, and both plans
+were predicated on conditions that may have no longer existed.
+Still,   the two plans were all there was. Thus on the first evening of
+the war,    when reports from the north suggested that the Syrian
+advance into the Golan Heights had been checked on the ground,
+Peled accepted lAF Operations’ assessment that the Egyptians had
+not yet had the time to move their heavily fortified missile batteries,
+and their recommendation to launch Tagar the following morning.
+  Actually, as the first day of the war drew to a close, few in or out
+of the Israeli military felt particularly alarmed by the sudden war.
+Practically all Israelis, from civilians in bomb shelters to uniformed
+
+                            Opera t z      i       r                  329
+
+personnel everywhere, although kept in the dark hy total radio
+silence, matter-of-factly anticipated    an Israeli counteroffensive the
+following day. Few doubted that, once faced with the Greens on the
+ground and the Blues in the air, the Arab offensive would collapse.
+The lAF in particular, after a spectacular first-day harvest of Arab
+MiGs, bombers, helicofiters, and a couple of guided missiles (which
+Israeli Mirage pilots chased and shot down before they reached Tel
+
+Aviv), had no reason to be worried. Angry, perhaps, for not being
+allowed to attack first, hut not worried.
+   Indeed, as Tagar began the next morning and the first wave of
+Phantoms charged toward their markers at the western edge of the
+Sinai, the end of the war seemed in sight. At seven o’clock, on time,
+the Phantoms reached their markers, slammed into afterburn to
+pull up, then slung their bombs at the antiaircraft gun batteries that
+guarded the missiles. At the same time, other Phantoms and Mi-
+rages attacked Egyptian airfields around the Canal and in the Nile
+Delta, shattering their runways and preventing their          MiGs from
+interfering with the counteroffensive. Although the Egyptians had
+plenty of time to prepare     —and should have         anticipated such a
+counterattack   —   the Israelis ran into little opposition. The Phantom
+crews were elated as they thundered back to their bases to rearm,
+refuel,   and get back down to the Canal to knock out the missile
+batteries.
+  It was not to be.  Even as the Phantoms were still charging toward
+their targets, the operation had been canceled. At six that morning,
+a shaken Moshe Dayan telephoned Beni Peled from IDF Northern
+                                               —
+Command with an apocalyptic message “the Third Temple is in
+danger.” Contrary to the previous night’s impressions, the Syrian
+attack had not been blocked. Instead, a full Syrian armored division
+broke through Israeli defenses during the night, rolled over the lone
+Israeli tank   brigade that stood in its way, and was now inside the
+southern sector of the Golan Heights, halfway down to the Jordan
+River. Unless Peled immediately  moved his entire force to the
+north to block the Syrian advance, Dayan warned, Syrian tanks
+would soon cross into Israel.
+  Dayan’s “Third Temple” warning was not a coded message. It
+was a cry of anguish echoing innermost Jewish fears. The first
+Jewish Temple, built by King Solomon in 940 B.c., was destroyed
+
+330                 NO MARGIN FOR ERROR
+354 years later by the Babylonians, in 586 B.c. The Second Temple,
+built in 538 b.c. on the ruins of the first, was destroyed by the
+Romans 600 years later. Following each destruction, the country
+was sacked and its entire Jewish population forced into exile, the
+first   lasting fifty years, the second for nearly nineteen hundred.
+   Now, after barely twenty-five years of restored Jewish statehood,
+Dayan was raising the specter of another biblical-scale devastation.
+Peled’s protestation that Operation Tagar was in progress in the
+south, and that once the Egyptian missiles were taken out the lAF
+would be in a much better position to help the ground forces in the
+north, paled before Dayan’s doomsday warning. “The Sinai is sand.
+Here are homes,” Dayan dismissed his objections tersely. There was
+no middle ground, no room for disagreement. In any other country,
+such talk of national annihilation would be dismissed as an exag-
+gerated figure of speech. In Israel, thirty years after the Nazi Holo-
+caust,    it   was a   real    possibility   with ample historic precedent.
+Dayan’s telephone call, bypassing military channels that required
+him to work through IDF chief of staff Elazar, placed the responsi-
+bility for the lives of the outnumbered tank crews on the Golan
+
+Heights   — not the
+               if              of the
+                              survival         first   Jewish state in two mil-
+lennia   —squarely on Peled’s shoulders.
+   “I did not even bring up [the May 13, 1973, meeting with Dayan
+and Elazar],” Peled would later say. “This is not a perfect world.
+Things change.” His awesome burden was visible as, at six-thirty,
+he walked into the lAF bunker and “in a manner that did not invite
+any discussion, ordered Tagar stopped and the entire lAF activity
+moved to the north,” recalls Amos Amir, a former Phantom squad-
+ron commander who was at the bunker learning the ropes in prepa-
+ration for taking over lAF Operations.^
+   If Golda Meir’s decision to stand by and let the Arabs attack first
+was the second most momentous decision in Israel’s history, after
+Ben-Gurion’s decision to declare statehood on the eve of the 1948
+Arab invasion, Peled’s order to call off Tagar came close behind.
+His staff was stunned. Giora Furman, chief of lAF Operations,
+exploded with rage. Not only would the cancellation of Tagar hand
+the Sinai to the Egyptians, but the Golan Heights was too tiny an
+area to waste the entire lAF on in the first place. By sending a few
+more Skyhawks to deal with the Syrian tanks, the lAF could still
+
+                         Opera t z      i   o t                             331
+
+
+keep Tagar going as planned and win the war. Furman’s misgivings
+were shared by virtually everyone on Peled’s senior staff.
+  But none of the young colonels had heard Dayan’s anguished
+warnings. They had no idea whether things on the Golan Heights
+                                                   —
+were or were not as bad as Dayan said they were or worse. None
+had the responsibility for the survival of the “Third Temple” thrust
+upon them. All they really knew was that the opportunity to carry
+out the plan in which they had invested their time and effort for the
+past three years was being snatched away, probably because Peled
+did not put up a sufficient fight on the plan’s behalf.
+    But it was Peled’s judgment call. “I’m sure Peled thought that
+if the ground forces [on the Golan Heights] could hold on a little bit
+
+longer it would have been different, but I also think that he was
+persuaded at that moment that there was no little bit left      .   .   .   that
+the IDF did not have two more hours to hold on, and he decided
+to go there,” says Yoram Agmon, then commander of the               Ramat
+David Phantom squadron.*
+  Brusquely cutting off any debate, Peled ordered         all   available
+Skyhawks to the Syrian front, to stop the Syrian tanks from reach-
+ing the Jordan River. He then gave lAF Operations five hours to
+launch Dougman     V at the Syrian missiles. “What happened was
+that  ... we had a so-called labor agreement about how the lAF
+would function during a war and under what conditions. [But] we
+had the agreement with the IDF and with the government of Israel,
+when in reality we should have had it with the enemy,” Peled would
+sarcastically reflect later on the turmoil in the bunker. “Since the
+enemy was not party to the agreement, it took several senior lAF
+staff members some time to grasp it, that’s all.”
+
+   The day before, when Mod Hod reported for duty at the lAF
+bunker, Peled sent him to the Syrian front, to serve as air advisor
+to the chief of IDF Northern Command. Hod was there when Dayan
+read his “Third Temple” warning to Peled over the telephone.
+“Tell him to send in Skyhawks in fours, one after the other, so the
+Syrians could not lift their heads,” Hod urged Dayan to tell Peled.
+Now Peled placed a squadron of Skyhawks from Ramat David
+directly under Hod’s command. The Syrian tanks had already
+started down the basalt-strewn Gamala Grade, sloping down to the
+Sea of Galilee from the ancient fortress-mound of Gamala, site of a
+
+332               NO MARGIN FOR ERROR
+desperate Jewish last stand against the Romans two millennia ear-
+lier.    For the rest of the day, with Hod directing them from his
+observation bunker, the Skyhawks held off the Syrian attack until
+Israeli    tank reinforcements arrived that afternoon and began to
+push the Syrians back. Although some Syrian tanks came within
+four miles of the Jordan River that day, it was as far as they would
+get during the entire war.     Not one enemy tank would cross the
+Jordan River into Israel.
+   At eleven-thirty, without surprise or current intelligence, the
+Dougman V strike against the Syrian missiles began under the
+worst possible conditions. The Syrians were on the move, and it was
+a virtual certainty that so were the missiles. But there was no way
+of finding out where they were, and just flying and looking over the
+front, now bristling with antiaircraft guns on hair-trigger alert,
+would be suicidal. Worse yet, the quick shift from south to north
+meant that helicopters, transports, and Skyhawks carrying crucial
+electronic jamming and deception gear could not be brought back
+up in time to cover the operation. Phantom crews returning from
+Egypt had no time to be properly briefed. Iftach Spector had just
+landed after an early morning raid on the Beni Suef airfield, seventy
+miles up the Nile from Cairo, when he found out that Dougman V
+was about to begin. Promptly assigning himself to lead his squad-
+ron’s portion of the operation, he was walking back to his plane
+when he suddenly stopped and turned toward his deputy. “Remind
+me what Dougman V is all about, won’t you?” he asked.
+   Taking off from Hazerim, Hazor, Tel Nof, and Ramat David,
+some fifty Phantoms headed out to sea, turned back, spread out in
+attack formations, and charged into the wall of frenzied antiaircraft
+fire    that hovered like fireworks over the advancing Syrian forces.
+The Phantoms covered the front in geographical order, the Ramat
+David Phantoms at the north sector, Tel Nof’s and Razor’s at the
+center, and Specter’s squadron from Hazerim in the south.
+   Eitan Peled’s formation, six Phantoms from Hazor, got the worst
+of it. Plowing single file into what   —                      —was
+                                           until the day before      the
+seam between two Syrian troop concentrations, they found them-
+selves instead flying smack over the Syrian advance force, which
+virtuallyexploded with barrages of gunfire and SA-7 “Strella”
+shoulder missiles. Zigzagging madly, Peled, who flew first, got
+
+                                Opera t z        o                         333
+
+through this wall of fire intact, hut two of the four Phantoms behind
+him were shot down, and two more from the second foursome of his
+squadron at his right. The survivors of that murderous gauntlet
+arrived at their target area, six miles behind the Syrian line, only to
+find the missiles gone.     As they pulled up and rolled down toward
+where the batteries were supposed to be, all they could see was
+empty dugouts everywhere, but no missiles except for those being
+fired at   them. There was nothing to do hut return to base, with
+nothing to show for the four Phantoms they lost going in.
+  The other squadrons did only a little better. In the north, leading
+a formation of Ramat David Phantoms, Ehud Henkin also began
+his dive only to realize that his target         was not there. But then he
+spotted the missile battery a short distance away. Henkin was in a
+bind. Under the strict “Swiss watch” rules of Dougman V, he was
+not allowed the slightest deviation from the attack plan, and a
+second pass over a target was specifically prohibited. But the mis-
+siles were there.     Instead of pulling back up and clearing out, Hen-
+kin changed direction halfway through his dive. Pulling the giant
+Phantom into a tight high-G turn, he managed to come over the
+target and release his bombs. But that was all he could do. Already
+going too     fast    and low   to either pull    back up or   bail out,   his
+Phantom slammed into the rocky terrain and exploded at virtually
+the same time that his bombs struck the missile battery. Henkin
+and his navigator were killed instantly.
+   Ironically, a second, younger Ramat David Phantom pilot named
+Yehuda Palit* was also in mid-dive when he spotted a missile
+battery at a different location. As there was only slight antiaircraft
+fire from below, he ignored his standing orders, came around again
+
+and destroyed the battery before heading back for home.
+   Farther to the south, sixteen Phantoms from Tel Nof also failed
+to find    any targets, and lost one Phantom to ground fire before
+turning back. Only Specter’s squadron came out unscathed. Al-
+though he was already in his plane when he looked at his mission
+orders and maps, Spector immediately      demanded and received
+permission to change his attack route. “From personal experience
+I knew that in its rear the enemy was never on alert, and therefore
+
+
+
+
+*Not his real name.
+
+                                   <
+
+
+
+
+334             NOMARGINFORERROR
+never presented a threat. During all those years along the Suez
+Canal, the danger was between the water line and perhaps ten or
+twenty kilometers on the other side. Behind that, in Egypt’s ex-
+posed belly, you could fly quietly. I used to cross that belt very fast,
+then cut down speed, save fuel, and I was never hit and never lost
+a plane,” Spector would say later. Now, instead of charging head-on
+at thesouthernmost flank of the rolling Syrian forces, he went
+around it, taking his formation due east into Jordan, then circling
+north to arrive   at his target from the rear, unexpected and un-
+detected. His formation found no missiles either where they were
+supposed to be, but they avoided the Syrian antiaircraft fire en-
+tirely, and did not lose a single plane.
+
+   Dougman F’s failure was total. Six Phantoms were lost and their
+crews killed or captured, but only two out of more than thirty
+missile batteries were destroyed or damaged. What made it worse
+was the feeling, both at lAF Operations and in some of the squad-
+rons, that had they stuck to Operation Tagar, the Egyptian missile
+system would have been destroyed by sundown, and Egypt would
+be out of the war. Certainly there was no disputing the fact that
+halfway through the second day of the war, the lAF had already lost
+thirty-five planes without so     much as nicking the massive missile
+packs across the Canal and on the Golan Heights.
+  Peled’s colonels did not give up. In the hope that Dougman          V
+had disoriented the Syrians even if it did not destroy their missiles,
+Avihu Ben-Nun now put forward a plan to throw every available
+Phantom, Mirage, and Skyhawk back into the same area to seek out
+and destroy the remaining batteries before they could be reposi-
+tioned. In retrospect, he was probably right. According to Yoram
+Agmon, commander of the Ramat David Phantom squadron at the
+time, none of the Israeli Phantoms at the Dougman V operation was
+shot down by SA-6 missiles, apparently because the SA-6 batteries
+were on the move. It might indeed have been possible to go back
+and take them out before they became operational.
+   But from the start of the war Dayan had objected to the lAF’s
+even trying to hit the missiles once it lost the initial edge. For two
+days now, he’d been pushing for sending the lAF against the invad-
+ing Arabs regardless of casualties. “In my opinion, the Air Force
+must give up on attacking missile batteries now and do everything
+
+                           Opera t z        i   o t                335
+
+possible to prevent the {)assage of Egyptian tanks into the Sinai,
+even if it means losing planes. If the Air Force keeps concentrating
+on the missile batteries and fails, we lose both ways,” he would later
+describe his thinking.^ Now the IDF command came around and
+Ben-Nun’s plan was rejected. “Drop it,” Peled told his staff. “From
+now on we go around the missiles when we can, through them when
+we must.”
+   At two that afternoon, with Dougman V barely over, Peled
+joined an IDF high command assessment meeting on the worsening
+situation. The change of mood from the night before could not have
+been more extreme. Twenty-four hours into the fighting, even as
+reserve tank and infantry units began arriving at the front, the
+Israeli lines   were in shambles. In the north, Syrian commandos
+captured critical Israeli positions on Mount Hermon, Israel’s vital
+communications and observation stronghold, and Syrian tanks were
+all   over the Golan Heights. In the south, the first Egyptian attack
+wave demolished Israel’s line of fortifications along the Canal. Nine-
+teen out of the twenty forts were either wiped out, abandoned, or
+had surrendered.      However          and well their defenders
+                                valiantly
+fought, the sheer magnitude of the Egyptian offense made their
+resistance futile. lAF Skyhawks and the few IDF tanks in the area
+managed to destroy sizable numbers of Egyptian tanks, but so many
+more kept pouring into the Sinai that it made little difference.
+  By the end of the day, entire Egyptian tank, infantry, and com-
+mando divisions had completed the crossing on schedule and seized
+the entire east bank of the Canal. Nearly a hundred Israeli tanks,
+one-third of the entire tank force in the Sinai, were destroyed, many
+of them just as they reached the front, before they had a chance to
+take cover or figure out what was happening.
+  All along, confident that it was only a matter of time before they
+could rally and “throw” the Egyptians back over the waterway, the
+IDF command had asked the lAF to refrain from destroying the
+Egyptian bridges. The Greens were actually hoping to use the
+enemy’s own bridges for their counteroffensive. But traffic across
+the bridges was still moving in only one direction, and “throwing”
+the Egyptians back seemed less and less likely. Conjuring up fright-
+ening images of hundreds of millions of Arabs, backed by the full
+might of the Soviet Union, closing in on Israel with her limited
+
+336              NO MARGIN FOR ERROR
+human resources and rapidly dwindling tank and fighter-bomber
+reserves, Dayan now pressed for abandoning the Canal front alto-
+gether, and pulling back to a second defense line at the Mitla and
+Gidi passes in Central Sinai.
+  “Is it an advise or a command. Sir, because if it is an advise I am
+rejecting it,” Gen. Samuel Gonen, commander of the Suez front,
+responded in shock. But bravado alone could not change the fact
+that, with the Egyptian missiles still in place, Dayan seemed to be
+right in insisting that the Egyptian bridges   —or   for that matter the
+entire front   —were beyond the reach of the lAF and          therefore
+indefensible. Dayan was about to leave for a cabinet meeting, where
+he was expected to have little trouble pushing through a pullback
+order,   when Beni Peled said “Excuse me for a moment,” and
+walked out of the room.
+    Rushing back to his own lAF bunker, he ordered an immediate
+all-out attack on the bridges. Within minutes, running under,
+around, but mostly through the missile umbrella, lAF Skyhawks
+and Phantoms began to seek out and bomb the bridges. Dayan was
+still at the IDF bunker when Peled called to report that two of the
+
+bridges had been taken out, and at four-thirty he reached Elazar at
+                                                 —
+Golda Meir’s office and reported that seven one-half of the    —
+Egyptian bridges had been bombed and that the operation was still
+continuing. “Come over and I’ll give you a kiss,” Elazar replied,
+then turned to give Meir and her cabinet their first good news of the
+day. The pullback proposal was put off for the time being. Dayan
+acidly pointed out that “this is not the [Tel Aviv] Yarkon Bridge
+you are talking about, but strings of rafts and pontoons which the
+Egyptians can easily repair at night,”* but the sense of impending
+doom had been relieved.
+   Out on the Canal, however, dozens of Phantom and Skyhawk
+pilots weaving their way through missile barrages made their own
+discovery. The problem was not demolishing the bridges, or even
+dodging the missiles. The problem was that nobody seemed to know
+where anything was. For the second time that day, Iftach Spector
+had to change his mission orders to protect his pilots. Instead of
+sending them straight to where lAF Operations suspected that the
+bridges were and risk getting shot down only to find out there was
+nothing there to bomb, he devised a way of taking a peek first.
+
+                         Opera t z      i   o t                    337
+
+
+Instead of going in in attack formations, he spread each formation
+out along a section of the Canal, and had them come in low, pull up
+quickly and loop right hack    — while looking    to their right at the
+Canal just helow them.   If they   saw nothing, they would regroup,
+move several miles up the Canal, and repeat the routine. If they
+spotted a bridge, they’d note its precise location, pull hack, then
+return in attack formation to take it out.
+  For the second time that day, Spector brought his squadron back
+without a single loss. His own formation looped around twice, under
+heavy antiaircraft gun and missile     fire,   before they found their
+bridge and destroyed it. But instead of bringing relief, the success-
+ful attack only deepened the sense of bewilderment that enveloped
+
+the squadrons at the end of the war’s second day. The day before,
+setbacks could be blamed on the government’s decision to let the
+Arabs strike first. But now,    for the second time that day,     lAF
+Operations sent the Phantoms into harm’s way unprepared and
+without basic battlefield intelligence. In fact, squadrons who fol-
+lowed mission orders to the letter suffered the heaviest casualties.
+Some, like Spector, kept their crews safe only by changing every
+mission order they received.
+  But the missions were not about staying alive. They were about
+stopping the enemy and relieving the pressure on the battered
+ground troops on the Canal front, and there the lAF was still
+accomplishing nothing. On the morning of October 8, the third day
+of the war, the two Israeli armored divisions on the Canal front
+counterattacked, aiming to roll back the Egyptian advance, and
+perhaps even to cross the Canal and shift the fighting to the Egyp-
+tian rear. But short of nibbling at the Egyptian tanks at the edges
+of the missile fields, the lAF could provide no significant close-air
+support, and the tank offensive was decimated by the Egyptian
+armor and by masses of shoulder-launched antitank missiles that
+Egyptian troops fired with abandon.
+
+
+
+Never in its history was the lAF bigger and stronger-— and never
+more helpless in carrying out its share of the war’s burden. “The
+lAF gets the biggest share of the military budget precisely to stop
+such attacks, and in 1973 it didn’t do it,” an Israeli professor who
+
+338            NO MARGIN FOR ERROR
+went through the war as a frontline medic would later say, speaking
+for many Greens who survived the war. Neither the pilots in the
+cockpits nor the colonels at lAF Operations had to be told all this.
+They did not have to tune in on the Greens’ radio frequency to learn
+of their desperate need of support. All they had to do was roll down
+their windows, so audible was the cry from the Canal sands in the
+south to the basalt ridges of the Golan in the north
+                                                       — “Where   is the
+
+Air Force?”

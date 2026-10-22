@@ -1,0 +1,644 @@
+                    Chapter 21
+                    MISSILES
+
+
+
+
+The crates contained not bombs or rockets, but large and shiny
+football-shaped aluminum pods. The pods contained not explosives
+but electronic gear, designed to work on what passed for the mis-
+siles’   brain, the targeting radar that controlled their firing   and
+flight. The key was the SA-2 battery’s narrow radar   beam that swept
+back and forth like a narrow shaft of a flashlight through an eight-
+degree slice of skies. As it moved, it showed up as two thin white
+lines sweeping back and forth across two small screens in front of
+the missile operator. On the directional radar screen, the line was
+vertical and swept right and left.On the altitude radar screen, the
+line was horizontal and swept up and down. When the search beam
+bounced off a target, its location was marked on the two screens by
+stationary white lines, a vertical line marking the direction of the
+target  from the missile battery, and a horizontal line showing its
+altitude. The target was at the point where the two lines intersected.
+   But if the plane that the radar beam struck carried one of those
+aluminum pods, and if the pod had been switched on, it could pick
+up and distort the radar beam just enough so by the time it bounced
+back home it would mark the Phantom’s location on the screen not
+as thin lines but as thick bright bands, covering as    much as one
+
+                            Missiles                              293
+
+
+quarter of each radar screen. By itself, this was not much, since the
+missile could still find its target where the two hands intersected.
+But if several pod-equipped Phantoms approached the battery to-
+gether, flying just far enough apart so the white bands that they
+projected onto the radar screen lined up alongside each other,
+together they would white out the entire screen and shut the radar
+down.
+  It was not as simple as all that. To block the directional radar
+screen, the one with the thin vertical line sweeping right and left,
+the Phantoms would have to spread out from side to side so that
+their vertical bands lined up alongside each other across the screen.
+But that only took care of the directional radar. To similarly white-
+out the altitude radar, the same planes would also have to spread out
+vertically,one above the other, so that the horizontal bands they
+projected also lined up one above the other, from the bottom of the
+screen all the way up. To “blind” just one battery, then, the Phan-
+toms would have to approach it head-on in the form of a diagonal,
+say one plane at eleven o’clock and one at five o’clock, and the rest
+spread out between them.
+   But the Phantoms were no longer dealing with one battery. The
+way the Soviets set them up, the missile batteries were now every-
+where. To also block out the radar screens of batteries on their right
+or left, the Phantoms had to spread out not only side to side and up
+and down, but also front to back, resembling the diagonal of a
+       —
+cube or a flight of migrating ducks.
+   Finally, they had to do all that at 18,000 feet, and to stay locked
+into their precise “pod formation” positions even after the enemy
+discovered them and the missiles started to fly in their direction. If
+they stayed in position, the SA-2 batteries’ radar screens would stay
+whited out, and whatever missiles were fired would simply wander
+away or explode harmlessly in the distance. But if just one plane
+                            —
+broke off to dodge a missile and on this the American technicians
+                                                        —
+who accompanied the pods to Israel were adamant the radars
+would instantly lock and the Phantoms would become ducks in a
+missile shooting gallery.
+  In reality, the Americans were not all that sure the pods would
+work. When Rabin had first approached the Pentagon several days
+earlier he was told that the system had just been developed and was
+
+294                NO MARGIN FOR ERROR
+not considered reliable yet (he actually Vecommended against order-
+ing the pods).' The American technicians in Israel were more posi-
+tive about the pods’ ability to handle SA-2 missiles, but they made
+it   clear that the     system was never designed to and could not be
+counted on to stop the SA-3s. But it is not certain how much of the
+reservations really registered. Israelis tend to take American under-
+statement with a grain of salt, and they may have figured that while
+the system might be imperfect the Americans would not have sent
+it   over if it didn’t work at all. Besides, they had no choice. The
+Soviet missiles were almost at the Canal, and the pods were the only
+game in town.
+  The first pod-formation strike was scheduled for July 18. As the
+date approached, a conflict bubbled over in the fighter community.
+Some of the Phantom pilots, and a few Mirage pilots who got wind
+of the scheme, thought the entire premise of the pod formation
+tactic            “Coming in high and letting things happen to
+            deranged.
+us   —
+     it was the total opposite of any kind of flying we had ever
+
+done,” says Eitan Ben Eliahu.^ Another Phantom pilot, Yoram
+Agmon, “was all for using pods, but only up to a point. I thought
+that once a missile was actually approaching we should have been
+free to resort to old-fashioned breaks.”^ Iftach Spector, now in
+command of the 101 Mirage squadron, blew his stack and accused
+Hetz of blindly following an American high-tech siren song by
+placing “electronics before physics,      when it should be physics
+before electronics. The first rule is to come in low so they cannot see
+       ”4
+you.
+   As Hetz’s good friend from their Mirage-flying days at the 101,
+Spector now assigned himself to escort the Phantoms on their
+July 18 mission, but to the last minute he kept hammering at Hetz
+to abort or modify the strike. Near the end of the week        the  —
+mission was planned for Saturday         —he joined Hetz and one    of the
+American experts for dinner at a popular Jaffa restaurant. “We had
+a real quarrel there,” he recalled years later.       “We spoke a little
+English and a lot of Hebrew. We smiled in English and fought in
+Hebrew. We said nice things about the pods in English, but some-
+thing else again in Hebrew.       I   kept telling him, we all attacked in
+missile fields just three years earlier and we were not hit by even half
+a missile, so why not go back to those old methods?          Why use the
+
+                              Missiles                             295
+
+
+damned pods, instead of flying like we knew how to fly? Why this
+magic? Why these formations? Why this rigidity? Why go in like
+sitting ducks? Hetz just laughed and said he had reasons for doing
+it   that way.”
+     But Hetz, too, must have had misgivings, because when he and
+Spector got out of their car at Hazor that night, Hetz lingered. “He
+hesitated, and then he told me that he had a dream the night before
+about Aki, a good friend of ours who was killed earlier in that war.
+I    understood immediately. He was telling me that Aki had come to
+call   him,” Spector says. The sense of foreboding seemed to run
+clear up the lAF’s chain of command. On Friday afternoon, as Hetz
+and Eini put the final touches on the “forces and missions” chart
+in the    squadron mission room, Rafi Harlev, Hazor’s commander,
+“joined us and we sat and talked a        lot   about the risks in the
+mission,” Eini recalls. “Rafi was uneasy about having Hetz and me
+fly in   the same plane.   Of our original Phantom transition group.
+Pier, Harpaz, and [Eyal] Ahikar [Harpaz’s navigator] had been shot
+down, and Rafi worried that between us Hetz and I had accumulated
+so much vital information it was not good for us to fly together. But
+Hetz and he were very close friends, as was I, so it came down to two
+friends against one, not a base commander against two pilots. Rafi
+gave in.”^ Actually, Harlev brought the matter up again that night,
+when he and his wife showed up for dessert at the Hetz and Eini
+families’ joint Sabbath dinner, but    Hetz clung to the plan.
+     At 10:45 on Saturday morning, at Hazor and Ramat David, Hetz
+and Ben-Nun gave their pilots final briefings. Twenty Phantoms,
+nearly one-half of each of the two squadrons, were assigned to the
+mission, which made for fairly crowded briefing rooms in both
+bases. At Hazor, Hetz was followed by Na’or, who outlined the
+massive electronic array that would back up the Phantoms, particu-
+larly a flight of specially   equipped Skyhawks that would       loiter
+
+outside the missile field and jam the main Egyptian radar to keep
+it  from warning the missile batteries and pointing them in the
+direction of the approaching threat. At noon, the Skyhawks took off
+first, to take position across from the Egyptian missile front. They
+
+were followed by Phantoms from Ramat David and then from
+Hazor, and finally by Mirage escorts. At 12:30, the Phantoms met
+close to the Egyptian front, climbed to 18,000 feet, broke into
+
+296              NO MARGIN FOR ERROR
+formations of four, and spread out the'width of most of the Canal
+front, each four Phantoms falling into their staggered migrating-
+ducks positions. Hetz led the first formation of four, Ben-Nun the
+second, Eitan Ben Eliahu the third, and so on. “It was peaceful and
+quiet, almost pastoral,” Eitan Peled,       who led the second pair in
+Hetz’s formation, would recall. “Visibility was good, just a beautiful
+Saturday morning flight. Crazy.”
+  As soon as they crossed the Canal into Egypt, the missile field
+came alive, and the pilots activated their pods. “I remember seeing
+the explosions of missiles in the air far ahead, and I was sure they
+were blown up by our pods,” says Ben Eliahu. As they came close
+to the missile fields, their target area,    “the place lit up like fire-
+works. You couldn’t see the missile launches, but you saw them
+approach and explode a hundred or two hundred meters away,
+apparently, at least in part, due to the pods.” In spite of numerous
+missile launches Ben Eliahu’s formation entered right into the heart
+of the missile field, located and destroyed the two SA-2 batteries
+assigned to them, and with missiles exploding all around turned and
+got out safely. At the north end of the attack front, Eitan Peled, too,
+“never heard any missile locks” as he found and bombed his as-
+signed target. For a while things seemed to be going just fine all
+across the field. One missile crossed in front of Hetz as he led his
+formation into the missile field, but it was far away and it blew up
+harmlessly in the distance.    When Eini called out a warning of a
+second missile heading toward them, Hetz simply held his position,
+switched on his radio, and ordered everyone else to do the same.
+   But that second missile was different. It was smaller and faster,
+and from the moment they spotted it “we had a missile lock warn-
+ing, so we knew it must have been an SA-3,” Eini would recall. “We
+kept going straight and level, looking at it all the while, and then
+itcame close to us and exploded.” Eini made a mental note that its
+smoke cloud was shapeless and reddish brown, unlike the SA-2’s,
+which was white and ring-shaped.
+     Hetz and Eini checked their plane, and although hit it seemed to
+be fine. “A few warning lights went on, and we lost radio contact
+with the outside, but there was no fire or loss of hydraulic pressure,
+and we could still talk with each other. Still, there was no point in
+going on, so we dropped our bombs and turned to go home, very
+low and very fast,” Eini recalls. They were nearing the Canal when
+
+                             Missiles                              297
+
+
+the damaged   Phantom suddenly gave in and went out of control.
+Eini was reaching for the ejection lever, but Hetz heat him to it and
+Eini was blown out of the cockpit unprepared, like a rag doll. The
+rushing air knocked him out, and when he came to he was lying on
+the ground with his arm and leg broken nearly off. With his good
+hand he pulled out his radio, and he was still talking to a passing
+Phantom when a truckload of Egyptian troops arrived and took him
+prisoner.
+   Hetz never left his Phantom. Three years later, in the wake of the
+1973 Yom Kippur War, his remains were discovered, still inside the
+wreckage of his Phantom on the Egyptian side of the Canal. “Either
+his canopy did not open and he never got out, or he was getting out
+just as the plane hit the   ground,” Eini said after returning from
+Egypt in a prisoner exchange forty months later.
+  At the same time that Hetz was hit, a second SA-3 struck Avihu
+Ben-Nun’s Phantom. Ben-Nun managed to bring it to Bir Gafgafa,
+but barely survived the landing as his plane failed to stop, ran off
+the runway, broke its front wheel, and plowed a hundred yards in
+the sand before finally coming to rest.
+   The mission was not entirely unsuccessful. Of ten targeted batter-
+ies,   four were destroyed and three damaged, and the loss of one
+Phantom and its crew would not normally seem out of line. But
+Hetz was no ordinary pilot, and his death led his colleagues to dub
+a failure not only the mission but the entire pod-formation tactic,
+which was immediately nicknamed putz formation and abandoned.
+Although few realized it at the time, Hetz’s death signaled the end
+of the war itself.
+   “All along, because of the lAF’s emphasis on flying virtuosity,
+every time a pilot was killed the feeling was that, had it been a truly
+great pilot there, it would not have happened,” says Ben Eliahu.
+“Here, in quick succession. Pier, who was one of our outstanding
+pilots, was shot down, and then Hetz, who was not only a great pilot
+
+but a squadron commander and a superb leader, the ultimate au-
+thority in the Phantom community. In a matter of days, we went
+from absolute superiority in conventional air war, with a kill ratio
+of one-to-forty, down to a ratio of two-to-four against the missiles.
+Had it happened in air combat, it would have been a major dis-
+aster.”
+   It didn’t matter that Eitan Peled blamed the mission planners for
+
+298                  NO MARGIN FOR ERROR
+rendering the pods less effective by spreading the planes out too far
+apart, or that David Ivri, who two weeks earlier moved from lAF
+Operations to command Tel Nof, blamed the Phantom crews them-
+selves for letting their fatigue dictate “solutions not through   .   .   .
+
+
+
+
+hard work or tactical personal effort but by getting somebody else’s
+answer,” or that Menachem Eini, upon returning from imprison-
+ment in Egypt, blamed Na’or for overstating the electronic promise
+in the first place. It also didn’t matter that “those who believed in
+physics over electronics only became more set in their opposition to
+the pods, while those who believed in the pods seized on the fact
+that     it   was an SA-3 that killed Hetz, which the pods were never
+claimed to be effective against,” says Agmon. With Hetz gone, the
+debate itself became irrelevant because, no matter how long it now
+continued, the war was really over.
+   That night. Hod called Ran Ronen, who had just completed a
+two-year stint in command of lAF Flight School and was about to
+leave with his family for an extended leave abroad, and asked him
+to take over Hetz’s devastated squadron.      Ronen arrived at Hazor
+that night, and although he had never flown in a Phantom, he
+promised to lead his pilots in battle within a week. But his rousing
+confidence and legendary reputation did little to ease the hollow
+feeling. Almost mechanically, the Phantom crews continued to fly
+across the Canal day after day, to nibble at the edges of the rolling
+missile pack.       To the Mirage pilots who flew cover during those
+missions, the spectacle of the Phantoms’ persistent charges was
+humbling. “They were getting chewed up, and we’d see it all from
+above. We’d see them going into the jaws of death with masses of
+missiles shooting up at them,” recalls Even-Nir.^ By the end of the
+month, the few experienced Phantom pilots and navigators had
+grown so exhausted that senior Mirage pilots volunteered to ride in
+the Phantoms’ backseats to give at least the navigators a chance to
+rest.
+
+  On July 30, however, the depression and sense of impotence were
+temporarily relieved by a moment of euphoria. All through that
+summer, the Soviet pilots and advisors kept deriding Egyptian MiG
+pilots for failing to stop the    lAF Mirages and Skyhawks. Having
+fallen    time and again into Mirage traps during the “Texas” cam-
+paign, the Egyptians had stopped challenging the Israelis and
+
+                            Missiles                              299
+
+
+stayed away from them. To the Russians, it was not only cowardice
+but a blot on Soviet training, tactics, planes, and reputation. At the
+end of July, Soviet MiG-21 crews took to the field themselves and
+began to harass lAF Skyhawks during their bombing runs along the
+Canal. On July 25, a Soviet MiG-21 formation caught up with some
+Skyhawks, chased them back into the Sinai, and ostensibly
+managed to hit one in the tail with an air-to-air missile.
+  Hod may have felt helpless against the Soviet missiles, hut the
+MiG challenge was right up his alley. He ordered Jacob Agasi, his
+operations chief, to draw up plans for an aerial rumble with the
+Russians, and began to lobby Dayan and the Greens for permission.
+  Agasi could have simply told his staff to draw up plans for just
+one more “Texas”-style ambush, but instead he called in David
+Porat, a brilliant planner of many “Texas” dogfights who had since
+been reassigned, and asked him to come back for a last, once-in-a-
+lifetime mission. “He didn’t want to do it, but I told him his name
+would be on the plan and he finally agreed,” says Agasi. ^ By the end
+of the month.   Hod had received his permission, and Porat had
+completed his plan.
+  The plan, which was put in motion on July 30, surpassed any
+     ambush the lAF had ever carried out before. First, Avihu
+aerial
+Ben-Nun was dispatched with four Phantoms from Ramat David to
+attack Egyptian ground positions near El Adabiya, six miles south
+of Suez on the Egyptian side of the Gulf. Only, instead of attacking
+in normal Phantom fashion, the four planes used tactics which “we
+knew that the enemy knew were unique to the Skyhawk squad-
+rons,” Hod would say later.® Like Skyhawks, the Phantoms formed
+an “Indian circle” above the target, with each pilot in his turn
+calling out and taking a steep Skyhawk-style dive at the target. On
+the Egyptian radar, the four circling blips registered as Skyhawks
+on a routine bombing mission.
+   Then, while the Phantoms did their Skyhawk routine, four Mi-
+rages from Tel Nof were sent into the same area at 20,000 feet,
+flying straight and level from south to north. Like the Phantoms,
+however, the Mirages were not what they seemed. Flying so close
+together that they registered on the Egyptian radar as a single blip,
+the four fighters appeared as a lone Mirage on a photo-reconnais-
+sance flight. Then, four low-flying Mirages from Ramat David flew
+
+ 300            NO MARGIN FOR ERROR
+ into the area so low they didn’t even show up on the Egyptian radar,
+ and they kept flying back and forth behind the low mountain ridge
+ east of the Canal. Finally four more Mirages stood ready at the edge
+ of the Bir Gafgafa runway.
+    So well had Porat manipulated electronic signals and radar per-
+ceptions that, in a remarkable sleight of hand, he had literally
+hidden four Mirages and four Phantoms in the clear steel-blue
+summer skies over the Egyptian desert, and eight more Mirages
+nearby. At the controls of these fighters sat the most      awesome
+championship team Moti Hod had yet assembled         —among them,
+the pilots had a combined total of fifty-nine enemy air kills, which
+by day’s end they would jack up to sixty-four.
+  As Porat expected, the sight of four defenseless Skyhawks and an
+unarmed camera-carrying Mirage was too much for the Russians,
+and soon sixteen MiG-21s rushed toward El Adabiya. Four of the
+MiGs came low, almost hugging the ground. When they were almost
+underneath the “Skyhawks,” their pilots kicked in their afterburn-
+ers and shot up to attack them from below. At the same time, four
+other MiGs   came in high above the supposed lone Mirage, with
+eight more MiGs following closely behind. It was precisely what
+Porat had planned on. The MiGs had just begun climbing up at the
+“Skyhawks,” and swooping down at the “Mirage,” when Moti Hod,
+slouching in his seat at the lAF bunker with his stopwatch in hand,
+issued the attack order.
+   Instantly, four things happened. First, the “Skyhawk” Phantoms
+broke up their “Indian circle” and went into a steep climb, to stay
+and watch the impending battle from above, and to swoop down on
+any MiG attempting to leave the scene. Second, the four close-flying
+Mirages broke apart, dropped their external fuel tanks, and looped
+around to face the approaching MiGs. Third, as the low-flying MiGs
+climbed up toward the “Skyhawks,” the Ramat David Mirages
+popped up from behind their mountain ridge and climbed up right
+alongside and behind them. Finally, Iftach Spector and his Mirage
+group scrambled from Bir Gafgafa and rushed toward the battle
+site.
+
+   In seconds, everything changed. Instead of surprising four oblivi-
+ous Skyhawks and a harmless Mirage, the Russians were suddenly
+surrounded by eight Mirages and shut in from above by the Phan-
+toms.   The stunned MiG pilots fell on their Soviet training and
+
+                                     Missiles                                      301
+
+
+tactics and looked to their radar controllers for guidance, hut Na’or
+had set up his magic show and jammed the Egyptian radar alto-
+gether, and the Russians were on their own. In the scramble, they
+also made a fatal mistake and began to dive after the fuel tanks that
+the Mirages above them had dropped, leaving themselves open to
+the Mirages that now rolled right in after them, downing two of the
+MiGs in one pass.
+  One of the MiG pilots hailed out. Dangling from his parachute
+and frantically waving other jets away as he coasted down amidst a
+clutter of MiGs, Mirages, Phantoms, and tumbling fuel tanks of all
+shapes and sizes, “he may have been the only one who saw the whole
+battle. In the heat of battle we actually used him as a marker, you
+
+know, like ‘I am ten kilometers from the parachutist,’ ’’ recalls
+Aviem Sela, Ben-Nun’s wingman.**
+  As the Mirages went after their MiGs, four from below and four
+from above, the Phantoms reached the top of their climb, flopped
+over, and began to dive after strays. The Soviets fought hard. “They
+shot from every angle and from every position. It was impossible to
+catch a MiG without getting yourself sandwiched from the back by
+another,” says Sela. But while the Israelis were reared on precisely
+this kind of unstructured battle of loose pairs and mostly single
+combat, to the Russians the experience was traumatic. With their
+rigid battle formations broken, their plans gone awry, and their
+controllers unable to provide guidance, all they could do was ma-
+neuver violently to get away as one by one the Israelis separated
+them from the pack for the kill. Sela, finding a MiG behind him,
+slammed on his air brakes, broke into a flaps-down barrel roll Yak             —
+                                                  —
+Nevo’s old “let him pass” maneuver and as the Russian shot on
+ahead Sela chased it down to 2,000 feet and blew it up with a
+Sidewinder missile. Ben-Nun went after another MiG, already being
+chased by a Mirage, and shot it down, too. The battle began and
+ended so quickly that Spector counted three fireballs during his
+brief dash in from Bir Gafgafa, and by the time he got there he had
+barely time to go after the first MiG he saw and shoot it down before
+the battle was suddenly over.*
+     Just two minutes into the battle, Moti Hod clicked off his stop-
+
+*Actually, he and a second Mirage shot at the MiG at the same time, hut neither saw
+it   crash. Six years later, however, during Anwar Sadat’s visit to Israel, he confirmed
+the downing of the fifth MiG and the two pilots were credited with a half-kill each.
+
+302               NO MARGIN FOR ERROR
+watch and ordered his pilots back. As the skies instantly cleared of
+planes, the three Russian pilots who managed to bail out were still
+drifting down. The wrecks of five Soviet MiGs lay smoking in the
+Egyptian desert. That night, victory parties were held not only at
+Hazor,    Ramat David, and Tel Nof         —but   in every fighter base in
+Egypt; to the Egyptian pilots, too, the Russians had finally got their
+comeuppance.
+   But the dogfighting victory was a passing interlude. The missile
+fields were where the real war took place, and it was there that the
+
+Soviets, just three days after the loss of their five MiGs, got even.
+   On the morning of August 3, Ran Ronen was returning from his
+first Phantom mission with Yair David as his navigator when they
+
+spotted SA-2 missiles heading toward them from near the Canal.
+Another pair of Phantoms was scrambled to the area, and when
+they, too, were shot at, lAF planners triangulated the two missile
+sightings and figured out where they had come from. Eitan Peled
+was then ordered to take four Phantoms there and take the battery
+out.
+  Employing a new tactic that the Phantom crews had devised,
+Peled left two Phantoms to circle high overhead and watch for other
+missiles while he dived with his wingman toward the launch site.
+They arrived just as the battery was being packed up on trucks and
+about to leave, and demolished the assembly with four well-placed
+bombs. As they pulled back up, however, they ran smack into a
+barrage of six missiles from a second SA-2 ambush. Although he
+had no bombs left, Peled flew in the direction of the missiles and
+located the source of the second ambush        —
+                                             again just a few truck-
+borne missile launchers spread out alongside a highway. The two
+Phantom pairs now traded places. As Peled and his wingman
+climbed up to serve as lookouts, the second pair dived at the new
+target.
+   But the Russian missile trap was no less intricate than the Israeli
+fighter ambush over El Adabiya three days earlier. As Yigael Sho-
+chat and Ra’anan Ne’eman, the young pilots of the second Phantom
+pair,   dived at the roadside missile battery, they ran into a third
+ambush    —   this time of SA-3 missiles   —which had   so far maintained
+total electronic silence. Shochat, who flew first, was already too low
+
+and going down too fast to do anything. He had just dropped his
+
+                                   Missiles                                    303
+
+ bombs and started back up when an SA-3 missile exploded at his
+ side in a reddish brown cloud, then a second, and a third.
+                                                                         Shochat
+ and his navigator bailed out just before the plane crashed. They
+ reached the ground safely, hut the Egyptian soldiers who quickly
+ closed in on them fired as they approached, killing the navigator
+ and shattering Shochat s right knee. He was unconscious when the
+                took him to a hospital, where his leg was suhse(|uently
+ amputated.*
+    Ra’anan Ne’eman, in the second Phantom, had begun his dive
+ when he saw the SA-3s explode near Shochat’s Phantom below.
+ 'Without thinking twice, he jettisoned his bombs and turned to
+ leave, but he, too, was late. A fourth SA-3 exploded to his left
+                                                                  and
+ knocked his head so violently against the cockpit wall that he lost
+consciousness.       When he came to seconds later, his left hand was
+shattered and bleeding, and he saw pieces of flesh scattered all
+around the cockpit. He ripped ofl his oxygen mask to avoid heaving
+into   it.   “Of all things, I suddenly remembered the story of an
+American pilot in Vietnam whose hand was shot off by a cannon
+shell,” he would write later. “That American pilot continued to fly,
+and ultimately bailed out over the ocean and was rescued. I decided
+that if he did it I would do it. ... I then remembered watching an
+old movie about the Battle of Britain, where this old pilot was
+telling a young one that if he ever flew straight and level for ten
+seconds he’d get shot down. So I started to break every five.”’"^
+   It all    took place in seconds. He was twisting and turning toward
+the Sinai in his broken-up metal box, trying to work the throttle
+with his elbow to spare his bleeding hand, when he heard Shochat
+announce that he was bailing out. He heard several more explosions,
+and saw a few missiles sailing past him like huge bonfires. Then, just
+as a piece of metal from Shochat’s Phantom came tumbling down
+past him, he saw two more SA-3 missiles coming straight at him.
+“Lntil then      I   had avoided going down too low, but this time I
+gambled everything, my life, and went down. I had to keep blinking
+hard just to focus my blurred vision. At one point I saw what looked
+like a telephone pole flying alongside me.” Then, as suddenly as
+                                                                                it
+
+
+
+
+*Shochat has since completed medical school, and served as chief physician for the
+lAF,
+
+304               NO MARGIN FOR ERROR
+all   began, the beeping in his earphones stopped, the missiles were
+gone, and down below he saw the Suez Canal. A minute later, he was
+in Israeli airspace, over the Sinai.
+      Tired, dizzy, and in excruciating pain, he wanted to bail out right
+there and then, but a thought flashed in his mind that “the sand and
+flies wouldn’t do    much for my wounds, and [I] decided to go for Bir
+Gafgafa.” By that time, Eitan Peled had pulled up above, figured
+out what happened, and urged Ne’eman to let his navigator operate
+the controls (the Phantom had a set in each cockpit) while he
+bandaged his shattered hand. That was how they landed at Bir
+Gafgafa, with Ne’eman operating the stick with his right hand, and
+the navigator working the throttles from the rear.*
+
+
+
+
+The missile race was over. For weeks. United Nations and American
+diplomats had been working to bring about a cease-fire. Now both
+Egypt and Israel agreed to stop the fighting. “We shot down five
+Russians, they shot down five of our Phantoms, so I guess both
+sides felt they could accept the cease-fire without losing face,” Hod
+would note later. The cease-fire went into effect on August 7, 1970.
+Under its terms, the lines of confrontation were to be frozen, with
+the Soviet missiles remaining behind the thirty-kilometer line west
+of the Canal. That same night, however, in clear violation of the
+agreement, the missiles were moved closer to the water. Israel
+protested to the Americans and the United Nations, but did noth-
+ing. Neither Israel, the UN or the Americans did anything in the
+following days, when the missiles were brought right up to the
+Canal and began to multiply rapidly, from sixteen batteries on
+August 7, only one of them inside the thirty-kilometer line, to fifty
+by the middle of October, forty of them within a strip running
+thirteen to twenty-one kilometers from the Canal. Some sixteen of
+them were SA-3 batteries operated by Russians.
+   In truth, the handful of Mirage and Phantom crews who carried
+the brunt of the endless war had reached their breaking point.
+
+
+*Three of Ne’eman’s fingers were subsequently amputated. When Prime Minister
+Golda Meir visited him in the hospital and asked him what she could do for him, he
+said he wanted to go back to flying. Meir looked at Hod, who nodded his agreement,
+and a year later Ra’anan was flying Phantoms again.
+
+
+
+
+ %
+
+                                Missiles                                305
+
+“When the cease-fire was declared we thanked God,” says Even-
+Nir. “I never thought such a thing would happen, hut we were at
+Bir Gafgafa one night, and lAF Operations called down and wanted
+us to scramble. I told them ‘Dear friends, scramble from the North
+because we have no strength left.’ ”
+   “We were fighting a centipede      —you    hit   it   here, and two more
+legs grow in its place. You hit there and it keeps growing.        We were
+fighting an enemy that seemed not only irrational but with unlim-
+ited resources. It was like trying to empty an ocean with a bucket,”
+says   Oded Marom. “By the middle of the summer we were like
+marathon runners, hoping to just be around at the finish. We then
+ended the fighting saying that the missiles wouldn’t move an inch
+toward the Canal, but they moved, grew, multiplied, and came right
+up to the water line   —they   couldn’t get any closer    —and then we did
+nothing.”"
+   In the summer of 1971 the missile density and aggressiveness got
+to a point where the lAF actually gave up its high-altitude Mirage
+and Phantom surveillance flights, and began using a World War
+Il-era Boeing Stratocruiser transport with a special long-range cam-
+era shooting obliquely from its window, to photograph in a slant
+from deep inside the Sinai. On September 17, an Egyptian SA-2
+missile shot the Stratocruiser, too, down. Of its crew of eight, only
+one mechanic survived by climbing up the inside walls of the
+tumbling and spinning plane until he reached a window, and threw
+himself out.
+  This time the lAF had to do something, and on that same day
+Hod approached the IDF General Staff with a plan that seemed
+worthy of an avenging Buck Rogers. The United States had just
+provided Israel with Shrike air-ground, antiradiation missiles, capa-
+ble of homing in on precisely the sort of electronic signals with
+which the missile batteries located their targets and directed their
+missiles.   As Hod presented it, a force of Phantoms would fire
+Shrikes at seven missile batteries across tbe Canal without them-
+selves venturing into missile range. Then, as the Phantoms turned
+back to return home, the small Shrikes would slither into the heart
+of Egypt’s missile fields, sniff out the SA-2 radars with their nose-
+cone antennas, follow the scent to its source, and crash into the
+batteries’ radar-control units.
+
+306             NO MARGIN FOR ERROR
+  In reality, the missiles had little chance of inflicting any damage.
+Once launched, the small Shrikes could not be guided or controlled.
+Unless they found active SA-2 radar signals to home in on, they
+would meander aimlessly and explode somewhere in the Egyptian
+desert. Since SA-2 radars were ordinarily switched off, to be turned
+on only by impending threat, the missile batteries had to be teased
+into switching on their radars if the Shrikes were to do their job.
+   But the proposed operation, code-named Toaster, called for no
+decoy flights and no intrusion into enemy territory. It was certain
+to be “a wasted effort,” as Beni Peled, who had recently been
+appointed chief of lAF Air Section, told Moshe Dayan when he
+came to lAF headquarters to find out more about the plan. Peled
+estimated that, at most, a few missile batteries might be temporarily
+disabled.  “Are you finished? Sit down,” Hod said. The next day,
+Eitan Peled led his Phantoms “to the outer reaches of the [Egyp-
+tian] missile field, and we fired the Shrikes from as far as possible.
+
+Since the Egyptians had no reason to switch on their radar, we fired
+the missiles to the skies in the general direction of the target, and
+that was that. The missiles went God knows where, and if there was
+damage, it was minimal.”
+   Operation Toaster’s chief accomplishment lay in being “safe,
+since no great damage was anticipated, and limited    — even if every-
+thing worked out, there would still not be enough damage to
+prompt the Egyptians to renew the fighting. In reality, [the notion
+of damaging the missiles with the Shrikes] was an illusion which
+could not even be presented with a straight face,” says Ben Eliahu.
+
+
+
+To the ever pragmatic Hod, however, who saw no point in sacrific-
+ing more Phantoms to the angry Russian missile gods, the opera-
+tion was perfect. It calmed the Greens and pleased the- politicians,
+and it left Hod free for what really had to be done. Before all else,
+the lAF had to develop an answer to the missile threat. “We had to
+develop new tactics, new ways of combining diversion, suppression,
+and attack. We needed stand-off weapons and homing ordnance.
+Such things take years to acquire and implement,” Hod would say
+later. So long as he could not defeat the missiles cleanly and totally,
+
+buying more time was good enough.

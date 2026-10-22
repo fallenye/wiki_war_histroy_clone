@@ -66,7 +66,7 @@ updated: 2026-10-05
 
 - **游戏区（gaming areas）**与**游戏区索引（gaming area indexing）**。
 - **硬件异常（hardware anomalies）**、**处理时延（process latency）**。
-- “够好即可吗（Is it good enough?）”——保真度与成本的判断。
+- “够好即可吗（Is it good enough）”——保真度与成本的判断。
 
 ## 8. 作战意义与研究价值
 

@@ -3,7 +3,7 @@ title: 海湾战争及战后禁飞区时间线（Wild Weasel 侧重）
 type: timeline
 war: gulf-war
 tags: [timeline]
-sources: [f-4-wild-weasel-units-in-combat]
+sources: [f-4-wild-weasel-units-in-combat, idf-van-creveld-sword-olive]
 created: 2026-09-02
 updated: 2026-09-02
 ---
@@ -67,6 +67,14 @@ updated: 2026-09-02
   自现役退场，残余 F-4G 多数进入 AMARC／QF-4G 序列。
 - （190th FS 于 1996-03 起转训 C-130；此后 OSW/ONW 由 F-16CJ 等承担，不再属
   本来源重点范围。）
+
+## 以色列方面的日期（据 Van Creveld ch19）
+
+- 1990-10 — 民众压力迫使政府开始分发防毒面具（国防部长与总参谋部认为过早）；正统派要求不剪须而配专用面具。
+- 1991-01-18 02:00 — 以色列首次响起警报：5 枚导弹落特拉维夫、3 枚落海法（此后每晚多批）。
+- 1991-01 至 02 — 全程落入以色列的伊拉克导弹约 **39**（一说 40）枚；直接命中致死 1 人（另 2 人伤重不治），
+  约 10 人死于心脏病发或面具滤毒罐窒息误用；房屋约 200 栋被毁、2,000 栋受损（ch19）。
+- 1991-02 末 — 战后决定：民意防务由 HAGA 移交新设**本土防线司令部**（少将级）（ch19）。
 
 ## 备注
 

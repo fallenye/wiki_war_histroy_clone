@@ -7,7 +7,7 @@ publication: Air Power Review（英国皇家空军季刊）
 volume_issue: Vol. 10, Issue 1
 pages: 97-118
 year: 2007
-title_of_work: To What Extent Did Royal Air Force Employment of Electronic Warfare Contribute to the Outcome of the Strategic Night Bomber Offensive of World War II?
+title_of_work: To What Extent Did Royal Air Force Employment of Electronic Warfare Contribute to the Outcome of the Strategic Night Bomber Offensive of World War II〔问号〕
 filename: apr-vol10-iss1-bombercommand-ew-odell.pdf
 sha256: dad55161e489ecfd089295961eb7a9c30ee9e3bc63d497a7b42cca8c0befc674
 pages_source: 23

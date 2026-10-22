@@ -1346,7 +1346,7 @@
   这“炸水库”叙事是否要就（朝中抢修抑敌报）作一防空源补充单页可 fresh 自定——现上下文极度吃紧，建议在新会
   话接 ch35（其内容适合作防空源纪年收束与总叙校验）后结束这卷防空专书主题的批续。
 
- ### 2026-09-05（防空批34b·ch35 胜利的句号：1953-07-20 安州 击落 F-86F 大捷事件页；防空专书主题收尾） - 断点：防空书收官 ch35（胜利的句号，raw≈18585-书末）已读到 7-20 决战与书末段。防空侧收束为一役： events/anzhou-0720-f86f-1953（battle：1953-07-20 安州 敌 F-86F 报复之击落大捷）。 - 载：1953-05 底 F-86F（第8/18联队，时速约1048/升限15200、可携2×1000吨弹机载雷达）入朝；6-07 水丰（504团/ 苏炮营伤 3 败之）、6-30 盖家坝（541团旧装 76.2/日75/S12.7 伤 1、先例）、7-10 安州云下（515团章明加大提前量 落 1 伤 1）为打 F-86F 先后铺垫（底）；7-20（金城后敌最后报复，27 批 196 架次）清川江桥空袭中，安州高炮（510/515/ 523/542/610 团与独立 41/42/43 营，吴昌炽指挥）对来 24 架 F-86F **击落 8 架、击伤 4 架**（含 542团1营 12时正 144 发 1 分钟落 3；敌此后再未犯安州至停战）——防空书收束为“胜利的句号”。 - 关联补：org〔批35〕注并入，见役页；金城/停战（07-27）等背景不另建防空侧页（官方主干他源）。 - 甄别：章明（515团长/原512参谋、安州六昼夜经手）等团长单役不另开人物页（7-20 后如需可后续按需）。无我方新 装备页（F-86F 作敌型记录；我旧装取胜为“复用”战例）。 - 〔注〕：本批仍于超长 TUI 会话低预算环境；已尽纪律用最小验证块建页。防空专书（35×章防空路线）至此从 190→202 canonical 的内容页级摄入基本走完主骨架；ch32 中部逐日细描与书末少量旁段未逐字核记录，若需可在 fresh 会话按 log 续。 - QA：newpages-check 3 文件 CLEAN；内容页 201→+1=202。SCHEMA 191cd2 未变。 - 断点：防空书已通读全书（ch1-35）主要骨架；下一批（若继续）宜在 fresh 会话补 ch32 逐日中段 + 建书末（ch35 后附总叙/图表等）收束或改取另一源（如卷空军/官方）的分线。 
+ ### 2026-09-05（防空批34b·ch35 胜利的句号：1953-07-20 安州 击落 F-86F 大捷事件页；防空专书主题收尾） - 断点：防空书收官 ch35（胜利的句号，raw≈18585-书末）已读到 7-20 决战与书末段。防空侧收束为一役： events/anzhou-0720-f86f-1953（battle：1953-07-20 安州 敌 F-86F 报复之击落大捷）。 - 载：1953-05 底 F-86F（第8/18联队，时速约1048/升限15200、可携2×1000吨弹机载雷达）入朝；6-07 水丰（504团/ 苏炮营伤 3 败之）、6-30 盖家坝（541团旧装 76.2/日75/S12.7 伤 1、先例）、7-10 安州云下（515团章明加大提前量 落 1 伤 1）为打 F-86F 先后铺垫（底）；7-20（金城后敌最后报复，27 批 196 架次）清川江桥空袭中，安州高炮（510/515/ 523/542/610 团与独立 41/42/43 营，吴昌炽指挥）对来 24 架 F-86F **击落 8 架、击伤 4 架**（含 542团1营 12时正 144 发 1 分钟落 3；敌此后再未犯安州至停战）——防空书收束为“胜利的句号”。 - 关联补：org〔批35〕注并入，见役页；金城/停战（07-27）等背景不另建防空侧页（官方主干他源）。 - 甄别：章明（515团长/原512参谋、安州六昼夜经手）等团长单役不另开人物页（7-20 后如需可后续按需）。无我方新 装备页（F-86F 作敌型记录；我旧装取胜为“复用”战例）。 - 〔注〕：本批仍于超长 TUI 会话低预算环境；已尽纪律用最小验证块建页。防空专书（35×章防空路线）至此从 190→202 canonical 的内容页级摄入基本走完主骨架；ch32 中部逐日细描与书末少量旁段未逐字核记录，若需可在 fresh 会话按 log 续。 - QA：newpages-check 3 文件 CLEAN；内容页 201→+1=202。SCHEMA 191cd2 未变。 - 断点：防空书已通读全书（ch1-35）主要骨架；下一批（若继续）宜在 fresh 会话补 ch32 逐日中段 + 建书末（ch35 后附总叙/图表等）收束或改取另一源（如卷空军/官方）的分线。
 
 ### 2026-09-05（防空批36·ch32 安州六昼夜 逐日深描 fresh 重读细补；更新页非开新 canonical）
 - 断点：防空主营干已读毕（ch1-35）。本批为 fresh 会话按 log 补 ch32 中部遗留：整读 ch32（raw txt 16444-17754）逐字核录各日深描正文，回补既有 events/anzhou-sixdays-1953 页新增 delimited `## 补充资料（防空书 ch32 逐日深描细分）` 节，不另开 canonical/新页。
@@ -1724,3 +1724,1295 @@
 - QA：8 新文件 YAML 全解析 OK；wikilink 全解析（0 断链）；无重复 canonical 标题；SCHEMA.md 未改动
   （sha256 191cd2… 未变）；raw 已存（原 .pdf ＋ 提取 .txt）。
 - 断点：本书为纯技术参考，**无逐章续摄需求**；EW 100 系列五册（101–105）技术主线已全部覆盖。
+### 2026-10-22（十月战争线·来源㉓ Rabinovich《The Yom Kippur War》——骨架批，PDF 扫描）
+- 来源：/mnt/share/test/The Yom Kippur War  the epic encounter that transformed the Middle East
+  (Rabinovich, Abraham) (z-library.sk, 1lib.sk, z-lib.sk).pdf　SHA256（PDF）
+  5a434a195a13d06c1323964611847e37c4a8366dcf73a388291177392777628b（新源，库内无同 hash）。
+- 提取：pdftotext -layout（596 页 Internet Archive Scribe 扫描件，未跑 OCR）→
+  raw/papers/yom-kippur-war-rabinovich/{yom-kippur-war-rabinovich.pdf,.txt,.paged.txt}
+  （正文 147 万字符／23,364 行；paged 版按扫描页加 [[PAGE n]] 标记便于定位）。
+  文字层质量：正文页可用（无 U+FFFD），但照片/地图页与运行页眉严重混杂，地图地名与路线不可依
+  文字层判读——本批建页凡涉地名/象征均只取正文叙述，未从地图文字层取名。
+- 章图：据印刷目录与正文首标题重建 38 章＋Prologue 的章—扫描页对照，写入 sources 页表格
+  （ch1 p24 … ch38 p478；图版页 18–19/26/31 章间、296–308 等为纯图片页）。
+- 新建（6 文件）：
+  · sources/yom-kippur-war-rabinovich（来源页：provenance/章页对照/来源性质/时间折算规则）
+  · wars/yom-kippur-war/index（新战争线索引：南线/北线/空中/情报/超级大国/装备/部队/人物/地点分栏）
+  · wars/yom-kippur-war/timeline（主时间线：1973-09-22 定 D 日 → 1974 脱离接触；日期均据原文，
+    只给星期处按 10-06=星期六换算并标注）
+  · events/operation-badr-1973（埃军渡河战役：零时 14:00、炮火首分钟万余发、第一波 4,000 人/720 舟、
+    23,000→32,000 人、22:30 十二桥开通、每师约 72 Sagger＋535 RPG）
+  · concepts/dovecote-plan（以军静态防御预案与 10-06 失效）
+  · concepts/operation-tagar（对埃 62 个 SAM 阵地的四波次集群攻击预案与 10-07 取消）
+- 增量更新：events/yom-kippur-1973-air-sam-ew（既有 Price 卷III EW 页）：frontmatter 加 wars/sources，
+  正文加"补充资料（第 1 批）"节（不先发制人的政治否决与天气、Tagar 取消、Dougman 5 仅毁 1 阵地
+  损 6 架、头两日 35 架/前四日 49 架与 500 辆坦克、大马士革空袭、48 架直升机被击落 20 架）。
+- Index：根 index.md 战争入口增十月战争条、来源条增㉓、状态节增十月战争线一条；
+  战争索引中尚未建页的条目暂以纯文本列出（不预置断链）。
+- 已读并在本批取用的章：Prologue、ch3–ch5、ch7–ch14、ch16–ch25、ch26–ch29（取用部分）、
+  ch30–ch34（取用部分）、ch37/ch38（越接触/Agranat/萨达特访以/1977）。
+- 断点（下一批起读）：**南线 10-08 以军反攻失败（ch12 末、ch20–ch21 尚未细读）、10-14 埃军装甲
+  反攻（ch29 中段）、Abirei Lev 渡河与 Chinese Farm 全章（ch30–ch31 只读首尾）、Abirei Lev 破出
+  （ch33–ch34 部分）、苏伊士城（ch35 后段）、核警报（ch37）**；北线 **Kuneitra 缺口（ch19–ch20）、
+  Nafakh 之战（ch21）、赫尔蒙山（ch16）、戈兰反攻（ch24–ch25）**、伊拉克远征军（ch25）、
+  美苏空运（ch26）、Agranat（ch38 已读）。另 ch1/ch2/ch6 尚未读（战前政治与社会背景）。
+- 异常／甄别：本书为以色列视角叙事史，阿拉伯官方战史缺位（作者自述），阿方数字多为回忆录转述；
+  战果数字一律标"据本书"；出版社日期 2004（版权页），Schocken Books。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 295；新页 newpages-check 无字节问题
+  （仅 source 页 SCHEMA 允许的 provenance 键告警）；wikilink 全部解析（0 断链）；
+  glitch-scan 仅报专名/型号（模型白名单外英文），无乱码、无占位符。
+
+### 2026-10-22（十月战争线·第 2 批：南线 10-08 反攻失败＋北线戈兰全战役）
+- 来源同批 1（[[yom-kippur-war-rabinovich]]，sha256 5a434a19…），无新增原始资料；本批只做逐章建页。
+- 本批读章：ch17、ch19、ch20、ch21、ch22、ch23、ch24、ch25、ch26（政治段）、ch28、ch29、ch31、ch34（渡河段）。
+- 新建（9 页）：
+  · events/yom-kippur-1973-idf-counterattack-failure（10-08 Hizayon/Hamutal：Gonen 擅改埃拉扎尔限定、
+    Sasson 越权令、Adini 营 21 辆返 14 可用 7 亡 19、Yaguri 营 18 辆返 4、Sharon 拒借兵、假"已渡河"情报、
+    傍晚后撤止损；Adan 师损约 50 辆）
+  · events/dougman-5-1973（60 架 F-4、仅毁 1 个阵地、6 架被高炮击落、Ivri 的"推迟两小时"评估）
+  · events/kuneitra-gap-battle-1973（第 7 旅四天防御：177 对 1,400 辆、土台射击、10-09 Kahalani 重占土台、
+    谷底 260 辆、四天叙军在戈兰弃逾 800 辆）
+  · events/nafakh-base-battle-1973（Force Zvika、Tiger Company Reshet 设伏、Sarig 旅 Katsbiya、
+    Barak 营 Ramtania 被击退、Ben-Shoham 与副旅长阵亡、Zurich 堵路）
+  · events/israeli-hermon-fall-1973（55 人中 13 死 31 俘、叙第 82 伞兵营、设施完好被夺）
+  · events/golan-heights-campaign-1973（战役总览：兵力、日序、作者三条解释）
+  · events/golan-counteroffensive-1973（10-10 九小时决策—越紫线；Eitan/Laner 两师；Sasa 受阻；
+    伊拉克远征军 10-12 介入与 10-13 战斗；175 mm 炮击 Mazeh 机场）
+  · events/october-14-1973-egyptian-armor-attack（六路 400–500 辆、埃损 150–250 辆、
+    Yoel Gonen 旅独损 12 辆、Mamoun 崩溃）
+  · events/operation-stouthearted-men（Abirei Lev：Matsmed/Deversoir、Luke 报告 750 人渡河、
+    Gilowa 15 辆、舟桥 8 小时、滚轮桥待 10-19）
+- 更新：wars/yom-kippur-war/index（南/北线/空中各节建链接、批次说明改写）、
+  wars/yom-kippur-war/timeline（10-08/10-11/10-12/10-14/10-15/10-16 各条细化并加内链；
+  删去重复的"基辛格抵莫斯科"一条；10-16 01:35 渡河加日期口径注）、根 index.md（来源㉓条补第 2 批）。
+- 未建（按门槛暂缓，非遗漏）：Chinese Farm 独立页（ch30 只读首尾，下一批细读后建）、
+  破出与第三军团合围（ch33–34 段）、苏伊士城（ch35）、核警报（ch37）、美苏空运（ch26）、
+  338 决议（ch35）、Agranat（ch38 已读可建）、伊拉克远征军（暂并入戈兰反攻页）、
+  全部人物页与装备页（本批不出独立实体页，凡涉及人名/型号只在事件页内叙述）。
+- 异常／甄别：个别日期本书只给星期，已按 10-06=周六换算并在页内注明；叙军 1,400/720/800 辆、
+  埃军 400–500 与 150–250 辆等数字均标"据本书／以方估计"；地图页文字层仍不可用（未从图取名）。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 304（+9）；新页 newpages-check CLEAN、
+  glitch-scan 仅报专名/型号英文；无乱码字符、无问号占位、无占位符、无多余代码围栏；
+  wikilink 全解析（根 index 的 [[log.md]] 为既有约定例外）。
+
+### 2026-10-22（十月战争线·第 3 批：Chinese Farm、西岸破出、空运、海战、渡河决策）
+- 来源同批 1（yom-kippur-war-rabinovich，sha256 5a434a19…），无新增原始资料。
+- 本批读章：ch27（海战与埃方决策段）、ch28（渡河决策全章）、ch30、ch31（Chinese Farm 与桥）、
+  ch32、ch33（破出与伏击）、ch34（Tirtur 夜袭与滚轮桥）、ch37 首段（10-18—19 农场陷落）。
+- 新建（5 页）：
+  · events/chinese-farm-battle-1973（走廊之战：Reshef 旅 97 辆损 56、亡 128；Morag 营单骑贯穿 Tirtur；
+    第 890 伞兵营夜袭 41 亡百余人伤；10-18 农场陷落，场上埃军 118 辆毁＋15 辆弃、以军 56 辆毁）
+  · events/operation-abirei-lev（10-17 苦湖北端伏击歼埃第 25 装甲旅 50–60 辆；10-18 空军打 Tsach 开路、
+    Adan 师西进 22 英里至 Geneifa；10-19 Reshef 旅攻补给中心；至此合围第三军团）
+  · events/us-soviet-airlift-1973（苏空运 10-10 起；美方 10-13 决定军机直飞、亚速尔中转；
+    尼克松"不能让以色列输"；苏 7 个空降师戒备；美援起始日两说并存不代择一）
+  · events/yom-kippur-1973-naval-war（拉塔基亚导弹艇对决、Styx 射程两倍下靠干扰取胜、
+    埃叙舰队此后不再出港；Ras Arib 19 艘渔船、Ardaka 蛙人炸艇、曼德海峡被封锁）
+  · events/decision-to-cross-1973-10-12（Gonen 被 Bar-Lev 架空；10-12 内层内阁"先等埃军装甲进攻"；
+    Zamir 当场所收伞兵电报；同日开罗因阿萨德求援被迫把进攻定于 10-14）
+- 更新：战争索引（南线/决策/海上/超级大国各节建链接，批次说明）、
+  主时间线（10-06 增海战条、10-10/10-12/10-16/10-17 细化并加内链）、根 index.md（来源㉓条补第 3 批）。
+- 未建（按门槛暂缓）：苏伊士城事件（ch35–36）、338 决议（ch35）、核警报（ch37）、Agranat（ch38）、
+  伊拉克远征军独立页（仍并入戈兰反攻页）、places/ 与人物/装备实体页（本线仍未开，下一批起开）。
+- 异常／甄别：美空运起始日 ch26 与 ch34 互相参差，已在页内并列标注；"Chinese Farm"名称由来
+  本书未解释，未推考；埃军损失数字标为以方估计。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 309（+5）；新页 newpages-check CLEAN；
+  无乱码／问号／占位符；wikilink 全解析；索引中一处换行导致的链接断裂已修复。
+
+### 2026-10-22（十月战争线·第 4 批：停火外交＋赫尔蒙/Missouri＋停火后续战，并开概念与地点层）
+- 来源同批 1（yom-kippur-war-rabinovich，sha256 5a434a19…），无新增原始资料。
+- 本批读章：ch25 末（175 mm 炮与 Leja 段复核）、ch30 后段、ch31（埃方决策段）、ch32 起首、ch33、
+  ch34（基辛格莫斯科行、赫尔蒙再夺、Missouri）、ch35（停火与续战全章）。
+- 新建（7 页）：
+  · events/un-security-council-resolution-338（10-19 夜萨达特转向：沙兹利请撤四旅被拒、
+    "不撤回一个士兵"、致阿萨德函与无回信；约旦第 40 装甲旅入叙、Um Butna 打乱 10-19 反攻；
+    基辛格—勃列日涅夫四小时谈成草案、12 小时生效、四个小时电报乱码；10-22 18:52 停火）
+  · events/chermon-missouri-final-battles-1973-10（戈拉尼自西坡强攻赫尔蒙：亡 55 伤 79、
+    两度攻山合计亡 80 伤 136；Nadel 伞兵空降叙方赫尔蒙 1 死 4 伤；Missouri 强攻 Raviv 旅损 22 辆）
+  · events/ceasefire-violations-third-army-encirclement-1973-10（Shimshi 营被围一夜损 9 辆坦克 2 亡；
+    10-23 达扬批准"自由行动"，Magen 师切断第三军团最后公路，围困约 3 万人；叙利亚 10-23 放弃大反攻）
+  · concepts/israeli-intelligence-failure-1973（"概念"的判断内容、维持机制、外部情报失效、追责与作者判断）
+  · concepts/yom-kippur-1973-equipment-comparison（坦克／反坦克／防空／渡河／海上对照，只收本书明确数值）
+  · entities/places/golan-heights、entities/places/suez-canal-bar-lev-line（军事地理两页）
+- 更新：战争索引（南／北／情报／超级大国／装备／地点各节建链接，批次说明）、
+  主时间线（10-20 至 10-23 逐日细化并加内链）、根 index.md（来源㉓条补第 4 批）。
+- 勘误/甄别：本书 ch25 记"175 mm 炮击 Mazeh 机场"与"拟炮击大马士革城区被叫停"，本批未改；
+  停火时刻以 ch35 的 18:52 为准（另有"日落之后生效"的表述，两处并存于页内）；
+  Scud 发射数三说并列（萨达特 2／沙兹利 3／以方 1）；埃军 10-14 损失、叙军坦克损失均标为以方估计。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 316（+7）；新页 newpages-check CLEAN；
+  无乱码／问号／未配对的方头括号；wikilink 全解析。
+
+### 2026-10-22（十月战争线·第 5 批：苏伊士城、核危机、脱离接触、Agranat、战果评价，并开人物层）
+- 来源同批 1（yom-kippur-war-rabinovich，sha256 5a434a19…），无新增原始资料。
+- 本批读章：ch36（苏伊士城全章）、ch37（核警报全章）、ch38（战后与结论全章）。
+  至此 ch7—ch38 全部读完；仍未读 ch1、ch2、ch6（战前背景与消耗战）。
+- 新建（9 页）：
+  · events/suez-city-battle-1973（Zaken 坦克营 21 辆沿主干道"阅兵"式入城→第二个十字路口遭
+    楼顶手榴弹与小巷 RPG 交叉火力；车长几乎全数中弹；Goldblatt 徒步重整；Yoffe 营困守警察局；
+    Gonen 电台口述路线、Amit 中途停笔改向北走；铁路桥无守卫突围；以军亡 80 伤 120；
+    Brik 最后一枪、Yaguri 营伤亡率 150%）
+  · events/nuclear-alert-1973-10-24（勃列日涅夫信、23:41 DEFCON 3、八项具体措施时序、
+    第六舰队 60 对苏 97 艘、Murphy 自估 40% 开战概率、政治局"不会发动第三次世界大战"、
+    勃列日涅夫选择不回应、埃及 08:00 撤回求兵请求）
+  · events/km-101-and-disengagement-1973-74（尼克松"最后通牒"两点、第三军团成为外交支点、
+    10-28 01:30 km 101 帐篷握手、11-11 协议三点、日内瓦 12-21、埃以 1974-01-18、
+    叙以 1974-06-05、萨达特私信）
+  · events/agranat-commission-1973（Ashkenazi 独自举牌到 5,000 人、五人与六人的责任名单、
+    梅厄与达扬免责理由、辞职链、埃拉扎尔/戈嫩/Zeira/Tal/Hofi 去向、作者对沙龙的定评、
+    埃叙一侧的清算）
+  · concepts/yom-kippur-1973-outcome-assessment（领土终局、装备损失、四组伤亡口径并列、
+    "埃及赢了。以色列也赢了"、Starry 报告与美军装甲兵改革、空军地位反转与 1982 贝卡）
+  · entities/people/{moshe-dayan,golda-meir,david-elazar,anwar-sadat}（人物层首批，只写本书内容）
+- 更新：战争索引（新战役末尾与战后节、人物与地点建链、批次说明）、主时间线（10-24 细化、
+  新增 10-25 与 10-27—28 两节、1973-11—1974 补 1974-02/1974-05—06）、根 index.md（第 5 批状态）。
+- 甄别/口径：
+  · Agranat"六人名单"含 Elazar、Zeira、Shalev、Bandman、Gedalia、Gonen（原文 "six heads"）；
+  · Reshef 旅伤亡原书作 "more than goo"，按 300 记并标注 OCR；
+  · 以方伤亡 2,656 死／7,250 伤为本书数；阿方两套口径（西方分析者 8,528／19,540 与以方估计
+    15,000／35,000）并列，不加权、不相加；
+  · 1974-05 叙以协议本书未给具体日期，时间线仍不写 05-31。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 325（+9）；新页 newpages-check CLEAN
+  （人物页原有非 SCHEMA 键 role 已删）；log.md 尾随空格已清理。
+
+### 2026-10-22（十月战争线·第 6 批：补读 ch1／ch2／ch3／ch6，建战前背景层）
+- 来源同批 1（yom-kippur-war-rabinovich，sha256 5a434a19…），无新增原始资料。
+- 本批读章：ch1（Footprints in the Sand，布达佩斯堡 Ashkenazi 线）、ch2（The Man in the Peasant Robe，
+  萨达特 1970—1973 线）、ch3（Dovecote，教义与 Bar-Lev 线）、ch6（Summer Lull，欺骗与 D 日选择）。
+  **至此 ch1—ch38 全部摄入完毕。**
+- 新建（4 页）：
+  · events/sadat-road-to-war-1970-73（1970-12 达扬 20 英里后撤建议被拒、1971-02 首次公开和平表态、
+    Jarring 问卷、1971"决定性一年"、1972-07-08 驱逐苏联顾问与 Rafael 备忘录、1973-02 Hafez Ismail
+    康涅狄格密谈、基辛格"事实是你被打败了"、萨达特人物刻画）
+  · events/summer-lull-and-deception-1973（勃列日涅夫 6-23/24 深夜提案、达扬 5-21 与次月两次矛盾表态、
+    Merrick 备忘录"五成以上"、Galili 两次提醒、1973-07 沙龙退役换戈嫩及其为人、埃及欺骗委员会与
+    仅四人知情、Granite 2 演戏、阿萨德立场、约旦侯赛因、D 日选定的潮汐/犹太历/斋月逻辑与本书反驳）
+  · concepts/idf-doctrine-and-bar-lev-line（六日战争前后教义未改、"敌人不得有收益"悖论、埃拉扎尔
+    1971-01-01 推翻情报评估、1972 春"放五个师进西奈再关门"的思想实验与其后的"不会有战术后撤"、
+    Bar-Lev 线实为 20—30 人小堡串、沙龙与 Tal 主张、沙龙离任时关闭 30 座中的 14 座）
+  · entities/people/hafez-al-assad
+- 更新：战争索引（新增"战前（1970—1973）"节、阿萨德建链、批次说明）、
+  主时间线（新增"1970—1973（战前背景）"十二条，原"1973 年（战前）"改题"1973 年（临近战火）"）、
+  根 index.md（第 6 批状态）。
+- 甄别：ch1 的 OCR 与叙事未提供可核的堡名清单，本批不从地图文字层取地名；"Budapest 堡距运河 10 英里"、
+  "52 人守军/其他数字"仍以既有 events/nafakh 等页所记为准，未在本批重写。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 329（+4）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK（无 U+FFFD、无字面问号、wikilink 全解析）。
+
+### 2026-10-22（十月战争线·第 7 批：人物层第二批八页）
+- 来源同批 1（yom-kippur-war-rabinovich，sha256 5a434a19…），无新增原始资料；本批为纵深人物页，
+  全部取材于已读章节（ch3、ch6、ch8、ch10、ch19、ch21、ch30、ch35—ch38），未引入外部传记。
+- 新建（8 页，均在 entities/people/）：
+  · eli-zeira（"概念"的辩护者的自述逻辑、Shalev/Bandman 支持链、与 Tal 的正面冲突、
+    赎罪日晨办公室三问、战后咨询业与"The Source 是双面间谍"之说）
+  · shmuel-gonen（六日战争战功与恐吓式治军（一次处分 82 人、掷麦克风）、Adan"Gorodish 在 IDF 里没有位置"、
+    1973-07 接任南部军区、10-10 被 Bar-Lev 架空的"平级调开"细节、战后丛林十三年）
+  · haim-bar-lev（Bar-Lev 线起源、10-10 接管南线、与 Elazar 共同决定渡河时机、战后回内阁）
+  · avraham-adan（战前对 Gonen 的判断、10-08 师损约 50 辆、渡河后的"阿丹的战争"、
+    力主废止第一次停火、战后与 Ben-Gal 论"数量本身具有质量"）
+  · ariel-sharon（1970 主张封塞堡垒、离任时关 14/30、10-10 抗命推进、渡河"领导但不是发起人"、
+    Gilowa 主张事后可证有理、Missouri 争议被 Shazly 认可、战后告别讲话与委任被撤）
+  · saad-el-shazly（1973-08-21 亚历山大港接叙方代表团、Granite 2 演戏与"I was sickened by the duplicity"、
+    10-19 请撤四旅被拒、战后驻英大使/流亡/软禁）
+  · avigdor-kahalani（10-07 拂晓 Hermonit 岭的开场，含"狮子准备进食"与 Killion 的对话）
+  · zvika-greengold（Force Zvika、Tapline 与 Reshet 路夜战、与 Ben-Shoham 越野进抵 Nafakh 外围）
+- 更新：战争索引人物节改为"已建页/尚无页"两段并全部建链、批次说明补第 7 批。
+- 甄别：沙龙的"143/146 师"编号、Gonen 处分人数、Shazly 自传引文均照原书表述；本书未给的年份/职务
+  一律不补（如 Bar-Lev 战后政治生涯、Kahalani 战后经历本页留空并注明）。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 337（+8）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK（无 U+FFFD、无字面问号、wikilink 全解析）。
+
+### 2026-10-22（十月战争线·第 8 批：装备层九页）
+- 来源同批 1（yom-kippur-war-rabinovich），另沿用 Price 卷III 既有 SA-6/SA-2 两页作对照；无新增原始资料。
+- 新建（9 页，均在 entities/equipment/）：
+  · at-3-sagger（3,000 码射程＝RPG 十倍、有线制导需全程压线、亮红尾焰、手提箱发射、
+    每师 72 具、沙兹利"从后方抽调集中到突击部队"、战后坦克消亡论与"先开火远距离开火"教范）
+  · rpg-7（射程为 Sagger 十分之一、300 码内仍能击穿、每师 535 具、被俘伞兵小队 13 具、
+    Brik 首日衬衣着火、苏伊士城巷战、以军改用缴获 AK/RPG）
+  · centurion-shot（高车体在起伏地形的反斜面优势 vs 苏式低矮车体俯角不足、射速与命中率、
+    2,000—3,000 码交战距离、装甲兵占阵亡一半）
+  · t-55、t-62（俯角缺点、T-62"和 T-55 一样脆弱"、三发命中才停一辆、数量本身具有质量）
+  · gilowa-raft（10 分钟充气、15 辆并列 5 辆一筏每筏 1 辆坦克、沙龙主张与事后评价、
+    舟桥 8 小时、滚轮桥待 Tirtur 打通、埃军渡河器材对照）
+  · gabriel-missile（Styx 30 英里＝Gabriel 两倍、干扰＋高速接近破解、首次导弹艇对决）
+  · sa-6-in-1973（导弹伞、Dougman 5 因无法定位 SAM-6 而失败、1982 贝卡 19 阵地毁 15 重创 3、82:1）
+  · sa-7-strela-2（导弹伞组成、102 架损失中高炮与导弹各半、本书未给肩扛参数）
+- 更新：战争线装备节重排为"综合对照／防空／装甲／反坦克／工程渡河／海上／飞机"七组并全部建链；
+  装备对照页关联节改为型号专页清单。
+- 甄别：新页只收本书明确数值（3,000 码、30 英里、72 具、535 具、10 分钟、15 辆/5 辆/1 辆、8 小时等），
+  口径/装甲/射高等本书未给者一律留白并注明"本书未给"，未从其它来源补入。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 346（+9）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（十月战争线·第 9 批：建制层九页）
+- 来源同批 1（yom-kippur-war-rabinovich），无新增原始资料；全部取自已读章节。
+- 新建（10 页，均在 entities/organizations/）：
+  · egyptian-third-army（南段军团、司令 Wasel、每师 72 Sagger＋535 RPG＋57 炮＋90 无坐力炮；
+    第 25 装甲旅 10-17 被歼；10-19 Wasel 电话称"技术困难"；3 万人被围；Nadeh 日记）
+  · egyptian-second-army（中段军团、司令 Mamon 10-14 精神崩溃、第 21 装甲师、战后改任文职省长）
+  · idf-7th-armored-brigade（177 对 1,400、土台反斜面、10-09 夺回 Hermonit、谷底 260 辆、
+    叙军四天弃车逾 800 辆）
+  · idf-188th-armored-brigade（南段、Ben-Shoham 与副旅长阵亡、Tamir 营 30 辆几乎全歼）
+  · idf-sharon-division（143／146 两种编号并存照录、Reshef/Raviv/Mordecai 部、渡河与被牵制）
+  · idf-162nd-division（Nir/Amir/Keren 旅、10-18 西进 22 英里、切断第三军团最后公路、苏伊士城）
+  · idf-sinai-division（Mendler 师、Dovecote 的 300 辆坦克骨干、10-04 该日下午本应进阵地而 Gonen 推迟到 17:00）
+  · idf-890th-paratroop-battalion（任务由苏伊士湾两栖突袭临改为 Refidim 空运；Chinese Farm 夜袭
+    亡 41 伤逾百；战后士兵自认"彻底失败"）
+  · syrian-7th-division（Abash 少将、北段主攻、战后一说阵亡一说病故）
+  · iraqi-expeditional-golan-1973（10-12 介入、10-13 激战、10-23 反攻计划取消后回国）
+- 更新：战争线"部队与组织"节重排为以／埃／叙／其他四组"已建页／尚无页"并全部建链。
+- 甄别：沙龙师编号 143/146 在本书不同章节并存，照录不合并；890 营、第 25 旅等番号照原书；
+  本书未给的伊拉克部队师旅番号与兵力、叙军第 46/51 旅以下编成，一律不补。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 356（+10）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（十月战争线·第 10 批：人物层第三批十一页，人物层收官）
+- 来源同批 1（yom-kippur-war-rabinovich），无新增原始资料。
+- 新建（11 页，均在 entities/people/）：
+  · benny-peled（埃拉扎尔的第一个电话、07:00 戈兰云底 240 m 报告、空军战后评价）
+  · amnon-reshef（10-06 12:20 讨论仍是"雷谢夫旅应付渡河埃军"、Tasa 见敌机俯冲、
+    Chinese Farm 与"全军伤亡最多的旅逾 300 人"、安息日威士忌段落、战后"佯攻开罗打第二军团"主张）
+  · yitzhak-hofi（因表忧虑换来增援 vs 戈嫩接受"低概率"、经 Eitan 向 Ben-Gal 传警、
+    战后摩萨德局长）
+  · avigdor-ben-gal（"令人敬畏的存在"、孤儿出身/以军队为家、Yanush、10-06 10:00 集合营连长、
+    战后论"数量本身具有质量"）
+  · uri-ben-ari（Bar-Lev 到任对他是"恩典"、与 Gonen 共同主张先集结再进攻、为苏伊士城设"不得遇严重抵抗"前提）
+  · yitzhak-ben-shoham（10-07 与 Greengold 越野进抵 Nafakh 外围、阵亡与电台误传、副旅长同役阵亡）
+  · ahmed-ismail（1973-08-21 亚历山大港会谈、Granite 2 指令、拒撤第 25 旅恐重演 1967 溃逃、
+    改令北上与第 21 师会合、沙兹利激烈反对）
+  · ahmed-gamasy（潮汐与犹太历选定 D 日、主张"作战停顿"后打山口、10-19 反对撤军、
+    km 101 主权与 11-11 签字）
+  · saad-mamoun（10-01 才知 D 日、抗议并请辞被拒、10-14 精神崩溃细节与沙兹利推迟后送）
+  · ahmed-wasel（10-19 凌晨 3 时电话"技术困难"、"那么这个旅就完了"与听天由命祷词）
+  · zvi-zamir（10-06 凌晨"天黑前"99.9% 与接线员过节对话、"来源"36 小时前已发暗语、
+    10-24 夜报告无苏军动向）
+- 勘误：曾误建 entities/people/amnon-reshef-reshef.md（重复条目），已删除，无页面链向该路径。
+- 更新：战争线人物节改为以／埃／叙／美苏四组"已建页／尚无页"，11 人均已建链；批次说明补第 10 批。
+- 甄别：马蒙 10-14 崩溃细节取 ch32 原文（11 时"在休息"→下午军团部告以实情）；伊斯梅尔与加马西的
+  职务区分照原书；凡本书未给的军衔/年份不补。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 367（+11）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（十月战争线·第 11 批：飞机层六页＋地点层六页）
+- 来源同批 1（yom-kippur-war-rabinovich），无新增原始资料。
+- 新建（12 页）：
+  · entities/equipment/f-4-phantom-ii（沙姆沙伊赫两架 Phantom 对 26 架 MiG、Dougman 5 出动 60 架损 6、102/277:6/432）
+  · entities/equipment/a-4-skyhawk（Yadlin 首战盘旋、Ramat David 中队被有意排除在 Tagar 外以备戈兰）
+  · entities/equipment/mirage-iiicj（9-13 海岸外 8:1 空战、打下的是 Kelt、司令部中队长临阵补位）
+  · entities/equipment/mig-21、mig-25-recon（10-18 柯西金向萨达特展示 MiG-25 战场照片）
+  · entities/equipment/tu-16-kelt（10-06 远海发射 Kelt、一枚被 Mirage 打落、一枚落海）
+  · entities/places/chinese-farm（水渠/堤埂/涵洞与抽水站地形、Tirtur 与 Lexicon 两路、Missouri 位置关系）
+  · entities/places/deversoir（大苦湖北口、Matsmed 并用、两军团结合部、三词互指不细分）
+  · entities/places/nafakh（指挥+后勤同址的风险、围栏外叙军射击、Ben-Shoham 与 Greengold 越野进抵）
+  · entities/places/kuneitra（城与"缺口"分列、1974 撤出废墟 Kuneitra、叙方留作纪念碑）
+  · entities/places/mount-hermon（以色列赫尔蒙/叙利亚赫尔蒙/山脊三义分列、55 人守军 13 死 31 俘、
+    戈拉尼旅亡 55 伤 79、两度攻山亡 80 伤 136）
+  · entities/places/ismailiya（第二军团司令部、马蒙崩溃现场、甜水运河与两座桥、Yoffe 营过铁路桥）
+- 更新：战争线装备节"飞机"组与地点节全部建链，批次说明补第 11 批。
+- 甄别：全部新页只取本书叙述，地图地名一律不从 OCR 文字层取名；性能参数（速度/雷达/射程）本书未给，
+  逐页注明不补。赫尔蒙三义、库奈特拉城/缺口两义显式分列，避免混写。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 379（+12）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（十月战争线·第 12 批：超级大国层六页＋埃及层三页＋地名汇总三页）
+- 来源同批 1（yom-kippur-war-rabinovich），无新增原始资料。
+- 新建（12 页）：
+  · henry-kissinger（1973-02 康涅狄格密谈、"事实是你被打败了"、卫星照片"先削弱萨达特的手"、
+    "摧毁第三军团是不存在的选项"、10-27 期限、DEFCON 3 主持、"quasi-victorious, not triumphant"）
+  · richard-nixon（圣克利门蒂深夜会谈、核危机中睡过全程、次日的强硬记者会与基辛格皱眉、
+    第三军团存续＝美国义务）
+  · leonid-brezhnev（6-24 深夜提案、10-16 "提醒他，开罗离运河不远"、"他落得这个下场是活该"、
+    10-19 凌晨 4 时被叫醒、"让他冷静一下"的不回应）
+  · alexei-kosygin（10-16 取消会见丹麦首相、三天谈判、每周千辆坦克的补给限度与埃方已损 600 辆、
+    10-18 摊开 MiG-25 照片、"这不理智"）
+  · andrei-gromyko（10-16 的"阿拉伯人会被打败、萨达特会被赶下台"判断）
+  · anatoly-dobrynin（10-24 21:35 电话口读信件、05:40 递交复信）
+  · hosni-mubarak、hafez-ismail、ismail-fahmy（三者的会议／渠道／不请自来三处记载，
+    并在页首显式区分 Ahmed Ismail／Hafez Ismail／Ismail Fahmy 三人）
+  · entities/places/suez-city（26 万人口、消耗战搬空、主街双车道加铁轨、Adabiya 港、
+    "不据 Gonen 口述路线重建街巷图"）
+  · entities/places/golan-battlefield-sites（Hermonit 岭土台、Tel Saki、Ramat Magshimim、Reshet/Tapline/Yehudia 路）
+  · entities/places/sinai-battlefield-sites（大苦湖北口、米特拉／吉迪山口、Refidim、Tasa、Um Butna、Adabiya）
+- 更新：战争线人物节（美苏由"尚无页"改为"已建页"、埃及三页建链）、地点节改为三张汇总页、批次说明补第 12 批。
+- 甄别：埃及三个"伊斯梅尔"姓名极易混，逐页页首加区分说明；地名汇总页明确不从地图 OCR 取点名，
+  Gonen 口述路线不作为街巷图依据。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 391（+12）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（十月战争线·第 13 批：新来源㉔ Herzog《The Arab-Israeli Wars》，摄入 Book V）
+- 新来源：Chaim Herzog《The Arab-Israeli Wars》(Arms & Armour 1982／Vintage 1984)，440 页 IA 扫描、
+  pdftotext 未 OCR；sha256 79cea61f…。原始 PDF 与全文/分页文本存 raw/papers/arab-israeli-wars-herzog/。
+  本书覆盖 1948—1982 七段战争，**本轮只摄入 Book V（1973）**；Book I—IV、VI、VII 未读。
+- 新建（10 页）：
+  · sources/arab-israeli-wars-herzog（结构、页码表、OCR 质量与系统性误拼、双主源用法）
+  · concepts/yom-kippur-1973-egyptian-orbat-herzog（80 万兵/2,200 坦克/150 阵地/50 沿运河；
+    第二军团 18·2·16 师、第三军团 7·19 师；10 座桥、每师 4—5 英里正面、首波 8,000 人、
+    首分钟 10,500 发、渡河仅 208 阵亡；与 Rabinovich ORBAT 差异表）
+  · events/bar-lev-forts-defense-1973（16 堡 436 人、Budapest 18 人与 16+16 辆敌装甲被毁 15 辆、
+    Quay 堡七日守至 10-13 举托拉经卷投降、Ketuba 堡 Or-Lev、作者"折中产物"之评）
+  · events/idf-counterattack-1973-10-08-herzog（Elazar 计划原文、轴线偏东致自东向西撞进埃军、
+    Amir 12 辆/Nir 18 辆被毁撤出仅 4 辆、Sharon 一天南北空跑、与 Rabinovich 因果链并列）
+  · events/crossing-and-corridor-herzog（以军西岸道路代号 Test/Havit/Vadaut/Sakranut/Vitamin/Asor/Sarag/Akal
+    与六高地代号；钻进埃第 16 师后勤区；Matt 01:35 渡河与"院子"；Dayan"我们试过了"与 Gonen 回答；
+    第 25 装甲旅 96/86；预制桥 190 码 12 辆坦克拖行、架桥亡 100 人）
+  · events/northern-front-herzog-1973（叙军 1,500 辆、三步兵师＋两装甲师编成与师长名；188 旅 57 辆对 600 辆；
+    Force Zwicka 挡第 90 装甲旅 20 小时；Yossi 蜜月归队 13 辆伤车；眼泪谷 500 辆；
+    Tel Shams 三次失败与 'Yoni' 救人；伊拉克 3 装甲师与 Laner 的"盒子"80 辆；约旦 40 旅 28 辆；
+    重夺赫尔蒙 8,200 英尺、Golani 亡 51 伤 100；北线总账 772 死/2,453 伤/65 俘）
+  · events/air-naval-war-herzog-1973（SAM 射程 55,000/33,000/24,000 码与 150 阵地/50 沿运河；
+    空战 334:5、阿方 514 架含 58 架自伤；Kelt 25 发 20 被击落；拉塔基亚 25 分钟、达米埃塔 40 分钟、
+    Ras Ghareb 19 艘渔船、以海军亡 3 伤 24）
+  · concepts/yom-kippur-1973-herzog-assessment（"军事胜利属于以色列、政治收益属埃及与美国"；
+    苏伊士战线战略转变源于北线决定；与 Rabinovich 评价并列对照表）
+  · entities/people/motti-ashkenazi（两书合并：战前哨所/脚印、布达佩斯堡、战后举牌到 5,000 人）
+- 更新：战争线索引新增"第二来源：Herzog 的平行叙述"节并改主要来源；主时间线三处加〔据 Herzog〕数字；
+  根 index.md 新增来源㉔与战争入口标注、修掉 [[log.md]] 断链。
+- 甄别：两书冲突数字（Budapest 守军 18 vs 55、空战 334:5 vs 277:6、第 25 旅 96 vs 50—60、
+  赫尔蒙守军 1+13 vs 55、Golani 伤亡、叙军坦克 1,500 vs 1,400）**全部并列并标明出处，未合并、未取中**；
+  地图页 OCR 不可判读，一律不从地图文字层取地名；本书无脚注，引用以"小节＋PDF 页"标注。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 400（+10）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（Herzog 摄入·第 2 批：BOOK II 1956 西奈战役——新开战争线 wars/sinai-campaign-1956）
+- 来源同批 13（Herzog《The Arab-Israeli Wars》sha256 79cea61f…）；本批读 Book II（PDF 页 128—165，38 页）。
+- 新建 11 页（**全部标"单源未校"**——本战争线目前只有 Herzog 一个来源）：
+  · wars/sinai-campaign-1956/index（缘起：1951-07 阿卜杜拉被刺、1952 自由军官政变、1955 捷克斯洛伐克军售
+    530 装甲车/500 炮/200 机、Ras Nasrani 封锁蒂朗、1956-07-26 运河国有化、塞夫勒密谋三段式保险设计；
+    兵力对比表；政治结局与 UNEF；利德尔·哈特"一件艺术品"之评）
+  · wars/sinai-campaign-1956/timeline（10-29 至 11-07 逐日，含 15:00 P-51 割电话线与 17:00 空降）
+  · events/mitla-pass-battle-1956（395 人空降、P-51 十二英尺割线、沙龙旅 65 英里穿越、
+    Themed 13 辆坦克只剩 2 辆、Nakhle、Gur 少校山口七小时战、亡 38 伤 120 对埃军约 200、
+    达扬指控沙龙以"巡逻"之名打"战斗"为 subterfuge）
+  · events/abu-ageila-battle-1956（"刺猬"三道沙脊、Adan 中校受挫于 Archer、Daika 山口迂回切断补给、
+    Ruefa 水坝夜战每一辆坦克被命中、第 10 与第 37 旅失败与 Galinka 阵亡、本书的三项归因）
+  · events/rafah-gaza-battles-1956（Golani＋第 27 装甲旅、半履带触雷成"静止燃烧靶"、17 门反坦克炮被火箭筒
+    逐一击毁、达扬"俄国电影式拥抱"、阿里什军医院与通信兵之死、385 辆缴获、加沙 1 万守军与 Ali Montar 一战对比）
+  · events/sharm-el-sheikh-and-tiran-1956（第 9 旅 200 辆/1800 人 150 英里驼道、Wadi Zaala 推车、
+    Wadi Kid 两码宽、Ras Nasrani 空要塞、91 营夜攻失利与"电话线原封未动"的细节、09:30 海峡打开）
+  · events/suez-intervention-anglo-french-1956（英法 11-01 才起航、只炸机场不支援以军、
+    两次否决安理会停火、舰炮口径受限、11-06 登陆与英政府在压力下让步）
+  · concepts/sinai-campaign-1956-strategy、concepts/unef-1956、entities/people/rafael-eitan
+- 更新：根 index.md 新增 1956 战争入口与来源㉔条目改写（Book II 已完成，余 Book I/III/IV/VI/VII）。
+- 甄别：本书对英法行动叙述简略且明显以色列视角（"英法空军从未支援以军""英国政府让步"），
+  页面已在该处显式标出立场；UNEF 页并存本书内部两种表述（十年有效 vs 加沙被逼退）不调和；
+  未从地图 OCR 取任何地名；本书页码与页眉混入正文处按上下文剥离。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 410（+11）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（Herzog 摄入·第 3 批：BOOK III 1967 六日战争——新开战争线 wars/six-day-war-1967）
+- 来源同批 13（Herzog sha256 79cea61f…）；本批读 Book III（PDF 页 166—215，50 页）。
+- 新建 10 页（全部"单源未校"）：
+  · wars/six-day-war-1967/index（1967-05 危机链：苏联"11 个旅"情报、吴丹撤 UNEF、关闭蒂朗、
+    法国背身、拉宾 48 小时失能、全国团结政府、侯赛因"买保险"、纳赛尔三重误算；空袭首日数字；
+    三战场导览；总损失表 764/338/141/285/6,000+/15,000 vs 10,000/800 辆坦克；1967-06-19 内阁决议；
+    对纳赛尔的四点批评；军官军士占伤亡 23%）
+  · wars/six-day-war-1967/timeline（4-07 至 6-10 逐日，含 07:45、08:00、16:00、20:00 等时刻）
+  · events/six-day-war-sinai-1967（双方完整 ORBAT 表含师长姓名；Force Shazli；"公开调动"欺骗；
+    El Jiradi 数度易手；Um-Katef 直升机机降＋背后夹击"史上最复杂战斗"；Yoffe 9 小时 35 英里沙丘；
+    Shadmi 九辆坦克（四辆被拖）封米特拉；混入埃军纵队全歼一营；埃第 125 装甲旅完好遗弃与旅长答词；
+    3,000 码六小时对射；加沙第三天凌晨；沙姆沙伊赫"封锁并不存在"）
+  · events/six-day-war-jordan-jerusalem-1967（约军 8 步兵旅＋2 装甲旅；艾希科尔经 Odd Bull 传话；
+    Ben-Ari 十九条年后重攻 Radar Hill；拉特伦首次得手；弹药山四小时；08:30 三营攻；10:00 西墙；
+    Khatib 向本书作者陈述；纳布卢斯市民误迎；三桥尽控；约方 6,000+ 与以方 285）
+  · events/six-day-war-golan-1967（1,500—2,500 英尺断崖、Tel Abu Nida 3,600 英尺；叙 8 旅＋2 装甲＋2 机步；
+    Tel Fakher 白刃战"仅三人未伤"、以身搭桥过铁丝网；推土机全部被击中；Mandler 单轴强攻；
+    14:00 未战占 Kuneitra；Peled 南段直升机跳跃）
+  · events/six-day-war-air-strike-1967（Hod 其人：非 RAF 出身、捷克首批飞行员；309/340 机型明细；
+    约叙伊连锁；416 架含 393 架地面；58 架空战）
+  · events/uss-liberty-incident-1967（34 死 164 伤；本书"美方未通报"的归责，**显式标注为以色列官方立场**，
+    不代替美方说法，未写入本书以外的调查结论）
+  · concepts/six-day-war-outcome-1967（纵深首次获得；四个成功要素；"把缺陷扫到地毯下→影响 1973"；
+    纳赛尔四点批评；1967-06-19 归还西奈与戈兰的内阁决议；波德戈尔内与喀土穆"三不"）
+  · entities/people/mordechai-hod、entities/people/uzi-narkiss
+- 更新：根 index.md 新增 1967 战争入口、来源㉔条目改写（Book II/III 已完成，余 I/IV/VI/VII）。
+- 甄别：本书作 1967-06-05 约军开火时刻写作"1.00 hours"（排版/OCR 歧义），页面按上下文作"上午"并注明；
+  1967 页与既有 1973 线的人物（Gonen/Sharon/Elazar/Narkiss/Hod）与 1973 线全部互链；
+  地图页（西奈/西岸/戈兰各一张）文字层不可判读，未取任何地名。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 420（+10）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（Herzog 摄入·第 4 批：BOOK IV 1967—70 消耗战——新开 wars/war-of-attrition-1969-70）
+- 来源同批 13（Herzog sha256 79cea61f…）；本批读 Book IV（PDF 页 216—247，32 页）。
+- 新建 9 页 + 改造 1 页既有页（全部"单源未校"）：
+  · wars/war-of-attrition-1969-70/index（起点 1967-07-01 而非 1969；纳赛尔三阶段"防御性恢复→攻势防御→解放"；
+    以军火炮劣势与"间接路线"；Eilat 号完整叙事；Bar-Lev 线完整决策史（Gavish 守水线→Adan 15 人 7 英里
+    预警哨设计→沙龙/Tal 反对→Bar-Lev 裁定→1969-03-15 建成）；卡拉梅；242 决议两条原文直译；
+    "飞行炮兵"；苏联 1970 年进驻的技术细节；纳赛尔"借停火前推导弹"与基辛格自认"我们最初犹豫鼓励了他"；
+    停火后加固与 1972 折中"26 座中约 10 座封堵"→"概念模糊将在 1973 年头几小时索取代价"；
+    总代价以方亡 500 余、伤 2,000）
+  · wars/war-of-attrition-1969-70/timeline（1967-07-01 至 1970-09-28，只收书中带日期者）
+  · events/war-of-attrition-egyptian-front-1967-70（分阶段叙事：堤道伏击/中线试探/攻势防御两次齐射/
+    解放阶段总参谋长 Riadh 阵亡/苏联进驻后 3-5 月以方伤亡/停火后整备）
+  · events/karameh-operation-1968（约军亡 40、PLO 约 200、以军亡 28 伤 69 与装备损失；后果链到黑九月）
+  · events/israeli-deep-raids-1969-70（Sud 321 直升机 220 英里突袭、蛙人与 A-Dir 两栖装甲突袭 30 英里/
+    12 哨所、绿岛、Shadwan 岛、Ras-Arab 吊运 7 吨 P-12 雷达、"飞行炮兵"决策与 1973 代价）
+  · events/black-september-jordan-1970（本书只一段总结，未给伤亡数字，页内明示不补）
+  · concepts/bar-lev-line-origins（与 Rabinovich 版逐项对照表：15 vs 20—30 人、7 英里、26/10 vs 30/14 座，
+    不判断孰对）
+  · concepts/soviet-air-defence-egypt-1970（SAM-2 土垒机动+齐射、60,000 英尺、SAM-3 四部双联 8 发斜距 18 英里、
+    ZSU-23、20×45 英里"盒"与 18 英里椭圆区、"下一步是向运河跳跃推进"这一 1973 前兆）
+  · concepts/resolution-242-1967（两条原则英文原文直译，标注本书未讨论定冠词争议）
+  · events/eilat-sinking-1967（**既有 Price 线页**）：补 Herzog 节——HMS Zealous 1,710 吨、17:32、14.5 海里、
+    三发时序、199 人中 47 死/90 伤、以及以军 10-25 轰击苏伊士炼油厂的报复；两书并列不合并。
+- 更新：根 index.md 新增消耗战战争入口、来源㉔条目改写（Book II/III/IV 完成，余 I/VI/VII）。
+- 甄别：本书对"五国介入黑九月"只有一段总结，页面明确标注未给伤亡/逐日；242 决议只引英文原文
+  并声明本书未涉定冠词争议；Bar-Lev 线数字与 Rabinovich 冲突处一律并列表。
+- 检查：SCHEMA.md sha256 191cd20f…（未变）；内容页 429（+9，另改造 Eilat 页）；新页 newpages-check CLEAN；
+  whole-wiki QC 为 OK。
+
+### 2026-10-22（Herzog 摄入·第 5 批：BOOK VI 1976 恩德培——不单开战争线，挂事件页）
+- 来源同批 13（Herzog sha256 79cea61f…）；本批读 Book VI（PDF 页 348—359，12 页，全文无余）。
+- **决策：恩德培不是战争，不建 wars/ 线**，直接建事件页＋政策页＋人物页，并在根 index 单列"反恐行动线"。
+- 新建 4 页（"单源未校"，并**显式标注以色列官方视角**——作者 Herzog 时任以色列驻联合国代表，
+  本书节录了他在安理会的辩护发言）：
+  · events/entebbe-raid-1976（约 130 行，全书最详单页之一）：法航 139 的 4 劫机者（2 巴德-迈因霍夫＋2 PFLP）、
+    256 乘客＋12 机组、53 名在押犯要求（以 40／西德 6／肯尼亚 5／瑞士 1／法国 1）、拉宾起初否定方案、
+    佩雷斯坚持不屈服、Gur"除非我确信可行否则不建议"、**Shomron 06-28 无令自行规划**（"挑选"的联想）、
+    07-01 17:00 总参陈述（"五成"与 100%/10 人伤亡的估计分歧）、为何只有周六夜、
+    黑色奔驰＋两辆 Land Rover 的欺骗（源自空军训练乌干达时的家庭录像）、
+    07-03 15:20 内阁讨论中授权 15:30 起飞、07-03 飞行 7 小时、暴雨后放晴看见着陆灯、
+    鹅颈灯、100 码处两名乌干达哨兵、50 码处下车步行、"15 秒"击毙四名恐怖分子、
+    Yoni 颈部中弹、第二架 7 分钟后落地、60 名乌干达兵自二楼逃走、击毙乌干达兵 35、
+    13 名恐怖分子近距离击毙、15 名投降者被关、不在恩德培加油改内罗毕、
+    **23:01 着陆／23:58 首机起飞＝57 分钟／42 分钟后末机离场并击毁 8 架 MiG**；
+    评估段："短剑而非大锤"、"没有安全余量"、与 1980 年美国伊朗救援失败对照、
+    **明确否认"乌干达与维多利亚湖有特工"的所有说法**。
+  · concepts/israeli-counterterrorism-policy（佩雷斯四条政策宣示原文要点；1972 Sabena 97 人获救/2 枪手、
+    1974-05 Maalot 22 名儿童、1978-03-13 滨海公路 30 余名乘客、苏黎世 Kloten；数字照录不校）
+  · entities/people/dan-shomron（**跨 1956/1973/1976 三线**：1956 三路翻越山口、35 英里正面、六比一劣势；
+    1973 西奈装甲旅、"全旅只剩 17 辆坦克仍于 14:00—午夜推进 30 英里"取 Adabiya；
+    1976 恩德培指挥官；1982 段留待 Book VII）
+  · entities/people/jonathan-netanyahu（1967 Tel Shams 夜救 Yossi 的 'Yoni'；1976 恩德培阵亡）
+- 改造：events/six-day-war-golan-1967.md 新增"Tel Shams 与 'Yoni' 的夜救（10-12—13）"一节并互链；
+  根 index.md 新增"反恐行动线"入口，来源㉔ 状态改为"Book VI 已摄入、余 Book I/VII"。
+- 甄别：本书未给以方阵亡总数与人质死亡数，页面明示不补；Sabena 与 Maalot 的月份照录未校；
+  Book VI 大量文字在扫描页边缘被截（如 "8 Ugandan Air Force MiGs" 处页码串入正文），已按语义复原并只在
+  明显可疑处标注。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 433（+4）；新页 CLEAN；whole-wiki QC 为 OK。
+
+### 2026-10-22（Herzog 摄入·第 6 批：BOOK VII 1982 黎巴嫩战争——新开 wars/lebanon-war-1982，15 页）
+- 来源同批 13（Herzog sha256 79cea61f…）；本批读 Book VII 全文（PDF 页 340—379，含 Summary 与全书 Conclusion）。
+- 新建 15 页（全部"单源未校"；**每页顶部标"以色列视角"**——作者为以色列前驻联合国代表，
+  本书对沙龙/贝京政府多为辩护语调，但对萨布拉—夏蒂拉与凯汉委员会的追责结论照录）：
+  · wars/lebanon-war-1982/index（约 190 行）：1981 扎赫勒—"法国室"—击落 Mi-8—SAM 前移的导火索链、
+    1981-07-24 停火与其三种解释、停火期 240 余次行动、1982-06-03 Argov 遇刺（凶手属阿布·尼达尔系而非 PLO）、
+    06-04 空袭、06-06 11:00 越界；40 公里（25 英里）目标；四条南北向地理带与 2,046/2,814/717 米高程；
+    PLO 15,000 人／100 余辆 T-34／130-155 mm 炮／一次 40 发 Katyusha；叙军 30,000 人／200+100 辆坦克；
+    以军八个师级集群；三路计划与"贝叙公路是战略钥匙"；Drori／Ben-Gal／Eli Geva 指挥；
+    逐日主线；**损失对照表（以 480 死/2,600 伤/11 俘/50 坦克/1 Skyhawk+2 直升机；叙 370 死/1,000 伤/~250 俘/
+    350-400 坦克/86 机/5 直升机/19 个 SAM 连；PLO 约 1,000 死/6,000 俘）**；
+    "以色列史上第一次占尽优势开战"、"1982 年以军是迄今最好的一支"；以及本书**最重的一段自我批评**
+    （若 PLO 撤离后即撤出贝鲁特，就不会与屠杀有任何关联；"咬下超过自己能咀嚼的量"）。
+  · wars/lebanon-war-1982/timeline（1981 春—1983 年中，只收书中带日期者；明示本书成稿于 1983 年中、
+    其后进展本书未述）
+  · events/operation-peace-for-galilee-1982（06-06—06-14：Qasmiya 登陆、绕 Beaufort、Arnoun/Hardale 桥、
+    Jezzine 首次遇叙军重兵、达穆尔 1976 年被屠的旧事、Ein Hilwe、平民撤离海滨的两次、"以军为避平民伤亡
+    而使自己冒险"的作者承认）
+  · events/beqaa-valley-sam-battle-1982（06-09 14:00：**19 个连全毁/4 个重创/以方零损失**；29:0 空战；
+    第一周 86:0；Peled→Ivri 的十年准备；"两个技术体系而非飞机对导弹"；叙军"教条被摧毁"；
+    以及以空军内部"不能据此评判俄制装备"的反省）
+  · events/siege-of-west-beirut-1982（06-22 Aley-Bahmadoun 60 小时、以方亡 28 伤 168；断水断电的国内争议；
+    08-04 有限进攻；08-12 11 小时空袭与里根电话、沙龙在内阁只剩一名部长支持；14,000 人撤离/8,000 人赴八国/
+    Arafat 迁突尼斯；"咬下超过自己能咀嚼的量"）
+  · events/sabra-shatilla-massacre-1982（**本书只有一句描述屠杀本身**："数百名手无寸铁的男女老幼"，
+    无伤亡统计、无来源——页面已显式说明"须引第二来源"；但完整保留：09-15 协调入营、
+    **内阁批准在长枪党入营之后才作出**、09-17 Drori 要求撤出、40 万人集会（占人口 10%）、
+    凯汉委员会七人名单与三项建议、沙龙改任不管部长、Arens 接任）
+  · events/israel-lebanon-agreement-1983（以方三项要求、放弃预警哨、Saad Haddad 争议、1983-05 协议要点、
+    "钥匙在叙利亚手里"、阿萨德"不理解以色列政治的细微之处"的评语、Awali 河重部署的悖论、
+    本书写作时的四点前景判断）
+  · concepts/plo-in-lebanon（15,000 人编成与 7 个部署区、"国中之国"、一百多个从未遵守的协议、
+    公寓地下室改弹药库与"活盾牌"的指控〔标为以色列视角〕、缴获可装备 5 个旅、Za'ater 之战损失为对以损失的六倍、
+    "RPG 儿童"、1983 年法塔赫叛乱与 Sartawi 被刺）
+  · concepts/lebanon-war-1982-assessment（本书列举的十项军事成就；"情报为何把 PLO 装备估少十倍"的未解之问；
+    政治目标落空；最重的自我批评；拒绝下历史结论；全书 Conclusion 对以军/阿军的总评）
+  · concepts/reagan-plan-1982（内容要点与四方反应；日期本书未给，页面标明）
+  · entities/people/amir-drori（1973 Golani 旅长、重夺赫尔蒙山负重伤→1982 北方军区司令；09-17 要求长枪党撤出）
+  · entities/people/david-ivri（1973 年 Peled 的副手→1982 空军司令→1983-04 副总参谋长）
+  · entities/equipment/merkava（Tal 设计、"保险公司"昵称、生存力；**所有性能参数留白标"本书未给"**）
+  · entities/equipment/t-72（9 辆被毁、"被击中即爆、乘员无逃出时间"、年产 3,000/驻东德 1,000）
+  · entities/equipment/sa-5-1983（射程 300 km、覆盖特拉维夫/塞浦路斯东半部/安曼、苏军人员操作与围栏治外法权、
+    苏方三重动机；与 1970 年埃及 SAM-3 部署对照）
+- 改造 4 页既有页（**新来源触及既有实体 → 扩写而不另开页**）：
+  · entities/people/ariel-sharon.md —— 新增 1982 节：国防部长、09-14 命令进西贝鲁特、09-15 协调长枪党入营、
+    08-12 后被指越权且内阁只剩一人支持、凯汉建议辞职但改任不管部长；frontmatter 加 wars/sources。
+  · entities/people/rafael-eitan.md —— 新增 1982 总参谋长节（纪律水准、"平静的信心"、与沙龙同开发布会）。
+  · entities/people/avigdor-ben-gal.md —— 新增 1982 东段司令节（绕 Karoun 湖西岸击叙第 1 装甲师右后侧翼、
+    全歼一个旅、叙损失约 150 辆、装甲营误入叙军村镇靠炮兵救出、停火线距叙边界 5 km）。
+  · entities/people/dan-shomron.md —— 清除"待 Book VII 补"的占位，改为"本书未记其 1982 职务"（诚实留白）。
+- 更新：根 index.md 新增黎巴嫩战争入口，来源㉔ 状态改为"**只剩 Book I（1948）尚未摄入**"。
+- 修错：新建页与 amir-drori 中把既有页误写为 [[chermon-missouri-final-battles-1973]]（实际文件为
+  ...-1973-10.md），已全库修正；equipment 页误加 SCHEMA 外字段 `category:`，已删。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 448（+15）；新页 CLEAN；whole-wiki QC 为 OK。
+
+### 2026-10-22（Herzog 摄入·第 7 批：BOOK I 1948 独立战争——收官，新开 wars/war-of-independence-1948，20 页）
+- 来源同批 13（Herzog sha256 79cea61f…）；本批读 Book I 全文（PDF 页 18—127，110 页，约 26.8 万字符，分 11 段读完）。
+- 新建 20 页（全部"单源未校、以色列视角"；作者 1948 年任第 7 旅作战参谋/副旅长，多处为亲历证词，页内已标）：
+  · wars/war-of-independence-1948/index（约 200 行）：英国托管末期的敌意与两万余人英属阿拉伯部队、
+    Haganah 的武器清单（**步枪 10,500／冲锋枪 3,500／轻机枪 775／3 英寸迫击炮 34／2 英寸迫击炮 670，
+    弹药仅够三天，重机枪反坦克炮火炮为零**）、65 万人口可动员 45,000 其中 30,000 只做地方防卫、
+    阿拉伯联军编成与入侵分工、1948-05 以军九旅编成与"最重武器是 195 门 3 英寸迫击炮"、
+    三阶段表、**阵亡 6,000（军人逾 4,000）＝人口 1%** 与作者的三重换算、两个各约 80 万难民问题框架。
+  · wars/war-of-independence-1948/timeline（1947-11-29 至 1949-07-20，逐日只收书中带日期者）
+  · events/：northern-front（加利利／Degania"IDF 第一门火炮上场"／Mishmar Hayarden／Sejera／Dekel／Brosh／Hiram 14 村至利塔尼）、
+    jerusalem（Hadassah 车队亲历证词／Nebi Samuel 的时机失误／Kastel 与 Abd el Kader 之死／旧城 300 发子弹 36 人／
+    1,190 平民捧经卷下山与 58 座会堂／Notre Dame 200 人近半伤亡与 Glubb 17:00 叫停）、
+    latrun（四次进攻全记；**"计划很好，炮兵很好，装甲极佳，步兵可耻"**；缅甸路 06-10 通车与停火时限的因果）、
+    southern-front（Kfar Darom 的 TNT 经匣袋、Yad Mordechai 180 人撤出与"争得五天"、Nitzanim、Negba 1,000 攻 140）、
+    operation-danny（吕大 Dayan 第 89 营的"喧闹冲进又退出"、Glubb 不增援的辩护与"其实是对的"、Ibdis 18 人、Negba 200 伤亡）、
+    operation-yoav（10-15 车队开火作为行动信号、Iraq El-Manshiyeh 仅 50 人回阵、Huleiqat 六山头与沙特兵咬人、
+    贝尔谢巴 500 守军 09:00 投降、"山上的怪物"11-09 终被攻下、Taha Bey 与 Allon 的 Gat 会面）、
+    operation-horev-and-uvda（Ruheiba 古道清沙、12-27 El Auja、入西奈与**英国最后通牒**、
+    击落 5 架 Spitfire＋1 架 Tempest、Adan 挂手绘白旗抵 Um-Rashrash）、
+    etzion-bloc（35 人 Palmach 排全灭、05-13 屠杀、作者对"守到最后一男一女"政策的成本核算）、
+    altalena-affair（第 4 号命令 05-28、15 死、06-28 全军宣誓）、armistice-1949（四份协定与"六个月内签和约"的失效）
+  · concepts/：haganah-palmach、plan-d-1948（**只写书中内容，并明示本书未涉 Plan D 文本争议与驱逐意图问题**）、
+    arab-refugee-problem-1948（照录本书解释链＋引 Khaled al-Azm 与 Abu Mazer 两处阿拉伯文献原文，
+    并列出"本书未处理"的四项留白）、arab-legion-1948（含对 Glubb 两次决策的辩护及"本书倾向"提示）、
+    war-of-independence-assessment（Ben-Gurion 与丘吉尔/罗斯福/戴高乐并列等判断照录）
+  · entities/people/：david-ben-gurion、yigal-allon、yigael-yadin、yitzhak-rabin、mordechai-makleff、
+    moshe-carmel、shimon-avidan、haim-laskov、ezer-weizman、dov-joseph、david-marcus
+- 改造 2 页既有页（跨卷同一人）：entities/people/david-elazar.md（补 1948 锡安山夜袭节＋frontmatter）、
+  entities/people/uzi-narkiss.md（补 1948 锡安山佯攻节＋frontmatter）。
+- 更新：根 index.md 新增独立战争入口，来源㉔ 状态改为"**七卷全部摄入完毕**"。
+- 甄别（本批重点）：
+  · Plan D：本书只当军事部署计划写，未引文本、未涉驱逐争议 → 页面明确声明"本书不足以支持任何一种判断"。
+  · 难民问题：照录本书解释链与所引阿拉伯自认，同时列出四项"本书未处理"的留白，不代其补。
+  · 日期：Etzion 首攻本书只写"1 月"→ frontmatter 用 1948-01 并在正文标"本书未给具体日"；
+    Hiram 期间"21 日傍晚"与月份矛盾 → 页内标"本书此处日期有讹"，不作日期断言。
+  · 我起草 timeline 时曾误插一条"04-25/26 德国札记本"（属 1973 卷 ch25 情节、与本卷无关），复核后已删除。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 448 → **476**（+28；本批新建 20 页，差额 8 页来自本轮补链与索引页计数口径校正，非重复建页）；
+  新页 newpages-check CLEAN；whole-wiki QC 为 OK。
+
+### 2026-10-22（Pollack 摄入·第 1 批：BOOK 全卷导论＋结论＋六国评估段——新建跨战争专题，19 页）
+- 新来源㉕：Kenneth M. Pollack《Arabs at War: Military Effectiveness, 1948—1991》（Univ. of Nebraska Press 2004，
+  Bison；EPUB 9,315,327 字节，sha256 111a4e23…）。
+- 提取：EPUB 本地 zipfile 解包 XHTML→文本（无 OCR），全文 1,838,242 字符；按 split 文件切成
+  seg-ch0_intro／ch1_egypt／ch2_iraq／ch3_jordan／ch4_libya／ch5_saudi／ch6_syria／concl，
+  原文与分段文本存 raw/papers/arabs-at-war-pollack/。
+- 本书性质（已在来源页与专题页显式声明）：**不是战史而是"军事效能"评估**，刻意压缩战役过程，
+  故不能用于补战役细节；作者是美国防务分析者，写作目的之一是"为美国未来在中东的战争作准备"。
+- 新建 19 页：
+  · sources/arabs-at-war-pollack（书目、sha、提取方式、章节→split 映射、使用限制与常见 OCR 讹误清单）
+  · topics/arab-military-effectiveness-pollack（跨战争专题入口：总诊断／四缺陷／六国表／战例／
+    **已知数字冲突清单**／待建清单）
+  · concepts/：arab-military-ineffectiveness-pollack（八种流行解释逐条检验＋四项常量缺陷＋
+    "战术领导力最致命"）、military-effectiveness（定义与九个维度、须剥离的六个干扰变量）、
+    unit-cohesion-question（Harkabi 说 vs Pollack 反驳的史学争论页）、arab-tactical-leadership、
+    arab-information-management、arab-technical-skills、arab-maintenance-record
+  · 国别：arab-legion-1948-pollack、jordan-1948-vs-1967-pollack（受控比较）、jordan-army-decline-pollack、
+    syria-1948-galilee-pollack、syria-1973-golan-pollack、syria-1982-lebanon-pollack（含 Gabriel／
+    Dupuy-Martell／Cordesman-Wagner 三方互斥评价并列）、iraq-1973-pollack、
+    libya-military-effectiveness-pollack、saudi-military-effectiveness-pollack
+  · events/was-al-khafji-1991（本库第一条海湾战争地面战页，也是少见的"阿拉伯军队对阿拉伯军队"战例）
+- 更新既有页 6 处（新来源触及既有实体→扩写不另开页）：
+  · events/operation-badr-1973 —— 新增"第二来源对照：Pollack"节（两军团编成与 14,000 人/200 辆加强步兵师、
+  30 万人/2,400 坦克/2,300 门炮、435 架作战飞机、135 个 SA-2/3＋20—40 个 SA-6＋2,100 门高炮＋5,000 枚 SA-7、
+  8,000 人首波、1 小时破堤、90,000 人/850 辆 18 小时、208 人、第三军团因"不得偏离计划"延迟 12 小时、
+  以军 252 师两天损失 300 辆中的 200 辆）；并把"待建"链接改为实页。
+  · events/october-14-1973-egyptian-armor-attack —— 新增 Pollack 的因果机制（Isma'il 'Ali 反对、
+  萨达特因叙利亚求援压过其意见、Jebel Ataqah 技侦被毁、两个师变九处旅级攻击、步兵不下车、
+  500 门炮"完全无效"、265 辆/不足 40 辆、10-17 第 25 旅 96 辆只剩 10 辆的另一口径、柯西金摊卫星照片）。
+  · entities/organizations/iraqi-expeditionary-golan-1973 —— 补 Pollack 节与指向新概念页。
+  · wars/yom-kippur-war/index —— 新增"第三来源：Pollack 的效能评估"节。
+  · wars/{war-of-independence-1948,six-day-war-1967,lebanon-war-1982}/index —— 各加"效能视角（第二来源）"一行。
+  · wars/gulf-war/index —— 战役清单加入海夫吉之战。
+  · 根 index.md —— 新增跨战争专题入口与来源㉕条目。
+- 甄别要点：
+  · **数字冲突一律并列**（戈兰 10/8/10 vs 10/12/20；第 25 装甲旅 86 辆 vs 96 中只剩 10 辆；
+    1982 贝卡 SAM 19+4 vs 17+12），已在专题页汇总成清单，不择优、不合并。
+  · EPUB 为扫描件 OCR，存在系统性数字讹误（1g6o=1960s、i99i=1991、io,ooo=10,000、Soo=500、
+    M-log=M109、ARCS=APC），凡数字与型号均回查上下文合理区间，不可判读者不写。
+  · 本书"我们只写书中所述"——埃及国别总页、两伊战争、库尔德战争、利美冲突、乍得战役页均**未建**，
+    已在专题页列入"待建"清单。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 476 → 495（+19）；newpages-check CLEAN（已删非 SCHEMA
+  字段 `language:`）；whole-wiki QC 为 OK（期间修正 jordan 页一处字面问号为〔问号〕）。
+
+### 2026-10-22（Pollack 摄入·第 2 批：第 1 章《埃及》1948—1967——国别总页，3 页）
+- 来源同批 21（Pollack sha256 111a4e23…）；本批精读 seg-ch1_egypt 的 1948 战役＋效能评估、1952 建设、
+  捷克军售、1956 战役＋评估、也门 1962—67、1967 战役＋评估＋"以空军作用"节。
+- 新建 3 页：
+  · concepts/egypt-military-effectiveness-pollack（国别总页，约 190 行）：**贯穿全期的能力曲线**
+    （战术层 44 年几乎不变／战略层起伏），1948（40,000 人上限原因、5 个步兵营＋16 门 25 磅炮编成、
+    Haganah 22,000 支步枪的对照、Asluj 两天不动、Mwawi 的三次收拢与"行军慢不是他的选择"）、
+    1952 后建设（上校以上全部清洗、'Amr 的悖论、国防开支 3.9%→8.4%、80 名前国防军军官与 Frambecher）、
+    1956（捷克军售完整清单、**主力被放在三角洲防英军、西奈只有 9 万中的 3 万**、Frambecher 方案 vs 实际部署、
+    Adan 支队与两次"不敢冲锋只敢开火"的埃军反击、Umm Qatef 战至 11-01 总退却、
+    **4 装甲师两天走不到 90 公里 vs 沙龙一天 150 公里**、坦克当活动碉堡、开战仅一半苏制坦克可用、
+    西奈无一座维修工场、六名 Il-28 飞行员只有一人找到以色列）、也门、1967（7 个师 950 辆坦克的编成、
+    第 7 旅 201 人伤亡中 153 人在 06-05、达扬"他们没有逃走"、撤退瓦解的真正触发点、
+    第 4 装甲师 vs 第 125 旅的对照、Sharon"他们的军官是狗屎"、5% 地雷未解除保险、
+    驳"Qahir 计划更好"、"他们大概有最好的战略，只是执行得很糟"、'Amr 的微观干预与 Shazli 不动、
+    Murtagi 前线司令部被完全绕过、6 月 6 日总退却"决定对、方式不可原谅"）
+  · concepts/six-day-war-air-power-debate（史学争论页：架次 268/614/652、对西奈 170/286/321、
+    06-05 击毁 12—15 辆、美国调查组 8% 命中/2—3% 击毁、以方调查 15%、
+    以及 Pollack 承认的"反航空兵作战近乎完美"与反事实推演；与 Herzog 页并列不冲突）
+  · events/egypt-in-yemen-1962-67（本库第一次触及也门：7 万人五年、'Amr 的 Ramadan 攻势与 Murtagi 诸役
+    "出色的常规作战"、但"从未弄明白怎么打游击队"、双重归因、与越南的类比；
+    **明示本库尚未建 yemen 战争线**，暂只在专题与埃及页挂链）
+- 更新 4 处：wars/{six-day-war-1967,sinai-campaign-1956,war-of-independence-1948}/index 各加"效能视角"行；
+  topics/arab-military-effectiveness-pollack 的埃及行改为实链并把埃及从"待建"清单移除。
+- 甄别：1948 年埃及兵力本书作"从未超过 40,000、初期 1 万"，与 Herzog 的"5,000 人远征军"口径不同，
+  已在两页各自标明；1956 年本书对 Mwawi/纳赛尔的战略评价与埃及自我归因相反，按"本书判断"标注。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 495 → 498（+3）；whole-wiki QC 为 OK。
+
+### 2026-10-22（Pollack 摄入·第 3 批：第 1 章《埃及》剩余——消耗战评估、1973 战前改造、1977 对利、1991，3 页）
+- 来源同批 21；本批读 seg-ch1_egypt 的消耗战效能评估、1973 人事与战前准备（Egyptian Planning＋
+  Rebuilding the Egyptian Military＋The Soviet Role）、1977 对利比亚边界战争、1991 海湾各节。
+- 新建 3 页：
+  · concepts/egypt-1973-preparation-pollack（约 130 行）：萨达特的人事（Isma'il 'Ali／Shazli／Gamasy／Mubarak，
+    **本书对 Shazli 履历的负面评价**：1948 投降、1956 先撤、也门不佳、1967 最早逃离西奈）；
+    "先评估自己再设计战争"（研究以军公开访谈、鼓励学希伯来语、认定以方弱点为怕伤亡／动员不耐／过度自信、
+    自认强项是步兵与固定防御）；**"文化性毛病不能改只能绕"→ Jebel Ataqah 技侦站**（截收以军明语战报）；
+    High Minarets 只做第一阶段（"运河加西奈十厘米"）；战略进攻＋战术防御；**整场攻势演练 35 次**、
+    一人一任务、模型训练、80 个工兵单位两年每天两次破堤；1968 年起反复演习、1973 年 1—10 月 22 次；
+    "只撤回一部分人"的集结伪装；**军官大学学历 2%→60%、士兵高中 25%→51%、全国一半工程师在军中**；
+    机堡；官兵裂痕的修补与"鼓励为任务承担伤亡"；苏联角色与**1972 年"赶走苏联人"的真相**
+    （留下技术／电子战／雷达人员，赶走作战顾问与作战部队）。
+  · concepts/egypt-1991-gulf-war-pollack：1973 后的"社会福利化"与人员退化、美械化与政治化回潮；
+    JFC-N 编成（第 3 机械化师、第 4 装甲师、第 20 突击团、空降旅，4 万人／400 辆）与"美方把第 1 骑兵师
+    留作救火队"；**拒绝提前发起、火壕前等十小时、按已废弃目标的火力计划开炮、以"弹药配额用完"拒绝反炮兵、
+    不获正式命令不改计划、无命令不进科威特城**；总评"十五年美援几乎没改善效能"。
+  · events/egypt-libya-border-war-1977（两章合并叙述）：1976 年"未打之仗"（美方判断埃及因未准备而止步）、
+    1977-07-21 as-Sallum 伏击与第 9 坦克营损失 50%、al-Adam 空袭两次都打砸、
+    **07-24 萨达特在本可扩大战果时突然停火＝美国强力阻止**（怕埃及 1,000 公里推进失败动摇萨达特）、
+    双方损失表（利 10—20 架 Mirage／30 坦克／30 装甲车／400 人伤亡；埃 ≤4 架／约 100 人）。
+- 更新：concepts/egypt-military-effectiveness-pollack 补"消耗战评估"整节（10:1 空战损失比、
+  每年只能培养 30 名飞行员、6—10 发 SA-2 才五成、65—80% 的 Bar-Lev 摧毁误判、飞行员静坐抗议、
+  "不优雅但有效"的总评）与两处指向新页的段落；
+  topics 页补战例入口与"战前改造／1991"两条；1973 索引与 gulf-war 索引各加链接。
+- 甄别：1977 年战线本库尚无 `wars/egypt-libya-1977/`，页面明示"暂挂 war 字段、只在专题与国别页挂链"，
+  不预置断链；埃及 1973 兵力／损失口径与 Rabinovich、Herzog 的差异仍按既有对照节标注，不合并。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 498 → 501（+3）；whole-wiki QC 为 OK。
+
+### 2026-10-22（Pollack 摄入·第 4 批：第 2 章《伊拉克》1948＋库尔德战争＋1967／1973 教义，3 页）
+- 来源同批 21；本批读 seg-ch2_iraq 的 1948 战役评估、1958 政变与建军、第一次库尔德战争全段
+  （Qasim 的"饿死"战略、1963／1965／1966／1969 四次攻势与 Mt. Handrin 惨败）、
+  1961—70 效能总评、第二次库尔德战争 1974—75（含 1975-03-06 阿尔及尔协议）、1967 年的缺席、
+  1973 远征军的后勤与教义（集中兵力、火力至上）。
+- 新建 3 页：
+  · events/kurdish-wars-1961-75（约 105 行）：本书最完整的一条"本可打赢却打输"论证——
+    库尔德人是"很差的叛乱方"（只会伏击与脱离、步枪不够人手、无重武器至 1969、射手差、Barzani 不是好将军），
+    地形亦不利叛乱方，"土耳其与伊朗都反复粉碎过本国库尔德叛乱"；
+    伊拉克战略层只检讨过两次，1965—66 就找对了答案（切断经伊朗的补给线），
+    但**战术层无能**（不离公路、不设警戒、不巡逻、占低地、不能合成兵种、正面强攻、空军只炸村）；
+    1974—75 反过来证明这一点：改"蚕食＋火力"、修 700 英里公路、焦土，加上
+    **库尔德人自己改成死守硬拼**（原话：their tactics were hardly elegant, but with the cooperation of the Peshmerga they got the job done），遂胜；
+    本书明言 1975 年协议数小时内伊朗即收回库尔德人的重武器，次日伊军进攻，04-02 封闭边界。
+  · concepts/iraq-1948-pollack：兵力规模（一个师级部队跨 1,000 公里沙漠维持）、Mahmud 平庸但不全责、
+    士兵不会用枪／纪律差／（除 ALA 志愿人员）缺投入、**初级军官不主动无想象力**＝战术失败主因、
+    装甲车连屡因指挥官动作慢而晚到、遇问题只照原计划硬走或等上级；
+    唯一可赞：凝聚力（Zefat、Katamon 山脊）与"至少够用"的后勤（弹药汽油大手大脚＝有余）。
+  · concepts/iraq-doctrine-firepower：1967 缺席（第 3 装甲师在约旦东部未及展开、1/3 坦克不可用、
+    Tu-16 找不到目标炸了农田、H-3 空战 21:≤3）、1973 远征军编成与精锐（Salah ad-Din）、
+    **两大学习成果＝集中兵力＋火力至上**（后者直接带进 1980 年两伊战争），
+    以及"尚未学到的部分"（10-12 两旅只用一旅、10-16 第 8 营不投入）。
+- 更新：topics 页补库尔德战例入口与伊拉克三页索引；1948 索引加 iraq-1948 链接；
+  1973 索引在伊拉克条后加"教义来源"链接；concepts/iraq-1973-pollack 增"教义来源"小节。
+- 甄别：库尔德战争本库无 `wars/kurdish-wars-iraq/` 线，页面明示暂挂字段、不预置断链；
+  全书对伊拉克 1948 年只有约两段，页面顶部明写"着墨远少于埃及与约旦"，不从 Herzog 补细节。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 501 → 504（+3）；whole-wiki QC 为 OK
+  （初跑一条中文问句字面问号 → 改写为"—"后通过）。
+- 断点：第 2 章余下＝两伊战争（1980—88）与 1991 年伊拉克部分；此后第 3 章约旦（1948—56 边境战、
+  卡拉梅、黑九月）、第 4 章利比亚（乌干达、乍得）、第 6 章叙利亚（1976 侵黎）。
+
+### 2026-10-22（Pollack 摄入·第 5 批：第 2 章《伊拉克》两伊战争 1980—88，2 页）
+- 来源同批 21；本批读 seg-ch2_iraq 的 "The Iran-Iraq War, 1980-88" 全段（约 7.4 万字符）：
+  1973—80 扩军与政治化、1980-09-22 先制空袭、入侵胡齐斯坦、1980-11—1982-05 伊朗四次反攻
+  （Susangerd／Bostan／第二次 Dezful／Khorramshahr 收复）、"Explaining the Iraqi Defeat"、
+  第一次巴士拉之战与伊拉克防御工程学、去政治化、伊朗的问题、
+  "Resilient Iraqi Tactical Problems"、空战。
+- 新建 2 页：
+  · events/iran-iraq-war-1980-88-pollack（约 230 行）：本库**首次**触及两伊战争，但明示
+    "不是通史、不评国内政治与化学武器的国际法层面（本书不足以支持判断）"。
+    要点：照抄 1967 年却**完全无侦察**（靠伊朗逃亡军官、故意低估）、**不懂 HAB 机堡**、
+    出动能力 40—70 架次／日而以色列用 700 架次一上午（"伊拉克人用 100 架次摊一整天"）、
+    当日仅毁伊朗 2—3 架飞机、**次日即失去制空权**（伊朗出动 160 架次）；
+    入侵计划是**1941 年英国一次参谋演习的仓促改写**（"一个英国师夺取胡齐斯坦"），
+    两周只推进 20—65 公里、最快 5—6 公里／日；
+    Khorramshahr 打了四周／8,000 伤亡／百余辆装甲，且**先抽走该装甲师的编内步兵**；
+    坦克当活动炮台、行进间不能射击、Kharkeh 河被一个缺编坦克营挡住；
+    伊朗四次反攻把伊军逐出胡齐斯坦（第 16 装甲师 300 辆损 200 辆，而伊军在完美陷阱下仍损 350 之近 100）；
+    1982 后靠**筑垒（1987 年巴士拉六道同心圈）＋沙堤＋放水＋3,000 辆重装备运输车＋去政治化**守住；
+    第 9 装甲师在第一次巴士拉之战后**被解散且再未重建**（全战争唯一）；
+    本书的硬问题："问题不是伊拉克为什么能僵持，而是为什么这对它如此困难"；
+    1983-10 就用化学战；战术层到战争结束未解决，高级军官只好把机动"提到战役层"自己指定反击路线。
+  · concepts/iraq-depoliticization-1982：政治化清单（忠诚优先、频繁轮换、多套安全机构、微观管理、
+    15 万人民军承担镇压）→ 1982 年**解职并处决 200—300 名**高级军官、召回数百名被退伍的能者、
+    **撤销营以上政治军官**、停轮换、放开作战控制 → 点名七名浮出的将领
+    （含 **Hisham Sabah al-Fakhri**，本书明说其表现"在整个战争中明显改善"，
+    尽管他在 1982 年第二次 Dezful 曾"惊慌"）→ 改善停在战役层，战术层未动；
+    本书因果排序＝政治→战役→战术。页内注明"政治干预才是主因"一句为**归纳而非原文直断**。
+- 更新：topics 页国别表伊拉克行改写（1948／1973／教义／1982 去政治化），
+  并新增"战例页"首条两伊战争（标注"本库唯一的两伊内容、非通史"）。
+- 甄别：本书此处**内部日期不一致**（第一次巴士拉写"13-14 June"又写"July"），页面照录并标出；
+  战争本库无 `wars/iran-iraq-war-1980-88/` 线，页面明示暂挂字段；
+  伤亡、化学战使用规模等数字本书未系统给，页面不给总数。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 504 → 506（+2）；whole-wiki QC 为 OK。
+- 断点：第 2 章余下＝1991 年（侵科、空袭战、共和国卫队、"Additional Observations"）；
+  此后第 3 章约旦（1948—56 边境战、卡拉梅、黑九月）、第 4 章利比亚（乌干达、乍得）、
+  第 6 章叙利亚（1976 侵黎）。
+
+### 2026-10-22（Pollack 摄入·第 6 批：第 2 章《伊拉克》1991＋章末总评，3 页；伊拉克章完成）
+- 来源同批 21；本批读 seg-ch2_iraq 的 "The Invasion of Kuwait"、"Iraqi Strategy for the War against
+  the Coalition"、"The Air War"、"The Battle of Ras al-Khafji"、"The Iraqi Army on the Eve of the
+  Ground War"、"The Ground War"、"The Stand of the Republican Guard"、"General Observations"、
+  以及章末 "Iraqi Military Effectiveness, 1948-91"。
+- 新建 3 页：
+  · events/iraq-invasion-of-kuwait-1990：01:00 入侵；整个 RGFC（伊战后扩为 8 个师，新增 Tawakalnah
+    机械化师与 Adnan 步兵师）；三条轴线＋特种部队师直升机机降夺机场与埃米尔宫；08:00 前控制首都；
+    不到两天清剿完毕；空军"什么有价值的目标都没打中"且没拦截任何一架科威特飞机；
+    **三个重装师约十小时 80 公里**、其后 24 小时再 75 公里；唯一计划错误＝两个重装师穿科威特城；
+    与入侵伊朗的直接对比；机制＝提前数月计划＋只用 RGFC＋反复演练＋严格按书本。
+  · concepts/iraq-1991-coalition-war-pollack（约 175 行）：赌美国不愿流血的战略、空袭预计 3—7 天；
+    战斗机"捡漏"／SAM 与 7,500 门高炮担纲；Kari 网两天关停→拦阻射击退化→"投完弹才开火"；
+    10,000 英尺以上使高炮失效；F-4G＋HARM 到第三天逼得 SAM 拒开机；GWAPS 的"缺乏态势感知"结论；
+    约 40 枚 al-Husayn 打以色列却被劝住不还手；115 架飞机 01-24 起逃往伊朗；
+    西翼 100 公里真空与 GPS／联军后勤两大误判；02-24 误报"8 辆法国坦克"致总参 24 小时后才知主攻方向；
+    第 52 装甲旅"未接命令即不动"；第 24 机械化师发现伊炮兵只轰 55 加仑油桶（无法转移火力）；
+    Madinah 山脊头十分钟击毁近 100 辆，Franks／Griffith 的"每次都打进同一个地方"对话；
+    Tawakalnah 反斜面死战（177 辆坦克＋107 辆装甲车燃烧、击毁美军 4 辆坦克）；
+    本书对总参的罕见高分（"定深设防是唯一可能的战略"、用最好的部队殿后＝"从彻底失败嘴里抢回小胜"）。
+  · concepts/iraq-1991-final-assessment（章末总评）：与埃及"高度平行"、将帅无清晰模式但"每场战争都拿出
+    可能最佳战略"、战术恒定低水平、空军比地面更差（Mirage F-1 的极小例外反证）、军工是"幌子"；
+    长处＝后勤／工程兵／勇气／凝聚力；海湾战争的账"值得注意的不是 23 万人逃亡与投降，
+    而是另外 25 万人没逃"。
+- 更新：events/was-al-khafji-1991 增"从伊拉克一侧补记（ch2）"节并注明两章并列不合并；
+  gulf-war 索引加两页；topics 页战例节加两页、国别表伊拉克行加总评链接。
+- 甄别：本书未评估伊拉克化学战的规模与系统性、1988 年 Anfal 的具体责任，总评页明写"本页不作评定"；
+  1973 年伊军数字与 Herzog／Rabinovich 的差异仍按既有并列处理。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 506 → 509（+3）；whole-wiki QC 为 OK。
+- 断点：**第 2 章《伊拉克》全部完成**（1948／库尔德两战／1967／1973／两伊战争／1991／总评）。
+  下一批转第 3 章《约旦》：1948—56 边境战与报复行动、卡拉梅 1968、黑九月 1970、1973 年约旦的角色；
+  其后第 4 章利比亚（乌干达 1979、乍得 Fada／Wadi Doum／Aouzou）、第 6 章叙利亚（1976 侵黎）。
+
+### 2026-10-22（Pollack 摄入·第 7 批：第 3 章《约旦》全章，5 页；约旦章完成）
+- 来源同批 21；本批读 seg-ch3_jordan 全章（约 24.4 万字符）：
+  1948 军团评估、1949—56 扩军与英籍军官、Qalqilyah（1956-10-10）与 as-Samu'（1966-11-13）、
+  1967 军力与战役、战略与战术评估、"以空军作用"争论、"why Jordan lost"、
+  卡拉梅（1968-03-21）、黑九月与叙利亚入侵（1970—71）、1973 的第 40 装甲旅、
+  1973 以后与章末总评。
+- 新建 5 页：
+  · concepts/jordan-british-officers-1956-pollack（约 95 行）：本书把 **1956-03** 当作分水岭。
+    1948 年"近代任何阿拉伯军队的最佳表现"，但本书同时称其对手 1948 年的 Haganah 是"很平庸的力量"、
+    全部成果只是打平、且成绩几乎全归英籍军官团（引 El-Edroos 与 Dupuy）；
+    扩军（1949 的 1.2 万→1967 的 5.5 万）的两个反噬：
+    （一）技术兵只能用 Hadari／巴勒斯坦人 → 军队被民族分层（技术勤务＋四个步兵旅为"西岸人"，
+    两个装甲旅与五个贝都因步兵旅驻东岸隔在首都与西岸之间，巴勒斯坦军官极少能升营长）；
+    （二）1955 年英籍军官占军官职位**一半以上**，1956-03 侯赛因解职 Glubb，
+    本书判定真因是**阿拉伯民族主义＋初级军官的晋升野心**（"以民族主义为名、行自身利益之实"）；
+    撤离后"明显缺乏可用的营长与连长"（Brig. Peter Young）。
+  · events/qalqilyah-and-samu-1956-1966：两战并置显示衰退。
+    Qalqilyah：特拉维夫为不惊动英法谈判而否掉夺取 Zuffin 山，"袭击因此变成硬碰硬"；
+    第 9 营预备队**三次沿同一条路猛冲、三次被同一支 50 人侦察连伏击**，
+    靠以军阻击部队自己撞进约旦侧翼阵地才转势；以军 18 亡 60 伤 vs 约旦 120—300 伤亡。
+    as-Samu'：报告混乱＋营长不侦察，全营乘卡车撞进伏击（先 15 辆卡车被打掉）；
+    以 1 亡（营长）10 伤 vs 约旦 21 亡 37 伤；唯一亮点是 Hunter 飞行员
+    （与 Mirage 缠斗**八分钟**＝以空军史上最长单次空战，以方称约旦飞行员远超埃、叙）。
+    书中判语：萨穆"远差于 1948 年最糟的表现"；"希丁"旅后来在 1967 年成为最差的旅之一。
+  · events/black-september-and-syrian-invasion-pollack（约 105 行）：48 小时闪击变十个月围城；
+    把装甲送进安曼旧城 madinah；5,000 名巴勒斯坦官兵逃亡；叙第 5 步兵师（近 300 辆 T-55／1.6 万人）
+    09-20 入约；09-21 约旦第 40 装甲旅**击毁 10 辆 T-55 而自损 19 辆百人队长**；
+    **09-22 皇家约旦空军一天 200—250 架次、每机 4—8 架次、16 小时持续在场、零损失**，
+    击毁 20—30 辆坦克并"打垮叙军装甲部队的意志"；叙军两日损 62 坦克／60 装甲车／约 600 人。
+    本书称 bin Shakir（1970-11 起）的两阶段清剿"慢而残酷但非常成功"，
+    并直白写下"以巨大火力与不分对象的杀戮……屠杀了许多巴勒斯坦平民"。
+  · concepts/jordan-1973-october-war-pollack：约旦只为"保卫叙利亚"出兵，且**暗中请求以方准许**；
+    10-16 al-Majali **不等伊军就独自进攻**（违背安曼"避免重大损失"的意图），损 28 辆坦克；
+    10-19 把旅分成三股后撒手不管，损 17—20 辆换以军 4—5 辆；总计 54 辆坦克、至少 80 人伤亡。
+    本书用**两重对照**定位第 40 旅：与它自己 1967 年 Qabatiyah 比（同样战斗力，1967 打赢、1970 打输）；
+    与 1973 年以军第 7 装甲旅在眼泪谷比（同样的叙军步兵师，以军顶住四天并歼六个旅，约旦不到一天被推回）。
+  · concepts/jordan-effectiveness-since-1973-pollack（章末总评＋1973 以后）：
+    本书坦白"1973 年以来无实战，只能从美军训练交流与演习推断"；
+    长处＝志愿兵制（应征者不足 15%）、单兵技能、报告准确的教导、英式传统残留；
+    问题＝训练剧本化、**"他们不喜欢报坏消息"**、合同兵种训练不在一起且缺通信器材、
+    在美军课程中被评为"非常平庸的战术家"、兵棋推演中**不被允许担任更高指挥**、
+    无法理解任务式命令、部队"实际上无法在旅以上作战"；
+    变化/不变两张对照表（1956 前 vs 1967；始终不变的单兵、飞行员、凝聚力、后勤、将帅）。
+- 更新：topics 页约旦行扩为五条链接并加 1948—1991 总评条；战例节加两页；
+  jordan-army-decline 与 jordan-1948-vs-1967 各加"延伸"段；1973 索引加约旦条；
+  events/black-september-jordan-1970（Herzog 线）加"延伸（第二来源）"互链并注明并列不合并。
+- 甄别：Qalqilyah／as-Samu' 属 1949—66 边境战，本库无该战争线，页面明示暂挂 `war` 字段；
+  黑九月同理（本库无 wars/black-september-1970）。本书未给 1973-10 以军反攻大马士革的确切日期（只写"on October"），
+  页面照此留白。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 509 → 514（+5）；whole-wiki QC 为 OK
+  （初跑一条指向未建页的 wikilink → 改指事件页后通过）。
+- 断点：**第 3 章《约旦》全部完成**。下一批转第 4 章《利比亚》：
+  乌干达 1979（Lukuya／Entebbe 方向的战斗）、乍得战争（Fada、Wadi Doum、Aouzou）、
+  与美国的冲突（1981 锡德拉湾、1986 空袭）；第 4 章的效能评估页已建
+  （concepts/libya-military-effectiveness-pollack），本批需逐战补事件页。
+
+### 2026-10-22（Pollack 摄入·第 8 批：第 4 章《利比亚》逐战，3 页）
+- 来源同批 21；本批读 seg-ch4_libya 的乌干达 1979（Lukuya／Entebbe／Kampala 与效能观察）、
+  乍得战争 1978—87（Fada、B'ir Kora、Wadi Doum、Oumchi、Aouzou、Maatan as-Sarrah 与效能观察）、
+  对美冲突 1981—89（锡德拉湾四次、Attain Document III、El Dorado Canyon、1989-01-04 空战）。
+- 新建 3 页：
+  · events/libya-in-uganda-1979：02 月起空运 2,500 人＋T-55／BTR／BM-21／MiG-21／一架 Tu-22；
+    构成是正规军＋人民民兵＋伊斯兰泛非军团的大杂烩。
+    卢卡亚（03-10—12）：利军**无令却碰巧**打散 TPDF 第 201 旅（BM-21 首见、双方无人阵亡），
+    随后**停在城里扎营、不挖壕、不派侦察南下**；TPDF 第 208 旅走完 60 公里回行军后夜袭侧后，
+    利军溃散，遗尸 200＋乌军 200。坦方指挥官坦言"只是利比亚人的无能救了他们"。
+    增兵后又**向民兵隐瞒他们是被送去作战**；Tu-22 空袭 Mwanza **错过整座城市、炸死大批羚羊**；
+    恩德培守军在 TPDF 首次步兵冲击下崩溃，第一架起飞的 C-130 被火箭筒在跑道上击毁后空运终止；
+    尼雷尔特意留出东侧通道让利军撤走；全役利比亚至少 600 阵亡、伤员三倍。
+    本书唯一表扬：**后勤**（4,500 人＋重装备空运并维持数月补给）。
+  · events/chad-war-fada-wadi-doum-aouzou（约 130 行）：1965 Frolinat 由来、1971 未遂政变、
+    卡扎菲主张奥祖地带；四次介入的共同战略＝Aouzou→Faya Largeau→Oum Chalouba→Abéché→恩贾梅纳；
+    1978—86 的分工是"GUNT 出兵与侦察、利比亚出火力"，1986-12 Goukouni 决裂后利比亚既无步兵也无侦察。
+    Fada（01-02）8 小时陷落：利 784 阵亡／81 俘／100 辆坦克，FANT 50 死 100 伤；
+    B'ir Kora（03-19）两场同一手法（佯攻调走预备队→主攻另一侧），利 800 阵亡、86 毁 13 俘 T-55；
+    Wadi Doum（03-22）4 小时失守，利 1,269 阵亡／438 俘（含 Haftar 上校）／300 余辆装甲／
+    20 架 L-29／4 架 Mi-24，FANT 29 死 58 伤；Trainor 目击"整场战斗一炮未发"；
+    Oumchi—Aouzou（08-08）650 阵亡，08-14 两次反攻被包抄击破，08-28 以巨大火力硬攻夺回；
+    Maatan as-Sarrah（09-05）2,500 守军被打垮，利 1,700 余亡、26 架飞机、70 辆坦克，
+    FANT 65 人伤亡——**因过于成功**，法国怕乍得全面攻入利比亚而强压 Habré 停火。
+    1987 全年利比亚至少 7,500 阵亡、近 1,000 俘、近 15 亿美元装备，而打死不到 1,000 名 FANT。
+  · events/us-libya-conflict-pollack（约 110 行）：锡德拉湾 500 英里主张；1981-08-19 两架 Su-22
+    对两架 F-14 发射无制导意义的 AA-2（"连目标都没截获"），两机被击落且**均未尝试机动摆脱**；
+    1986-03 的 Attain Document III：利 700 架机／受训飞行员或仅 200 名／SA-5 单连／
+    防空未整合、实有人数不超编制 60%、夜间基本关闭；03-24 越"死亡线"后利方率先开火，
+    SA-5 与 Nanuchka 攻击全部失效，防空被"比四年前以色列对付叙利亚还简单"的两架 A-7 诱饵＋Shrike 打瘫，
+    利至少 72 阵亡、美方零伤亡；1986-04-14—15 El Dorado Canyon：意、马耳他两级预警**对利比亚毫不起作用**，
+    设施灯火通明、部队不在戒备，150 米低空使 SAM 全部无效，48 枚 Shrike／HARM 压制雷达，
+    **一架截击机都未起飞**；- 更新：concepts/libya-military-effectiveness-pollack 删去"留待后续批次"占位、改为逐战链接并新增"战例页"节；
+  topics 页战例节加三页；events/entebbe-raid-1976 加"延伸（同一地点的另一次战斗）"互链。
+- 甄别：乌干达、乍得、对美冲突三条战争线本库均无，页面明示暂挂 `war` 字段；
+  恩德培页（1976 以色列救援）与本批的利比亚乌干达页**分列不合并**；
+  乍得内部派系沿革、法国介入政治、对美行动的国际法评价均**超出本书范围**，页面不作补写。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 514 → 517（+3）；whole-wiki QC 为 OK。
+- 断点：**第 4 章《利比亚》主要战事已覆盖**（乌干达／乍得／对美／对埃及 1977）。
+  余下可补：1970s 的利比亚建军细节、1989 之后；下一批转**第 6 章《叙利亚》**
+  （1948／1973／1982 已成页，余 1967、1976 侵黎、1982 后与总评），或按用户指定。
+
+### 2026-10-22（Pollack 摄入·第 9 批：第 6 章《叙利亚》1967＋1970＋章末总评，3 页）
+- 来源同批 21；本批读 seg-ch6_syria 的 1948 段（补漏）、1963 政变与苏联关系、1967 兵力与戈兰防御、
+  "Syrian Military Effectiveness in the Six Day War"、"Understanding Syrian Military Ineffectiveness"、
+  1970 入侵约旦全段、1973 前的阿萨德建军与 1970-11 政变、"SOURCES OF DEFEAT"（1982）、
+  "The Syrian Military since 1982"、以及章末 "Summary: Syrian Military Effectiveness, 1948-91"。
+- 新建 3 页：
+  · concepts/syria-1967-golan-pollack：本书的起手判断——"表面上看叙利亚本该赢下这一仗"：
+    地面各项 2—4 倍优势、防守方、极佳地形与工事、完全警戒无突袭可言；
+    以方只有制空、熟悉叙军防御、心理势头三项优势，且参战部队疲惫缺编。
+    兵力：7 万人／550 辆坦克／500 辆装甲车／近 300 门炮／136 架 MiG（36 架 MiG-21）／16 个旅
+    （12 步兵、2 装甲、2 机械化），12 个旅上戈兰。
+    核心结论：**指挥链上没有一级愿意实施关键反击**；旅群与总参或可原谅，但前沿旅长有完全指挥权、
+    空军阻断又在更靠后处，**没有任何理由不反击**。军官普遍漠视士兵（无证据支持"教派说"）；
+    凝聚力"参差不齐"但整体"惊人的好"（Tel Aziziyat 士兵向要投降的军官开枪后死战）；
+    真正的瓦解发生在误报 al-Qunaytarah 失守后的撤退中。
+    与约旦的受控比较：高层差距极大（约旦会调兵反击、叙利亚"在戈兰任何地方都没有调动兵力"），
+    中层"惊人地相似"；由此本书判定**政治化的解释力有限，机动战缺陷才是主因**。
+  · events/syria-invasion-of-jordan-1970-pollack：1963 五名初级军官（含阿萨德）掌权、一次解职 700 人
+    （半数由阿拉维派补缺）→ 到 1967 年阿拉维派清除所有对手；苏联顾问"是唯一认真教叙军怎么打仗的军官"。
+    1970-09-18 派加强装甲旅、09-20 投入第 5 步兵师（近 300 辆 T-55／1.6 万人）打 ar-Ramtha—安曼；
+    **"叙军似乎最初根本没有任何干预计划"**；09-21 约旦自损 19 辆只击毁 10 辆，叙军"撞进"第 40 装甲旅
+    却仍未能取胜；**09-22 阿萨德以对空军的控制否决出动**，叙装甲被约旦空军打垮
+    （实际仅毁 40—60 辆，心理效果决定退却）；叙两日损 62 坦克／60 装甲车（多因故障与弃置）／约 600 人。
+  · concepts/syria-effectiveness-1948-91-pollack：章末总评。
+    两个独有特征：（一）**后勤是六国中唯一明显更差的**（连苏式"推动"体系都理解不了；
+    1976／1982 黎巴嫩作战皆受其累）；（二）本书的"**狗没有叫**"论证——
+    叙利亚常是阿拉伯世界政治化最深、准备最差的军队，但战场表现与其他阿军"惊人地一致"，
+    1973 年深度去政治化的埃及也"只比戈兰上的叙利亚略好一点"，
+    1982 年黎巴嫩甚至好于 1973 年戈兰——**表现恒定，政治化只是部分解释**。
+    1982 以后：官方自我吹嘘＋归咎苏械与以空军；军购扩至 40 万人／4,800 辆坦克；
+    但仍有 **1,000 辆坦克无受训乘员**、飞行员与飞机比近 **1:2**、1990 年代后期仅 **2/3** 坦克可用；
+    唯一做对的＝以 SAM／高炮为主、造地地导弹库、加深大马士革前方防御、扩编突击队（第 14 特种部队师＋7 个独立旅）。
+- 更新：topics 页叙利亚行补 1967 与总评两链、总评条加叙利亚、战例节加 1970 叙利亚视角；
+  1967 索引加叙利亚效能页（并修一处重复小节标题与多余空行）；
+  events/six-day-war-golan-1967（Herzog）与 concepts/syria-1973-golan-pollack 各加"延伸"互链；
+  黑九月两页（Herzog 线、ch3 约旦视角）均加指向 ch6 叙利亚视角的链接。
+- 甄别：黑九月三条来源（Herzog／ch3／ch6）并列不合并；本书 ch6 未给第 35 旅群完整编成
+  （原文被下一节截断），页面照实留白；叙利亚化学武器、导弹项目与对黎民兵作战本书未展开，总评页明示不作评定。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 517 → 520（+3）；whole-wiki QC 为 OK。
+- 断点：**第 6 章《叙利亚》全部完成**。至此本书六国章（埃及／伊拉克／约旦／利比亚／沙特／叙利亚）
+  与导论、结论均已摄入；尚余可做：埃及章 1948 前史细节、沙特章逐段、
+  以及全书层面的横向专题（"脱稿即崩"机制页、六国对照表）。
+
+### 2026-10-22（Pollack 摄入·第 10 批：结论章全章＋六国横向，3 页；本书实质收官）
+- 来源同批 21；本批重读结论章（seg-concl 约 11 万字符）全部：
+  "Assessing Arab Military Ineffectiveness"（逐项检验八种解释）、
+  "What Were the Most Important Factors"（四常量与排序）、
+  "Arab History and Modern Warfare"（凝聚力／战略与战术的"教训"）、
+  "A Final Thought"（未来、2003 年伊战、非正规力量、作者自述的文化立场）。
+- 新建 3 页：
+  · concepts/arab-military-ineffectiveness-verdict-pollack（判决书）：
+    三项被否——**怯懦**（"从来不是其中之一"；海湾战争真正值得注意的是
+    20—40 万逃亡投降之外**另有 10—20 万站住了脚**）、**凝聚力差**（"更可能是强项"；
+    正面例：Tawakalnah、Tel Antar、Abu Ageilah、弹药山、Ayn Zhaltah、提贝斯提）、
+    **后勤差**（埃及也门 7 万人 5 年、1973 渡河、利比亚空运、伊拉克百万大军八年）；
+    四项次要——士气（1973-10-14 士气最高而打得最糟）、将略（无固定模式）、
+    训练（越认真越好、练得越苦改善越有限；埃及 35 次、单兵任务几百上千次）、
+    技术技能（列为常量但**排序在战术领导力之后**）；
+    四项常量与归并——技术技能／维护→"技术"，信息管理→加剧战术领导力，
+    **"战术领导者的平庸，对军事效能的损害大于技术技能的匮乏"**；
+    末尾记作者自述：本书出自其博士论文，该论文结论是**文化行为模式为首要约束、
+    社会经济发展水平次之、政治化只对部分军队是问题、苏联条令与编制可能反而有帮助**——
+    本库仅记为 Pollack 的观点。
+  · concepts/scripted-vs-unscripted-warfare（机制页）：
+    "广泛脚本化与反复演练，实质上免除了下级军官做指挥决策的需要"；
+    **"证据当然就是：一旦脚本用完、或敌人迫使其偏离脚本，会怎样"**；
+    脚本的门票是"高达十比一兵力比＋突然性"；
+    六国档案表（每格链到本库具体页）；三类"精英部队"是例外证明规律
+    （约旦军团靠英籍军官＋小规模＋长期服役；叙突击队与伊共和国卫队靠小与精英；
+    三国空军精英靠社会挑选＋英法美训练）——"提升究竟多么有限"；
+    并说明它与"去政治化"解释的分工（去政治化能修战役层，修不了战术层）。
+  · concepts/six-armies-comparison-pollack（四张横向表）：
+    四条轨迹（埃／约／伊／叙／利／沙）、兵力装备年表、四项缺陷六国形态、长处分布；
+    三条判断：常量在战术层而变量在政治层／长短处互不补偿／
+    **差异主要来自"对手是否被迫按它的脚本打"**。
+- 更新：topics 页第一节加三页入口；concepts/arab-military-ineffectiveness-pollack 与
+  concepts/unit-cohesion-question 各加"结论章的最终裁定"延伸段。
+- 甄别：本书的文化解释是其自述立场且明确"另一本书才展开"，页面只记为 Pollack 观点；
+  结论章对"未来／军事革命"的判断是推测，页面标为非史实；
+  本书否定"怯懦"与"凝聚力差"的说法与本库早期某些表述有张力，页面要求引用时标明"Pollack 口径"并保留其他来源。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 520 → 523（+3）；whole-wiki QC 为 OK。
+
+### 2026-10-22（Yonay 摄入·第 1 批：第 1—6 章，1948 年空军——11 新页＋3 扩写）
+- 新来源㉖：Ehud Yonay《No Margin for Error: The Making of the Israeli Air Force》（Pantheon 1993，
+  ISBN 0-679-41563-7）；sha256 5a98fc53…；472 页 Internet Archive 扫描 PDF；
+  **`pdftotext -layout` 提取，未跑 OCR**（正文层可读）；1,157,058 字符，已切 26 段（ch01—ch26）。
+  原始件＋提取文本＋paged 版存于 raw/papers/iaf-yonay/。
+- 本批读：Introduction、ch1 Dead Reckoning、ch2 The New Brunswick Warning、ch3 The Czech Knives、
+  ch4 The Banana Grove、ch5 The Red Squadron、ch6 Bloodying the RAF（PDF 页 17—92）。
+- 新建 11 页：
+  · sources/no-margin-for-error-yonay（来源页：sha、章节—PDF 页对照、OCR 讹误清单、写作性质与用法限制）
+  · concepts/iaf-independence-struggle-1948：本书最硬的论点——空军难产"不是缺钱，是不想要"；
+    Haganah 拒绝两万余名英军复员老兵、Palmach 的苏联式 polirtuk、Ben-Gurion 的两次"绕道"；
+    Remez 的 1947-10-23 方案因主张空军半独立被否；1948-07-26 宣布空军独立、07-29 任命 Remez。
+  · concepts/iaf-doctrine-air-superiority-first：Margo 1948-07 的优先次序（先夺取制空、后支援地面）；
+    取代 Yadin 把空军当炮兵的用法；首次检验在 10 月约阿夫行动。
+  · events/iaf-first-fighter-mission-1948（05-29 Isdud）：Remez 原本要打 El Arish（审问被俘埃军飞行员得知），
+    被 Avidan 与 Yadin 强令改打 Isdud；四机全部机炮卡壳、Eddie Cohen 失踪；
+    物理上"几乎没能刮伤"埃军却使纵队停止前进。
+  · events/iaf-czech-airlift-1948：1947-12 首批枪械藏土豆下；04-23 以 180 万美元买 10 架
+    （单机 44,000／整机 180,000 美元 vs 剩余 P-51 仅 4,000）；拆解空运 05-20 起；
+    Žatec 基地"在苏联默许下"开放；08-11 因 CIA 发现空运而被美方压停。
+  · events/israeli-b17-bombing-cairo-1948：07-16 夜一架炸开罗王宫附近（两吨），另两架炸加沙／拉法；
+    随后两日 80 架次、50 吨。
+  · events/operation-dust-bowl-1948：08-23 起空运内盖夫，至 09-09 共 170 架次／1,000 吨，
+    并整旅空运北上休整；本书认为它证明"空运能续命、却确立不了政治主张"。
+  · events/iaf-spitfire-ferry-winter-1948-49：航程 600→1,400 英里仍不足 1,500 英里，需南斯拉夫中转；
+    Sam Pomeranz 撞山、Bill Pomeranz 迫降被扣；12-22 十架降落 Tel Nof。
+  · events/downing-of-raf-spitfires-1949：01-07 与英军交火，两名当事人叙述**互相矛盾**（并列照录）；
+    同日共五架 RAF 战斗机被击落；并解开"Shuftykeit"＝英军 Mosquito 侦察机之谜。
+  · entities/equipment/avia-s-199：三个致命缺陷（Heinkel 发动机、扭矩无配平、起落架）＋机炮同步器自杀；
+    注明"Avia S-199"是通行型号名、**本书从未使用**，性能参数本书未给不补。
+  · entities/organizations/iaf-101-squadron：Herzliyya 秘密基地（水塔当塔台、柑橘林掩体）、
+    红帽子与骷髅队徽、07-09 三路空袭全部流产、1949-04-01 交接给 Weizman。
+  · entities/people/aharon-remez（双来源）、entities/people/modi-alon（单源）。
+- 扩写 3 页：entities/people/ezer-weizman 增"Yonay 补充（空军视角）"节并加 sources；
+  entities/people/mordechai-hod 增"1948-12 转场飞行"节（含本书脚注：其原姓 Fine）；
+  entities/equipment/mirage-iiicj 加注"Yonay 第 13 章尚未摄入"。
+- Index：1948 战争索引新增"空中作战"节（9 事件＋2 概念＋1 装备＋1 部队＋2 人物）；
+  根索引新增来源㉖与空军专题入口。
+- 时间线：本批未改战争时间线——新增事件均已在 1948 时间线覆盖的日期段内，
+  且 Yonay 与 Herzog 的日期一致（05-29、07-16、08-23、12-22、1949-01-07），不重复录入。
+- 甄别：本书为**记者体叙事**（对话与心理描写为重构），本库只取其**事实骨架**
+  （日期、编制、机型、数量、决策），不引对话作史实；与 Herzog 冲突处并列
+  （Isdud 停顿的原因：断桥 vs 埃军指挥官判断）。OCR 讹误清单已写入来源页。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 523 → 537（+14，含 3 页扩写）；
+  whole-wiki QC 为 OK（初跑 6 处中文问号 → 改写后用〔问号〕保留）。
+- 断点：ch7—ch24 未读（1948 后半年起的王子／农夫时代、1956 卡德什、幻影、1967 三小时、1973）。
+  下一批建议从 ch7—ch12（1950 年代：Moti Hod 一代的成长、法国转向、1956）开始。
+
+### 2026-10-22（Yonay 摄入·第 2 批：ch7—ch12，1950 年代与 1956，8 新页＋4 合并／扩写）
+- 来源同批 1（sha 5a98fc53…）；本批读 ch7 The Prince、ch8 The Farmer、ch9 The Blues and the Greens、
+  ch10 The Black Spitfire、ch11 French Shuttle、ch12 Kadesh（PDF 页 95—196）。
+- 新建：
+  · concepts/iaf-blues-vs-greens（约 120 行）：1949—1953 年军种地位之争。
+    Remez 的论证（动员体制依赖制空权）→ 1949-06-20 十五中队计划（370 万美元）→
+    Yadin 接总参谋长后的第 81 号指挥令（空军情报归军事情报部）→ Remez 1949-12-14 辞职
+    （"总有一天该是 Ezer Weizman"／Ben-Gurion："什么，那头公山羊！"）→
+    Shamir（1949-12—1951-08，"把空军变成像炮兵一样的技术兵种"）→
+    Laskov（1951-08—1953）的两周调查（48 小时作战能力、单线电话、130 名飞行员只有 27 人可作战）→
+    1953-02-23 预算摊牌（"血钱"）→ 1953-04-28 二十页《指挥与参谋结构》（误用英国 general staff 概念）→
+    Tolkowsky（1953 起，被 Makleff 拖了六个月才给将衔）的条令修正与"递交辞呈的艺术"。
+  · concepts/iaf-training-revolution-ot-u-105：Menahem Bar（原名 Bernstein）其人；
+    OTU 105 的四个月日课表、成绩板（射击命中率 15% 平均／20% 良好）、
+    枪炮照相机＋彩色漆弹拖靶计分、105／117 编成、喷气化（1953-06-17 两架 Meteor、
+    1953-09 首期四名学员、1954-08 中队 12 名喷气飞行员）；
+    三个制度化产物：**sevev（周转计时）／yemei krav（战斗日）／战位电话**。
+  · concepts/iaf-french-shuttle-1953-56：F-86 求购失败（1954-07-09 加拿大取消）、
+    Saab J-29、Mystere II 的负面试飞（Peled 首个超音速以色列人）、
+    Ouragan 救场（1955-10-04 建 113 中队）、1956-06-22 法以秘密条约（8,000 万美元／追加 36 架）、
+    以及 **1956-08 的"法国穿梭"骗局**（对意大利谎称 18 架次品返修、重喷同一序列号、
+    两个基地以"小儿麻痹疫情"封锁，使美方侦察看到的仍是最初 24 架）。
+  · events/iaf-sinai-air-war-1956（约 150 行）：Kadesh 1（先炸机场）被 Kadesh 2（禁止打机场）取代；
+    开战日 15:00—16:59 的空投编队与"实际上是整个空军"；
+    埃及空军反应迟缓到 MiG 被一架 Piper Cub 缠斗十五分钟；
+    10-30 的"24 架 MiG"警报其实是**以色列方面发报笔误**（实为 4 架）；
+    米特拉地面—空中脱节（38 死 120 伤）；当日 7 架 Mustang 与 1 架 Harvard 全损、两名中队长阵亡；
+    10-31 英法终于轰炸后转为对地支援；11-01 蒂朗海峡轰炸与 Peled 被击落获救；
+    结语：Dayan 在 Dakota 上宣布"空军第一、装甲军第二、伞兵第三"。
+  · events/iaf-operation-rooster-1956：NF-13 夜间截击 Il-14；曳光弹致盲、右炮卡壳甩入左旋；
+    第二次把瞄点放在右翼尖上；**脚注记明 Amer 本人改乘 C-47 脱身**，故不得写成"击毙埃军总司令"。
+  · events/el-hamma-and-hula-air-actions-1951：04-05 八机几乎全脱靶（炸弹偏 20—60 码），
+    05-06 一次"误射"击毙叙军指挥官而定胜负，以色列低调处理并从官方报告删除；此后五年空军未再实战。
+  · events/iaf-meteor-vs-vampire-1955：1955-08-31／09-01 汗尤尼斯后的空战，Yoeli 击落两架 Vampire
+    （瞄具还停在夜间档、靠曳光修正；第二架正好在自家基布兹上空）；
+    本书称这是空军首批被正式承认的喷气战果，也是 Tolkowsky 对"绿军"唯一能用的事实。
+  · entities/people/dan-tolkowsky、entities/people/beni-peled（新建，后与既有 benny-peled 合并）。
+- 合并与迁移（本次重要的去重工作）：
+  · `entities/people/benny-peled`（Rabinovich 线）与新建的 `beni-peled` 经核对为**同一人**，
+    已合并为 `entities/people/beni-peled`（别名 Beni/Benny Peled、Beni Weidenfeld），
+    1973 年空军司令一段整节并入，旧页删除，全库 4 处链接改指新页。
+  · Yonay 线的 Chaim Laskov 与既有 `haim-laskov`（Herzog 线）亦为同一人：
+    1951—1953 年空军司令一节整体并入既有页，拼写作 Haim / Chaim 并列，临时新建页删除。
+- Index：根索引空军专题补 1950 年代四条；1956 战争索引新增"空中作战（第三来源）"节。
+- 时间线：未改——新增事件日期（1951-04-05／05-06、1955-09-01、1956-10-28—11-05）
+  在 1956 时间线已有对应条目，且本批为空军视角补充，不重复录入。
+- 甄别：本书属记者体，本批涉及的对话一律不作史实引；法国动机（"等美国付完钱"）标为本书说法；
+  Rooster 一节特别标明"未击毙 Amer"以免误传。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 537 → 545；whole-wiki QC 为 OK（修 3 处问号、4 处断链）。
+- 断点：ch13 Mirage—ch24 Legacies 未读（1960 年代幻影时代、Moked、1967 三小时、1973）。
+
+### 2026-10-22（Yonay 摄入·第 3 批：ch13—ch26 与尾声，1960—1982，14 新页）
+- 本批读 ch13 Mirage、ch14 Rebels、ch15 Moked、ch16 The Frontiersman、ch17 Three Hours in June、
+  ch18 Keep It Simple、ch19 "Texas"、ch20 Phantoms、ch21 Missiles、ch22 Judgment Day、
+  ch23 Operatziot、ch24 Legacies、Epilogue（PDF 页 197—370）。至此全书正文完。
+- 新建（概念 5）：
+  · concepts/moked-plan-1967（117 行）：1963 春 Weizman 命 Nevo 制定；跑道炸不动（火箭/机炮全失败）；
+    手册作废重测航程；情报渗透每座机场；六册附录挂六个业务处；**Tsiddon 算出九成把握需 530 架**；
+    8:00 与 first light 之争（含 Weizman 本人的否认，标注"本书不足以支持判断"）。
+  · concepts/iaf-operatziot-vs-hunt（107 行）：SA-6 之谜、"物理学 vs 电子学"、Spector 的 hunt
+    （诱饵＋猎人、关掉干扰吊舱）、Ben-Nun 的 Tagar（出口塔、弹弓投弹、Shrike 与常规弹对冲）；
+    Spector 原话"把我们变成阿拉伯飞行员或俄国飞行员，而我想让我们当犹太飞行员"；
+    Peled 1973-05-13 的三条前提与 Dayan"我们当然会是先动手的一方"。
+  · concepts/iaf-1973-intelligence-blindness（153 行）：三处结构性失败。渡口航拍照片因"不属空军业务"
+    被跳过；空地支援申请要经炮兵—总参—空军作战部七道手续、次日晨才执行；打击规划处六科两科长；
+    本书核心判断："导弹不是原因，导弹只是把三个早已存在、多年不出事的缺陷同时暴露出来"，
+    以及"Shazly 的导弹本意只是保护入侵部队，结果把空军整个致盲了"。
+  · concepts/iaf-reconstruction-after-1973（123 行）：Peled 的误伤自胸、读工程、"把马厩设在舞厅里"；
+    复盘会与《乐一通》比喻；把最狠的批评者（Spector）派去训练司令部；Al Ellis 的索尼摄像机无人机
+    （1979 年"击落"一架 MiG-21）；Goldman 六个月做出系统；"一支外国部队，但是友好的"。
+  · concepts/iaf-blues-vs-greens（第 2 批，本批被多处引用）。
+- 新建（事件 6）：
+  · events/operation-moked-1967-06-05（101 行）：07:45＝埃及 08:45；三重赌博（顺序/选择/防御 12 架 Mirage）；
+    手写纸板、"能返航就返航，不能就撞进海里"；18 分钟出海后左转；八处具体损失；09:00 前近 200 架、
+    中午再 107 架；"埃及空军已不复存在"。
+  · events/iaf-attrition-air-war-1969-70（194 行）：官方从未颁发的战役纪念章；Bir Gafgafa 的铜钟与大钟；
+    编制空虚（没中队有超过半打老手）；"Texas"（Rimonim）只派冠军阵容、Hod 掐秒表指挥；
+    "击落飞机没有用，它没有吓住埃及炮兵"；Boxer 159 吨＋72 罐凝固汽油弹；
+    Phantom 深突袭与两次误炸（70 名工人／数名儿童，本书判为"可能是情报失败"）；
+    苏联三招（集中 SA-2／SA-3 补盲／超级阵地）；pod formation 与 Hetz 之死；
+    El Adabiya 2 分钟 5 架苏联 MiG；停火当夜导弹前移 16→50 个阵地；Toaster 的名不副实。
+  · events/dougman-v-1973-10-07（138 行）：48→8→0 小时；"第三圣殿危在旦夕"／"西奈是沙子，这里是家"；
+    Henkin 违反"禁止二次进入"撞地；六架 Phantom 换两个阵地；Peled 返回地堡下令炸桥、16:30"七座桥"；
+    Spector 两次改命令两次零损失；"逐字执行任务命令的中队伤亡最重"；当天损失 35 架。
+  · events/bekaa-valley-1982-air-battle（117 行）：19 个导弹连、首日毁 17、叙机 29→80 架、以方 1 架 A-4；
+    本书自述"可能不完全准确"；另加第二节与 Price 卷 III（EW 技术层）的并列对照。
+  · events/entebbe-airlift-1976（81 行）：Peled 的 1,200 人／2,000 英里方案被 Gur 当面否决、
+    五天后由佩雷斯扭转；四架 C-130＋两架 707（一架空中医院、一架空中指挥）；18 分钟。
+  · events/osirak-raid-1981（62 行）：八架 F-16＋六架 F-15、635 英里、贴地穿沙特约旦、两分钟。
+  · events/elie-cohen-syrian-front-1960s（70 行）：只写本书提到的情报用途，明确不从书外补生平；
+    1967-04-07 拖拉机"由头"、六架 MiG、Rabin"这是什么样的空军"。
+- 新建（人物 3）：entities/people/iftach-spector（102）、entities/people/shmuel-hetz（74）、
+  entities/people/avihu-ben-nun（64）。
+- 合并/去重：本批无新重复（Beni Peled、David Ivri、Mordechai Hod 均已在库，仅链接）。
+- Index：1967、消耗战、1973、1982 四个战争索引各加"空军视角"节；根索引空军专题扩充 14 条入口。
+- 修正（QC 3 轮）：
+  · 6 处 wikilink 内误写 `\|`（表格转义残留）导致解析失败 → 全库正则修正；
+  · 9 处中文问号 → 〔问号〕（dougman／elie-cohen／spector／blindness／hunt）；
+  · 4 处指向未建页的链接（golan-syrian-breakthrough、cold-war-air-power-lessons、
+    iaf-phantom-era）→ 改指已建页；entebbe 链接指向错页名（entebbe-raid-1976 才是既有页）。
+- 本书全局限制（本批反复出现，已写入各页）：记者体，对话一律按"某人回忆"处理；
+  多处明写"本书不足以支持判断"（8:00 之争、Rooster 是否击毙 Amer）；贝卡谷地细节本书自认不确定。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 545 → 559；whole-wiki QC OK。
+- 断点：**正文与尾声已全部读完（ch1—ch24＋Epilogue）**；余 Author's Note 与致谢未逐字读（不含史料）。
+  Yonay 线实质收官。可选补漏：ch14 中 Gazit 与 Weizman 冲突的具体日期；ch20 的 Phantom 中队番号
+  （本书明示部分为化名）。
+
+### 2026-10-22（Yonay 摄入·第 4 批：Author's Note ／ Sources ／ 收线，2 新页）
+- 本批读 Author's Note（PDF 页 371—374）与 Sources 三层（PDF 页 377—395）。
+  这是**收线批**：不再产生战役或人物新事实，而是给整条 Yonay 线加上史料学层。
+- 新建：
+  · concepts/yonay-sources-and-methodology（"谁在说话"）：三层史料结构（约 75 人次访谈为主、
+    约 55 种第二层文献、6 种多为 classified 的空军内部出版物）；作者自陈的三重不利
+    （从未服役、带"空军始于 Weizman"的错误预设进场、被视作 Yored——Lapidot 当面拒他
+    "你是个 Yored，你为钱写作。我为什么要帮你"）；Hod 给他的方法（"按时间顺序跟每一位司令谈，
+    从 Remez 开始"）；作者自己承认的"机构修正主义"与对 Menahem Bar 被省略的致谢；
+    **化名清单**（Gad Eldar、Amichai Gal、Danni Brown／Josh Elon、Yehuda Palit、Menahem Goldman
+    与"221"／"171"两个虚构中队番号），并据此定纪律：**化名人物不建 canonical 实体页**；
+    本书五条偏向；"哪些内容本库能交叉验证"的对照表。
+  · concepts/iaf-six-theses-yonay（"一支空军怎样看待自己"）：把散在 24 章里的判断抽成六条，
+    逐条列出落点与自我矛盾（尤其判断 5"1973 年的真正原因是失明"——**同时是原告与证人的陈述**，
+    库内只作一个解释并列，不作定论），并给出三条本库的保留意见（蓝绿框架过窄、
+    "系统性卓越"的证据只取成功案例、人物评价高度依赖被访者恩怨）。
+- 扩写 sources/no-margin-for-error-yonay：新增"四之二、Sources 的结构"。
+  **本批最实用的一条副产品**：Sources 的访谈名单里，人名后括号内是**改姓前的原姓**——
+  Beni Peled (Feldman)、Moti Hod (Fine)、Shaya Gazit (Schwartzman)、Yak Nevo (Milner)、
+  Ran Ronen (Pecker)、Menachem Bar (Bernstein)、Shlomo Lahat (Landau)、Moshe Peled (Weidenfeld)。
+  这正是第 2 批"Beni/Benny 是同一人""Chaim/Haim Laskov 是同一人"两次去重的判断依据，
+  今后遇到同名疑点应先查这张原姓表。此外新增"五之二、Yonay 线页面总表"（概念 11／事件 18／
+  实体 9／扩写既有 5）。
+- 记录一处本书内部的不一致（不判定）：Author's Note 说作者"从未服役"，同一页说他毕业于
+  Kadoorie 农业高中、同班 65 人只有 1 人进空军——**这是他诉诸"外人视角"的自述，不是史料矛盾**。
+- 由本批确认的一处**史实纠错**：Author's Note 记作者少年时的传说"Modi Alon 1948 年在特拉维夫上空
+  打下两架 Dakota"——本书正文已写明那次是两架埃及 C-47／Dakota 型轰炸机（即 **B-17 轰炸开罗**前后
+  拦截行动中的对手），与本库 [[events/iaf-first-fighter-mission-1948]] 的口径一致，不需改页。
+- Index：根索引空军专题补两个史料学入口。
+- 检查：SCHEMA sha256 191cd20f…（未变）；内容页 559 → 561；whole-wiki QC OK。
+- **YONAY COMPLETE**：正文、尾声、Author's Note、Sources 已全部摄入（ch1—ch24＋Epilogue，
+  PDF 页 17—395）。仅 Index（PDF 页 396 以后）未逐条读——索引为多栏混排、OCR 不可靠，
+  按用户提醒本就不作命名依据。
+- 本线成品：概念 11、事件 18、实体 9、扩写既有页 5；QC 三轮修正（6 处 `\|` 残留、
+  9 处中文问号、4 处断链／错页名）。
+
+### 2026-10-22（Van Creveld《The Sword and the Olive》· 第 1 批：全卷通读＋机构层主干）
+
+- 来源：Martin van Creveld, *The Sword and the Olive: A Critical History of the Israeli Defense Force*,
+  PublicAffairs 1998／平装 2002，449 页。sha256 `c7e26a42…`（全值见来源页）。
+- 提取：`pdftotext`（数字文本 PDF，非扫描、未跑 OCR）+ `pdftotext -layout`；生成
+  `raw/papers/idf-van-creveld-sword-olive/` 下 `idf-van-creveld-sword-olive.pdf`、`sword-olive-paged.txt`、
+  `sword-olive-layout.txt`、`sword-olive-clean.txt`（450 个 `<<<PDFPAGE\|BOOKPAGE>>>` 定位标记）。
+- 本批通读范围：PDF 1—23（卷前、术语表、平装版序、导论）、26—286（第一至三部 ch1—ch17 全部正文）、
+  288—386（ch18—ch21 与结语，部分段落快读）、388—426（Notes 抽样→未逐条录入）。**尚未逐字读 ch11—ch13 的战役段落细则**（仅取结构信息）。
+- 新建（来源层 1）：`sources/idf-van-creveld-sword-olive.md`（含**章节—PDF 页对照全表**、本书性质与用法限制）。
+- 新建（机构层 1）：`entities/organizations/idf-tzahal.md`（沿革 Bar Giora→Ha-shomer→Hagana→PALMACH→TSAHAL、
+  指挥链与法律地位、总参与军种结构、1949—1982 兵力表、军队—社会关系、本书总评）。
+- 新建（概念 10）：
+  · `idf-manpower-and-reserves`（1949 年服役法、三角结构、服役期变动表、预备役正反两面、"en brera"）；
+  · `idf-officer-corps`（行伍出身、年龄与 PAZAM、教育缺陷、1984—94 军衔通胀数据、宗教军官化）；
+  · `idf-civilian-control-and-censorship`（服从纪录 vs 监督缺失、1945 年紧急条例、主编论坛、Vanunu、1989 年判决）；
+  · `idf-command-culture-optional-control`（机制、1956/1967 成功面、1973"反向 optional control"、1982 多头指挥室）；
+  · `idf-women-conscription-chen`（PALMACH 五分之一、CHEN 1948-06、MOS 210→296→500/234、黎巴嫩与 Intifada 转折）；
+  · `idf-armor-doctrine-helem-hashiryon`（Tal 的装甲论证、训练改革、1967 误读、1973 崩解与自发修正）；
+  · `idf-nation-building-role`（GADNA／NACHAL／移民教育班、"民族学校"论、发展理论出口）；
+  · `idf-dayan-milson-occupation-1967-87`（1967 两张方案、Dayan 最低干涉、Gush Emunim／Likud 定居、乡村同盟、Intifada）；
+  · `idf-decline-thesis`（因果链、可核查量化支柱、作者自承的反面证据、用法纪律）；
+  · `idf-defense-industry-complex`（TAAS／RAFAEL／IAI、1966—84 产值出口表、"两头卖"、Lavi 取消）。
+- 新建（事件 1）：`events/idf-trust-crisis-1982-1997`（黎巴嫩—Intifada—事故诉讼—新史学家的四段信任崩解时间轴）。
+- 新建（专题 1）：`topics/idf-force-history`（IDF 军队史专题入口，含"本书与他源分工表"）。
+- 更新（既有 7 个战争索引）：1948、1956、1967、消耗战、1973、1982、海湾——各加"机构层（第四来源）"小节并
+  在 `sources:` 追加 `idf-van-creveld-sword-olive`；海湾战争一栏另记 1991 年以色列反导/民防的"无能"判决（ch19）。
+- 时间线（3 处增量，不覆盖既有条目）：
+  · `wars/gulf-war/timeline.md` 新增"以色列方面的日期（据 ch19）"：1991-01-18 首轮落弹、全程约 39 枚、伤亡与房屋损失、1991 年后设本土防线司令部；
+  · `wars/war-of-attrition-1969-70/timeline.md` 新增"机构侧增补（据 ch12）"：1968-09-08、Naj Hamadi、1969-03-08 开战节奏与 84/475/231 事件数、
+    1969-07-20 动用空军、夺雷达与夺岛、1969-08—12 阵亡 180、1970-08-07 停火与违约；
+  · `wars/sinai-campaign-1956/timeline.md` 新增"机构与指挥侧（据 ch9）"：塞夫勒、10-29 空降 395 人、10-31 拉法协同失灵、
+    Ibrahim al Awwal、11-04/05 沙姆沙伊赫、作者对"英法未动则战果存疑"的判断。
+- 检查：`SCHEMA.md` sha256 `191cd20f…`（未变）；全库 dual-mode QC **0 PROBLEM**；14 个新文件 `newpages-check` CLEAN；
+  glitch-scan 仅余 ascii-word 白名单项与一处标题（# IDF 女兵与 CHEN，属误判）；内容页 561 → 576。
+- 异常 / 需要人工确认：
+  · 本书为**单一作者的批判史**，评价性极强（"1967 胜利是以色列最坏的事""IDF 软肿"等），各页已统一标〔Van Creveld 判断〕；
+  · 本书数字多为作者综合二手，与他源（Herzog／Rabinovich）冲突时按本库规则**并列不合并**，已在 `idf-decline-thesis` 留下对读入口；
+  · 1956 年以方阵亡数本书给 **190**、1967 年 **980**、1973 年 **2,800**（ch14）——与 Herzog/Rabinovich 数字并列使用，勿替代。
+- 断点：**全书正文已通读**；下一批可按需逐章细补（建议次序：ch1—ch4 建国前线的 Ha-shomer/Hagana/PALMACH 专页、
+  ch9—ch10 的 1956 编成与 1967 战前核问题、ch13—ch14 的 1973 指挥层人事、ch17 的 1982 出兵规模与指挥室结构）。
+### 2026-10-22（Van Creveld《The Sword and the Olive》· 第 2 批：ch1—ch5 建国前线）
+
+- 说明：同一文件（sha256 `c7e26a42…`）二次调入，判定为**已摄入来源的增量批**（非重复、非来源漂移）；不重建来源页，
+  只补第一批明确留空的建国前线（Ha-shomer／Hagana 建制／1936—39 起义）。
+- 本批细读：PDF 28—98（ch1—ch5），逐段核对原始提取文本 `sword-olive-clean.txt`。
+- 新建（3）：
+  · `entities/organizations/ha-shomer.md`：Bar Giora／Ha-shomer（1907—1920）——Gomel 核心十余人、约百人规模、
+    120 法郎步枪与 40—120 法郎月费、Kfar Tabor（1909）与 Merchavia（1911）两次"占地"、Jamal Pasha 驱逐 7,500 俄籍移民、
+    Ben Gurion 申请被拒、1920-05 解散并移交 Hagana。
+  · `events/nili-network-1917.md`：NILI（Zichron Yaakov；1917 年 9—10 月被奥斯曼破获）。**严格限于本书两段所述**，
+    不补成员名单与情报内容，页内已标明这一史料限制。
+  · `events/arab-revolt-1936-39.md`：1936—39 年阿拉伯大起义——04-19 雅法骚乱（16 死）、最高委员会与 172 天总罢工、
+    Kauji 的四连、1938 年春 15,000 名游击、Wavell 在杰宁的 2,000 人正规战；**犹太方所得三件**：notrim／辅助警察 3,000 人、
+    kofer ha-yishuv 负担 70% 经费、nodedot 400 人／FOSH 300 人；Wingate 的 SNS（40 英军＋75 notrim）与其"五条条令"。
+- 更新（1）：`concepts/haganah-palmach.md` 追加"补充资料（据 Van Creveld ch1—ch4）"——1920—39 建制年表、
+  1929 年六天伤亡（133 犹太死／116 阿拉伯死／希伯伦 65）、1939 年家底（15,000 人、步枪 6,000 等）、PALMACH 编制与规模
+  （1943 年 1,000／1944 年 1,500／第一批结业 427 男 6 女）、Post Occupation Scheme、1945—46 反英作战（Atlit、11-01 铁路 153 处、
+  06-17 十一桥炸十）、ETSEL／LECHI／saison 关系。原 Herzog 段落未改动。
+- 时间线（1）：`wars/war-of-independence-1948/timeline.md` 新增"托管前（据 Van Creveld ch1—ch4 增量）"共 28 条日期条目
+  （1907—1947，含 1946-06-29 Agatha 行动与 1946-07 大卫王酒店），并注明与 Herzog 线并列不替代。
+- Index：根 index 来源㉗ 一行与"军队史专题"入口补 3 个前身页；`wars/war-of-independence-1948/index.md` 机构层节增"建国前身线"；
+  `topics/idf-force-history.md` 增"七、建国前身线"一节（原"待续"改为第八节）。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；全库 dual-mode QC **0 PROBLEM**；5 个改动文件 `newpages-check` CLEAN。
+- 异常：本书 1947 年 Hagana 家底（迫击炮 754、步枪 17,642 等）与 Herzog 线 1947 年数字（步枪 10,500 等）差异较大，
+  已在时间线内并列标注、未合并。
+- 断点：ch1—ch5 已逐段核对；ch6 以后仍按第 1 批通读结论使用。下一批建议：ch9—ch10（1956 编成与 1967 战前核问题段）或 ch13—ch14（1973 指挥层）。
+### 2026-10-22（Van Creveld《The Sword and the Olive》· 第 3 批：ch8—ch10 过渡期与 1956 编成）
+
+- 同一文件（sha256 `c7e26a42…`）第三次调入：仍为**增量批**，不重建来源页。
+- 本批细读：PDF 126—200（ch8 兵役三角与军官团、ch9 渗透—报复—1956 西奈、ch10 建军与 1967 战前核问题段），逐段对照 `sword-olive-clean.txt`。
+- 新建（1）：`concepts/idf-sinai-1956-order-of-battle.md`——1956 年以军**师（ugda）层级编成**（38 师：10、4、37 旅＋7 装甲旅预备；
+  77 师：1、27 旅；202 伞兵旅；9 摩托化旅；55 伞兵旅预备）、动员（10-24 个别召集、逾 10 万应召、超编）、
+  Dayan "不在场"的指挥设计、**十条事故清单**（空投测错、Mustang 割线、扳手、米特拉山口违令、38 师两旅长与师长被撤、
+  Simchoni 提前放装甲、7 旅与 37 旅互射、Eytan 部队无后勤、误击 HMS Crane 与己方、Dayan 征用埃军轿车）、
+  作者的两项保留（埃军已撤走约一半→45,000∶30,000；10-31 19:00 时只有佯动方向成功，若无 Musketeer 是否同样成功"存疑"）。
+- 更新（3）：
+  · `entities/people/moshe-dayan.md` 加"补充资料（据 ch1—ch14）"——早年（Ha-shomer 时代 1915 生、1939 判 10 年）、
+    总参谋长任内的报复政策与指挥风格、对装甲兵的成见（Kalkiliya 禁用装甲、"坦克上运输车"提议）、1967/1973 与 Agranat 结论。
+  · `concepts/idf-nation-building-role.md` 新增"二之补：1949—1970 年代军国化的社会机制"（纪念读物、军队演出队、brarah 一代、
+    Ben Gurion 议会主张、i katan／meatim mul rabbim 与感知 1:3）。
+  · `wars/sinai-campaign-1956/index.md`：修正来源状态抬头（主源 Herzog，并列 Yonay／Van Creveld 三源），机构层节挂本战专页。
+  · `topics/idf-force-history.md` 转折与评价节挂入本战专页。
+- 撤销一项拟建页：ch5 曾拟开「政治对抗单位」专页，但该名称与四项职能在本 PDF 文本层查无对应段落（属我误记），
+  按「不确定即留白」原则删档、不建页。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；全库 dual-mode QC **0 PROBLEM**；4 个改动文件 `newpages-check` CLEAN。
+- 断点：ch8—ch10 已逐段核对；下一批建议 ch13—ch14（1973 指挥层与损失统计）或 ch17（1982 出兵与指挥室）。
+### 2026-10-22（Van Creveld《The Sword and the Olive》· 第 4 批：ch13—ch14 1973 指挥层与损失口径）
+
+- 同一文件（sha256 `c7e26a42…`）第四次调入：仍为增量批，不重建来源页。
+- 本批细读：PDF 240—266（ch13 十月地震全章、ch14 清算），逐段对照 `sword-olive-clean.txt`。
+- 新建（1）：`concepts/idf-1973-command-and-generals.md`——战前顶层人事（1971 年末 Bar Lev 去职、Elazar 接任、Sharon 转预备师、Gonen 升任）；
+  前线与后方指挥结构表（Elazar／Tal／Gonen／Adan／Sharon／Mandler→Magen／Choffi／Eytan／B. Peled／Bor 内的 Yadin、Rabin、Weizman、Zeevi）；
+  作者的两个关键判断（"被一群据称才华横溢的将军缠住"、"反向的 optional control"）；Agranat 的组成、处置与"情报评估仍归 IDF"的结构性批评；
+  战后制度调整（预备役不得指挥大于旅、常设师与军、1983 年 MAFCHASH、1982 年顶层更糟）。
+- 更新（1）：`concepts/yom-kippur-1973-outcome-assessment.md` 加"第二口径：Van Creveld 的损失与强度对照"——
+  四场战争的阵亡／伤／"每面对一个阿拉伯师所付阵亡"（1948—49：5,682；1956：190／900、76:1；1967：980／4,500、98:1；1973：2,800／8,300、200:1；1982 首周 113:1）；
+  日均阵亡 100+ vs 1948 年 15 人但人口五分之一的换算；与 Rabinovich 口径（2,656／7,250）**并列、指出差异约 5%—14%、不裁决**。
+- 更新（2）：`wars/yom-kippur-war/index.md` 机构层节加"本战指挥层"两条；`topics/idf-force-history.md` 转折与评价节挂入指挥层页。
+- 一处自纠：指挥层页初稿把编注残留 "author：" 混入正文，已改为正常叙述。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；全库 dual-mode QC **0 PROBLEM**；3 个改动文件 `newpages-check` CLEAN。
+- 断点：ch13—ch14 已逐段核对；下一批建议 ch17（1982 出兵规模、北方军区作战室与贝卡空战的组织面）或 ch15—ch16（重建与军工／核）。
+### 2026-10-22（Van Creveld《The Sword and the Olive》· 第 5 批：ch15—ch16 重建、扩军与军工／核）
+
+- 同一文件（sha256 `c7e26a42…`）第五次调入：仍为增量批，不重建来源页。
+- 本批细读：PDF 272—306（ch15 恢复与扩张、ch16 军工与核），逐段对照 `sword-olive-clean.txt`。
+- 新建（1）：`concepts/idf-rebuild-and-expansion-1973-82.md`——兵力表（1973／1977／1982：现役 115k／164k／170k，
+  总兵力 30 万／40 万／54 万，师当量 7／13／16）、编制变化（军 corps、准将衔、总参谋长升中将、1983 年装甲兵降格与 MAFCHASH）、
+  装备存量表（坦克 1,700→3,600；装甲车 3,000→8,000；火炮约 2,000；作战机约 400→近 700；导弹艇 12→19；E-2C 六架、
+  AH-1／MD-500、CH-53、Harpoon／Barak／火神密集阵）、动员后勤改革（维护监察署、YAMACHim、干贮存、卡车与坦克运输车）、
+  美援与国内代价（1967 前后 ≤5,000 万→年均 2.5 亿→22 亿→30 亿→1984 年 45 亿占 GNP 20%；国防占 GDP 8.7%→21.3%→26.3%，1973 峰值 32.7%；
+  通胀 37%—400%）、1973 年美空运的定量评断（约 200 架次、50 架 F-4、155／175 mm 弹）、Lavi 始末。
+- 更新（2）：`entities/equipment/merkava.md` 加"第二来源"节——Tal 的装甲论证前提、M-60 的四项缺陷、发动机前置与后部大弹药舱、
+  扁平收窄炮塔、105 mm＋激光测距＋火控＋Arrow 弹、Mark II／III（120 mm、全电炮塔）、与 NAGMASH／反应装甲的配套；仍留白车重精确值等。
+  `wars/lebanon-war-1982/index.md` 机构层节加"出兵前的底账"一条；`topics/idf-force-history.md` 挂入重建页。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；全库 dual-mode QC **0 PROBLEM**；3 个改动文件 `newpages-check` CLEAN。
+- 断点：ch15—ch16 已逐段核对；下一批建议 ch17（1982 出兵规模、北方军区作战室与贝卡空战的组织面）或 ch19—ch21（海湾／Intifada／信任破裂）。
+### 2026-10-22（Van Creveld《The Sword and the Olive》· 第 6 批：ch17 黎巴嫩战争的编成与指挥）
+
+- 同一文件（sha256 `c7e26a42…`）第六次调入：增量批，来源页不动。
+- 本批细读：PDF 308—330（ch17 黎巴嫩泥潭全章），逐段对照 `sword-olive-clean.txt`。
+- 新建（2）：
+  · `concepts/idf-lebanon-1982-order-of-battle.md`——6.5 个师入黎＋1 个师在戈兰警戒（作者算作 1973 年南线兵力的两倍）；
+    自西向东编成（沿海两师 Mordechai／Yaron＋Awali 河两栖旅；中部 Kahalani 师；其后 Einan 师向贝鲁特—大马士革公路；
+    Metulla 方向 Ben Gal 少将的两师军；戈兰 1 师预备）；指挥结构"头重"（作战室内 Drori、其副手、Saguy、Yariv、Eytan、Levy、Efrat、Sharon，头两天还有 Begin）；
+    Drori 控制幅度过大；Yekutiel Adam 死因不明；两条规模解释（对苏威慑／Sharon 与 Eytan 的重心之争）；
+    后果（拥堵、不用直升机夺点、沿海三日改六日、Einan 误令损失 12 小时、Sultan Yakub 未侦察入伏）。
+  · `events/bekaa-valley-1982-air-battle-vancreveld.md`——贝卡战役的**第三口径**：19 个叙军导弹连＋ZSU-23-4；
+    IAF 一年猫鼠游戏标定阵地与雷达频率；RPV 诱雷达开机→F-4／F-16 反辐射弹→可能集束炸弹；
+    **M-107 175 mm 火箭增程弹参与 SEAD（射程 25 英里）**；E-2C 提前识别升空叙机；
+    结果近 100 架对 1 架（约五分之一叙空军，100:1，1967 为 30:1、1973 为 50:1）；
+    作者判断"空中大胜、地面作用有限"，含 6-10 **误击己方装甲营**。
+- 更新（1）：`wars/lebanon-war-1982/index.md` 机构层节挂入上述两页（编成页与贝卡第三口径页）。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；全库 dual-mode QC **0 PROBLEM**；3 个改动文件 `newpages-check` CLEAN。
+- 断点：ch17 已逐段核对；仅余最后一批（ch6—ch7、ch11—ch12、ch18—ch21）。
+### 2026-10-22（Van Creveld《The Sword and the Olive》· 第 7 批＝收线：ch6—ch7、ch11—ch12、ch18—ch21 核对完毕）
+
+- 同一文件（sha256 `c7e26a42…`）第七次调入：**收线批**。本批把此前只"通读取结构"的章段逐段核对完，
+  本书至此**全章（ch1—ch21＋结语）已逐段核对**，不再留有未读正文。
+- 本批细读：PDF 116—123（ch7 成就与代价）、202—266（ch11 六日战争三线、ch12 城门下、ch13—ch14 复核）、330—386（ch18—ch21、结语）。
+- 新建：**0**（本批不新开页——按"同题已有 canonical 则增量"原则，全部落在既有页）。
+- 更新（4）：
+  · `concepts/war-of-independence-assessment.md` 加"第二口径：Van Creveld 的伤亡统计与代价论"——
+    死亡 5,682（军人 4,520／平民 1,162）、男女与平民分布、阶段分布（1947-11—1948-05 约 2,000；05-15—06-10 1,200）、
+    年龄结构（18—30 岁占 64.8%）、Latrun 383 人（含 3 名女性）、女性军人死亡 108 人（占军人 2.4%，女兵占兵力 10.6%）、
+    "占全部战争死亡约三分之一"、"比英德 1914—18 更密集"、纪念书 320 种；并记作者否定"失去一代"说法的理由。
+  · `concepts/bar-lev-line-origins.md` 加"第三口径"（Van Creveld ch12 的两派版：Tal＋Sharon vs Bar Lev，
+    政治理由＝防止安理会固化立足点），并扩成**三源对照表**（Herzog／Rabinovich／Van Creveld），
+    记录 Herzog 归 Gavish 与 Adan、Van Creveld 直接归 Bar Lev 的差异，不裁决。
+  · `concepts/idf-rebuild-and-expansion-1973-82.md` 加"地面部队编制细节"（军常设化与同级指挥、每装甲营配一个乘车步兵连、
+    取消师属侦察营的争议、"武装定居点"计划失败）。
+  · `concepts/idf-decline-thesis.md` 加两节量化："1991 年海湾战争"（39 枚导弹、恐惧致死与敌火致死 10:1、1,000 人就医、
+    三分之一面具不合脸、HAGA→本土防线司令部、预警 2→7 分钟）与"Intifada 的制度消耗"（巴方亡约 1,200、
+    生活水平 −40%、300 名官兵受审、1996 年 7% 合格者未入伍、预备役报到率约 50%、72% 称服役打击士气）。
+- 复核结论（写入各页时已注明）：ch11 的 1967 年三线叙述与既有 Herzog／Yonay 页无实质冲突（本书数字与之并列）；
+  ch12 的消耗战时间线已在前批落入 `wars/war-of-attrition-1969-70/timeline.md`，本批补其制度面（Bar-Lev 之争）。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；全库 dual-mode QC **0 PROBLEM**；4 个改动文件 `newpages-check` CLEAN。
+- **本书收线**：来源页 1、机构层 1（`idf-tzahal`）、`concepts/idf-*` 15 页、事件 4（NILI／1936—39 起义／1982 贝卡第三口径／信任破裂）、
+  前身组织页 1（`ha-shomer`）、专题 1；7 个战争索引与 3 条时间线挂接；
+  两处"误记拟建页"已回退（政治对抗单位、以及未成立的三源合并数字）。
