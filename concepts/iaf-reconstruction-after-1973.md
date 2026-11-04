@@ -4,9 +4,9 @@ type: concept
 concept_type: analysis
 war: yom-kippur-war
 tags: [iaf, 1973, reform, doctrine]
-sources: [no-margin-for-error-yonay]
+sources: [no-margin-for-error-yonay, bekka-valley-war-grant-2002]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-04
 ---
 
 # 1973 年后的重建：Beni Peled 与"系统性卓越"
@@ -113,6 +113,18 @@ Amir 的收束：真正需要的是**把这一切串起来的条令**——把�
 ## 七、一点必须说清的界限
 
 本页只写"重建"这件事的形状与理据，不写具体成果的战术细节——那属于 1982 年贝卡谷地（见 [[events/bekaa-valley-1982-air-battle|1982 年贝卡谷地空战]]），而本书自己声明该战细节"至今由以色列严密保密"，其叙述"可能是、但也许不完全准确的"。
+
+## 八、Ivri／Grant 口径下的 1973 年损失账（第三来源）
+
+> 据 [[sources/bekaa-valley-war-grant-2002|Rebecca Grant《The Bekaa Valley War》（2002-06-01）]]，
+> 主要内容是 Ivri 的回顾引语，作者未注页码，属转引。
+
+- 前 3 天：约 **1,220 架次**损失 **50 架**，**4% 损失率**——作者比作"二战早期美军对德轰炸攻势"（Ivri 当时为空军副司令）。
+- 全战累计：SA-6、SA-7 与高炮命中战前 **170 架 A-4 中的 53 架**、**177 架 F-4 中的 33 架**（"有些轻、有些重"）。
+- **10-14**：埃军把预备队推出 SAM 伞，当日损失 **28 架**（一名埃及师长对 Dupuy：一走出导弹伞就"得到不可接受的损失"）。
+- 战争末仍在"寻找解法"：**一次突击损失 5 架 Phantom**。Ivri 的总结："**我们必须找到对付 SAM 连的答案**。"
+- Ivri 另强调：SAM 网不仅限制拦截入侵陆军，还能"**为 SS-21 一类短程地地导弹提供庇护**"，
+  这层"导弹庇护导弹"的结构性威胁直接引向 1982 年贝卡之战（[[events/bekaa-valley-1982-air-battle]] 第十节）。
 
 ## 相关
 

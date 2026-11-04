@@ -6,9 +6,9 @@ war: war-of-attrition-1969-70
 start_date: 1969-06-17
 end_date: 1970-08-07
 tags: [iaf, attrition, 1970, air-war]
-sources: [no-margin-for-error-yonay, arab-israeli-wars-herzog, arabs-at-war-pollack]
+sources: [no-margin-for-error-yonay, arab-israeli-wars-herzog, arabs-at-war-pollack, bekka-valley-war-grant-2002]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-04
 ---
 
 # 消耗战的空战（1967—1970）："Texas"与"Boxer"
@@ -185,6 +185,16 @@ Marom 的评语："在 Bir Gafgafa 很容易意识到战争还在打。**在 Bir
 | 空军战果／损失 | 137 架（含 5 架苏联机）／自损 24 架 | 见 [[wars/war-of-attrition-1969-70/index|消耗战索引]] | 空战损失比"至少 10:1"，每年约损失 30 名飞行员 |
 | 苏联介入时间 | 1970-01 纳赛尔访苏；3 月三个 MiG-21 中队进驻 | 同向 | 见 [[concepts/egypt-military-effectiveness-pollack|埃及效能]] |
 | 停火后导弹前移 | 16 → 50 个阵地 | 见索引 | — |
+
+## 十四、Grant 2002 引 Mason 的交换比（第三来源）
+
+> 据 [[sources/bekaa-valley-war-grant-2002|Rebecca Grant《The Bekaa Valley War》（2002-06-01）]]，引 RAF 退役空军少将
+> **Tony Mason**（空战史学家）：消耗战高峰时"**中队交换比由空中 1:40 变成对导弹 2:4**"。
+> 该引语在库内没有对应页码，属转引；它与本页第一节的"击落 137／损失 24"不是同一算法
+> （前者是**对导弹的交战比**，后者是全期总账），并列不换算。
+
+- Grant 另记：以空军是"**第一支必须与先进苏制 SAM 打交道的空军**"；消耗战中的零星突击虽打掉一些 SAM 连，
+  但"零散行动不够"。
 
 ## 相关
 

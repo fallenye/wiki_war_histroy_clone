@@ -1,0 +1,2352 @@
+Moscow's Lessons from
+the 1982 Lebanon
+Air War
+
+Benjamin S. Lambeth
+
+
+
+
+~                     PROJECT AIR FORCE
+The research reported here was sponsored by the Directorate
+of Operational Requirements, Deputy Chief of Staff/Research,
+Development, and Acquisition, Hq USAF, under Contract
+F49620-82-C-0018. The United States Government is autho-
+rized to reproduce and distribute reprints for governmental
+purposes notwithstanding any copyright notation hereon.
+
+
+
+
+      Library of Congress Cataloging in Publication Data
+      Lambeth, Benjamin S.
+         Moscow's lessons from the 1982 Lebanon air war.
+           "R-3000-AF."
+           1. Air warfare. 2. Lebanon-History-Israeli
+      intervention, 1982- -Aerial operations.
+      3. Aeronautics, Military-Soviet Union. I. United
+      States. Air Force. II. Title.
+      UG700.L36 1984           358.4' 4'095692    84-15018
+      ISBN 0-8330-0587-1
+
+
+
+
+The Rand Publications Series: The Report is the principal
+publication documenting and transmitting Rand's major
+research findings and final research results. The Rand Note
+reports other outputs of sponsored research for general
+distribution. Publications of The Rand Corporation do not
+necessarily reflect the opinions or policies of the sponsors of
+Rand research.
+
+
+
+
+             Published by The Rand Corporation
+R-3000-AF
+
+
+
+Moscow's Lessons from
+the 1982 Lebanon
+Air War
+
+Benjamin S. Lambeth
+
+
+
+September 1984
+
+A Project AIR FORCE Report
+prepared for the
+United States Air Force
+
+
+
+
+ Rand     1700 MAI!',./ \TRI! I
+            fl O HO\ 11Ul
+ ",4,..._I -'\'-10,1(-'. (-'\ 'Kl-'Oh }1111
+
+
+
+
+              APPROVED FOR PUBLIC RELEASE: DISTRIBUTION UNLIMITED
+                             PREFACE
+
+
+   The Rand Corporation is providing analytical support to the Assis-
+tant Chief of Staff/Intelligence, Hq USAF, on a variety of subjects of
+concern to the Air Force. This report is a contribution to that effort.
+It was inspired by a recent issue of the Soviet Air Force monthly, Avi-
+atsiia i kosmonavtika (Aviation and Cosmonautics), which featured a
+two-part commentary on air operations i~ the Juqe 1982 Lebanon war.
+Unlike most material in that publication, this item seemed interesting
+enough to warrant a closer reading. The result persuaded _the present
+author to translate the piece so that its contents might be shared with
+a wider audience. The article offers numerous insights into the way
+the Soviets have interpreted (and, in some cases, misinterpreted) the
+operational implications of the Beka'a Valley experience.
+   This report presents a full translation of that article (see Appendix),
+along with a detailed analysis that evaluates its conclusions against the
+backdrop of actual combat events over Lebanon and the Soviet propa-
+ganda depiction of the war. The translation reflects a best attempt to
+convert the Soviet writer's convoluted Russian into digestible "fighter
+pilotese." Nevertheless, it retains much of the stilted quality charac-
+teristic of Soviet military writing. Likewise, the section on the Beka'a
+Valley ventures a best effort to reconstruct Israeli operations from
+available open-source materials. Given the incomplete and uncon-
+firmed nature of so much of that "evidence," however, the author lays
+no claim to offering a definitive account of what actually took place.
+Readers with more authoritative knowledge will know where the dis-
+cussion is right or wrong on specific points of interpretation. In all
+events, its intent is merely to provide enough background on the basics
+to permit an educated reading of the Soviet article.
+   This work was supported by a concept-development project under
+Rand's Project AIR FORCE research program on National Security
+Strategies. It should be of interest to Air Force officers concerned with
+fighter tactics development, Israeli air combat experience, and trends
+in Soviet tactical air warfare capability.
+
+
+
+
+                                   iii
+                            SUMMARY
+
+
+   The September and October 1983 issues of Aviatsiia i kosmonavtika,
+the Soviet Air Force monthly, featured a two-part article by Colonel V.
+Dubrov on Israeli air operations in the Lebanon war. In contrast to
+routine Soviet propaganda, this discussion is a dispassionate rendering
+of combat events. Its author is a prominent Soviet spokesman on air
+warfare. His intent is to identify the main tactical innovations
+employed by the Israeli Air Force (IAF) and offer appropriate opera-
+tional conclusions to Soviet aircrews.
+   Dubrov cites the following as the most notable lessons of interest
+from the Beka'a Valley experience:
+    •   The increased freedom of maneuver gained by detaching air.
+        superiority fighters from direct escort of strike formations and
+        putting them in separate combat air patrols.
+    •   The vulnerability of airborne command posts to enemy fighters
+        and surface-to-air missiles (SAMs).
+    •   The value of communications and radar jamming for destroying
+        enemy situation awareness.
+    •   The ability of fighters with extended-range radars to operate in
+        a tactical Airborne Warning and Control System (A WACS)
+        mode.
+    •   The diminished reliability of radar control over fighters as the
+        depth of air operations into enemy territory increases.
+All these points have relevance to Soviet operations planning for
+Europe and other theaters. Their appearance in Dubrov's analysis sug-
+gests that they may be topics of more extensive debate within the
+Soviet fighter community.
+   Of greater interest are those aspects of the Lebanon war left unmen-
+tioned by Dubrov. For all his consideration of formations, ingress
+techniques, and related operational matters, he does not address the
+IAF's attack on Syria's SA-6 sites in the Beka'a Valley. He is also
+silent on the Syrian Air Force's extensive MiG losses. Despite his pro-
+fessional tone and the unusual detail he provides, Dubrov is obviously
+not telling Soviet aircrews the whole story. Indeed, it is possible that
+he himself does not know it.
+   Dubrov severely misconstrues the Lebanon air experience on two
+counts. First, in discussing combat air patrol techniques, he exag-
+gerates the importance of the Israeli E-2C and wrongly insists that
+
+
+
+                                   V
+vi
+
+
+ offensive fighter sweeps are impossible without the support of airborne
+ control platforms. His tendency to regard AWACS aircraft as little
+ more than airborne Ground-Controlled Intercept (GCI) sites may
+ reflect the traditional Soviet obsession with control. Whatever the
+case, it misinterprets the way the IAF employed its E-2C and overlooks
+the considerable autonomous search capability of the F-15. This sug-
+gests that the Soviets may not be in a hurry to abandon their tradi-
+tional reliance on GCI close control in favor of more independent
+operations, even after they acquire the MiG-29 and SU-27 in large
+numbers.
+    Second, Dubrov is fundamentally off the mark in his treatment of
+all-aspect missiles. He notes that Israeli forward-hemisphere attacks
+were the exception to the rule. From this, he concludes that the all-
+aspect threat does not yet warrant any changes in Soviet training and
+tactics. It may be true that the IAF took only a few front-aspect shots
+against the Syrians with the AIM-7F and AIM-9L. Nevertheless, both
+missiles can be employed effectively in that manner. If Soviet pilots
+genuinely believe and are prepared to act on what they have been told
+by Dubrov, this can only come as good news to their American and
+NATO counterparts.
+    All in all, the Soviets are as capable as we are of reading the techni-
+cal results of the Lebanese war and drawing appropriate technical con-
+clusions. Yet they may have been less successful in comprehending the
+larger significance of the Beka'a Valley outcome. In the end, the Syri-
+ans were not defeated by any particular Israeli weapon or combination
+of technical assets. What made the critical difference was the IAF's
+constant retention of the initiative and its clear superiority in leader-
+ship, organization, tactical adroitness, and adaptability. This is the
+overarching "lesson" of enduring merit from the war-and the last one
+the Soviets seem close to recognizing and assimilating.
+    None of this should be read as an excuse to underestimate Soviet
+military power. Because of their quantitative strength, offensive pro-
+clivities, and apparent indifference to attrition, the Soviets have the
+capacity to create major problems for NATO, whatever tactical
+weaknesses they may suffer at the unit level. Nevertheless, the notion
+that "you fight like you train" applies to the Soviets no less than it
+does to ourselves. However impressive the emerging Soviet tactical air
+posture may appear on paper, the individual Soviet pilot has a consid-
+erable way to go before he will be able to employ that equipment to its
+fullest potential.
+                   ACKNOWLEDGMENTS
+
+
+    This report began as a routine translation of a Soviet article for
+ interested members of the fighter community. It quickly expanded in
+ambitiousness as my research drew me deeper into the Beka'a Valley
+story and Moscow's reaction to it. In the process, I benefited from the
+support of many people.
+    I am first grateful to Maj. Gen. James C. Pfautz, Jr., Assistant Chief
+of Staff/Intelligence, Hq USAF, for encouraging this undertaking. I
+am also indebted to Lt. Gen. John T. Chain, Jr., Deputy Chief of
+Staff/Plans and Operations, Hq USAF, who has been a consistent
+sounding board for my work over the years and who gave generously of
+his time on several occasions to discuss this subject with me.
+    From the working level, I have received feedback from far more
+readers than I can readily account for here. Some must remain name-
+less in any event. Among others who have been of assistance in vari-
+ous ways, particular mention is due Col. Howard Moss, Lt. Col. Barry
+Watts, and Majs. James Hale and John Lieberherr of the Directorate
+of Operations, Hq USAF; Col. Phil Gardner, Maj. Ed Singer, and Capt.
+Kevin Roper of the Directorate of Estimates in AF /IN; Col. Joe Mel'-
+rick and his staff at the USAF Fighter Weapons School, Nellis AFB;
+Capt. Rana Penningtorr, Defense Intelligence Agency; Mr. Raymond
+Ennis, Central Intelligence Agency; Dr. Dennis Ross, Deputy Director
+of Net Assessment in the Office of the Secretary of Defense; and Lt.
+Sandy Winnefeld at the Navy Fighter Weapons School, NAS Miramar.
+All read the manuscript and provided helpful comments within the lim-
+its permitted by the sensitivity of the subject.
+    Of my Rand colleagues, Chris Bowie and Lt. Col. Roger Hill (our
+research associate from AF /IN) volunteered suggestions on numerous
+technical points. Luba Fajfer helped me through the rougher parts of
+the translation. And Felix Kozaczka and Punch Jamison, both former
+fighter pilots, offered incisive peer reviews.
+   Finally, this is an appropriate place to express my special thanks to
+the Tactical Air Command, National Guard Bureau, Air Force Reserve,
+U.S. Navy, and Canadian Forces for having allowed me to fly periodi-
+cally on enough fighter sorties of diverse types since the mid-1970s to
+give me at least basic conversancy in tactical air matters. Without
+that experience, I could not have written either this report or much of
+my previous Rand work on similar issues. I am grateful to all, both
+those in the approving chain and the many able pilots with whom I
+have flown, for the opportunity I have had to further my education in
+this irreplaceable way.
+
+                                   vii
+                                  CONTENTS
+
+
+PREFACE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+
+SUMMARY .....................................                                            V
+
+
+ACKNOWLEDGMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+
+ABBREVIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . xi
+
+Section
+  I. INTRODUCTION                                                                        1
+
+ II.   HIGHLIGHTS OF THE BEKA'A VALLEY
+             AIR CAMPAIGN . . . . . . . . . . . . . . . . . . . . . . . . 4
+          The SAM Suppression Phase . . . . . . . . . . . . . . . . . . . 5
+          The Air Battles . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+          Overview . . . . . . . . . . . . . . . . . : . . . . . . . . . . . . . . 10
+
+III.   EARLY SOVIET REACTIONS TO IAF COMBAT
+            SUCCESSES . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+IV.    INSIGHTS AND OVERSIGHTS IN THE DUBROV
+              ARTICLE .............................                                     18
+           Lessons Learned . . . . . . . . . . . . . . . . . . . . . . . . . . .        19
+           Lessons Mislearned or Ignored . . . . . . . . . . . . . . . . . .            22
+ V.    CONCLUSIONS ..............................                                       28
+
+Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+
+
+
+                                            ix
+                  ABBREVIA TIONS
+
+
+ARM     Antiradiation Missile
+AWACS   Airborne Warning and Control System
+BVR     Beyond Visual Range
+CAP     Combat Air Patrol
+CBU     Cluster Bomb Unit
+CPSU    Communist Party of the Soviet Union
+ECM     Electronic Countermeasu res
+ECCM    Electronic Counter-Count ermeasures
+ELINT   Electronic Intelligence
+EOB     Electronic Order of Battle
+GCI     Ground-Controlled Intercept
+IAF     Israeli Air Force
+IDF     Israeli Defense Forces
+NATO    North Atlantic Treaty Organization
+PGM     Precision-Guided Munitions
+PLO     Palestine Liberation Organization
+RPV     Remotely Piloted Vehicle
+SAM     Surface-to-Air Missile
+TASS    Telegraph Agency of the Soviet Union
+
+
+
+
+                            xi
+                            I. INTRODUCTION
+
+
+   The September and October 1983 issues of Aviatsiia i kosmonavtika
+(Aviation and Cosmonautics), the monthly periodical of the Soviet Air
+Force, featured a two-part article by Colonel V. Dubrov entitled "Avia-
+tion in the Lebanon Conflict." (A full translation is attached to this
+report as an Appendix.) Published more than a year after the devas-
+tating Israeli Air Force offensive again~t Syria~ SA-6s and MiGs over
+the Beka'a Valley in June 1982, this article is the first sustained treat-
+ment of the Lebanese air war to have appeared in the Soyiet literature.
+The only commentary on those events that had previously been made
+available to Soviet readers was routine Soviet propaganda excoriating
+Israel's "air piracy" and grossly distorting its portrayal so as to reflect
+favorably on Syria's performance. Dubrov's article, by contrast, offers
+a more dispassionate and professional treatment of combat events, with
+the avowed purpose of highlighting the various tactical innovations
+they encompassed and drawing appropriate operational conclusions for
+Soviet aircrews. Although it repeatedly cites "foreign military
+observers" and "the foreign press" (a common Soviet usage when sensi-
+tive topics are being discussed), his article appears to contain a good
+deal of material that does not derive from the Western literature. This
+suggests that Dubrov's remarks indeed reflect, at least in part, indepen-
+dent Soviet impressions and interpretations.
+   It is noteworthy that Colonel Dubrov wrote this product. He is
+plainly a prolific Soviet commentator on aerial warfare matters. Many
+USAF readers will recognize him immediately as the author of the ear-
+lier Aviatsiia i kosmonavtika series entitled "How Has Air Combat
+Changed?" 1 That series continues to stand as one of the most thorough
+and up-to-date Soviet open-source discussions of air-to-air combat
+theory and practice. Its publication established Dubrov as a prominent
+Soviet Air Force spokesman on air combat tactics development.
+   Why did the Soviets take so long to produce this "professional" ren-
+dition of the Lebanese air war (as opposed to the usual propaganda
+caricature)? Numerous high-level Soviet teams had long before visited
+    1
+     These articles, published in 1978, deal successively with the search, closing, attack,
+maneuver, and disengagement phaaea of an air battle. In consonance with well-known
+Soviet operational practice, they place heavy stress on the importance of GCI directives
+in shaping the contours of the engagement. Full translations may be found in The Soviet
+Awarene,a Red Eagle Reader (Washington: Directorate of Soviet Affairs, U.S. Air Force
+Intelligence Service, 1980), pp. 39-79. For a brief condenaation, see USAF Fighter
+Weapon, Review, Spring 1981, pp. 23-27.
+2
+
+
+
+Syria to gather combat data, beginning with the delegation led by
+Colonel General Yurasov that arrived in Damascus only four days fol-
+lowing the Beka'a Valley shootout. A plausible answer might be that
+the Soviets were so perturbed by the poor showing of their weaponry in
+Syrian hands that it took them that long to arrive at an agreed
+interpretation to communicate to their own people.
+   Perhaps a better question might be why the Soviets felt obliged to
+comment on Israeli air employment in Lebanon at all. There is no
+doubt that they were embarrassed severely by the defeat the Israelis
+dealt the Syrians as a result of their superior equipment, tactics, and
+pilot proficiency. Given this deep-seated Soviet sensitivity, might it
+not have been easier just to let the whole sorry episode go unmen-
+tioned?
+   The problem with this approach almost certainly involved an abid-
+ing uneasiness at the highest echelons of the Soviet Air Force as to
+whether rank-and-file Soviet officers would long believe the prop-
+aganda line they had been fed in the wake of the Beka'a Valley cam-
+paign. It is no secret among Soviet fighter pilots that the Syrians are
+anything but accomplished air tacticians. The operational prowess· of
+the Israeli Air Force is equally well known. Given the widespread
+appreciation of this reality that underlies the cover story Soviet audi-
+ences are routinely told about the Middle East air balance, the initial
+wave of propaganda that so blatantly misrepresented Syrian combat'
+performance must have met with disbelief on the part of many
+thoughtful Soviet military personnel. 2 When one further considers how
+fast rumors tend to spread in a country like the _Soviet Union where
+information flow is so tightly regimented, one can imagine the pres-
+sures the Soviet Air Force must have felt to put forward at least some
+"official" accounting of what happened in the skies over Lebanon in
+June 1982-if only to help offset the corrosive effects of uncontrolled
+gossip.
+   This report describes how the Soviets have presented the Lebanon
+air war to their own pilots. Dubrov's article may or may not accurately
+reflect the more fine-grained impressions privately drawn by high-level
+Soviet officials from their battle data collection in 1982. It does, how-
+ever, embody the perspective the Soviets have chosen to convey for
+   2There ia good reuon to suspect that Soviet pilots routinely dismiss much of what
+they hear from the propaganda mill. In this regard, Lieutenant Viktor Belenko (the
+former Soviet Foxbat pilot) recounted having been told once by hie superion at the
+Armavir flight school that USAF "Wild Weaael" pilots were willing to fly on SAM
+suppreuion miuiona over North Vietnam only becaUBe they were either well-paid mer-
+cenaries or under the influence of narcotics. He said he believed neither story and
+inatead felt nothing but admiration for those aircrews. John Barron, MiG Pilot (New
+York: Readen Digest Preu, 1980) p. 157.
+                                                                       3
+
+
+
+broader consumption. As we shall see, it is an image largely devoid of
+routine ideological fulmination. Nevertheless, it remains highly selec-
+tive in the events it reports and is pervaded with glaring omissions and
+occasional gross misrepresentations. Furthermore, some of the key
+"lessons" it cites from its given examples of Israeli force employment
+appear to be fundamentally misconstrued. Is Colonel Dubrov, knowing
+better, holding forth a purposely skewed account aimed at reassuring
+his readers? Or has he genuinely misinterpreted the significance of the
+Israeli weapons and tactics employed by looking at them through the
+distorting lens of Soviet military style? We will speculate on this ques-
+tion below. Before turning to the Dubrov article directly, however, it
+would seem worthwhile first to present the actual highlights of Israeli
+air combat over Lebanon as best we can from available evidence, and
+then review the Soviet propaganda depiction of that combat which pre-
+ceded the publication of Colonel Dubrov's account.
+      II. HIGHLIGHTS OF THE BEKA' A VALLEY
+                  AIR CAMPAIGN
+
+
+
+   Any attempt to reconstruct Israeli air operations over Lebanon must
+first recognize that the Israelis have treated this subject as highly clas-
+sified and have said little in public about what actually happened.
+Because of this circumspection, available information is both fragmen-
+tary and inconsistent, leaving us with no reliable way of distinguishing
+fact from hearsay and opinion.
+   The Israeli Defense Force (IDF) has always been extremely
+security-conscious. Indeed, we cannot rule out the possibility that
+much of the press comment that has appeared on the Beka'a Valley
+operation has been a product of intentional Israeli disinformation, both
+to protect the more sensitive aspects of IAF operational tactics and
+perhaps also to exaggerate the image of Israel's combat prowess for its
+psychopolitical effect. Nevertheless, there is enough evidence-starting
+with the more obvious results of the campaign and the well-known
+array of equipment the IAF had at its disposal-for us to assemble at
+least a rough-order portrait of how events probably unfolded.
+   To summarize the origins of the conflict, an assassination attempt
+in May 1982 against the Israeli ambassador to London (which left him
+gravely wounded) prompted limited Israeli retaliatory strikes against
+Palestine Liberation Organization (PLO) positions in southern
+Lebanon. This action, in turn, triggered intensive PLO shelling
+against Israeli civilian settlements in Galilee and further occasioned a
+substantial reinforcing of existing Syrian SA-6 missile emplacements in
+the Beka'a Valley, the first of which had been deployed to Lebanon on
+April 29 the previous year.
+   Using these developments as a pretext, the IDF on June 6 launched
+what it labeled "Operation Peace for Galilee," a massive combined-
+arms assault intended to destroy the PLO as a military force and neu-
+tralize any Syrian combat assets in Lebanon that might interfere with
+that effort. 1 The air portion of this campaign began three days later
+with a coordinated surprise attack against the Syrian SA-6 network in
+the Beka'a Valley. This was immediately followed by an intense aerial
+    1
+     For a thorough, if sympathetic, description of the Israeli rationale for this operation,
+see Avner Yaniv and Robert J. Lieber, "Personal Whim or Strategic Imperative? The
+Israeli lnvaaion of Lebanon," International Security, Fall 1983, pp. 117-142. A more crit-
+ical account is offered in Amos Perlmutter, "Begin's Rhetoric and Sharon's Tactics,"
+Foreign Affairs, Fall 1982, pp. 67-83.
+
+
+
+                                             4
+                                                                                         5
+
+
+showdown between Israeli and Syrian fighters, in what has been widely
+acclaimed as the largest single air battle since World War II.
+
+
+THE SAM SUPPRESSION PHASE
+   For understandable reasons, the IAF was strongly inclined to destroy
+the Syrian SA-6 sites immediately upon their initial emplacement in
+April 1981. That departure from the status quo was typical of the
+ambiguous enemy provocations that have routinely caused the IDF to
+agonize over whether to preempt decisively and accept the ensuing
+diplomatic consequences or else tolerate the provocation and perhaps
+incur a long-term military disadvantage as a result. In this case, the
+IAF was probably torn between a natural desire to take prompt action
+and concern that by doing so, it might compromise its SAM-
+suppression tactics that could prove critical to Israeli success in a later
+and more serious confrontation with the Syrians. 2 The issue was
+resolved in favor of attacking, and the Begin government authorized
+the IAF to .proceed with mission planning. Before the operation could
+be carried out, however, a heavy cloud cover moved into the target area
+and obliged the IAF to wait. By the time the weather cleared, U.S.
+diplomatic efforts to mediate the conflict had begun in earnest. This
+forestalled any immediate resumption of strike preparations. 3
+   The resultant delay gave the IAF over a year to amass tactical intel-
+ligence on the Syrian SA-6 positions and refine its attack plans. 4 The
+latter included, by some accounts, extensive rehearsal sorties against
+simulated SA-6 sites in the Negev desert. 5 Once the day of the strike
+arrived, the IAF commanded an excellent threat picture, a cadre of
+highly experienced and well-prepared aircrews, and a tactical repertoire
+precisely tailored to the operational situation.
+   2
+     See John Yunna, "Those SAM Missiles in Lebanon-Why Israel Would Be Willing
+To Risk a War To Get Them Out," Christian Science Monitor, May 15, 1981.
+   3
+     The IAF had been poised on April 30 to attack the three Syrian SA-6 batteries that
+were then in Lebanon but was forced to postpone the mission three times in four hours
+because of weather complications. Prime Minister Begin later noted that the strike
+would have occurred the following day had the United States not appealed for a delay.
+See David K. Shipler, "Begin Says Syrians Have Increased Missiles in Lebanon and on
+Border," New York Times, May 12, 1981.
+   4
+     Short of destroying the missiles, the IAF continued to monitor their activity through
+overflights by Mastiff and Firebee drones, occasionally drawing Syrian fire. It also con-
+ducted low-level supersonic fighter passes over the emplacements in an effort to keep
+pressure on the Syrians. Both activities provided valuable target data for IAF mission
+planners. See "Israeli Drones Keep an Electronic Eye on the Arabs," New York Times,
+May 23, 1981, and "Syria Vows to Maintain SAM Sites," New York Times, May 31,
+1981.
+   5
+     "Mismatch in the Sky," Newsweek, June 21, 1982.
+6
+
+
+    The target complex consisted of 19 SA-6- batteries deployed at
+several locations in the Beka'a Valley, an agricultural plain in central
+Lebanon some 10 miles wide by 25 miles long and flanked on both
+sides by ridgelines up to 6500 ft high. Key mission support elements
+included several E-2C surveillance aircraft orbiting off the coast of
+Lebanon, a Boeing 707 electronic intelligence (ELINT) platform, and
+numerous ground and airborne jammers (the latter aboard CH-53 hel-
+icopters).6 The functions of the E-2C were to provide gap-filler support
+for Israeli ground radars, monitor the airspace over the target area and
+beyond into Syria, and provide vectoring and battle-management assis-
+tance to Israeli fighters in the event that Syrian MiGs rose to chal-
+lenge the SAM suppression operation. 7 The 707, for its part, was
+poised to monitor Syrian SA-6 radar activity. Finally, Israeli jammers
+were to be employed against voice and data-link transmissions between
+Syrian fighters and GCI sites (and perhaps also against other threat
+emitters such as enemy aircraft and SAM radars).
+   Reports about the equipment and tactics employed by the IAF vary
+widely. Most accounts agree, however, that the mission was accom-
+plished by a combination of F-4s with Shrike and Standard ARM mis-
+siles, F-16s with standoff weapons and conventional bombs, and a
+variety of other systems (notably artillery and ground-launched mis-
+siles). 8 The attack reportedly commenced with a wave of remotely
+piloted vehicles (RPVs) launched as decoys to activate the engagement
+radars of the SA-6s. 9 As expected, the Syrians rose to the bait, showed
+    6Drew
+           Middleton, "Soviet Arms Come in Second in Lebanon," New York Times, Sep-
+tember 19, 1982.
+    7
+     "Washington Roundup: Mideast Air Battle," Aviation Week and Space Technology,
+June 28, 1982.
+    8This reconstruction draws from numerous second-hand journalistic accounts.
+Among the more interesting reports on IAF tactics employed in the SAM strike are
+Clarence A. Robinson, Jr., "Surveillance Integration Pivotal in Israeli Successes," Avia-
+tion Week and Space Technology, July 5, 1982, pp. 16-17, and Russell Warren Howe,
+"DoD Opts for Untested U.S. Drone," Washington Times, September 28, 1982. See also
+Richard Homan, "Israel Inflicts Heavy Air, Missile Losses on Syria," Washington Post,
+June 10, 1982; Michael Getler, "Superior Weapons, Pilots, Tactics Seen as Key to Israeli
+Victories," Washington Post, June 11, 1982; David B. Ottaway, "Israel Said to Master
+New Technology to Trick and Destroy Soviet-Made Missiles," Washington Post, June 14,
+1982; Charles Mohr, "New Wars Show the Powers of Military Basics," New York Times,
+June 18, 1982; and Craig Oliphant, "The Performance of Soviet Weapons in Lebanon,"
+Radio Liberty Research, RL 68/83, February 7, 1983.
+    9The story continues to be muddled on this point. Some versions have the IAF using
+its slow-flying Scout and Mastiff reconnaissance drones in this capacity. Others indicate
+that the Israelis used Samson and Delilah drones, the former air-launched from F-4s and
+the latter ground-launched (see Middleton, 1982, op. cit.). Syrian SA-6 operators would
+have been more likely to react to this second set of systems, since they presumably would
+more closely approximate the speed and radar signature of fighters than the Scout and
+Mastiff. It is possible, however, that all four types of drones played a part in the
+                                                                                         7
+
+
+poor target discrimination and firing discipline, and initiated a massed
+launch of SAMs against the incoming drones. Once positive SAM
+activity was confirmed by the 707, the following sequence of events (or
+something like it) unfolded in rapid succession:
+     • SAM radars in the southern portion of the Beka'a were
+       attacked by artillery from Israeli ground units that had rapidly
+       moved forward from their positions south of the Awwali River,
+        as well as by Israeli Ze'ev ("Wolf') ground-launched battlefield
+        missiles. 10
+     • SAM radars located farther north, outside IDF artillery and
+        missile range, were simultaneously engaged by F-4s using
+       Shrike, Standard ARM, and Maverick.
+     • Once the Syrian SAM radars had been neutralized by a combi-
+       nation of electronic countermeasures (ECM) and physical de-
+       struction, F-4s and F-16s employing low-level ingress and
+       terrain-masking tactics entered in simultaneous attacks from
+       multiple directions, delivering standoff munitions, cluster bomb
+       units (CBUs), and general-purpose bombs against surviving
+       radar vans and the SA-6 missile launchers.11
+In the course of this highly orchestrated strike, which reportedly took
+only 10 minutes, Israeli forces destroyed 17 of the 19 SA-6 sites in the
+Beka'a Valley, as well as several SA-2 and SA-3 sites. 12 Throughout the
+operation, orbiting Scout and Mastiff RPV s provided continuous video
+coverage of events for the ground-based IAF strike commander. The
+attack-the first two to induce the Syrians to activate their tracking radars (thus provid-
+ing IAF antiradiation missiles with emitting targets to guide on) and the other two to add
+to the confusion factor and perhaps goad the Syrians into firing.
+    10
+       Little is known about the Ze'ev. Some accounts describe it as a ground-launched
+antiradiation missile. Others depict it as a long-range artillery shell with terminally
+homing submunitions. In all events, it appears to have played a prominent role in the
+operation (though by no means the near-exclusive one attributed to it by Colonel
+Dubrov). See Robinson, 1982, op. cit., p. 16. See also the interview with IDF Chief of
+Staff Lt. Gen. Rafael Eitan, "We Learned Both Tactical and Technical Lessons in
+Lebanon," Military Electronics/Countermeasures, February 1983, p. 100. Gen. Eitan con-
+firmed that "heavy aerial bombardment" was employed in the attack but added that "our
+forces were advancing at such speed that within a short period of time the battery sites
+were not only under ground-force artillery range but within the range of our family of
+computer-guided surface-to-surface missiles."
+    11
+       Paul S. Cutter. "ELTA Plays a Decisive Role in the EOB Scenario," Military
+Electronics/Countermeasures, January 1983, pp. 135-137.
+    12
+       By one account, the IAF additionally destroyed several SAM sites within Syria near
+the Lebanese border, presumably through standoff attacks. (The Israelis have publicly
+maintained that their pilots never penetrated Syrian airspace proper.) See Anthony H.
+Cordesman, "The Sixth Arab-Israeli Conflict: Military Lessons for American Defense
+Planning," Armed Forces Journal International, August 1982, p. 30.
+8
+
+
+Boeing 707 continued to monitor enemy radar emissions and transmit-
+ted threat data to attacking fighters. Chaff and flares were used exten-
+sively by all Israeli aircraft operating within the Syrian air defense
+envelope. Numerous SA-6s were fired during this evolution. None
+found their target and the IAF accomplished the mission without a sin-
+gle aircraft loss. (Several Israeli fighters, however, are reported to have
+recovered with moderate to severe battle damage.) The two surviving
+SA-6 sites, as well as some additional batteries that were replenished
+with new equipment overnight, were destroyed in a similar IAF raid
+the following day.
+
+
+THE AIR BATTLES
+   As expected, the Syrian Air Force scrambled a large number of
+MiGs to engage the attacking Israeli fighters. The IAF was fully
+prepared. Several F-15 and F-16 combat air patrols (CAPs) were posi-
+tioned west of the Beka'a Valley to intercept any Syrian fighters that
+might attempt to disrupt the SAM suppression raid. Intelligence on
+Syrian MiG activity was excellent. By one account, the Israeli Scout
+RPV used its electro-optical zoom lens and digital data link to provide
+real-time video imagery of Syrian fighters positioned for takeoff. 13 The
+E-2C, with its 200-mile s·urveillance range,· was able to pick up the
+MiGs on radar as soon as they left their runways and relayed intercept
+vectors to the IAF fighter CAPs. Once the enemy fighter formations
+were airborne, their communications were massively jammed and they
+were deprived of any contact with their GCI controllers. (IAF fighters
+carry jam-resistant radios and were able to communicate with their
+own controllers through secure voice and data link despite countervail-
+ing Syrian jamming attempts.) 14 The Israelis also used some F-15s in a
+tactical AW ACS mode to provide gap-filler support for the E-2C and to
+assist other fighters. 15
+   The resultant confrontation was by far the largest in the history of
+Middle East air warfare. At its height, there were reportedly some 90
+Israeli and 60 Syrian jets simultaneously airborne in the combat
+arena. 16 The IAF enjoyed the combined advantages of tactical initia-
+tive, numerical preponderance, superior aircraft and munitions, and
+confident knowledge of where the Syrian threat would be concentrated.
+    13
+       Robinson, 1982, op. cit., p. 16.
+    14
+       John V. Cignatta, "A U.S. Pilot Looks at the Order of Battle, Beka'a Valley Opera-
+tions," Military Electronics/Countermeasures, February 1983, pp. 107-108.
+    15
+       Getler, op. cit.
+    16
+       Homan, op. cit.
+                                                                                       9
+
+
+
+Using their look-down radars and all-aspect missiles (both of which the
+Syrians lacked), 17 Israeli fighters simply picked off any MiGs that ven-
+tured past a preestablished line. 18 Although the IAF maintains that it
+took no shots at Syrian fighters from beyond visual range, it evidently
+made extensive use of blind-side tactics by employing the E-2C to vec-
+tor F-15s and F-16s into beam attacks against Syrian MiGs (where
+their radar warning systems were reportedly least effective). 19
+   Beyond Israel's advantages in equipment and tactics, another not-
+able feature of the engagement was a marked asymmetry in pilot skill.
+Upon having their communications jammed, the Syrians lost any sem-
+blance of air discipline and quickly became split up into isolated pairs
+and singles. As one Western military attache who witnessed part of
+the air battle from the ground later recounted, "I watched a group of
+Syrian fighter planes fly figure-eights. They just flew around and
+around and obviously had no idea what to do next. " 20 This impression
+was confirmed by the after-action comments of an anonymous senior
+IAF officer: "The problem was that [Syrian] pilots didn't do things at
+the right time or in the right place. They flew in a way very difficult
+to understand. . . . The pilots behaved as if they knew they were going
+to be shot down and waited to see when it was going to happen and not
+how to prevent it or how to shoot us down." Reflecting on this lack of
+aggressiveness and initiative (and apparent unfamiliarity with air com-
+bat) displayed by the Syrians, he added: "They could have flown the
+best fighter in the world, but if they flew it the way they were flying,
+we would have shot them down in exactly the same way. It wasn't the
+equipment at fault, but their tactics." 21
+   The IAF downed 23 Syrian fighters during this engagement while
+sustaining no losses of its own. The following day, Israeli fighters shot
+down 15 more MiGs. By the end of July, the IAF had destroyed 85
+Syrian aircraft (half MiG-21s and half MiG-23s) in a cumulative series
+of air battles without losing a single aircraft to enemy fighter action.
+According to press accounts of remarks by General Wilbur Creech,
+Commander of the USAF Tactical Air Command, about 40 Syrian
+    17
+       George C. Wilson, "Israel Proves U.S. Arms Effective, General Says," Washington
+Post, June 17, 1982.
+    18
+      1n Gen. Eitan's words, the Syrian MiG pilots "were very irrational in their attack
+on our Air Force, literally bashing their heads against a wall. Anyone who crossed an
+imaginary line in the direction of our forces was destroyed. . . . The imaginary line was
+actually the range of the emplaced missile batteries in Syria proper." Interview in Mili-
+tary Electronics/Countermeasures, February 1983, p. 101.
+    19Cignatta, op. cit.
+   20 Quoted in Vincent J. Schodolski, "Soviet Arms Replacing Syrian War Losses," Chi-
+
+cago Tribune, March 23, 1983.
+   21
+       "Beka'a Valley Combat," Flight International, October 16, 1982, p. 1109.
+fighters were downed by F-15s, some 44 by F-16s, and one by an F-4.
+Most of these kills were accomplished by the AIM-9L. By this same
+account, only seven percent of the Syrian MiG losses resulted from gun
+kills. 22 This suggests that despite some initial impressions, what actu-
+ally occurred was not a single, swirling, multiparticipan t "dogfight" in
+the classic sense, but rather a series of independent encounters
+between smaller numbers of fighters on both sides, with the Israeli
+pilots maintaining their speed, keeping predictable maneuvers to a
+minimum, and capitalizing on their all-aspect weapons by taking snap
+shots of opportunity. Whatever the case, the result was a complete
+rout that established a new high for IAF kill ratios in air combat.
+
+
+OVERVIEW
+   Israel's air operations over Lebanon in 1982 constituted the first
+full-scale test of current-genera tion American tactical air weaponry.
+Their distinctive features included combined-arms employment in a
+real-time electronic warfare environment and thorough integration of
+high-technology hardware with exceptional training, tactics, and
+leadership competence. It would be risky to generalize overarching
+"lessons" from this experience (and the Israelis themselves have
+expressly cautioned against trying) because of several circumstances
+that rendered the Lebanese air war unique. 23 For one thing, the opera-
+tion was severely limited in scope, intensity, objectives, and number of
+participants. Second, the Syrian SAM threat consisted largely of fixed
+SA-6s whose positions were well known by the IAF. This posed con-
+siderably less of a challenge than the USAF would face against
+integrated Soviet air defenses in Central Europe (or the IAF itself
+                                                               24
+would confront in a major air war over the Golan Heights). Finally,
+
+    22 "Foxhound Gives Soviets First Look, First Fire Against F-15," Aerospace Daily,
+August 5, 1982, pp. 193-194. See also "U.S. Arms Used in Lebanon War Outstrip
+Soviets," Wall Street Journal, August 5, 1982.
+    23
+       The !AF commander at the time, Maj. Gen. David lvry, declined to participate in
+press interviews after the Beka'a Valley offensive because of his concern, as reported by
+a respected Israeli defense journalist, that his remarks might inadvertently be used to
+feed unwarranted Israeli "self-aggrandizem ent ... spilling over into euphoria." Ze'ev
+Schiff, "The Danger of Mistaken Conclusions," Ha'aretz (Tel Aviv), August 27, 1983.
+Note also the following comment by an anonymous !AF officer. "We should be very
+careful in drawing lessons from this very limited, restricted war. . . . We flew within a
+space of 15-30 miles, we didn't cross the Syrian border. We didn't attack their military
+bases or other strategic targets." "Beka'a Valley Combat," op. cit.
+    24 Remarks by Maj. Gen. Perry M. Smith, USAF, cited in "Menachem Begin's Amer-
+ica," Foreign Report, September 23, 1982.
+                                                                                        11
+
+
+ the IAF commanded unprecedent ed numerical superiority over the
+ enemy and maintained the tactical initiative at all times. Neither cir-
+ cumstance would be likely to favor Israel in a full-fledged war against a
+coalition of Syria, Jordan, and Iraq. They certainly could not be
+expected to favor the United States and NATO in a conventiona l war
+in Europe initiated by the Warsaw Pact.
+   Nevertheless, the IAF performed very well in this campaign by any
+measure-so well, in fact, that its leaders were reportedly astonished to
+have come through it virtually unscathed. 25 By the end of September, it
+had amassed a total score of some 29 SAM sites destroyed in seven
+raids and 85 Syrian MiGs downed-wi th only two Israeli aircraft losses
+to enemy ground fire. 26 These numbers are, of course, only approxima-
+tions from a variety of conflicting accounts, and the IDF has remained
+silent on most of the operational matters addressed above. 27 Despite
+continued uncertainty at the margins, however, there is no denying the
+impressiveness of the IAF's performance in the aggregate. It dealt a
+serious setback to Syria, deeply embarrassed the Syrian High
+Command's Soviet suppliers, and provoked intense Soviet discomfitur e
+over the dismal showing of its front-line weaponry in the eyes of an
+interested and watchful world.
+
+   25
+      Robinson, 1982, op. cit.
+   26
+      For a well-researche d summary of Israeli combat accomplishmen ts during this
+period, see Cynthia A. Roberts, "Soviet Arms Transfer Policy and the Decision to
+Upgrade Syrian Air Defenses," Survival, July-August 1983, PP.- 154-164.
+   27
+      The former Chief of Staff, Lt. Gen. Eitan, has confi;m;d at least some of the key
+points on Israeli weapons and tactics employed. These include employment of RPVs for
+real-time target surveillance and the use of a 20-km range missile (presumably the Ze'ev),
+described as a cluster bomb with "1200 separate explosive units, which proved devastat-
+ing to the enemy, especially against radar emplacements and field artillery." "We
+Learned Both Tactical and Technical Lessons in Lebanon," op. cit., p. 96.
+        III. EARLY SOVIET REACTIONS TO IAF
+                 COMBAT SUCCESSES
+
+
+   It is scarcely surprising that the Soviets should have been so dis-
+tressed by these events. Apart from the widespread humiliation they
+caused the Soviet leadership, they raised troublesome questions about
+possible shortcomings in Soviet combat equipment-with implications
+reaching well beyond Moscow's narrow interests and stature in the
+Middle East. The SA-6, after all, is a system on which the Soviets
+themselves depend heavily for theater air defense in Europe and else-
+where. Likewise, though they lacked the latest-generation Soviet
+weapons and fire-control systems (the APEX missile and HIGHLARK
+radar), the Syrian MiG-23s that were so totally outclassed by the IAF
+are virtual carbon copies of the Soviet Union's best air superiority
+fighter in current service. They also represent one of the mainstays of
+the Soviet Union's military aid relationship with many third-world
+client states. Not long after the Beka'a Valley campaign, Iraq and
+Peru were among the first of those states reported to have questioned
+the adequacy of their Soviet weapons as a result of the Syrian debacle. 1
+This was only the harbinger of a broader setback sustained by the tra-
+ditional image of Soviet prowess that had hitherto undergirded
+Moscow's far-flung international arms trade.
+   In the immediate wake of the Lebanese war, the U.S. government
+pressed Israel hard to share the details of its combat experiences so
+that the USAF, in particular, might benefit from learning how its pre-
+viously untested equipment had performed. 2 The Soviets, for quite dif-
+ferent reasons, had even more urgent interests in deriving appropriate
+"lessons" and lost no time dispatching a sizable data collection team to
+Damascus to gain first-hand answers about why their weaponry took
+such a drubbing. As a measure of its agitation, Moscow began resup-
+plying Syria with attrition-fillers only a day after the Beka'a Valley
+dust had settled-well before the Soviets had more than the broadest
+inkling of what had happened beyond the obvious facts of Syria's
+
+
+   1Ernest Conine,
+                   "Red Faces in the Kremlin: Soviet Arms Failures in Lebanon Could
+Lead to Danger," Los Angeles Times, October 4, 1982.
+   2 After much Israeli
+                        resistance, this finally occurred in the spring of 1983. See
+Bernard Gwertzman, "Israelis to Share Lessons of War with Pentagon," New York
+Times, March 22, 1983.
+
+
+
+
+                                         12
+                                                                                       13
+
+
+extensive combat losses. 3 Following that, the first of four Soviet delega-
+tion visits occurred on June 13 under the leadership of Colonel General
+Yevgenii Yurasov, first deputy commander of the Soviet Air Defense
+Forces. 4 This visit was only cursorily noted by the Soviet media and
+was portrayed as a routine "friendship" meeting to reaffirm Moscow's
+security commitment to Syria. Although much of the delegation's time
+was undoubtedly spent negotiating follow-up arms transfers and secu-
+rity arrangements, its main concern was almost surely a searching
+review of every aspect of Syrian combat performance so that appropri-
+ate countermeasures might be introduced into front-line Soviet forces.
+Concern about possible problems with Soviet weaponry implied by the
+one-sided outcome was evidently such that the Chief of the Soviet
+General Staff, Marshal Ogarkov, reportedly paid a visit to Damascus in
+July to conduct a personal evaluation. 5
+   To save face and shore up its political footing in the region, the
+Soviet Union commenced a major rearmament of Syria in the wake of
+these consultative meetings. In addition to replacing the MiGs and
+SAMs that had been destroyed, the Soviets provided Syria with several
+new weapons types, including the SA-8, SA-9, and most important,
+SA-5. 6 The latter weapon, never before deployed outside the Soviet
+Union, has a slant range of 180 n mi and is capable of engaging Israeli
+aircraft flying within Israeli airspace and off the Lebanese coast. It
+thus confronts Israel with a new deterrent challenge. It would have to
+be destroyed preemptively in any future IAF air operation against
+Syria that envisaged employment of E-2C and 707 aircraft. Yet it is
+    3Roberta, op. cit., p. 156. See also James F.
+                                                    Clarity, "Moscow Replacing Syrians'
+Materiel," New York Times, October 24, 1982.
+    4
+     William Branigin, "Soviet General Said to Assess Syrian Losses," Washington Post,
+June 15, 1982; John F. Bums, "Moscow Stresses Worry over Military Actions Close to
+Its Border," New York Times, June 15, 1982.
+    5
+      Drew Middleton, "Mideast War: Things Soviets Learned in '82," New York Times,
+January 2, 1983.
+    6Thomaa L. Friedman, "Syrian Army Said to Be Stronger Than Ever, Thanks to
+Soviets," New York Times, March 21, 1983, and "Syria and Russia: For Russians Only,"
+The Economist, May 7, 1983. For detailed discussion, see Roberts, op. cit. An Israeli F-4
+was downed by one of the SA-Bs introduced into the Beka'a Valley in August 1982, dur-
+ing a raid sent out to eliminate the new Syrian missile units ("Soviets Order SA-Bs into
+Action in Beka'a after Israeli Successes," Aviation Week and Space Technology, August 9,
+1982). Another F-4 was promptly dispatched to destroy the wreckage of the downed air-
+craft to prevent its ECM equipment from falling into Soviet hands. Unconfirmed reports
+later indicated that between 11 and 200 Soviet technicians who had been combing the
+wreckage were killed in the Israeli attack (see Frank Greve, "U.S. Air Strikes Against
+Syria Could Hit Soviet Advisors," Philndelphia Inquirer, December 7, 1983, and "200
+Soviets Died in Israeli Raid, Magazine Says," Philndelphia Enquirer, December 14, 1983).
+Needless to say, none of this was mentioned by the Soviet domestic media or ack-
+nowledged by Soviet foreign propaganda.
+14
+
+
+
+exclusively manned by Soviet personnel, whose presence would almost
+                                                                         7
+certainly constitute a powerful restraining factor in Israeli planning.
+Other developments heralding a deepened Soviet involvement included
+the dispatch of some 2000 additional Soviet advisers to the Syrian
+armed forces, expansion of a Soviet submarine facility at the Syrian
+port of Tartus, deployment of SS-21 tactical ballistic missiles to Syria,
+and commencement of heavy ECM activities using helicopter jammers
+and other countermeasures to complicate future IAF raids.
+   None of this could disguise the fact that for all their surface appear-
+ance of "solidarity" with the Syrians, the Soviets were severely stung
+by the visible setback sustained by their hapless Middle Eastern client.
+On the diplomatic circuit, there were widespread private expressions of
+Soviet disgust over Syria's ineptitude in squandering away what, in
+                                                                         8
+more competent hands, should have been perfectly adequate weaponry.
+Soviet commentators also took the unusual step of publicly refuting
+Western claims that American weapons employed by Israel were "supe-
+rior" to those provided to Syria by the USSR. To help counter inter-
+nal and foreign tendencies to doubt the technical virtuosity of Soviet
+weaponry, the Soviet domestic media and TASS immediately pro-
+claimed that "in a bid to diminish the potentialities of the forces
+opposing the Israeli-American aggression in Lebanon," U.S. and Israeli
+propaganda agencies were "intensively circulating deliberately false
+information about Soviet combat equipment." In this vein, a TASS
+commentary on July 1 petulantly complained that the "combat quali-
+ties of American arms used by the Israelis are being extolled in every
+way, while the losses sustained by the interventionists on Lebanese soil
+are understated." Although it conceded substantial losses to the Syrian
+side in the conflict, the TASS statement sought to dismiss this as an
+inevitable consequence of the IDF's "sudden and massive blow on
+Lebanon by all its armed services. "9
+   This argument was repeated two days later by the head of the CPSU
+Central Committee's International Information Department, Leonid
+Zamyatin. He too acknowledged that Syria's losses were "higher" than
+    7
+      "lsraelis Reporting a Soviet Buildup," New York Times, April 29, 1983. According to
+this account, both SA-5 sites are off limits to Syrians and have direct communications
+links to Moscow. For further dis<;ussion, see also R. W. Apple, Jr., "Soviet Puts New
+Missiles in Place at Russian Bases in Western Syria," New York Times, May 16, 1983.
+    8
+      "Russia and the Arabs: Where Were Your The Economist, July 3, 1982, p. 29. See
+also Galia Golan, "The Soviet Union and the Israeli Action in Lebanon," International
+Affairs (London), Winter 1982-1983, p. 8.
+    9
+      Serge Schumann, "Moscow Defends Quality of Arms It Sells to Arabs," New York
+Times, July 2, 1982. See also A. Vlasov, "Strategic Allies' Aggression," Izuestiia, June 20,
+1982, for an earlier Soviet reaction to the poor showing of Soviet weaponry during the
+Beka'a Valley bouts.
+                                                                                 15
+
+
+those suffered by Israel, but insisted that this was attributable "not to
+the weapons supplied by the USSR but to well-known military advan-
+tages traditionally enjoyed by the attacking side." He added, however,
+that Israel was deliberately "minimizing" its own losses and that in fact
+"up to 40" of its aircraft had been shot down during the preceding
+month's fighting. As for the conflict itself, Zamyatin said it was ini-
+tially assumed that the Israelis would not engage Syrian forces during
+their sweep toward Beirut, but allowed that on June 9 "a real battle"
+took place between the two countries. A subsequent TASS statement
+sought to downplay this by conceding Israel only a "limited military
+success" against "a rather limited antiaircraft defense force of Syria in
+Lebanon." It rationalized Syrian air losses by asserting that the Syri-
+ans "did not have a ramified network of radar stations [which) compli-
+cated their action." It further tried to cast Syrian conduct in a favor-
+able light by noting that "Israeli planes did not violate the airspace of
+Syria a single time," attributing this to the IAF's sober recollection of
+its "heavy losses" suffered at the hands of Syrian air defenses during
+the 1973 war. 10
+   All in all, the thrust of Soviet domestic commentary on the
+Lebanese conflict was to convey an impression entirely at odds with
+the facts. For example, following the IAF's destruction of Syria's SAM
+sites, Radio Moscow spoke of "serious 0attles ... in the Beka'a Valley,
+where Syrian forces have been repulsing attacks by the Israeli aggres-
+sors in three directions." 11 A month later, a Red Star article went signi-
+ficantly further in misrepresenting the truth when it claimed that
+"Syrian troops, using Soviet-made weapons and materiel, have inflicted
+considerable losses on the Israeli forces. . . . Several [Israeli] air
+defense missile batteries have been destroyed," it falsely reported, "and
+67 Israeli aircraft, including modern U .S.-made F-15 and F-16 fighters,
+were downed." 12 Echoing this distortion, a TASS dispatch cited
+Western statements extolling the "extensive capabilities of the ...
+F-15 and F-16 ... and the 'success' of these aircraft in putting out a
+number of Syrian air defense missile units" and summarily discounted
+these as products of an Israeli "propaganda stratagem." Instead, it
+maintained, "Israeli pilots have learned at first hand the high skills of
+Syrian pilots and have seen for themselves that . . . the Syrian air
+defense forces have shot down a number of enemy planes, including
+F-15 and F-16 fighter-bombers." "Facts show," it concluded, "that the
+
+  10
+     Quoted in Dusko Doder, "Moscow Denies that Israelis Proved Superiority of U.S.
+Weapons," Washington Post, July 4, 1982.
+  11
+     Radio Moscow domestic service, June 11, 1982.
+  12
+     Krasnaia zvezda, July 18, 1982.
+16
+
+
+Syrian Army possesses modern weapons [and] has shown its capability
+to repel the aggression." 13
+   The ultimate in Soviet fabrication, however, was a succession of
+articles by Colonel G. Kashuba (billed as a "special correspondent" to
+Red Star), whose contrivances in seeking to glorify Syrian combat per-
+formance went to such extremes as to be downright entertaining to any
+reader aware of the fact~ or inclined toward skepticism over the Soviet
+propaganda line. 14 In one of his more fanciful flights of imagination,
+Colonel Kashuba described his visit to a Syrian air base and his recol-
+lection of fighter operations that he observed in the wake of the Beka'a
+Valley engagements:
+     An aircraft came in to land. I looked at its streamlined, beautiful
+     contours. I recognized a MiG ....
+
+     The aircraft taxied into the standing area. Its turbines were steam-
+     ing with heat. . . . A thickset figure encased in a G-suit, with lively
+     expressive eyes and curling, oily hair over a high forehead, jumped
+     out of the cockpit. If you were to draw his portrait, you would have a
+     generalized image of a Syrian airman.
+
+      We introduced ourselves. He was Captain Nati Salmu. He was just
+      25 years old but already a section commander with about 700 hours
+     ·of flying time ....
+
+     I asked Nati to describe the battle in which he downed an Israeli F-
+     15. The officer began speaking animatedly, gesturing to represent his
+     plane's maneuvers. The interpreter couldn't keep up with him and
+    13
+      TASS communique (in English), July 20, 1982. As a measure of the depth of Soviet
+sensitivity on this score, the same argument was replayed a year and a half later in the
+Soviet military's English-language magazine intended for foreign consumption. After
+debunking Israel's "fantasies" concerning the performance of its American equipment
+against Soviet products flown by the Syrian Air Force, the article proceeded to accent the
+technical virtues of the MiG series, even going so far as to claim that the United States
+"scrupulously copied the MiG-2l's best features in designing the F-15 fighter." Lest the
+message that mattered be forgotten, however, it also concluded that "to fully use these
+capabilities, those who exploit and maintain this equipment must possess comprehensive
+and deep knowledge. The aircraft may be a formidable and reliable weapon only in the
+hands of well-trained pilots" (emphasis added). Colonel N. Yelshin, "Simple and Reli-
+able MiGs," Soviet Military Review, No. 1, January 1984, pp. 26-28.
+    14
+       "Airborne Fighters on the Alert: Dispatch from Unit X of the Syrian Air Force,"
+Krasnaia zuezda, August 28, 1982; "In the Beka'a Valley," Krasnaia zuezda, August 31,
+1982; and "First-Time Hit," Krasnaia zuezda, September 30, 1982. The last of these arti-
+cles recapitulates a Syrian newspaper report entitled "Our Weapons Are Good and Our
+Fighters Are Capable of Using Them with the Utmost Efficiency." In it, Colonel
+Kashuba notes that Syria's "Soviet antiaircraft missiles ... proved their effectiveness
+whenever used ... [and] showed once again that Israeli pilots are by no means as 'invin-
+cible' as Zionist propaganda makes out."
+                                                                                        17
+
+
+        had difficulty translating the aviation terminology. Then Captain
+        Salmu took my notebook and with a few clear strokes drew the pic-
+        ture of his duel with the F-15. The victory had not been easy, the
+        enemy had been subtle. 15
+
+This nonsense neatly summarizes the general propaganda view of the
+Beka'a Valley operation developed and circulated by the Soviets for
+domestic consumption. Astute Soviet pilots, especially those with per-
+sonal experience at dealing with the Syrians, most likely had little dif-
+ficulty seeing through Kashuba's tale and others like it. 16 All the same,
+the foregoing examples typify the way in which the Lebanese air war
+was interpreted for the homefront by the Soviet media throughout the
+year and a half before the appearance of Colonel Dubrov's analysis.
+
+   15
+      Kashuba, August 28, 1982, op. cit.
+   16
+      Indeed, it would not be surprising if the Soviet armed forces were rife with private
+jokes about Syria's pathetic conduct during the Beka'a Valley campaign. Following
+Israel's victory in the October 1973 war, it was common to hear sarcastic remarks attri-
+buted to the Soviets about a new Egyptian tank requirement for back-up lights and how
+the Egyptian Defense Minister had lamented during a postmortem in the Kremlin that
+he had studiously followed all the lessons of Soviet military doctrine from World War
+II ... and was still waiting for the "long Russian winter" to set in over Suez. After the
+Lebanon war, similar stories began to circulate about how the Syrian Air Force main-
+tained a Departure Control but no Approach Control and how a Syrian general, upon
+being told by his Soviet patrons thst he already had the best Soviet surface-to-air mis-
+siles, replied that what he really needed was some good surface-to-aircraft missiles!
+      IV. INSIGHTS AND OVERSIGHTS IN THE
+                DUBROV ARTICLE
+
+
+   In sharp contrast to the Soviet commentary noted above, Dubrov's
+remarks are entirely professional in tone and purpose. They are not
+aimed at foreign audiences or the Soviet population at large, but at
+officers with special interests in tactical air weapons and operations.
+Aside from some perfunctory propaganda boilerplate at the beginning
+and end, the article is devoid of ideological axe-grinding and sticks
+closely to describing and analyzing technical matters. As such, it
+should be read as a serious effort by the Soviet Air Force to communi-
+cate a credible account of the Lebanese air war to its aircrews.
+   Dubrov addresses equipment and tactics (both air-to-air and air-to-
+ground) in equal measure. An interesting question concerns the nature
+of his source materials. Undoubtedly the Soviets have done extensive
+classified analyses based on their debriefings of the Syrians, but these
+would not routinely be shared with Soviet aircrews or alluded to in a
+general-circulation article of this sort. 1 Indeed, given the exceptional
+secrecy and compartmentation that limit information flow within the
+Soviet military, it is a fair question whether Dubrov himself was ever
+directly exposed to them. As noted earlier, Dubrov frequently refer-
+ences "foreign experts" and the "foreign press," and his account of the
+various hardware items used by the IAF probably does derive from
+those sources. But he also discusses matters of an operational
+nature-formations and spreads, ingress techniques, engagement tac-
+tics, weapons-release parameters, and the like-which have not been
+treated openly in Western publications. Insofar as they ring true, they
+may derive from Syrian accounts or from direct Soviet observation. In
+cases where they appear to run counter to reasonable inferences about
+how the IAF most likely employed its forces, they may be entirely
+fabricated. In all events, they are hard to corroborate in the absence of
+independent Israeli testimony.
+   The Dubrov article is far more instructive for what it ignores than
+for what it includes. For example, the reader is treated to lengthy
+commentary on F-15 and F-16 performance characteristics, fighter
+patrol techniques, the use of airborne radar surveillance and battle-
+    1
+     Responding to a question on a related matter back in the mid-1970s. a former Soviet
+pilot told me that he had heard through the grapevine about a study having been done on
+air combat events during the Vietnam War, but that any such study would have been far
+too highly claaaified to be shared with the likes of him and his contemporaries.
+
+
+                                          18
+                                                                        19
+
+
+management platforms, and how operations among these various assets
+were coordinated. Yet he is not given the slightest clue that the net
+result of this activity was a sustained turkey shoot in which the Syri-
+ans lost 85 aircraft in the course of three months. For all its detail in
+describing the set-up, the article remains virtually silent on the combat
+itself.
+   Dubrov also alludes to defense suppression but offers nothing
+approximating a recognizable description of what actually happened to
+Syria's SA-6s in the Beka'a Valley. Indeed, he expressly denies that
+SAMs figured as Israeli targets and leaves his readers to believe that
+the IAF performed as well as it did because its operations "were carried
+out over a country that did not have modern antiaircraft systems" but
+only "antiaircraft artillery units ... organic to combined Arab forces
+located on Lebanese soil." The effect is like reading a variation on
+Hamlet without any reference to the prince. Perhaps these distortions
+are only to be expected, given the Soviet Union's natural incapacity to
+concede the unpleasant truth. All the same, they indicate that for all
+the earmarks of dispassionate professionalism conveyed by the article,
+Dubrov is clearly striving to sweep the more disturbing aspects of the
+story under the rug.
+
+
+LESSONS LEARNED
+   Among the genuine operational implications (or at least topics for
+serious thought) the Soviets may have extracted from the Lebanon
+war, the following points touched upon by Dubrov may be suggestive:
+   The increased freedom of maneuver afforded by using air-superiority
+fighters in separate patrol orbits rather than in direct support of strike
+formations. Dubrov correctly notes that detaching counterair elements
+from direct escort and allowing them to roam their assigned CAP sec-
+tors freely not only enhances their defensive utility but also their
+offensive leverage against enemy air threats. However, he erroneously
+describes this as merely a "minimal" departure from U.S. fighter tactics
+developed during the Vietnam War. He also goes overboard in depict-
+ing as a "negative feature" of offensive CAPs what he claims to be
+their dependence on "positive radar control outside the strike zone."
+At several points, Dubrov describes the E-2C (or a comparable surveil-
+lance platform) as a necessary prerequisite for such employment. In
+doing so, he overlooks the considerable autonomous search capability
+possessed by the F-15's onboard radar. Moreover, his assertion that
+Israeli use of fighter sweeps revealed "diminished reliability ... in com-
+parison to direct accompaniment of bombers" has a defensive tone
+20
+
+
+suggesting that the Soviets may remain wedded to direct escort of
+strike formations in their own operational doctrine.
+   Nevertheless, Dubrov's special fascination with F-15 employment
+could indicate serious tactical ferment within the Soviet fighter com-
+munity. For years, going as far back as World War II, the Soviet Air
+Force has resisted the idea of allowing its pilots much independence
+and has instead stressed the importance of maintaining close control
+over its fighters at all times. 2 Recently, however, it has begun to
+acquire equipment that would allow it, in principle, to go well beyond
+that restrictive operating doctrine. With the advent of the new MiG-
+29 and SU-27 fighters that will soon be entering operational service,
+Frontal Aviation will have aircraft with substantially improved
+weapons, avionics, and maneuvering performance. 3 It will not, however,
+be able to extract anywhere near the full potential afforded by that
+capability if it continues to operate in accordance with its traditional
+air combat doctrine. Although it remains far too early to tell (and
+although powerful stylistic proclivities will have to be overcome before
+any significant change can occur), the interest in Israel's F-15 opera-
+tions reflected in Dubrov's commentary may suggest that Soviet· Air
+Force leaders may have this problem increasingly in mind. In all
+events, it involves an area that will continue to bear careful watching.
+   The vulnerability of airborne surveillance platforms to enemy fighter
+and SAM action. However mistaken Dubrov may be in implying that
+fighter CAPs are "dependent" on AW ACS support, there is no question
+that AW ACS platforms are substantial force multipliers and thus con-
+stitute lucrative targets. Dubrov notes that the IAF felt obliged to sta-
+tion its E-2Cs well beyond Syrian SAM range and further took heed to
+guard them against the Syrian MiG threat with a pair of F-15s. He
+also suggests that without E-2C support, the IAF would have been
+unable to achieve its air combat results. This may say something
+about the Soviet rationale for subsequently providing Syria with the
+SA-5, whose extended range will allow it to engage targets like the
+   2
+     According to a writer with extensive recent exposure to the USAFE community,
+"Soviet doctrine requires that most missions be flown under positive ground control, with
+the added provision that if contact with the ground controller is lost, the mission is to be
+aborted." He also notes that "the USAF spends much more time and money educating
+fighter pilots than the Rl188ians do" and that the "highly realistic training regimen intro-
+duced to American pilots after the Vietnam War has no equal in the East." Michael
+Skinner, USAFE: A Primer of Modern Air Combat in Europe (Novato, Calif.: Presidio
+Pre88, 1983), p. 122.
+    3Both aircraft are reportedly optimized for air-to-air combat and feature exceptional
+acceleration and agility, medium-range missiles with active terminal guidance, and pulse
+Doppler fire-control systems with extended-range, track-while-scan radars. See Clarence
+A. Robinson, Jr., "Soviets Deploying New Fighters," Aviation Week and Space Technol-
+ogy, November 28, 1983, pp. 18-20.
+                                                                           21
+
+
+  E-2C and 707 even in overwater orbits or deep within Israeli airspace.
+  It may also telegraph Soviet thinking about the need to neutralize the
+  USAF E-3A as an early priority in the event of a European war.
+  Insofar as this impression is correct, it suggests a derivative "lesson"
+  for USAF and NATO planners as well.
+     The value of communications and radar jamming. Although Dubrov
+ mentions this only in passing, there is little doubt that the combat util-
+ ity of ECM was forcefully reconfirmed to the Soviets by the Lebanon
+ experience. Syrian MiG formations were heavily jammed by . the
+ Israelis from the moment they were airborne. As a result, Syrian pilots
+ were unable to receive either intercept directives or evasive commands
+ from their controllers and were thus deprived of any offensive or defen-
+ sive potential. The Soviet Air Force currently operates under a similar
+ close-control doctrine and would be comparably vulnerable to enemy
+ jamming interference. How (or whether) the Soviets will eventually
+ change their modus operandi in response to this threat is a question
+ that cannot be explored here. But the strong implication for any intel-
+ ligent Soviet planner surely must be an appreciation of the growing
+ need either for electronic counter-counte rmeasure (ECCM) capabilities
+ that would permit Soviet pilots to talk through enemy jamming meas-
+ ures or else new departures in training and tactics that might reduce
+ this direct depe:Qdence on GCI support.
+     The utility of employing fighters with long-range radgrs in a mini-
+ A WACS role. Dubrov notes the IAF's use of the F-15 in lending gap-
+ filler support to the E-2C and in transmitting airborne target data to
+ F-16s (which lacked the radar capability of the F-15). He further ack-
+ nowledges that "this was the first time such interaction between
+fighters has ever been practiced." Insofar as the SU-27 is expected to
+ have a similar capability, this reference may suggest underlying Soviet
+efforts to unburden themselves from their current dependence on
+ground-based management of the air battle by extracting greater
+force-multiplier potential from their emerging fighter technologies.
+     The diminished reliability of positive radar control as the depth of air
+operations into enemy territory increases. Given the close geographic
+confines of the Lebanese conflict, this was probably less critical a fac-
+tor in the operations of either side than Dubrov suggests. But his
+statement that "radar control over fighters weakens with increasing
+depth into enemy territory" and thus increases "the probability of sud-
+den attack"-especi ally by enemy aircraft with front-aspect missiles-is
+correct and has clear implications for Soviet operations planning
+against NATO. His observation that "air superiority is fundamentally
+achieved by shifting the battle to the enemy rather than over one's own
+territory" (since the latter "means losing the initiative") likewise has a
+22
+
+
+
+bearing on Soviet tactical air planning for the European theater. Both
+points suggest Soviet recognition of the growing importance of having
+the capability and option to use fighters beyond the effective range of
+Soviet ground-base d control facilities.
+   The value of other "force-multiplier" technologies. Dubrov seems
+notably impressed by Israeli use of such systems as reconnaissan ce
+RPV s, standoff munitions, and even simple things like chaff and flares.
+The tone of curiosity that accompanies his discussion of these tech-
+niques suggests that they may not be routinely practiced in the Soviet
+Air Force. He seems especially attracted to the cost-effectiv eness of
+RPVs as contrasted to manned aircraft and notes that their ability to
+provide commander s with real-time target data has become "a most
+important factor in airpower application." (Although one can only
+speculate here, this observation could point toward one way the Soviets
+might seek to solve their problem of locating and engaging NATO's
+mobile Pershing 2 and ground-launched cruise missiles in the coming
+decade.) Dubrov also speaks approvingly of precision standoff weapons
+in attacking high-priority targets where enemy defenses prohibit armed
+reconnaissa nce and multiple passes per target. His remark that "free-
+hunt" operations are impossible in areas where enemy defenses have
+not been suppressed has relevance to Europe and is consistent with the
+common Western assumption that any Soviet air campaign against
+NATO would begin with an attempt to clear penetration corridors
+through the Hawk belt and other NATO defenses.''
+
+
+LESSONS MISLEARNED OR IGNORED
+   These and other insights reflected in Dubrov's article are, on bal-
+ance, overshadow ed by its numerous misrepresen tations and errors of
+fact. The first temptation is to dismiss those cases where Dubrov fails
+to put the point right as undifferentiated examples of intentional disin-
+formation. Some of them, however, may be merely a natural result of
+the author's looking at novel events through the subjective filter of
+Soviet military culture and style. Others, particularly those that
+appear to deny the real significance of the IAF's accomplishm ents, may
+reflect a determinati on to suppress bad news or an ingrained inability
+to face up to real challenges. USAF readers with authoritativ e
+knowledge about what happened over Lebanon will undoubtedly dis-
+cover numerous holes and faulty interpretati ons in Dubrov's account.
+The discussion that follows below will limit itself to the more obvious
+problems.
+  4
+    See Phillip A. Peterson and John G. Hines, "The Conventional Offensive in Soviet
+Theater Strategy," Orbis, Fall 1983, p. 708.
+                                                                                          23
+
+
+
+    To begin with, Dubrov unduly discredits the IAF's tactical innova-
+ tions when he equates them with the so-called "American model"
+ employed a decade ago in Vietnam. Perhaps he is trying to assure his
+ readers that changes in the Western air threat have not rendered
+ matters tougher for the Soviet Air Force in the years since. But by
+ comparing Israeli air operations over Lebanon with the stereotyped and
+ often predictable mission profiles flown by the U.S. Air Force and
+ Navy against North Vietnam, 5 Dubrov not only misrepresen ts reality
+ but contradicts his previous remarks about the significance of Lebanon
+ as the first "proving ground" for current-generation fighter aircraft and
+ weapons. Any discerning reader, Western or Soviet, will readily see
+ through the inconsistenc ies.
+    Another distortion, already touched upon in the preceding section, is
+ Dubrov's apparent belief that independent fighter sweeps require the
+direct support of airborne control platforms. To some extent, this may
+simply reflect insufficient appreciation of the independent -search capa-
+bility of the F-15's radar (particularly for situations like that in
+Lebanon, where the focus of enemy fighter concentratio n and likely
+axes of attack were precisely known beforehand). More interestingly ,
+however, it may also reflect unwitting Soviet misperception of events
+resulting from the insidious interference of Soviet military culture bias.
+Given the Soviet Air Force's long-standing reliance on GCI close con-
+trol, it could have a natural tendency to look at other variants of battle
+management in that idiosyncrati c light. In the original Russian,
+Dubrov describes the IAF's E-2C as a "VKP" (vozdushnyi kommandny i
+punkt, or "airborne command post"). He further claims that Israeli
+F-15 pilots were obliged to follow "directives" from the E-2C and that
+F-15 fighter sweep operations were "dependent" on those directives. In
+doing so, he may be misconstrui ng the E-2C as merely a variant of the
+ground-based "KP" (kommandn yi punkt) that routinely governs Soviet
+fighter operations. In other words, he may perceive it as an airborne
+GCI site fashioned according to Soviet lines, rather than as a largely
+advisory-as opposed to directive-fa cility. 6 This would certainly
+    5
+      A notable exception was Operation Bolo, an offensive MiG sweep into the Hanoi-
+Haiphong area led by Col. Robin Olds in January 1967. This successful ruse involved a
+large number of F-4s using the formations, frequencies, and call signs of a typical F-105
+strike package to lure the enemy into battle. It was of a piece with the creative imagina-
+tion that has routinely accounted for the IAF's tactical superiority in air warfare. For
+details, see Air War-Vietnam (New York: Bobbs-Merrill, 1978), pp. 241-247, and Mike
+Spick, Fighter Pilot Tactics: The Techniques of Daylight Air Combat (New York: Stein
+and Day, 1983), pp. 151-152.
+    6
+      It is common to hear assertions in the West that the Soviet fighter force is "heavily
+dependent on GCI." This formulation is correct as far as it goes, but it confuses more
+than it describes. Soviet Air Force literature on operational training makes it quite clear
+that the function of the command post ("KP") includes not only GCI vectoring but
+24
+
+
+
+account for the remainder of Dubrov's faulty inferences regarding the
+problems that he maintains would plague offensive fighter operations
+in the absence of AW ACS-type support.
+   If this analysis of Dubrov's reasoning is right, it may militate .against
+the likelihood that the Soviets are gradually beginning to move away
+from GCI close control toward more autonomous fighter operations. 7 It
+may also suggest that if and when the Soviets ever deploy their IL-76
+AW ACS in a theater support role, they will be more inclined to use it
+as an airborne GCI site rather than in the way the USAF now employs
+the E-3A. This will afford greater offensive "reach" for Soviet fighter
+operations over NATO territory, but it' will also mean continued
+suppression of individual pilot initiative and continued emphasis on
+key tactical decisions being made by higher-level commanders. 8
+   Finally, and perhaps most important, Dubrov seems to have missed
+the boat fundamentally in his treatment of the implications posed by
+the advent of all-aspect air-to-air missiles. Taking issue with Western
+claims that the forward-hemisphere attack "has asserted itself as a new
+element in air combat tactics," Dubrov insists that such missile
+employment depends on "various complicating factors" and remains, at
+best, only the "wave of the future." His argument (which considers
+only the AIM-7F and ignores the AIM-9L) rests on these premises:
+     • That effective positioning for such an attack requires AW ACS
+       vectoring and control, which may or may not always be avail-
+       able;
+     • That the target aircraft can defeat the attack by maneuvering
+       violently, thus forcing the AIM-7F's seeker head to break lock;
+     • That the attacking aircraft must "acquire target data before
+       this information is received by the other side."
+Dubrov adds that forward-hemisphere attacks by IAF fighters "without
+transitioning to the maneuvering phase" were only "episodes heralding
+the future [and] were not typical fighter tactics." His bottom-line "les-
+son" from this experience for Soviet pilots sounds more like a counsel
+overall mission management as well. In other words, the rukovoditel 'poletov (or "super-
+visor of flying") who sits in the command post does much of the thinking and decision-
+making that would routinely take place in the cockpit in USAF and Navy tactical air
+practice.
+   7
+     For a contrary view, see Capt. Rana J. Pennington, USAF, "Closing the Tactics
+Gap," Air Force Magazine, March 1984, pp. 83-88.
+   8
+     In the words of former USAF Chief of Staff, Gen. Lew Allen, "the Soviets are fairly
+predictable, doctrinaire, very determined in their approach to things, very strong in a
+hierarchical sense of how to do things, with less initiative given to people. . . . One of
+the advantages we seek to exploit is that they're a fairly predictable force." Interview in
+Armed Forces Journal lnternationa~ February 1979, p. 28.
+                                                                                   25
+
+
+for complacency than a call for alarm, in light of its curious suggestion
+that the more things have changed, the more they have remained the
+same:
+    The practical side of this conclusion derives from an established fact:
+    Aircraft and weapons are ready to carry out maneuvering combat.
+    What is left is the preparation of the pilot. All the basic propositions
+    of group maneuvering combat theory and practice formulated during
+    World War II are well known. Each subsequent generation of fighter
+    aircraft has added to and perfected these propositions. But the main
+    idea remains unchanged. Looking for some "new in principle" way of
+    training, in the view of experts, is a waste of time.
+
+   What are we to make of this perplexing conclusion? Perhaps part of
+the answer can be attributed to doctrinal lag. Since the Soviet Air
+Force, by all accounts, still lacks a good all-aspect missile of its own, it
+necessarily also lacks first-hand training experience in the all-aspect
+arena and remains caught up in planning for aerial combat aimed at
+maneuvering toward a classic stern conversion. But this explanation is
+ultimately unsatisfactory, since we know that the Soviets have for
+years been seeking to develop missiles with expanded firing envelopes
+and have spoken openly since the mid-1970s about the tactical advan-
+tages that would be afforded by a capability to take forward-aspect
+shots at the enemy from beyond visual range. 9 Another interpretation
+may be that the Soviets remain excessively fixated on extended beyond
+visual range (BVR) systems at the expense of weapons for close-in
+combat. In this regard, Dubrov's failure to consider the AIM-9L may
+stem from his sole concentration on expanded firing opportunities
+made possible by "medium-range" missiles and from his apparent
+reduction of all-aspect weapons employment to launches taken against
+the enemy "in the face" rather than from any off-boresight position
+within the lethal parameters of the missile (including beam attacks and
+shots from behind the target's wing line).
+   Even within its own terms of reference, Dubrov's treatment of the
+all-aspect issue seems off the mark on several important counts. First,
+given the extensive proliferation of all-aspect missiles like the AIM- 7F
+and AIM-9L throughout the Western taetical fighter forces, it is
+misleading, to say the least, to maintain that they merely constitute
+"the wave of the future" and to imply that there is no need to develop
+appropriate countermeasures against them. On the matter of AW ACS
+support, Dubrov is certainly right to suggest that this would greatly
+   9
+     For example, a Soviet article in 1976 noted how "the first launchings of missiles
+from maximum range can destroy the enemy even before he detects the interception."
+Colonel A. Krasnov, "Forestalling by Maneuver and Fire," Krasnaia zvezda, June 27,
+1976.
+26
+
+
+enhance the effectiveness of a· fighter sweep, particularly if the enemy
+lacked a comparable capability. But he is quite wrong to insist that an
+all-aspect missile attack "requires thorough preparation, in which other
+aircraft must also participate." Although it will generally be assisted
+by GCI or AWACS whenever these assets are available, the F-15 is
+capable of detecting and locking up an enemy on the nose quite unas-
+sisted as far out as 50 n mi and engaging it head-on-once within
+range-with both the AIM-7F and AIM-9L (assuming that adequate
+target identification or prevailing rules of engagement would permit
+clearance to fire).
+   Second, it is true-as Dubrov notes-that an AIM-7F attack can be
+negated by appropriate countermaneuvering, but for this to occur the
+defending pilot must know he is under attack and have visual contact
+with the incoming missile. He may or may not enjoy this luxury in a
+heavy electronic warfare environment. It is also true in principle-as
+Dubrov states-that the attacker must possess appropriate target data
+and arrive at a firing solution before the enemy becomes alerted if any
+front-aspect shot is to achieve its maximum possibility of success. Yet
+the results of the various Beka'a Valley MiG encounters suggest that
+precisely this occurred on many occasions. It is a fair presumption
+that many Israeli AIM-7F shots caught their Syrian targets completely
+off guard-and an in-parameters AIM-9L shot is hard to counter even
+by the best pilots once the missile leaves its rails. Even assuming that
+defending fighters could deny the attackers a monopoly on timely tar-
+get data, this w_puld be of little help in a situation where the attackers
+had all-aspect weapons and the defenders did not, as was uniformly the
+case in the Lebanese air fighting. 10
+   All in all, Dubrov's dismissal of the all-aspect threat and his claim
+that missile attacks over Lebanon "without transitioning to the
+maneuvering phase" were exceptions to the rule are strangely at odds
+with the facts and reflect a basic unfamiliarity with the three cardinal
+rules of multiparticipant air combat (keep your speed up, avoid a turn-
+ing fight, and stay unpredictable). Virtually all the IAF's MiG kills
+were accomplished by AIM-7 and AIM-9 shots. And while Israeli
+pilots are well trained for close maneuvering combat, the large numbers
+of aircraft committed on both sides over the Beka'a Valley and the low
+
+    1
+     °Beyond that, if the attacker has a front-aspect capability and the defender knows
+this and lacks a comparable weapon, the attacker can make the defender predictable. In
+the Lebanese case, according to one report, "some Syrian pilots refrained from engaging
+in dogfights and simply ejected the moment they knew that the Israelis had spotted
+them" (Roberts op. cit., p. 163). This hardly squares with the unperturbed view of the
+all-upect threat presented by Dubrov.
+                                                                       27
+
+
+incidence of reported IAF gun kills make it unlikely that a great deal of
+hard maneuvering occurred outside of isolated engagements.
+   Where all this leaves us is unclear, and readers are invited to form
+their own impressions of the Dubrov piece. On the face of the evidence
+presented by Dubrov, however, at least one interim conclusion seems
+inescapable: Either the Soviets have failed to comprehend some of the
+major tactical lessons suggested by Israel's air combat results over
+Lebanon, or they are intentionally misrepresenting those results to
+their aviators for a variety of reasons that we can only guess at. Either
+interpretation offers ground for guarded encouragement among Ameri-
+can fighter pilots.
+                                V. CONCLUSION S
+
+
+
+   Despite its impressive advances in weapons technology, the Soviet
+Union remains a country heavily dominated by institutional drag, orga-
+nizational compartmentation, and tenacious adherence to culture-
+bound practices that often perpetuate existing problems rather than
+encourage their solution. This is true in the military no less than in
+other sectors of Soviet society. It is one thing to "understand" a situa-
+tion and something quite different to translate that understanding into
+meaningful change-particularly in the Soviet armed forces, where
+deep-seated traditions tend to throw up obstacles in every path. This
+was forcefully underscored by Viktor Belenko, the Soviet pilot who
+defected by flying his MiG-25 from the Soviet Far East to Japan in
+1976. When subsequently asked by his American interrogators to com-
+pare his impression of the U.S. armed forces with his more familiar
+knowledge of day-to-day Soviet military practices, Belenko cited as an
+example the dissemination and adaptation of new tactical data. In the
+Soviet Union, he noted, communication of new information, let alone
+its exploitation, is slow and difficult because of pervasive secrecy and
+the burdensome'effects of military bureaucracy. 1
+   This view certainly seems borne out by the way the Soviets
+responded to their own limited combat experience with the Israelis dur-
+ing their brief MiG encounter against IAF Phantoms and Mirages over
+the Suez Canal in June 1970. To summarize that encounter, the
+Soviets showed no familiarity with basic principles of air combat and
+lost five aircraft in an intense four-minute engagement without laying
+a hand on their Israeli opponents. 2 The following day, the Soviet Air
+Force commander, Marshal Kutakhov, was promptly dispatched to
+Cairo West in search of the "facts" (and presumably appropriate heads
+to roll as well). 3 Yet it remains far from clear how deeply the lessons of
+   1Barron, op. cit., p. 189.
+   2
+      According to a rare first-hand account of this engagement, the Soviet pilots appeared
+to panic and break up in complete disorder once the first two MiGs were shot down. In
+the words of one of the Israeli pilots who participated in that encounter, the Soviets flew
+into combat "like a bull after a red flag. As though they were knocking their heads
+against a wall. They were like ripe fruit waiting to be picked." Quoted in Ze'ev Schiff, A
+History of the Israeli Army, 1870-1974 (San Francisco: Straight Arrow Books, 1974), p.
+200. It goes without saying that the Soviets have never acknowledged this episode. A
+former Soviet pilot who defected some years later told me that he had never heard of the
+incident.
+    3
+      Alvin Z. Rubinstein, Red Star on the Nik (Princeton: Princeton University Press,
+1977), p. 125.
+
+
+
+                                            28
+                                                                                         29
+
+
+ that experience have penetrated into day-to-day Soviet training in sub-
+ sequent years. It has been claimed by some that the Soviet Air Force
+ is steadily improving its tactical repertoire in consonance with its ongo-
+ ing acquisition of advanced fighter aircraft and weapons. 4 How well it
+ might be able to implement that "improved" repertoire under condi-
+ tions of actual combat, however, remains an open question, given the
+ rigidities and time-worn conventions that apparently continue to
+govern Soviet tactical air training. 5 After all, those Syrian pilots who
+found themselves so outclassed by the IAF over Lebanon in 1982 were
+flying front-line Soviet hardware and were operating in accordance
+with accepted Soviet air combat theory and p'ractice. 6 Even with all due
+allowances for greater Soviet professionalism, technical sophisticati on,
+and air discipline, there is no prima facie reason for believi~g that the
+outcome would have been substantially different had the Israelis been
+flying against Soviet pilots rather than Syrians.
+    It is against this backdrop that Colonel Dubrov's article must be
+considered. By itself, it provides far too little evidence to support any
+confident conclusion about what "lessons" the Soviet Air Force has
+absorbed from the Lebanese air war. (Indeed, the very question of how
+the Soviet military assimilates "lessons" from its own and others'
+     'According to a Defense Department report, "the Soviets have recently made signifi-
+ cant changes in their air combat tactics and training programs. Pilot independence and
+ initiative are now stressed.... " Soviet Military Power (Washington: U.S. Government
+ Printing Office, 1983), p. 43. Although we have abundant reason to be concerned about
+ technical trends in Soviet fighter weapons development, the combined record of Soviet
+ writings on pilot training, the Syrian debacle over Lebanon, and Soviet operational con-
+duct leading up to the downing of Korean Airlines Flight 007 suggest that this assertion
+ is considerably overdrawn.
+     5
+       A former USAF Aggressor Squadron commander well acquainted with enemy
+weapons and tactics has put forward what, for me, is the last word on Soviet air combat
+prowess until available evidence clearly points the other way: "Exactly how good is the
+enemy? Is he a ten-foot giant? Not exactly. In fact, without exaggerating, one could
+place him in the mediocre to poor category when it comes to air combat capability. Cer-
+tainly his equipment has not improved at nearly the rate ours has. . . . Most important,
+however, Soviet training is so inferior to ours that this could well be the deciding factor
+ in the outcome of the next conflict." Lt. Col. Mike Press, "Aggressor Reflections,"
+USAF Fighter Weapons Review, Summer 1981, p. 4.
+     6
+       By all indications, the Soviets routinely export their operational style along with
+their arms transfers to client states. One Western observer noted after the Lebanon war
+how the Syrians, despite their possession of modern Soviet weapons, were apparently
+hampered by the "highly centralized and unimaginative Soviet tactics that accompany
+that equipment." Friedman, op. cit. A similar view was expressed by the former techni-
+cal editor of the IAF's magazine, Bita'on Chel Ha'avir: "Soviet doctrine calls for wave
+assaults by fighters to substitute for the denial of airspace to the enemy by missiles ....
+The Syrians sent their air force up by the book, maintaining some 100 fighters in the air
+in an attempt to frustrate Israeli air strikes. . . . Their tactics and operational pro-
+cedures were very close to those of Soviet Frontal Aviation." Yosef Bodansky, "In the
+Wake of Lebanon: The Soviet Union in the Middle East" (Washington: Jewish Insti-
+tute for National Security Affairs, September 1982), pp. 1-2.
+30
+
+
+combat experiences is a complex one that warrants close examination
+in its own right.) All we can say for sure is that Dubrov's article accu-
+rately reflects what the Soviet leadership has chosen to communicate
+about that war to its officers. To go much beyond this would require
+detailed information about trends in Soviet tactical concepts, training
+practices, and patterns of aircrew supervision and management-
+information which the Soviet armed forces unfortunately are not gen-
+erally disposed to share with outsiders. 7
+   Taking at face value what Dubrov has indirectly told us in commun-
+icating with his own fighter community, the worst-case interpretation
+is that Soviet military leaders have fully understood the handwriting
+on the wall from Lebanon and have chosen to keep their aircrews
+blissfully ignorant while they seek to develop and validate appropriate
+countermeasures. A less alarmist appraisal would maintain that the
+Soviets are incapable of facing up to conclusions that would force them
+to alter fundamentally their reliance on rigid top-down control and
+have failed to comprehend the essence of the Beka' a Valley experience
+because of the inhibiting bonds of their entrenched biases and prP.con-
+ceptions.
+   My own view inclines toward this latter interpretation. Granted, the
+Soviets are as capable as we are of reading the technical results of the
+Lebanese war and drawing appropriate technical conclusions. They,
+like ourselves, are aware that the AIM-9L was a star performer (not-
+withstanding Dubrov's silence on the matter), and they are undoubt-
+edly well along toward developing a comparable weapon. Likewise,
+the Soviets learned to their consternation what the USAF itself was
+gratified to see confirmed, namely, that the F-15 and F-16 are unsur-
+passed fighters when properly supported. 8 These and similar
+    7
+      0ccasional glimpses into Soviet operational practice can be found through a careful
+study of the sort of things Soviet pilots and commanders routinely complain about. For
+example, in commenting on the rigidities of Soviet tactical training, one Soviet pilot
+some years ago pointed out that while "it is all very well that GCI operators should assist
+us fighter pilots, ... one should not rely on their support for everything." Captain A.
+Potemkin, "Respond to the Situation," Auiatsiia i kosmonautika, No. 12, December 1975,
+p. 15. Senior Soviet officers also periodically give vent to such frustration. The Soviet
+air commander for the North Caucasus Military District, in criticizing an exercise failure
+that stemmed from blind pursuit of rote procedures and an incapacity for improvising,
+faulted his pilots for having "simply not thought out the situation. How can someone go
+into real combat," he lamented, "without the necessary skills?" Lt. Gen. A. Pavlov, "The
+Inexhaustible Reserve," Krasnaia zuezda, August 4, 1976. The best evidence, however,
+suggests that despite such expressions of disaffection, the problems that they address
+only change slowly when they change at all.
+    8
+      It has been publicly reported that the !AF maintained a 100 percent mission-ready
+rate for its F-15s and F·l6s throughout the Beka'a Valley fighting ("U.S. Arms Used in
+Lebanon Outstrip Soviets," op. cit.). This performance record drove a stake through the
+heart of the argument, most vocally propounded in James Fallows, National Defense
+                                                                                        31
+
+
+ conclusions have been well appreciated by the Soviet defense bureau-
+ cracy and can almost certainly be expected to influence Soviet weapons
+ characteristics in multiple ways-none of them congenial to Western
+ security interests.
+    Yet to accept such narrow technical findings as the major teachings
+of the Lebanon air war would be to overlook the larger implications of
+its outcome. The real "lessons" of the Beka'a Valley do not concern
+weapons so much as concepts of force employment. In the end, the
+Soviets saw the bitter results of a confrontation between two radically
+divergent military philosophies, in which the Syrians were simply out-
+flown and outfought by vastly superior Israeli opponents. Without
+question, its sophisticated American hardware figured prominently in
+helping Israel emerge from the Beka' a Valley fighting with a perfect
+score. Nevertheless, the outcome would most likely have been heavily
+weighted in Israel's favor even had the equipment available to each
+side been reversed. 9 At bottom, the Syrians were not done in by the
+AIM-9L's expanded launch envelope, the F-15's radar, or any combina-
+tion of Israeli technical assets, but by the IDF's constant retention of
+the operational initiative and its clear advantages in leadership, organi-
+zation, tactical adroitness, and adaptability. This is the overarching
+"lesson" of lasting significance from the war-and the last one the
+Soviets seem close to comprehending and assimilating. 10
+
+ (New York: Random House, 1981), that there is an inverse correlation between the
+ sophistication and operability of modern fighter aircraft. But the qualification about
+ adequate support remaina critical in explaining the IAF's success on this count.
+     9
+      Senior IDF commanders would probably agree with this judgment. As one indica-
+ tion, when uked what Israel learned from Syria's use of the MiG-25 in Lebanon, Lt.
+ Gen. Eitan replied: "Answering that question is difficult, because the Syrians don't know
+ how to fly or operate the MiG-25. If we could have been sitting in a MiG-25, nobody
+could have touched us" ("We Learned Both Tactical and Technical Lessons in Lebanon,"
+op. cit., p. 102). Although Israeli planners deeply value the advantages provided by their
+American equipment and are determined to maintain as sophisticated a force as they can
+afford, emphasis on the primacy of the human variable remains a core premise of their
+military doctrine. Their attitude on this score is perhaps best captured in the following
+remark made some years ago by former IAF commander Ezer Weizman: "The human
+factor will decide the fate of war, of all wars. Not the Mirage, nor any other plane, and
+not the screwdriver, or the wrench or radar or missiles or all the newest technology and
+electronic innovations. Men-and not just men of action, but men of thought. Men for
+whom the expre88ion 'By ruses shall ye make war' is a philosophy of life, not just the
+object of lip service." On EOl/les' Wings (New York: Macmillan Publishing Company,
+1976), p. 178.
+    10
+       Reinforcement for this conclusion can be found in Moscow's approach toward
+strengthening Syria's combat arms in response to their battlefield experiences gained in
+Lebanon. This effort has featured numerous hardware improvements (especially in the
+realm of electronic warfare) but has entailed virtually no changes in Syrian training or
+force employment doctrine. See Anthony H. Cordesman, "Syrian-Israeli C3 1: The
+West's Third Front?" Armed Forces Journal International, March 1984, pp. 87-90.
+32
+
+
+    None of this should be read as an excuse to underestima te the
+Soviet Union as an adversary in the large. If only because of their
+quantitative strength and their apparent indifference to attrition as a
+necessary price for operational success, the Soviet armed forces have
+the capacity to create profound problems for NATO-wha tever tactical
+weaknesses they may suffer in the small. Moreover, the Soviet Air
+Force's reliance on GCI and its lack of refined air combat skills may
+not be perceived as a liability by Soviet commander s given the way
+they intend to fight. 11 Considering the subordinatio n of Soviet tactical
+airpower to the imperatives of achieving victory in the land campaign,
+the Soviets may be quite content to be the losers in an air-to-air slug-
+ging contest, so long as Frontal Aviati on succeeds in holding off
+NATO's counterair fighters long enough to allow Warsaw Pact ground
+forces to accomplish their objectives on schedule. For this reason,
+Soviet failure to develop an air combat repertoire comparable to ours
+should not be viewed in isolation as grounds for great optimism by
+NATO commanders and planners.
+    Nevertheless, if Soviet pilots genuinely believe and are prepared to
+act on what they have been told by Dubrov (about the insignificance of
+the all-aspect missile threat, about the continued validity of "tried and
+tested" tactical principles, and so on), this can only come as good news
+to USAF and NATO pilots who may someday have to confront their
+Soviet opposites flying the SU-27 and MiG-29. The axiom that "you
+fight like you train" applies to the Soviets no less than it does to our-
+selves. Only the foolish or the naive would flatly assert that the Soviet
+Air Force will never absorb the lessons of Lebanon in a manner that
+ might allow it to operate its emerging generation of fighter weapons to
+the limit of their designed performanc e. Until that occurs, however,
+ there is great merit in Jasper Welch's admonition that "there is a cer-
+ tain unbecoming fatalism about routinely allowing the Soviet military a
+ free ride on its existing vulnerabilit ies just because we 'might' be wrong
+ or they 'might' fix them. " 12 For the moment, however impressive the
+ emerging Soviet tactical air posture may appear on paper, the
+    11
+       There is a tendency in the West to regard this regimented Soviet approach to air
+combat aa a significant operational deficiency. For some circumstances, that may be a
+valid aasessment. Yet the Soviets may not see matters that way. Two senior RAF offi-
+cers, M. J. Armitage and R. A. Mason, have cautioned that the Soviet Air Force appears
+to regard "centralized command and control not as a potential weakness which would
+induce rigidity or reduce local initiative, but as a means of deriving the greatest possible
+flexibility to concentrate forces over great distances whenever it should be required." Air
+Power in the Nuclear Age (Chicago: University of Illinois Press, 1983), p. 176.
+    12
+       Maj. Gen. Jasper A. Welch, Jr., USAF, "The Role of Vulnerability Analysis in Mili-
+tary Planning for Deterrence and Defense of Invasion Threats to NATO" (unpublished
+paper, June 1976).
+                                                                       33
+
+
+individual Soviet fighter pilot still has a considerable way to go before
+he is allowed the training and latitude to employ his equipment to its
+fullest potential.
+                                   Appendix
+
+       AVIATION IN THE LEBANON CONFLICT 1
+
+                                Colonel V. Dubrov
+
+
+
+
+    The piratical attack of the Israeli militarists against Lebanon and
+ Palestinian refugee camps in June 1982 riveted the attention of all pro-
+ gressive mankind. Never before had the Zionist usurpers conducted
+themselves with such brazen impudence and cynicism. Israeli soldiers
+trampled the soil of a peaceful country and brought death and destruc-
+tion to its towns and villages. Violating the norms of international law
+and leaning on the support of its Washington patrons and inspirers,
+the Tel Aviv leadership transformed the territory of a sovereign
+government into a proving ground for the testing of American arms
+and new combat technology, including aviation.
+   Air operations in this armed conflict have deeply interested foreign
+military specialists. The Israeli· aggressors introduced new American-
+made F -15 and F-16 fighters into combat, along with third-generatio n
+Sparrow and Sidewinder air-to-air guided missiles.
+   It would not be out of place to take a short digression back to events
+ten years ago and recall the aerial aggression of the USA against the
+Democratic Republic of Vietnam.                                   .
+   The territory of Vietnam, as is known, has its eastern border facing
+the sea and runs north and south. This had a direct impact on the
+character of American air operations. Fighter-bombe rs (and later, stra-
+tegic bombers) launched out of air bases in Thailand in large forma-
+tions, carrying hundreds of tons of bombs into the area of Hanoi and
+Haiphong. Accompanying groups of fighters followed behind in stan-
+dard combat formations. Positioned in zones over the ocean outside
+the range of antiaircraft fire were platforms for jamming air defense
+radars, as well as Air Force and Navy airborne command posts (the
+EC-121 and E-2A) with long-range radar scanning capability. To pro-
+tect the main strike force in the immediate target area, fighters were
+   1
+    Aviatsiia i koamcnavtika (Moacow), No. 9, September 1983, pp. 46-47, and No. 10,
+October 1983, pp. 46-47. Translated by Benjamin S. Lambeth, The Rand Corporation,
+Santa Monica, California, 1984.
+
+
+
+                                        35
+36
+
+
+launched to create cover and seal off the area from possible penetration
+by North Vietnamese MiGs.
+   Now we can reconstruct for comparison the situation a year and a
+half ago in the Middle East. The narrow territory of Lebanon also
+borders the sea (only along its western side) and likewise runs north
+and south. Israeli fighter-bomber groups departed their bases in flight
+and squadron strength and proceeded north toward the area of Beirut.
+Awaiting them in prepositioned zones over the sea were E-2C Hawkeye
+long-range radar scanning aircraft. Groups of F-15s and F-16s were
+deployed a bit closer to shore within patrol zones, positioned eastward
+to provide a multilayered CAP before the ingress of the main strike
+package into the target area.
+   Foreign military observers note a striking similarity between these
+two models. And this is entirely understandable. The Israeli aggres-
+sors had someone from whom to draw examples in working out their
+tactics and from whom to borrow analogies for the positioning and
+employment of their forces. They also had someone from whom to buy
+the modern air technology needed for carrying out their combat opera-
+tions. It is not hard to see that all the aircraft mentioned above are of
+American manufacture. Changes in tactics have been minimal. These
+consist mainly in a departure from the use of direct escort in favor of
+employing a separate combat air patrol of F-15s and F-16s.
+   As a means for protecting the strike force, the combat air patrol is
+not new. It is one of a variety of ways to sterilize airspace. In this
+instance, fighters set up a barrier along the axis of probable approach
+by the enemy. During actual combat operations, the positive and nega-
+tive features of the CAP became apparent. On the positive side,
+foreign specialists point to the freedom of action gained through split-
+ting the fighters away from direct support of the larger formation of
+bombers. Since they are no longer subordinated to the strike group,
+they can perform not only defensive but also offensive combat. (By
+defensive combat we mean repulsing enemy attacks while simul-
+taneously maintaining position within the combat formation.) Fighters
+freed up in this manner now work together in providing protection for
+bombers either through prebriefed time coordination or through radar
+contact. However, they must redeploy against enemy fighters and
+engage in combat by relying on the commands of a direction center.
+   One negative feature of the CAP is the necessity for maintaining
+positive radar control outside the strike zone and its approaches for the
+entire time these areas are being overflown. As events in the Middle
+East demonstrated, this is not a simple task, especially given the pres-
+ence of such varied depth. Another negative aspect, not quite so
+readily apparent, has to do with the diminished reliability of the CAP
+                                                                          37
+
+
+  in comparison to direct accompanim ent (escort) of bombers, along with
+  the vulnerability of a fighter "barrier" to fire from surface defenses
+  over enemy territory.
+     These negative features uncovered during the Lebanon air war were
+  dealt with by the Israeli command in the following manner. Continu-
+  ous radar control over the battle arena was accomplished according to
+  the American model, using long-range radar aircraft operating as air-
+ borne command posts. E-2C Hawkeyes scanned the airspace over
+  Lebanon and managed the movement of fighter CAPs. The invulnera-
+ bility of fighters to surface defenses was accomplishe d from the outset
+ through the jamming of ground radars by a Boeing 707 (modified by
+ Israeli industry from a passenger liner). In addition, before being
+ inserted into combat, fighters were positioned in zones safely removed
+ from the outer envelope of ground-base d antiaircraft fire. To ensure
+ its own invulnerability, the Hawkeye airborne command post situated
+ itself even farther away from shore. This complied with the official
+ view of the American command regarding proper deployment of air-
+ borne command posts during operations. In the present case, the
+ Israelis first of all took into account that long-range radar aircraft lack
+ their own means of protection against fighters-na mely, defensive
+ weapons and on-board ECM gear. Second, the on-board scanning
+ equipment of these aircraft can pick up airborne targets out to a dis-
+ tance of over 300 km looking down into the lower hemisphere. Accor-
+ dingly, with the Hawkeye deployed some 100 km offshore, it could
+ monitor the entire ten-itory of Lebanon and an adjacent portion of
+Syrian territory at all altitudes.
+    The way in which forces were positioned before commencem ent of
+large-scale air combat (with the combat formation) closely matched, in
+the view of foreign specialists, the combat capabilities of the new
+fighters and the type of tasks they were built to carry out. This posi-
+tioning entailed almost identical features throughout the entire course
+of combat operations: a mixed formation of groups of F-15s and F-16s,
+an airborne command post, and an ECM aircraft. The latter aircraft
+never changed position during the entire dynamic of battle, but instead
+remained constantly on station in their designated patrol zones.
+    The more mobile part of the combat formation consisted of groups
+of F-16s designed for close-in maneuverin g combat. Built especially for
+this function, they embody distinctive aerodynami c, tactical, and han-
+dling characterist ics as well as lightweight fighter ordnance. The less
+maneuverab le portion consisted of groups of F -15s, whose main tasks
+were air surveillance over the battle zone and achievemen t of local
+superiority. The pilot conducts air surveillance with his on-board
+APG-63 radar (capable of detecting airborne targets in the upper
+38
+
+
+hemisphere out to a range of more than 80 km) and seeks local
+superiority through both the performance characteristics of his aircraft
+and the AIM-7F Sparrow medium-range (5-50 km) guided missile.
+   The width of the battle formation was defined by the span of two or
+three fighter CAPs spread out along a front, and its depth by the dis-
+tance between the patrol area of the Hawkeye AWACS (or the Boeing
+707 jammer) and the eastern border of Lebanon. According to data
+from the foreign press, Israeli manned aircraft did not penetrate Syrian
+airspace. Exceptions were flights of pilotless reconnaissance aircraft of
+various types.
+   Before actual ingress into Lebanese territory by Israeli strike groups
+(fighter-bombers and close-support aircraft), the entire combat forma-
+tion assumed a multilayered arrangement outside the immediate com-
+bat area. F-16 lightweight fighters were positioned at the bottom.
+Medium altitudes were occupied by the Hawkeye AW ACS and F-15s.
+Above these (and farthest seaward) was the Boeing 707 jammer. The
+AWACS usually had a pair of F -15s providing direct cover.
+   Each element of the combat formation fulfilled its respective assign-
+ment, but operations by all were coordinated and subordinated to the
+overall plan. Direction, vectoring, and transmittal of information were
+all handled by radio. Automated command and control links existed
+only in the battle management system involving the low-speed Scout •
+and Mastiff reconnaissance drones. Radio transmissions between
+fighters in the combat formation were tightly disciplined and strike fre-
+quencies were left open to the maximum degree possible for use by the
+airborne command post in directing all aircraft operating within the
+combat area or its approach corridors. "Blind" zones in the field of
+view of the Hawkeye AW ACS created by the mountainous topography
+of Lebanon were compensated for by the F-15's search radar, which
+was capable of breaking out airborne targets against ground clutter out
+to a range of about 50 km. To accomplish this, the F-15 would move
+its patrol zone closer in toward the combat area.
+   During the search phase, the responsibilities of the pair were usually
+split up this way: One pilot led the search in the upper hemisphere,
+while the second, following in a line-abreast position about 1000 meters
+out, scanned the lower hemisphere (the overall sectors of search being
+60 degrees up and down). The fighters themselves during this search
+remained under radar control of the AW ACS, which communicated
+advisories about their threat situation.
+   During combat, fighters generally followed directives from the
+AW ACS. The airborne mission commander, positioned in front of the
+main console screen (with a diameter of 25.4 cm), exercised control and
+situation analysis with the aid of on-board computer equipment which
+                                                                        39
+
+
+ processed incoming radar data. Real-time information provided by this
+ system made possible the fulfillment of assigned combat tasks by the
+ fighters. Unidentified airborne targets were denoted by special sym-
+ bols, along with friendly fighters and targets representing the greatest
+ threat. Upon selecting a group to carry out an intercept and commit-
+ting it to battle, the computer equipment would resolve the intercept
+geometry and generate information on the screen regarding the speed,
+altitude, and range of the target. The operator then communicated
+this information to the commander of the fighter group located within
+the actual patrol zone. The fighters then took up the assigned heading
+and assumed autonomous search for the enemy during the convergence
+phase.
+    Pairs of F-16s, inserted into combat at the outset of the convergence
+phase, let down to the lowest possible altitude to escape radar detection
+by the enemy. If, during this time, they flew into sectors unmonitored
+by the airborne command post, they received target designation infor-
+mation from crews of the F-15s. As pointed out by foreign military
+specialists, this was the first time such interaction between fighters had
+ever been practiced. This interaction was brought about by the need
+for constant radar control over all crews in the battle formation from
+the beginning to the end of combined air combat without exception.
+Before closure, the pilot receiyed information about the presence or
+absence of a threat from enemy fighters. When fighters were converg-
+ing at medium or high altitudes, the use of direct deception and decoy-
+ing was ruled out. Stealth in this situation was achieved instead by the
+use of active radio and radar jamming from the Boeing 707 or by
+means of mobile ground stations located on mountaintops.
+    Decisions regarding committal of the F-15 to combat hinged first of
+all on the employment capability of its medium-range weapons-the
+AIM-7F guided missile. This weapon has a semiactive radar homing
+system and therefore is sensitive to the maneuvers of the target. If the
+target remains steady on course for even a short length of time, its
+lock-on and tracking are assured by on-board radar illumination, and
+the radar seeker in the missile head will work reliably. Violent changes
+in the target's course (featuring large heading angles) or altitude
+(featuring a sharp rate of descent) can cause a break-lock. But the
+F-15 can still press on into close combat, because it also carries the
+short-range AIM-9L Sidewinder. This represents a departure from the
+traditional advantages usually associated with an "air superiority"
+aircraft-attacks made possible from medium range. Because of this,
+the probability of being shot down grows. The F-15, full of complex
+electronic equipment, is more than twice as valuable as the F-16,
+designed solely for close-in combat. This in itself constitutes a signifi-
+cant deterrent factor.
+40
+
+
+
+   According to data describing the capabilities of the F-15's APG-63
+radar, the maximum range for illuminating an airborne target in the
+upper hemisphere (greater than 80 km) is twice that of its capability in
+the lower hemisphere. From this logically flows the advisability of
+attacking from below looking up and straight ahead, meeting the
+enemy head-on ("in the face," in the expression of foreign specialists).
+Conditions for such an attack can be created either by a single aircraft
+or by a diversionary group, which by means of certain maneuvers can
+"sucker" the enemy into a desired spatial position. It is from this, in
+the view of foreign specialists, that arises the need for a new type of
+combat formation enabling freedom of movement up and down while
+maintaining mutual support. The strike group is now positioned below
+and the decoy group above, with freedom of both vertical and horizon-
+tal maneuver to make possible evading the enemy and initiating pur-
+suit.
+   Combat formations involving similar responsibilities among diverse
+groups with various mission taskings are not new but have only been
+further perfected. In the series of articles under the general heading
+"How Has Air Combat Changed," published in Aviatsiia i kosmonavtika
+in 1978, formations consisting of decoy, reserve, and strike groups were
+analyzed. There, reference was also made to Phantoms attacking from
+below from an ambush position in the air. However, that analysis
+dealt only with combat by second-generation fighters which could not
+carry out a frontal attack "in the face," but instead had to position
+themselves in the rear hemisphere of the target to employ their short-
+range weapons.
+    Foreign specialists maintain that the all-aspect attack, in spite of its
+complexity and dependence on various complicating factors, has
+asserted itself as a new element in air combat tactics. This may be the
+wave of the future. For the present, such an attack requires thorough
+preparation, in which other aircraft must also participate. It is further
+compounded by limitations imposed by the target, which normally will
+not be inclined to cooperate by flying in a straight line. Moreover, it
+remains necessary for the attack group to acquire target data before
+this information is received by the other side. During combat sorties
+using F-15s (the first of which occurred in 1979), the role of target
+search was delegated to the AW ACS.
+    Foreign specialists hold that coordination of an attack along the
+interception course (from the frontal hemisphere) using short-range
+weapons will be the principal distinguishing feature of air combat in
+ the 1980s. Conjoint employment of multiple aircraft types carrying
+ these weapons and the task of escorting strike aircraft will govern the
+ overall complexion of combat.
+    The practical side of this conclusion derives from an established
+ fact: Aircraft and weapons are ready to carry out maneuvering combat.
+                                                                        41
+
+
+What is left is the preparatio n of the pilot. All the basic propositio ns
+of group maneuver ing combat theory and practice formulate d during
+World War II are well known. Each subsequent generation of fighter
+aircraft has added to and perfected these propositions. But the main
+idea remains unchange d. Looking for some "new in principle" way of
+training, in the view of experts, is a waste of time.
+
+
+                                    II
+
+     The mass productio n and trade of arms is the source of the legen-
+  dary profit-mak ing of the American military-industrial complex. In the
+  race for superprof its, the bosses of firms that have made fortunes on
+ the developm ent of various types of death-dealing products on order of
+ the Pentagon are working out ever-newer weapons. An important
+ place in this huge mass of weapons and technology is taken up by the
+ newest aviation and electronic warfare equipment which was put to the
+ test in the skies over Lebanon.
+     According to the foreign press, the lightweight F-16 (without
+ medium-range missiles) was the most intensively used fighter in com-
+ bat over Lebanon in 1982. Forward-hemisphere attacks without transi-
+ tioning to the maneuver ing phase were episodes heralding the future
+ but were not typical fighter tactics. The following lesson was con-
+ firmed: Radar control over fighters weakens with increasing depth into
+ enemy territory and the probability of sudden attack increases, produc-
+ ing conditions for maneuver ing combat. Air superiority is fundamen -
+ tally achieved by shifting the battle to the enemy rather than over
+one's own territory. (The latter means losing the initiative in the
+ struggle for superiorit y.)                                 •
+    The warning system incorporated in all fighters informed the pilot
+when his aircraft was being tracked by enemy radar and when a missile
+was launched. The pilot would then instantly execute a hard maneuver
+and simultane ously eject a flare, which upon being released from the
+aircraft would emanate an even stronger heat signature than that of
+the aircraft. The seeker head would accordingly shift and steer the
+missile in a false direction. The fighter's warning system was capable
+of automatic ally transmitti ng signals for the release of flares (located
+in an internal fuselage container) without intervention by the pilot.
+    Electronic systems were heavily employed in the air combat arena.
+Besides intensive radio and radar jamming by the Boeing 707 and by
+ground stations set up on Lebanese territory, there were also electronic
+warfare suites aboard combat aircraft. The F-15 and F-16 (the latter
+in a pod variant) carried active jamming systems linked to incoming
+42
+
+
+signal processors. This equipment determined· the greatest relative
+threat, measured the signal frequency, and selected the appropriate
+disorientation interference, using data on the direction of the threat
+source for concentrating force in space.
+   In this way, the on-board jammer automatically locked onto any
+threat that presented itself and directed disruptive signals toward the
+enemy. Modulation of the output multiplied manyfold the effective-
+ness of electronic countermeasures in comparison with older
+transmitters. Besides active means for forcing a break-lock on radar-
+guided missiles, chaff reflectors (passive countermeasures) were also
+employed. On the F-15 and F-16, they were stored-like the flares-in
+special cartridges located in internally mounted fuselage containers.
+After receipt of radar pulses from the system guiding the missile, they
+would be ejected, forming a dense cloud that provided a dummy signal
+return. The probability of shifting the course of the incoming missile
+toward the chaff cloud hinged on the interaction of these factors: com-
+parisons between the effective reflecting surface (radar cross-section) of
+false and real targets; improved signal processing capability for deter-
+mining angle-rate; and the timeliness and correctness of the maneuver
+for getting an aircraft out of the threat radar's illumination zone. For
+greater effectiveness, the chaff reflectors should be ejected instantly
+and in such a way as to present the enemy with an unsolvable radar
+picture.
+   Changes also have occurred in the means of conducting aerial recon-
+naissance. The Israeli command intensively employed pilotless recon-
+naissance aircraft (RPVs). The tendency to substitute these for piloted
+aircraft was established earlier during the air war in Southeast Asia,
+where RPV s carried out over 3000 combat sorties in all. The introduc-
+tion of unpiloted reconnaissance systems came about first of all
+because they are cheaper. According to data from the American press,
+a single modern military reconnaissance aircraft costs around $10 mil-
+lion, whereas a pilotless aircraft costs only $1 million. The resultant
+gains in military capability, according to criteria of cost-effectiveness,
+are self-evident. Second, RPVs permit economizing on resources that
+would otherwise be spent on the training and support of pilots and on
+replacement of combat casualties.
+   The most widely used RPV in Vietnam was the Teledyne Ryan
+BQM-34. After studying the results of its use in combat, the Israeli
+command bought 12 of these systems and used them in the October
+ 1973 war. In contrast to the American approach, whereby the drones
+were dropped primarily from DC-130 mother aircraft, the Israeli tech-
+nique envisaged the launch of RPV s by ground catapults. Following
+the October war, piloted and pilotless reconnaissance platforms
+                                                                         43
+
+
+   continu ed to carry out regular flights over the territory of Arab coun-
+   tries. Their quantity in the Israeli Air Force increased.
+      The BQM-34 RPV mainly did high altitude photography with the
+   aid of a 76 mm focal-length camera.
+      The small radar signature of the RPV is supposed to render its
+   detectio n by enemy radar more difficult. Its small dimensions (especi-
+   ally when observed from the rear) and its ability to maneuver at up to
+   30 degrees of bank and 5 g also make it hard to be visually spotted and
+   attacke d by a fighter.
+      Specialists consider the negative side of the BQM-34 to be its depen-
+. dence on preprogramming on the ground and the impossibility of its
+  program 's being amended in flight. Accordingly, the Israeli Scout and
+  Mastiff RPVs were used for battlefi eld reconnaissance instead. The
+  modified Mastiff (Mk2) is a light, small-size RPV driven by a
+  2-cylinder, 14-horsepower piston engine with a fuel capacity of 22
+  liters. On-board equipment includes a television reconnaissance cam-
+  era, an aerial photo camera, an infrared sensor for forward viewing,
+  and a laser rangefinder and target designa tor. Various alternative con-
+  figurations of this equipment are possible. The principal varian t-
+ featurin g the television camera -provid es a 360-degree view of the
+ earth's surface with a 90-degree azimuth all around.
+     The Mastiff is launched by a pneuma tic catapul t mounted on a
+ truck. A command post, located in a contain er on the truck's chassis,
+ monitor s the flight. Commands to the RPV are relayed by a radar
+ antenna and data from it come back through a receiving antenna .
+ During the Lebanon conflict, the operato r monitored the programmed
+ flight and introduced corrections where necessary. A navigator marked
+ down the actual programmed route of the flight on a 1:12,500-scale
+ map. The ground pilot controlled the on-boar d TV apparatus. Incom-
+ ing images were displayed on a 35-cm TV screen and were recorded on
+ videotape, along with accompanying numeric al data.
+     According to reports in Aviatio n Week, the battlefield reconnais-
+sance system included 4-6 RPVs, mobile direction centers, a crew of 7
+ men, and a launch platform. Besides carryin g out its primary function,
+it was also used to guide ground- attack aircraft against exposed targets
+and to provide post-strike damage assessm ent. Target data were pro-
+vided to strike aircraft carrying laser-guided bombs by a laser range-
+finder aboard the RPV, which designa ted the target with a laser beam_.
+The relatively low cost of this system ($500,000, comparable to the cost
+of a single BQM-34) permitt ed large-scale use of Scout and Mastiff
+RPV s as decoy targets. Foreign speciali sts consider obtainin g precise
+real-tim e information on ground targets a most importa nt factor in air-
+power application and a major advanta ge of these battlefield reconnais-
+sance systems recently tested under combat conditions.
+44
+
+
+    Foreign observers consider the neutralization of air defenses at very
+low altitudes and the increasing scale of guided air-to-surface weapons
+employment as distinctive features of Israeli strike force operations.
+    The first distinctive feature depends on the specific nature of the air
+operations being conducted. In the Lebanon conflict, such operations
+were carried out over a country that did not have modem antiaircraft
+systems. Resistance against the aggressor came from antiaircraft artil-
+lery units, which were organic to combined Arab forces located on
+Lebanese soil in accord with an agreement. The localized character of
+antiair defenses enabled the aggressor to avoid their zones of fire,
+especially by using the cover of high mountain ridges for terrain mask-
+ing. Because of this, there was no need for the aircraft to descend to
+low altitude. (We should recall that low-level penetration was the
+main tactic employed during the October 1973 war, when Israeli air-·
+craft entered Syrian and Egyptian airspace.)
+    Operating outside the low-level environment allowed the Israelis to
+forgo spread-out formations and instead to use close formations, which
+assured greater strike-force density. The flight split up only moments
+before ingress to the target for a two-ship attack (with single aircrafr
+coming in from various directions). A raid of the "star" type [meaning
+unclear-possib ly curvilinear attacks from multiple run-in headings]
+forced a dispersion of fire by air defense forces- covering the target area.
+Dive entry (with a slight angle) commenced at 2500-3000 meters, with
+a pullout at 1500 meters. The strike was executed on the ·first pass,
+without a repeat run over the target. These tactics corresponded to a
+scheme of attacks developed during earlier local wars, in which conven-
+tional (that is, unguided) weapons were used and the lack of aimin1;;
+precision was offset by the quantity of freefall bombs dropped on the
+target.
+    The technique of employing guided weapons differed distinctively
+ from normal group bombing. The higher accuracy of these weapons
+ and the lack of any requirement to put the pipper directly on the target
+ made it possible to avoid committing aircraft in squadron strength.
+ The principle of "each to its own target" applied. Large-scale employ-
+ ment of guided weapons was ruled out, as was the case during the U.S.
+ air aggression in Vietnam, because it was very costly in comparison to
+ ordinary bombing and because munitions stocks were limited. Accor-
+ dingly, guided bombs and missiles were used only for the most impor-
+ tant designated targets.
+    In light of the capabilities of the Scout and Mastiff RPVs and air-
+ to-surface guided weapons, corrections were introduced into the means
+ of combating ground-based air defenses. The traditional approach ust?d
+ by the Israeli Air Force ("blinding" and "suppression") was divided into
+                                                                      45
+
+
+ phases, according to the terminology of Western observers. The first
+ phase-launch of decoy targets-entailed the periodic incursion of
+ cheap RPV s into the zone of antiaircraft fire. This phase lasted
+ several hours, with the goal of keeping the target in constant suspense
+ and physically wearing out the enemy's air defense crews. The second
+phase-blinding-w as fulfilled by passive and active radar counter-
+ measures stations, which created conditions for the undetected pene-
+tration of aircraft to their strike objectives. The third phase entailed
+the actual approach to the target by aircraft carrying PG Ms, using
+guided bombs and rockets to attack vitally important components of
+the enemy's air defense forces. The fourth phase-suppression -was
+carried out by groups of fighter-bombers covering target sectors using
+conventional weapons. (The most common of these were cluster
+bombs filled with small 500-gram submunitions, which at impact had a
+killing effect over a sector 25 times larger than that covered by a 240-
+kg high-explosive bomb.)
+   As emphasized by foreign observers, dividing up the overall raid into
+this sequence of phases is somewhat arbitrary, since there is obviously
+no constancy among such parameters as time, space, and strike objec-
+tives. For this reason, it is not possible to rely on any set means for
+carrying out such strikes. For example, a large role in combat against
+ground-based enemy air defenses this time was carried out by an
+unguided large-caliber surface-to-surface missile called "Wolf' by the
+foreign press. Target coordinates were introduced into its guidance
+system and the weapon could then be fired to a range of about 40 km.
+This missile was the most devastating weapon of all. The unusual
+positioning of air defense assets right on the "front line" in Lebanon
+permitted the application of this technique for conducting a strike,
+which would have been infeasible or inappropriate in different cir-
+cumstances.
+   Aside from the employment of RPV s as fake targets and as a means
+of target designation and steering for guided bombs and missiles car-
+ried by strike aircraft, foreign specialists do not identify any new
+features in these successive phases. They particularly stress that all
+the guided weapons-Shrike, Standard ARM, Walleye, Maverick, and
+winged bombs-supplied to Israel by the USA were already tested dur-
+ing the closing period of the air war in Vietnam. The argument about
+their use in Lebanon outside the engagement range of ground-based air
+defenses has been cast into doubt by foreign experts, since their stand-
+off distance to secure the required aiming accuracy, according to the
+experience of Vietnam, could not exceed 13-16 km. This especially
+applies to the Shrike and Standard ARM missiles with passive radar-
+homing systems.
+46
+
+
+
+    One of the key advantages of the guided munition is its high accu-
+racy. This reduces the amount of manpower needed to engage a single
+target. But this economy (reducing cost while preserving effectiveness)
+is achieved only with a sufficiently complex organization for combat
+support. Aircraft carrying guided ordnance need only suppress the
+medium-range air defenses in the target area and have accurate real-
+time data on the target's location. It is deemed unwise for an aircraft
+with expensive externally mounted weapons to conduct independent
+search in zones in which air defenses have not been suppressed. The
+loss of such an aircraft would be far more costly than the munition
+required for destroying any target of tactical significance to the enemy.
+Therefore, target hunting was carried out by cheaper auxiliary means
+(RPVs) by the Israelis in Lebanon.
+    There is yet another factor which foreign specialists recommend giv-
+ing close attention in the analysis of modern combat experience: Local
+wars often constitute "proving grounds" for the development of novel
+air combat weapons. We can cite examples of combat performance
+evaluation beginning with the USAF F-111 and A-7D; bombs with
+laser, electro-optical, a~d infrared means of guidance; and electronic
+countermeasures that were all tested in Vietnam. We may add to that
+the introduction of the F-15 and F-16 into combat by the Israeli Air
+Force in the Middle East. To create optimum conditions for such test-
+ing, circumstances can sometimes be artificially simplified or, on the
+other hand, rendered more complex, as proved to be the case in last
+year's armed conflict in Lebanon. For this reason, foreign observers
+recommend that local wars be studied critically. This means first and
+ foremost giving them cautious and careful scrutiny and taking into
+account the appropriate qualifications before applying the analysis to
+other situations.
+    In the final analysis, and this warrants underscoring, the Washing-
+ ton purveyors of death and their Tel Aviv disciples are not concerned
+ in the least that the weapons produced in the military factories of the
+ United States and Israel are contributing to the deaths of thousands of
+ peaceful people. The Israeli warmongers, blinded by their Zionist prop-
+ aganda and urged on by the Pentagon, are testing new weapons-
+ including those related to aviation-unde r realistic conditions. But
+ nothing can break the Lebanese people, who are striving for freedom
+ and independence. With the help of the world's progressive forces, the
+ power of their resistance against the Zionist hangmen is gaining
+ strength day by day.
+RAND/R-3000-AF
+

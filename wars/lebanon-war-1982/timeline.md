@@ -3,9 +3,9 @@ title: 1982 年黎巴嫩战争时间线
 type: timeline
 war: lebanon-war-1982
 tags: [timeline, lebanon, 1982]
-sources: [arab-israeli-wars-herzog]
+sources: [arab-israeli-wars-herzog, moscow-lessons-1982-lebanon-lambeth, bekka-valley-war-grant-2002]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-04
 ---
 
 # 1982 年黎巴嫩战争时间线
@@ -79,3 +79,28 @@ updated: 2026-10-22
 ## 相关页面
 
 - [[wars/lebanon-war-1982/index|1982 年黎巴嫩战争]] · 来源：[[sources/arab-israeli-wars-herzog|Herzog]]
+
+## 空中作战的补充日期（Lambeth 口径）
+
+> 以下条目只补 Herzog 未给、或给法不同的日期；与上文同日条目**不重复**，单列以便对照。
+
+- **1981-04-29** — 首批叙军 SA-6 进入黎巴嫩（[[sources/moscow-lessons-1982-lebanon-lambeth|Lambeth]] p.4）。
+- **1981-04-30** — 以空军对当时在黎的 **3 个** SA-6 连做好攻击准备，因天气在四小时内**三次推迟**；
+  随后美方斡旋介入，任务取消（Lambeth p.5 注 3）。
+- **1982-06-09** — 压制与空战的另一组计数：毁 **17/19**（非"19 全毁"）、击落 **23 架**；
+  全程约 **10 分钟**（Lambeth p.6—9）。→ 见 [[concepts/bekaa-1982-numbers-four-sources|多源对照]]。
+- **1982-06-10** — 再击落 **15 架**；摧毁残余与夜间补充的 SAM 阵地（Lambeth p.8—9）。
+- **1982-06-13** — 以 **Yurasov 上将**（苏防空军第一副司令）为首的苏方代表团抵大马士革，
+  为**四次**代表团访问中的第一次（[[events/bekaa-valley-1982-soviet-lessons-dubrov]]）。
+- **1982-07** — 据报苏军总参谋长 **Ogarkov 元帅**亲赴大马士革评估（Lambeth p.13）。
+- **1982-07-01／07-03／07-18／07-20** — 苏方 TASS、《红星报》等相继提出"67 架以机被击落"等口径
+  （[[concepts/soviet-propaganda-lebanon-1982]]）。
+- **1982-08** — 以军 F-4 袭击新进驻贝卡的 **SA-8** 时被击落；另一架 F-4 随即炸毁残骸以防电子战设备落入苏手（Lambeth p.13 注 6）。
+- **1983-09／10** — 苏《航空与航天》连载 Dubrov《黎巴嫩冲突中的航空兵》（Lambeth 附录 p.35—46）。
+
+### 另两组日期（Grant 2002 对 Ivri 的专访）
+
+- **1982-06-08（周二）** — 以军无人机发现 **5 个 SA-6** 自戈兰高地方向调入贝卡；Ivri 据此判断叙方**无意扩大战争**，
+  把原定"打 14 个阵地"改为计入这 5 个（Grant／Ivri）。
+- **1982-06-09 10 时余** — 以内阁批准突击；Ivri 已将发起时间推至 **14:00**；叙方在发起时把战斗巡逻机全部召回降落（同左）。
+- **1982-06-11（周五）正午** — 停火生效；Ivri 口径为"共击落 **82** 架、空战未损失一架"（同左，与其他口径并列）。

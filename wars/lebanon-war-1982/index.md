@@ -4,9 +4,9 @@ type: war
 start_date: 1982-06-06
 end_date: 1982-09
 tags: [war, lebanon, plo, syria, 1982]
-sources: [arab-israeli-wars-herzog, idf-van-creveld-sword-olive]
+sources: [arab-israeli-wars-herzog, idf-van-creveld-sword-olive, moscow-lessons-1982-lebanon-lambeth, bekka-valley-war-grant-2002, hurley-bekaa-lessons-mislearned-1989]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-04
 ---
 
 # 1982 年黎巴嫩战争（"加利利和平行动"）
@@ -183,6 +183,39 @@ updated: 2026-10-22
 - **贝卡空战的第三口径（ch17）**：[[events/bekaa-valley-1982-air-battle-vancreveld|贝卡空战与 SEAD（Van Creveld）]]
   ——100:1 交换比、175 mm 火箭增程弹参与压制、"空中大胜但地面作用有限"与 6-10 误击己方装甲营。
 - 来源：[[sources/idf-van-creveld-sword-olive]]
+
+## 苏联与对手视角（第四来源：Lambeth《Moscow's Lessons from the 1982 Lebanon Air War》, RAND 1984）
+
+> 本节是**对手侧公开文献**：苏联空军上校 V. Dubrov 1983 年两篇文章的全译＋美空军分析家评注。
+> 战果数字并入 [[concepts/bekaa-1982-numbers-four-sources|多源对照表]]，不单独成"又一版战史"。
+
+- [[events/bekaa-valley-1982-soviet-lessons-dubrov|Dubrov《黎巴嫩冲突中的航空兵》与 Lambeth 评注]]
+  ——苏联空军公开口径的五个"教训"、三处重大误判（CAP 依赖 E-2C／E-2C 当"空中 GCI"／贬低全向导弹威胁）。
+- [[concepts/soviet-propaganda-lebanon-1982|苏联宣传口径 1982]]——TASS、Red Star、"67 架以机"、
+  Kashuba 的"决斗故事"，以及战后的 Yurasov／Ogarkov 代表团与 SA-5／SA-8／SS-21 军援。
+- [[concepts/airborne-command-and-control-1982|空中指挥平台与地面 GCI]]——叙利亚纯 GCI、以色列"空中指挥所＋自主搜索"、
+  苏军对 IL-76 预警机的可能用法，三者并列的作战问题。
+- 同期技术叙述补入：[[events/bekaa-valley-1982-sam-suppression|Price 卷 III 的 SEAD 链条]]（增 Lambeth 细化）
+  与 [[events/bekaa-valley-1982-air-battle|贝卡空战主叙事]]（增第九节）。
+- 来源：[[sources/moscow-lessons-1982-lebanon-lambeth]]
+
+## 以空军司令 Ivri 的自我叙述（第五来源：Grant, 2002）
+
+- [[sources/bekaa-valley-war-grant-2002|Rebecca Grant《The Bekaa Valley War》（2002-06-01）]]——**口述史**：
+  Ivri 在特拉维夫指挥所亲自管制（一次只放一个四机编队）、06-08 发现 5 个 SA-6 自戈兰调入后**临机改案**、
+  两小时毁 19 连、半小时约 26 架、停火前 82 架（标题作"87-to-Zip"）、"不损失飞机主要是运气"。
+  并入 [[events/bekaa-valley-1982-air-battle|贝卡空战主叙事]] 第十节与 [[entities/people/david-ivri|David Ivri]] 页。
+- 该文另有前史数字：1973 年前 3 天 1,220 架次损失 50 架、A-4 中 53/170、F-4 中 33/177
+  （[[concepts/iaf-reconstruction-after-1973|1973 年后的重建]] 第八节）；消耗战"空中 1:40 → 对导弹 2:4"
+  （[[events/iaf-attrition-air-war-1969-70]] 第十四节）。
+
+## 教训学习的批评（第六来源：Hurley, 1989）
+
+- [[sources/hurley-bekaa-lessons-mislearned-1989|Hurley《The Bekaa Valley Air Battle, June 1982: Lessons Mislearned?》
+  （Airpower Journal, Winter 1989）]]——**命题与 Lambeth 相反**：Lambeth 批评莫斯科"学错"，Hurley 批评华盛顿"学错"。
+  并入 [[concepts/air-power-lesson-learning-critique|教训学习的批评]]；
+  战况与技术细节（E-2C 的 APS-125／ALR-59、福克兰 AIM-9L 27 发 25 中、Perroots 论叙军"不挖厕所"）并入
+  [[events/bekaa-valley-1982-air-battle|贝卡空战主叙事]] 第十一节。
 
 ## 相关页面
 

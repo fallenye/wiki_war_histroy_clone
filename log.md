@@ -3016,3 +3016,74 @@
 - **本书收线**：来源页 1、机构层 1（`idf-tzahal`）、`concepts/idf-*` 15 页、事件 4（NILI／1936—39 起义／1982 贝卡第三口径／信任破裂）、
   前身组织页 1（`ha-shomer`）、专题 1；7 个战争索引与 3 条时间线挂接；
   两处"误记拟建页"已回退（政治对抗单位、以及未成立的三源合并数字）。
+
+### 2026-11-04（Lambeth《Moscow's Lessons from the 1982 Lebanon Air War》· RAND R-3000-AF, 1984 · 单批完成）
+
+- 来源：`Moscow_Lessons_1982_Lebanon_Air_War_unrestricted.pdf`（62 页）· sha256 `15bc8f6d74c82e7677747ae34784037c03095ce797de0bac4d898da6c1cda104`
+- 提取：pdftotext -layout（用户提供即为 Acrobat Paper Capture OCR 版，未重跑 OCR）；raw 存 `raw/papers/moscow-lessons-1982-lebanon-lambeth/`（pdf＋txt）。
+- 通读：全书 2351 行（前言/摘要/§I—§V/Dubrov 附录 p.35—46），一次通读，无分段遗留。
+- 新建（4）：
+  · `sources/moscow-lessons-1982-lebanon-lambeth.md`——含 OCR 校读说明（!AF=IAF、ia=is、页眉数字混行等）。
+  · `events/bekaa-valley-1982-soviet-lessons-dubrov.md`——Dubrov 原文要点（CAP 正负、"VKP"式中枢、APG-63/上半球 >80 km、
+    双机 1000 m 上下半球搜索、"战斗机之间首次互动"、AIM-7F 5—50 km、全向=未来浪潮、RPV 单价 100 万 vs 有人机 1000 万、
+    Mastiff Mk2 参数、SEAD 四阶段、Ze'ev 40 km 无制导地地弹、Shrike/Standard ARM 防区外仅 13—16 km）＋Lambeth 三处重大误判与结论层。
+  · `concepts/soviet-propaganda-lebanon-1982.md`——1982 年宣传口径逐条清单（06-11 电台、07-01 TASS、07-03 Zamyatin "40 架"、
+    07-18 红星报"67 架"、Kashuba 系列）＋Yurasov/Ogarkov 代表团＋SA-5/SA-8/SS-21 军援。
+  · `concepts/airborne-command-and-control-1982.md`——GCI vs 自主搜索 vs 空中指挥所三种形态的作战概念页。
+  · `concepts/bekaa-1982-numbers-four-sources.md`（comparison 型）——Herzog/Yonay/Van Creveld/Pollack/Lambeth 五列数字对照，不裁决。
+- 更新（4）：
+  · `events/bekaa-valley-1982-air-battle.md` 新增第九节（Lambeth 背景、10 分钟压制次序、90v60、Creech 机型拆分 40/44/1、机炮 7%、
+    叙飞行员"飞 8 字"、Eitan"假想线"）＋frontmatter sources/updated；页首说明改为三源。
+  · `events/bekaa-valley-1982-sam-suppression.md` 增"第二口径：Lambeth 对同一链条的细化"（炮兵/Ze'ev 与 F-4 ARM 按射程分工、四阶段）。
+  · `wars/lebanon-war-1982/index.md` 增"苏联与对手视角"节＋sources/updated。
+  · `wars/lebanon-war-1982/timeline.md` 增"空中作战的补充日期（Lambeth 口径）"9 条（1981-04-29/30、06-09 计数、06-10、
+    06-13 Yurasov、07 Ogarkov、07-01—07-20 宣传、08 SA-8 击落 F-4、1983-09/10 Dubrov 文）。
+- 未建页的说明：Dubrov 与 Lambeth 均未给 E-2C/707A/SA-8/Su-27 的新技术参数（只有零星数字），按"不造浅页"原则不新开装备页；
+  SS-21 仅一处提及，不建页。SCHEMA 无需扩展。
+- 检查：SCHEMA sha256 未变；新增/修改页 YAML 有效、sources 齐、wikilink 未指向不存在页；
+  `events/bekaa-valley-1982-air-battle.md`、`wars/lebanon-war-1982/index.md`、`timeline.md` 编辑时工具报"sibling subagent 修改过"，已按当前内容 patch 未覆盖（patch 前均读取段首）。
+
+### 2026-11-04（Grant《The Bekaa Valley War》· 2002-06-01 · 单批完成，与同日 Lambeth 批次同源战例）
+
+- 来源：`The Bekaa Valley War By Rebecca Grant June 1 2002_20261104140437.pdf`（10 页，重新排版件无 OCR 噪声）·
+  sha256 `bcd7a98b132a07def4fb3f04e37040decce7ee48ff3a6e08f4fc74e5bb6e23f7`；
+  归档 `raw/articles/bekaa-valley-war-grant-2002.pdf`＋`.txt`（原文件名的 `2026…` 为导出时间戳，已更名）。
+- 性质：对 1982 年以空军司令 **David Ivri** 的专访式叙述（大量直接引语），非档案研究；作者为 IRIS 总裁、Eaker Institute 研究员，
+  文体属美国空军协会系统刊物。文中"ZSU-24"为笔误（应为 ZSU-23-4），页内已标〔原文作 ZSU-24〕。
+- 新建（1）：`sources/bekaa-valley-war-grant-2002.md`。
+- 更新（6）：
+  · `events/bekaa-valley-1982-air-battle.md` 增第十节（战前 1967/消耗战/1973 账、1981 红线与奥西拉克、06-08→06-09 改案、
+    两小时毁 19 连、四机编队放行、"半小时约 26 架"、停火 82 架／标题 87-to-Zip、LGB"太慢没用"、两周后"四打三中"、
+    "买飞毛腿"与苏联震动）＋sources 改四源。
+  · `entities/people/david-ivri.md` 增"Grant 2002 专访"节＋sources/updated。
+  · `concepts/bekaa-1982-numbers-four-sources.md` 增第五节 Grant 列与附：1973/1967/消耗战数字；标头改"多源"。
+  · `concepts/iaf-reconstruction-after-1973.md` 增第八节（1,220 架次/50 架/4%、A-4 53/170、F-4 33/177、10-14 埃 28 架、
+    战末一次损失 5 架 Phantom、SAM 庇护 SS-21）＋sources/updated。
+  · `events/iaf-attrition-air-war-1969-70.md` 增第十四节（Mason 交换比 1:40→2:4，标注为转引、与全期总账不同算法）＋sources/updated。
+  · `wars/lebanon-war-1982/index.md` 增"以空军司令 Ivri 的自我叙述（第五来源）"节＋sources；
+    `wars/lebanon-war-1982/timeline.md` 增 06-08、06-09 内阁放行、06-11 正午三组 Grant 口径日期＋sources。
+- 未改动：奥西拉克页（Grant 的"14 架"与该页既有"8 架 F-16＋6 架 F-15"其实相容，不新增内容）；Ezer Weizman 页
+  （"翅膀被 SAM 折断"一语已见于既有页所引同源转述，判断后不重复加）。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；新页 YAML 有效、sources 齐、无断链；数字一律并列未择优；
+  三处既有页编辑时工具报 sibling 写入，均按当前磁盘内容 patch。
+
+### 2026-11-04（Hurley《The Bekaa Valley Air Battle, June 1982: Lessons Mislearned?》· Airpower Journal Winter 1989, pp.60—70）
+
+- 来源：`1989_Vol3_No4.pdf`（Airpower Journal 第 III 卷第 4 期整刊，103 个 PDF 页，18 MB）·
+  sha256 `aceba37b8449091d8d1cfc588e2e087fd8e4c292b5ee33d9b7c5210e7ff89934`；
+  归档 `raw/articles/airpower-journal-1989-v3n4/`（pdf＋全刊 txt＋本文按页切分 txt）。
+- 范围判定：本期其余各篇（Boyd 领导力、Carter 凸出部空权、Davis 军官 PME、Berkowitz 反卫星与战略稳定、
+  Allard 1945—50 军种间差异、书评/索引）**与既有战争线无实质关联，未摄入**，raw 保留整刊。用户指定的
+  "这本书"在库内按**一篇文章**处理（全篇 p.60—70 一次通读，无遗留段）。
+- OCR：Acrobat Paper Capture；字距被插入空格、页眉页码乱码（b7=67、b'J=69、/une=June、AVVACS=AWACS、LIS=US）；
+  校读项已在来源页 content_note 记明。
+- 新建（2）：
+  · `sources/hurley-bekaa-lessons-mislearned-1989.md`
+  · `concepts/air-power-lesson-learning-critique.md`——Lambeth（敌手误学）／Hurley（己方误学）双向对读。
+- 更新（3）：
+  · `events/bekaa-valley-1982-air-battle.md` 增第十一节（前史、SANA 口径、技术表：APS-125／ALR-59、福克兰 27 发 25 中、
+    VHF FM 30—88 MHz、EL/L-8200、RPV 激光指示、turnaround <10 分钟、F-4 600 项改装；Perroots／Eitan／Tlas 转引）＋五源标头。
+  · `concepts/bekaa-1982-numbers-four-sources.md` 增第六节 Hurley 列，标头改"七个来源"。
+  · `wars/lebanon-war-1982/index.md` 增"教训学习的批评（第六来源）"节＋sources。
+- 未改：timeline（本文无新日期）、`entities/equipment/sa-6-2k12-kub.md`（本文无 SA-6 新参数）。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；新页 YAML 有效、sources 齐、无断链；数字并列未择优。
