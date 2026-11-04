@@ -3087,3 +3087,120 @@
   · `wars/lebanon-war-1982/index.md` 增"教训学习的批评（第六来源）"节＋sources。
 - 未改：timeline（本文无新日期）、`entities/equipment/sa-6-2k12-kub.md`（本文无 SA-6 新参数）。
 - 检查：SCHEMA sha256 `191cd20f…`（未变）；新页 YAML 有效、sources 齐、无断链；数字并列未择优。
+
+### 2026-11-04（《Под жарким солнцем Сирии》· Г.П. Яшкин 回忆 · 《红星报》"我们是国际主义者"项目 · 网页转载 2015-10-31）
+
+- 来源：`Под жарким солнцем Сирии_20261104155940.pdf`（俄文，文本型排版件，西里尔完整无 OCR 噪声）·
+  sha256 `94e2a29667b4897b6898e51114e3ea6a98406d2eae2c0cd41b5ee041fddf18d0`；
+  归档 `raw/articles/soviet-redstar-yashkin-syria-2015/`。
+- 范围：单篇回忆全文（286 行）一次通读；无遗留。
+- 性质：苏方当事人（1980—1984 驻叙首席军事顾问）回忆，带宣传框架；全部战果数字为苏／叙口径。按 PRC 官方侧单源的规则处理：照录＋标口径，不合并、不裁决。
+- 新建（6）：
+  · `sources/yashkin-syria-krasnaya-zvezda-2015.md`（含"未提萨布拉—夏蒂拉屠杀"这一史料空白说明）
+  · `events/soviet-military-advisors-lebanon-1982.md`——顾问团在 1980—1984 的行动与苏方口径（06-03 电报、06-08 Захрани 河、
+    06-09 四个坦克师 100 km 正面、四天 958 架次／击落 23 架／防空毁 27 架、120 枚 Фагот、07-20 Носенко 指挥所遭遇战、
+    Губкин 临时接掌第 10 机械化师、10 月莫斯科会谈、1983-12 封锁、1984-03 撤离、总参总账 16,282 人／亡 44 人）
+  · `entities/people/grigory-yashkin.md`
+  · `entities/organizations/soviet-231st-aa-missile-regiment.md`（仅番号与照片说明，参数一律留白，与 SA-5 页并列不等同）
+  · `entities/equipment/9k111-fagot.md`（120 枚、每型 6 个基数、越野车机动反坦克排、毁坦克 150+／第 21 机械化旅 59 辆）
+  · `concepts/soviet-advisors-military-assistance-model.md`（顾问／专家／作战分队三层级与四条边界）
+- 更新（3）：`concepts/bekaa-1982-numbers-four-sources.md` 增第七节（叙／苏口径列，标头改八个来源）；
+  `wars/lebanon-war-1982/index.md` 增"苏联顾问与叙方口径（第七来源）"节；`timeline.md` 增"苏方顾问团视角"15 条日期（含 06-05 与 06-04 的日期分歧并列）。
+- 未建页：Тлас、阿萨德、Устинов 等均已在库或仅一处提及（Тлас 为叙防长且此前已有转引，本批只在新事件页随文出现，未单开页）。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；9 个新增/改动页 YAML 有效、sources 齐、无断链。
+
+### 2026-11-04（Tlas 访谈《‘War of Liberation’》· Der Spiegel 1984-11-22 期 · 英译 Edna McCown）
+
+- 来源：`‘War of Liberation’ A Talk with the Syrian Defense Minister_20261104160910.pdf`（文本型重排版，无 OCR 噪声）·
+  sha256 `f2f02ade65937f4fa47a30b60ced232e07f260cf69198c1277916d5bf0697a6f`；
+  归档 `raw/articles/tlas-der-spiegel-1984/`。
+- 范围：全文 755 行一次通读，无遗留。
+- 性质：叙国防部长塔拉斯战后两年半的立场访谈（宣传／自我辩护），与同日 Яшкин 苏方顾问回忆构成"两方当事人口径"。
+  核报复保证一节只记"Tlas 如此宣称"，明确标注不得据此推定苏方承诺。
+- 新建（4）：
+  · `sources/tlas-der-spiegel-1984.md`（访谈结构、硬信息表、采访者反驳、使用纪律）
+  · `events/lebanon-1982-syrian-defense-minister-interview.md`（七板块＋采访者反驳＋史料价值）
+  · `entities/people/mustafa-tlas.md`（生平按访谈编者介绍；出生年标"据 52 岁推算"）
+  · `concepts/syrian-strategic-doctrine-tlas.md`（"解放战争"理论：来源、三阶段、与常规军建设的张力）
+- 更新（4）：`entities/equipment/sa-5-1983.md`（增叙方口径：240 km、霍姆斯—贝鲁特、指挥权、无线电连大马士革，与 Herzog 并列）；
+  `concepts/bekaa-1982-numbers-four-sources.md` 增第八节（Tlas 列，标头改九个来源）；
+  `wars/lebanon-war-1982/index.md` 增"叙方部长的公开表态（第八来源）"节；`timeline.md` 增 1984-11-22 条目。
+- 修正记录：编辑 `sa-5-1983.md` 的 updated 时我误删了 frontmatter 结束的 `---`，已即时补回并复验 YAML 通过（8 个改动页全部 yaml True）。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；新增/改动 8 页 sources 齐、无断链。
+
+### 2026-11-04（《موسوعة السياسة والحرب في بلاد الشام》第 3 卷 · 只摄入 1982 年战争章）
+
+- 来源：`Noor-Book.com  موسوعة السياسة و الحرب في بلاد الشام 3 .pdf`（1109 PDF 页，叙利亚图书总局／文化部 2011；
+  作者 Ibrahim Mustafa al-Mahmud 准将，序 Ali Habib 少将）· sha256 `1ba4dc00…`；归档 `raw/articles/shama-politics-war-vol3/`（pdf＋全文 txt）。
+- 范围：按用户指示**仅 1982 年战争内容**——本书本章＝印刷页 366—500（PDF 页 880—1020）；
+  PDF 881/1014/1023 三处章首标题（"حرب عام ١٩٨٢م"、"المنطقة بيئة استراتيجية جديدة"）。其余（古代—2006 年战争、1948—2000 各战、2006 战争、书目与附录）未摄。
+- OCR：扫描件文字层存在**阿拉伯数字反转**与字距扩大；数字与专名均按上下文还原，标〔OCR〕。
+- 新建（3）：
+  · `sources/shama-encyclopedia-vol3-1982.md`
+  · `events/sultan-yaqub-battle-1982.md`——库内**第一份叙方专章**的战例叙述：06-10 第 58 机械化旅受领任务、
+    06-11 以军"精选旅"营陷入"火袋"、以军空袭打错目标（打第 81 旅后卫）、弃 8 辆 M48A5、
+    叙方称毁／弃 61 辆装甲车、以军 4 死 6 伤；附本书 14 条"教训"与作者 1982-06-11 前线勘察见闻（含心理战广播细节）。
+  · `concepts/lebanon-1982-force-balance-syrian-source.md`——三方兵力与阶段划分（巴解 12–14k、叙军"一个加强装甲师" 30k/300 车/300 炮、以军 169k 现役／125–150k 投入）。
+- 更新（3）：`concepts/bekaa-1982-numbers-four-sources.md` 增第九节（叙方百科 vs Pollack 的直接冲突表，标头改十个来源）；
+  `wars/lebanon-war-1982/index.md` 增"叙方百科：苏丹雅各布之战（第七来源）"节；
+  `timeline.md` 增 8 条叙方百科日期（含 06-05 内阁决定、1982-12 末多国部队进驻——与库内 08 月口径并列）。
+- 未建页：哈比卜少将（仅为序作者与专著作者，本书未给生平）；"精选旅"、第 58 机械化旅、第 622 营等仅一处提及，不单开部队页。
+- 检查：SCHEMA sha256 `191cd20f…`（未变）；6 个新增/改动页 YAML 通过、sources 齐、无断链；页码已按 PDF↔印刷页实测校正。
+
+### 2026-11-04（《الغزو الإسرائيلي للبنان》第二册 · 贝鲁特 1989 · OCR 版）
+
+- 来源：`ocr_Noor-Book.com  الغزو الإسرائيلي للبنان 2 .pdf`，807 页扫描件（用户明示 OCR），
+  sha256 `de237b2b2d41816bc1a73bce90011aca7a30abcb1e68998477001c0ec5dbbcaa`。
+  作者未署名；卷首为"武装力量总司令致其战斗员"训令，按体例系叙利亚军方／官方出版物。出版批号 ١٠٨١٣，登记 1989-11-09。
+  raw：`raw/articles/israeli-invasion-lebanon-book2/`（pdf + pdftotext 全文）。
+- 范围：用户限定"上个世纪 80 年代有关以叙在黎巴嫩的战争"。实摄第六（贝卡空战，pp.276—317）、
+  第七（贝卡地面战，pp.318—369）、第十（萨布拉—夏蒂拉，pp.516—539）三章为骨；
+  第八（贝鲁特围城）、第九（政治倡议）、第十一（1980 年代后期）只取与叙军／以叙交战相关段落。
+  第五章末与索引页不摄；第一册不在范围。
+- 立场：叙利亚／阿拉伯官方一侧，战果只记本方；但大量直引以色列报刊与将领原话（Haaretz／Yediot／Maariv／
+  HaOlam HaZeh、沙龙、艾坦、Drori、Bar Kokhva、Buis），本库均按"转引"记，未回查以方原刊。
+- 新建（5）：
+  - `sources/israeli-invasion-lebanon-book2.md`（含 11 条 OCR 校正表）
+  - `events/bekaa-valley-1982-palestinian-account.md`（6/9 逐时时序；"战管被打瘫后 70 机对 90 机"）
+  - `events/bekaa-valley-1982-beqaa-ground-battle.md`（兵力、6/6—6/11 逐日、苏丹雅各布的分散写法）
+  - `events/beirut-siege-1982-palestinian-account.md`（"消耗战"三阶段、65 天推进 7 km／500 m／150 m）
+  - 无新实体页：本书提及的以方人名（Eitan／Drori／Yaron／Schreiber／Buchnil）均已在库或属以方单源转引，
+    不为转引开人物页；T-72 页已存在，未据本书改写。
+- 更新（5）：
+  - `events/sabra-shatilla-massacre-1982.md` 增第二节（PLO 口径）：38 小时、150 人、Eitan—Drori—Yaron—Hobeika
+    指挥链、黎军两次拒绝（Aoun／Wazzan）、加沙医院、两段无线电通话；与 Herzog 的**共同面／冲突面**分表列。
+  - `concepts/bekaa-1982-numbers-four-sources.md` 增第十节（第十一来源），并标出"70 对 90"与 Lambeth
+    "90 对 60"的**互为镜像**关系。
+  - `wars/lebanon-war-1982/index.md` 增"阿拉伯（PLO／叙）官方实录（第八来源）"节。
+  - `wars/lebanon-war-1982/timeline.md` 增 11 条（1981-04-28/29 导弹入贝卡、06-07 Shebaa、06-08 1794 高地、
+    06-08/09 夜袭、06-09 14:10 干扰、06-10 直升机机降、06-11 T-72 反攻与 12:00 停火、09-15 入西贝鲁特、
+    09-16 入营、09-24 多国部队重返）。
+- **顺带修库内既有断链**：`bekka-valley-war-grant-2002`（错误拼写）→ `bekaa-valley-war-grant-2002`，
+  涉及 `events/bekaa-valley-1982-air-battle.md`、`events/iaf-attrition-air-war-1969-70.md`、
+  `concepts/bekaa-1982-numbers-four-sources.md`、`concepts/iaf-reconstruction-after-1973.md`、
+  `entities/people/david-ivri.md`、`wars/lebanon-war-1982/index.md`、`wars/lebanon-war-1982/timeline.md`、
+  `sources/bekaa-valley-war-grant-2002.md` 共 8 处。此错自 Grant 批即存在，此前校验脚本按文件名反查未捕获。
+- OCR 处理：阿拉伯数字未出现"反转书写"（与第 3 卷百科不同），但出现 `Howk/Hawk Eye`、`حاضبيا`→`حاصبيا`、
+  `قليه`→`قليعة`、`م د`（مضادة للدروع）、章节标题空格丢失、拉丁/阿拉伯数字混排等；已在来源页列校正表。
+- 待人工裁定：本书"叙军在贝卡初始兵力＝一个加强旅"与叙百科"一个加强装甲师 30,000 人"、Herzog／Pollack 的
+  "师级集群"三者并列未合并；本书 T-72 反攻"压退 10 km"与 Pollack 的"叙军反攻被击退"正相反。
+- **2026-11-04 补充（核原文用词后）**：两本叙方书的原词不同——第 3 卷百科（2011）作 **فرقة مدرعة معززة**（师，约 3 万人，
+  语境是"在黎全境的阿拉伯威慑部队"）；第 2 册（1989）作 **بلواء معزز**（旅，语境是"开战日驻扎在贝卡的兵力"）。
+  同书内 فرقة 专用于以军编成，故非笔误。百科另给：开战日仅第 1 装甲师（萨菲）满编在贝卡，另有 85 步兵旅／62 机步旅／
+  51 装甲旅独立旅集群，6/11 再投入第 3 装甲师（法耶兹）。据此两说很可能不在同一层次（全境 vs 贝卡一地），
+  但两书均未明说统计范围，本库仍按两种口径并列，不合并为"叙军在贝卡 3 万人"；层次判读记在
+  `concepts/lebanon-1982-force-balance-syrian-source.md` 第一节小表，标"待核"。
+- **补摄（同批第 5 章）**：`sources/israeli-invasion-lebanon-book2.md` 第 5 章"اجتياح جزين ومعارك الجبل"
+  （PDF 页 230—274／印刷页 231—276）全文实读，新建
+  `events/jezzine-and-mountain-war-1982-palestinian-account.md`：
+  杰津地理与叙军"安全部署"（自承非战斗部署）、06-04/05 提高战备、06-06—09 杰津争夺（Jbaa 一个排守 3 小时、
+  Hitoura、Dahrat al-Ramla）、06-08 两次海上登陆并 15:00 抵 Beit al-Din、Madayrij 节点、
+  Ayn Zahlta—Madayrij 血战（00:40 白刃、09:30 Gazelle 毁 6 辆、Samqaliya 指挥所）、
+  06-10 Tal Aghmid 空降与叙军脱离机动、Qabr Shmun（8 死 15 伤未失守）、
+  **截获以军无线电**（"损失太大、目标无法达成"）、Bahamdoun 巷战（两批各约 50 辆坦克）、
+  06-26/27 山区接触线定型；数字：以方自认 29 死 141 伤（06-24）、累计 252、七日推进约 35 km（日均 400—500 m）。
+- 同步更新：`wars/lebanon-war-1982/index.md` 第八来源节新增首条；`wars/lebanon-war-1982/timeline.md`
+  新增"杰津与山区之战（本书第 5 章）"19 条；来源页实摄范围表加第 5 章、"未摄"改为第 1—4、12—15 章。
+- **一处并列未调和**：本书称 06-09 空袭 Samqaliya 以军指挥所，**以军副总参谋长阵亡**（称以方承认）；
+  库内以方来源（Van Creveld ch17）只记前总参司长 **Yekutiel Adam**"以某种任务"进入黎巴嫩、"死因至今不明"，
+  无日期、地点、军衔。两者并列，未合并，亦未据此新建人物页。

@@ -4,7 +4,7 @@ type: concept
 concept_type: analysis
 war: yom-kippur-war
 tags: [iaf, 1973, reform, doctrine]
-sources: [no-margin-for-error-yonay, bekka-valley-war-grant-2002]
+sources: [no-margin-for-error-yonay, bekaa-valley-war-grant-2002]
 created: 2026-10-22
 updated: 2026-11-04
 ---

@@ -6,7 +6,7 @@ war: war-of-attrition-1969-70
 start_date: 1969-06-17
 end_date: 1970-08-07
 tags: [iaf, attrition, 1970, air-war]
-sources: [no-margin-for-error-yonay, arab-israeli-wars-herzog, arabs-at-war-pollack, bekka-valley-war-grant-2002]
+sources: [no-margin-for-error-yonay, arab-israeli-wars-herzog, arabs-at-war-pollack, bekaa-valley-war-grant-2002]
 created: 2026-10-22
 updated: 2026-11-04
 ---

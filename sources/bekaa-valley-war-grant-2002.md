@@ -6,7 +6,7 @@ author: Rebecca Grant
 orig_title: "The Bekaa Valley War"
 publisher: 未标注（PDF 元数据作者为 admin、Creator 为 WPS 文字；据文末作者简介，其身份为 IRIS Independent Research 总裁、Eaker Institute 研究员，常文见于美国空军协会刊物 Air Force Magazine）；2002-06-01
 lang: en
-filename: bekka-valley-war-grant-2002.pdf（由原文件 "The Bekaa Valley War By Rebecca Grant June 1 2002_20261104140437.pdf" 更名归档）
+filename: bekaa-valley-war-grant-2002.pdf（由原文件 "The Bekaa Valley War By Rebecca Grant June 1 2002_20261104140437.pdf" 更名归档）
 pages: 文章正文无页码（PDF 内 ~10 页），文本层 909 行／23.6 KB
 sha256: bcd7a98b132a07def4fb3f04e37040decce7ee48ff3a6e08f4fc74e5bb6e23f7
 extracted_text: raw/articles/bekaa-valley-war-grant-2002.txt

@@ -4,7 +4,7 @@ type: entity
 entity_type: person
 war: lebanon-war-1982
 wars: [yom-kippur-war, lebanon-war-1982]
-sources: [arab-israeli-wars-herzog, bekka-valley-war-grant-2002]
+sources: [arab-israeli-wars-herzog, bekaa-valley-war-grant-2002]
 created: 2026-10-22
 updated: 2026-11-04
 ---

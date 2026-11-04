@@ -4,7 +4,7 @@ type: war
 start_date: 1982-06-06
 end_date: 1982-09
 tags: [war, lebanon, plo, syria, 1982]
-sources: [arab-israeli-wars-herzog, idf-van-creveld-sword-olive, moscow-lessons-1982-lebanon-lambeth, bekka-valley-war-grant-2002, hurley-bekaa-lessons-mislearned-1989]
+sources: [arab-israeli-wars-herzog, idf-van-creveld-sword-olive, moscow-lessons-1982-lebanon-lambeth, bekaa-valley-war-grant-2002, hurley-bekaa-lessons-mislearned-1989, yashkin-syria-krasnaya-zvezda-2015, tlas-der-spiegel-1984, shama-encyclopedia-vol3-1982, israeli-invasion-lebanon-book2]
 created: 2026-10-22
 updated: 2026-11-04
 ---
@@ -216,6 +216,50 @@ updated: 2026-11-04
   并入 [[concepts/air-power-lesson-learning-critique|教训学习的批评]]；
   战况与技术细节（E-2C 的 APS-125／ALR-59、福克兰 AIM-9L 27 发 25 中、Perroots 论叙军"不挖厕所"）并入
   [[events/bekaa-valley-1982-air-battle|贝卡空战主叙事]] 第十一节。
+
+## 苏联顾问与叙方口径（第七来源：Яшкин 回忆，《红星报》）
+
+- [[events/soviet-military-advisors-lebanon-1982|苏联驻叙军事顾问团与 1982 年战争]]——1980—1984 年首席军事顾问
+  **Г.П. Яшкин 大将**的回忆：06-03 电报预判入侵、叙军假目标与 Захрани 河防御、四天叙空军 **958 架次**与
+  "击落以机 23 架＋防空毁 27 架"、**120 枚「Фагот」**与机动反坦克排、苏军顾问指挥所遭空降袭击、10 月莫斯科会谈决定派遣两个 ЗРП。
+- 人物／部队／装备／制度：[[entities/people/grigory-yashkin]] ·
+  [[entities/organizations/soviet-231st-aa-missile-regiment]] · [[entities/equipment/9k111-fagot]] ·
+  [[concepts/soviet-advisors-military-assistance-model|苏联军事顾问与军援模式]]
+- 数字并列：[[concepts/bekaa-1982-numbers-four-sources|多源对照]]（第七节）。
+
+## 叙方部长的公开表态（第八来源：Tlas 1984《明镜》访谈）
+
+- [[events/lebanon-1982-syrian-defense-minister-interview|1984-11 塔拉斯《明镜》访谈（"解放战争"）]]——
+  **叙方部长的完整立场**：否认"军事失败"、承认"以色列电子优势摧毁贝卡防空"与"部队未按战斗编成展开"、
+  称贝鲁特叙军 187 人阵亡／PLO 166 人、T-72 "只有 7 辆抛锚"、SA-5 射程 240 km 且由叙方指挥、
+  以及对阿拉法特与 PLO 的全面抨击。
+- 人物与思想：[[entities/people/mustafa-tlas]] · [[concepts/syrian-strategic-doctrine-tlas|"解放战争"战略思想]]
+- 数字并列：[[concepts/bekaa-1982-numbers-four-sources]]（第八节）。
+
+## 叙方百科：苏丹雅各布之战（第七来源）
+
+- [[events/sultan-yaqub-battle-1982|苏丹雅各布之战（1982-06-10—11）——叙利亚官方百科口径]]：
+  叙军第 58 机械化旅在东段以"火袋"阻击以军"精选旅"，本书称以军 **61 辆**坦克／装甲车被毁或弃、
+  己方仅数人伤亡；作者本人 1982-06-11 随塔拉斯之命赴前线勘察的记录也在其中。
+- 兵力与阶段：[[concepts/lebanon-war-1982-assessment|战争评价]]之外的独立数字页
+  [[concepts/lebanon-1982-force-balance-syrian-source|叙方兵力对比（2011 百科口径）]]。
+- 来源：[[sources/shama-encyclopedia-vol3-1982]]（**仅摄入 1982 年战争章**，全书其余部分未摄）。
+
+## 阿拉伯（PLO／叙）官方实录（第八来源）
+
+- [[events/jezzine-and-mountain-war-1982-palestinian-account|杰津与山区之战（06-06—27）]]：
+  杰津"孤悬前哨"的迟滞战、06-08 舒夫海上登陆、Ayn Zahlta—Madayrij 血战、Qabr Shmun、
+  Bahamdoun 巷战（以军两批各约 50 辆坦克）、截获以军无线电"损失太大、目标无法达成"、七天推进约 35 km。
+- [[events/bekaa-valley-1982-palestinian-account|贝卡空战——"战管被打瘫后的空中值班兵力"]]：
+  14:00 集结、14:10 全谱干扰、F-4 35 km 外发射反辐射弹、约 15 分钟后导弹营"暂时瘫痪"、
+  14:10—14:35 首波、15:45 第二波；本书以"叙 70 架对以 90 架"重述首日。
+- [[events/bekaa-valley-1982-beqaa-ground-battle|贝卡地面作战与苏丹雅各布]]：把苏丹雅各布拆写进 06-10 机动防御与 06-11
+  T-72 反攻（称压退以军 10 km）；引 Yediot 记以军营 5 日损失 22 辆坦克、18 死 87 伤、旅长 Schreiber 阵亡。
+- [[events/beirut-siege-1982-palestinian-account|贝鲁特围城]]：以"消耗战"定性；65 天机场方向仅推进 7 km、
+  南郊 500 m、博物馆区 150 m。
+- [[events/sabra-shatilla-massacre-1982|萨布拉—夏蒂拉]] 第二节：长枪党 150 人入营、38 小时、
+  艾坦—Drori—Yaron—Hobeika 指挥链、两段无线电通话。
+- 数字见 [[concepts/bekaa-1982-numbers-four-sources]] 第十节。
 
 ## 相关页面
 

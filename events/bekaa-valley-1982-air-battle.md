@@ -6,7 +6,7 @@ war: lebanon-war-1982
 start_date: 1982-06-09
 end_date: 1982-06-11
 tags: [iaf, 1982, sam, bekaa, syria]
-sources: [no-margin-for-error-yonay, arab-israeli-wars-herzog, moscow-lessons-1982-lebanon-lambeth, bekka-valley-war-grant-2002, hurley-bekaa-lessons-mislearned-1989]
+sources: [no-margin-for-error-yonay, arab-israeli-wars-herzog, moscow-lessons-1982-lebanon-lambeth, bekaa-valley-war-grant-2002, hurley-bekaa-lessons-mislearned-1989]
 created: 2026-10-22
 updated: 2026-11-04
 ---
