@@ -3,9 +3,9 @@ title: 伊拉克军事效能总评（1948—1991）
 type: concept
 concept_type: assessment
 tags: [iraq, effectiveness, synthesis]
-sources: [arabs-at-war-pollack]
+sources: [arabs-at-war-pollack, malovany-wars-of-modern-babylon]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 # 伊拉克军事效能总评（1948—1991）
@@ -93,5 +93,9 @@ updated: 2026-10-22
   [[concepts/iraq-doctrine-firepower]]
 - 对照：[[concepts/egypt-military-effectiveness-pollack]] ·
   [[concepts/arab-military-ineffectiveness-pollack|总诊断]]
-- 专题：[[topics/arab-military-effectiveness-pollack|阿拉伯军事效能专题]]
-- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2
+- 专题：[[topics/arab-military-effectiveness-pollack|阿拉伯军事效能专题]] ·
+  [[topics/iraqi-army-malovany|伊拉克军队 1921—2003（Malovany 专题）]]
+- **并列（伊方总结与 2003 年对照）**：[[concepts/iraq-2003-defeat-analysis-malovany|伊方对 2003 年败因的分析]]
+  ——两页对"政治—指挥层是致命项、士兵非主因"的判断高度一致，但 Malovany 坚持 1988 年
+  伊军确有真实的战役能力提升，与本页"战术恒定低水平"的判断并列。
+- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2 · [[sources/malovany-wars-of-modern-babylon|Malovany]]

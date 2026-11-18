@@ -3,7 +3,7 @@ title: Ingwald Haugen（Lt Col；QRC‑160 干扰吊舱“四机编队”构想�
 type: entity
 entity_type: people
 nationality: 美国
-role: 空军军官/EW 演进者（埃格林测试 Project: Problem Child 时期）
+role: "空军军官/EW 演进者（埃格林测试 Project: Problem Child 时期）"
 wars: [vietnam-war]
 aliases: [Ingwald Haugen, Haugen 中校]
 sources: [f-105-wild-weasel-vs-sa2]

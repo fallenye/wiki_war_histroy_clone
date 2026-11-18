@@ -67,3 +67,12 @@ updated: 2026-11-04
 
 - [[events/bekaa-valley-1982-air-battle]] · [[concepts/bekaa-1982-numbers-four-sources]] ·
   [[concepts/airborne-command-and-control-1982]] · [[events/bekaa-valley-1982-soviet-lessons-dubrov]]
+
+## 对照：Hallion 的"误用产生误解"（来源㉚）
+
+- [[sources/hallion-storm-over-iraq|Hallion]] ch1 对越战的判词是"**误用产生误解**"：
+  空权无效不是因为技术失灵，而是因为政治约束与逐级升级（滚雷的 route package）。
+  → [[concepts/air-power-legacy-hallion]]
+- 与本页（Lambeth/Hurley）的张力：本页强调"双方都可能学到错的教训"，
+  Hallion 则把 1991 年的胜利视为"学对了"的证据。两者**并列**，本库不裁断。
+  同一作者在 [[sources/rolling-thunder-1965-68-hallion|《Rolling Thunder 1965-68》]] 中的立场可作对读。

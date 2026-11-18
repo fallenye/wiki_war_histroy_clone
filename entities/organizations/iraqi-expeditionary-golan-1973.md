@@ -4,9 +4,9 @@ type: entity
 entity_type: unit
 wars: [yom-kippur-war]
 tags: [unit, iraq, golan, yom-kippur-war]
-sources: [yom-kippur-war-rabinovich, arabs-at-war-pollack]
+sources: [yom-kippur-war-rabinovich, arabs-at-war-pollack, malovany-wars-of-modern-babylon]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 # 伊拉克远征军（1973 年 10 月）
@@ -40,3 +40,8 @@ updated: 2026-10-22
 
 - [[golan-counteroffensive-1973]] · [[ceasefire-violations-third-army-encirclement-1973-10]]
 - [[entities/people/hafez-al-assad|阿萨德]] · [[entities/places/golan-heights|戈兰高地]]
+- **Malovany 的伊方逐日叙述（第三来源）**：[[sources/malovany-wars-of-modern-babylon|其书]] ch2 记有
+  12 装甲旅自伊拉克经 H-3 摩托化 1,300 km 于 10-10/11 抵戈兰、10-12 与 Laner 师在 Kfar Shams—Tel al-Mas'hara
+  交战（战斗群制、"Al-Mu'tasim"与"Qutaiba"两个坦克团）、10-16 第 6 装甲旅自 Sanamein 进攻、
+  10-18/19 夜袭 Tel 'Antar 等；并给出伊方总战损 **835 死、73 失踪、271 伤，损飞机 26 架、
+  装甲车辆 111 辆、其他车辆 250 辆**（两书并列，不合并）。

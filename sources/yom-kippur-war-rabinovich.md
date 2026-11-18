@@ -1,5 +1,5 @@
 ---
-title: 《The Yom Kippur War: The Epic Encounter That Transformed the Middle East》 Abraham Rabinovich
+title: "《The Yom Kippur War: The Epic Encounter That Transformed the Middle East》 Abraham Rabinovich"
 type: source
 source_type: book
 author: Abraham Rabinovich

@@ -3,7 +3,7 @@ title: 《美国电子战史·第二卷》（1946–1964）；Alfred Price · �
 type: source
 source_type: book
 author: Alfred Price
-original_title: The History of US Electronic Warfare, Vol.2: The Years of Renaissance(1946–1964)
+original_title: "The History of US Electronic Warfare, Vol.2: The Years of Renaissance(1946–1964)"
 publisher_orig: 美国老乌鸦协会（AOC）
 publisher_zh: 中国人民解放军总参谋部第四部译编，解放军出版社1993（内部发行）
 subtitle（原文副题）: “复兴的年代/The Years of Renaissance”

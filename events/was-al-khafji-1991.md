@@ -6,9 +6,9 @@ war: gulf-war-1991
 start_date: 1991-01-29
 end_date: 1991-02-01
 tags: [battle, gulf-war, saudi, iraq, 1991]
-sources: [arabs-at-war-pollack]
+sources: [arabs-at-war-pollack, malovany-wars-of-modern-babylon]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 # 海夫吉之战（Was al-Khafji／R'as al-Khafji，1991-01-29—02-01）
@@ -106,5 +106,8 @@ updated: 2026-10-22
 - [[wars/gulf-war/index|海湾战争（1991）]] · [[concepts/saudi-military-effectiveness-pollack]] ·
   [[concepts/iraq-1973-pollack]]（同一支军队的更早评估）·
   [[concepts/iraq-1991-coalition-war-pollack]]（伊拉克侧全景）
-- 相关战例：[[events/iraq-invasion-of-kuwait-1990]]
-- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch5
+- 相关战例：[[events/iraq-invasion-of-kuwait-1990]] ·
+  [[events/iraq-1990-91-kuwait-theater-deployment|科威特战区部署]] ·
+  [[events/iraq-1991-desert-storm-air-war|空袭与导弹战（同期"萨马拉"空中伏击）]]
+  ——Malovany ch30 有伊方专章（含第 4、7 军的欺骗性行动），本库尚未据其单建页，此处只作入口。
+- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch5 · [[sources/malovany-wars-of-modern-babylon|Malovany]] ch30

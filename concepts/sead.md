@@ -75,3 +75,13 @@ updated: 2026-09-02
 ## 资料来源
 
 [[f-4-wild-weasel-units-in-combat]] 全卷及相关页面（见 frontmatter sources 与正文链接）。
+
+## 海湾战争侧的两个补充来源
+
+- [[sources/hallion-storm-over-iraq|Hallion（来源㉚）]] ch6 记 1991 年的 SEAD 规模：诱饵无人机诱发开机、
+  巴格达附近一次齐射 200 枚以上 HARM、英国 ALARM 的伞降搜敌与 123 枚发射量、
+  "开机等于自杀"的结论，以及"若无电子对抗，50% 打击机不会返航"的飞行员估计。
+  → [[events/desert-storm-air-campaign-1991]]
+- Hallion 同时给出**支援／打击比**的历史序列：后卫 II 约 4:1 → 海湾对非隐形打击机近 5:1；
+  并以此为隐形价值的论证核心（"38:1 打包比"）→ [[concepts/precision-strike-revolution-hallion]]。
+- 与本书 C 编队层的战术细节（[[events/desert-storm-opening-night]]）互补，不重复。

@@ -3204,3 +3204,3060 @@
 - **一处并列未调和**：本书称 06-09 空袭 Samqaliya 以军指挥所，**以军副总参谋长阵亡**（称以方承认）；
   库内以方来源（Van Creveld ch17）只记前总参司长 **Yekutiel Adam**"以某种任务"进入黎巴嫩、"死因至今不明"，
   无日期、地点、军衔。两者并列，未合并，亦未据此新建人物页。
+
+## 2026-11-18 · 来源㉙ Karlin《The Inheritance》（911 后美军机构史）
+
+- 来源：`/mnt/share/test/The Inheritance Americas Military After Two Decades of War (Mara E. Karlin (author)).epub`
+  → 存档 `raw/papers/karlin-inheritance/karlin-inheritance.epub`；
+  SHA-256 `08e41516b5d890393ff4ea30be380b17bafbddb5a07d92eb656279f775919620`（库内首次摄入，无重复）。
+- 提取：EPUB 本地解包（zipfile）→ 去标签、unescape、保留 spine 顺序；`karlin-inheritance.txt`（710,611 B）
+  ＋`sections.json`（22 段）。未跑 OCR。文本型 EPUB，正文约 49 万字符。
+- 新建（22 页）：
+  - 来源页 `sources/karlin-inheritance.md`
+  - 战争线 `wars/post-9-11-wars/index.md`＋`timeline.md`（**非战役线**，机构层入口）
+  - 三危机 `concepts/crisis-of-confidence-karlin`、`crisis-of-caring-karlin`、
+    `crisis-of-meaningful-civilian-control-karlin`
+  - 概念 8 `concepts/civilian-wars-legacy-memory`、`iron-triangle-painful-tradeoffs`、
+    `department-of-defense-ad-hockery`、`post-9-11-war-funding-open-bar`、
+    `all-volunteer-force-family-business`、`accountability-soup-karlin`、
+    `personalization-of-casualties`、`post-9-11-theories-of-victory`、
+    `by-with-and-through-partnerships`、`sof-and-drones-post-9-11`（共 10 个概念页）
+  - 事件 1 `events/post-9-11-war-planning-failure.md`（过程事件：war planning 2001—2009）
+  - 军种 4 `entities/organizations/us-army-post-9-11`、`us-marine-corps-post-9-11`、
+    `us-air-force-post-9-11`、`us-navy-post-9-11`
+  - 专题 2 `topics/post-9-11-wars-legacy`、`topics/post-9-11-military-manpower`
+- 更新（4 页）：`index.md`（战争入口加 911 后线＋来源㉙）；`wars/iraq-war-2003/index.md`
+  （新增"美方视角（并列来源，不合并）"节、sources 加 karlin）；`wars/gulf-war/index.md`
+  （新增"海湾战争作为遗产的读法"节、sources 加 karlin）；本 log。
+- 未更新：`wars/iran-iraq-war-1980-88/*`、Pollack 各页——本书不涉两伊战争与阿拉伯军效能，无实质新增。
+- 口径与纪律（已写入来源页与相关页）：
+  1. 本书为**近百人匿名访谈**（2018—2020，以将官为主＋少量文官），无脚注的引号句即访谈原话；
+     全部引语在本库标〔Karlin 访谈〕，**不当作多源证实的事实**。
+  2. 所有数字（$1.5 万亿／$6 万亿、战斗机 −50%、316/278/308 舰、46,000 水兵、6,000 in-lieu、
+     80% 伤亡由路边炸弹造成、无人机 473 次打击等）均为**本书转引**，来源页已注明"原始表未见"。
+  3. 时间下限约 2021 年初；**阿富汗撤军（2021-08）及其后不在本书范围**，不得挂本书。
+  4. 本书弃用 GWOT／Long War／Forever War 等称呼，本库沿用其"post-9-11 wars"定义（含约 40% 国家的作战/部署）。
+- 与其他来源的关系：与 [[sources/malovany-wars-of-modern-babylon|Malovany]]（伊方视角）、
+  [[sources/arabs-at-war-pollack|Pollack]]（阿拉伯军效能）三角并列，**框架不同、不合并**；
+  方法上与 [[sources/idf-van-creveld-sword-olive|Van Creveld 的 IDF 机构史]]最近。
+- 异常／待核：
+  - 出版信息：EPUB 版权页仅存"THE BROOKINGS INSTITUTION … Washington, D.C. 20036"，**无年号**；
+    出版年 2022 为推定，标待核。
+  - Brief Chronology 与正文日期冲突：2010 年伊拉克作战结束，年表作 2010-08-30，正文另处作 2010-06-30；
+    两说并列于 `wars/post-9-11-wars/timeline.md`。
+  - ch4 第 110—138 行、ch5 第 155—165 行（PRT 后半）、ch8 第 168—210 行（伦理）**跳读未逐字**；
+    `notes.xhtml`（15.6 万字符）未提取；Figure 5-1／6-1、Table 6-1 三处图表数据仅存图题。
+- 检查：22 个新页 YAML 全部可解析（3 页 `title` 内含双引号，已按库规改用「」；1 处表格内 `\|` 转义链接
+  会造成假断链，已改为纯文本）；新页断链 0；`SCHEMA.md` 未改动；raw 原件与提取文本已保存。
+- **顺带修复（存量缺陷，非本批引入）**：全库扫描发现 9 个旧页 frontmatter 无法被 YAML 解析，原因两类——
+  (a) 未加引号的标量值里含英文 `: `（`sources/arabs-at-war-pollack.md`、`sources/us-electronic-warfare-history-vol1-price.md`、
+  `…vol2-price.md`、`sources/yom-kippur-war-rabinovich.md`、`entities/people/ingwald-haugen.md`）；
+  (b) `title` 用**英文双引号包裹内层引号**（`"蓝军与绿军"：…`），引号提前闭合
+  （`concepts/plan-d-1948.md`、`iaf-blues-vs-greens.md`、`yonay-sources-and-methodology.md`、
+  `scripted-vs-unscripted-warfare.md`、`iaf-six-theses-yonay.md`）。
+  已按本库既有约定处理：含 `: ` 的值整值加引号；标题内层引号改为「」或改用 `——`。
+  **正文一字未改**，仅动 frontmatter 该行。修复后全库 0 个 YAML 解析失败。
+
+## 2026-11-18 · 来源㉚ Hallion《Storm Over Iraq: Air Power and the Gulf War》（空军视角的海湾战争）
+
+- 来源：`/mnt/share/test/Storm Over Iraq Air Power and the Gulf War Smithsonian History of Aviation Series
+  (Hallion, Richard P).epub` → 存档 `raw/papers/hallion-storm-over-iraq/hallion-storm-over-iraq.epub`；
+  SHA-256 `cc66d70fa9d85e6b7b121810fc8c4e8f68822b41238cb6dbaa54f176d87ddb55`（库内首次摄入）。
+- 提取：EPUB 本地解包（zipfile）→ 去标签、unescape、保留 spine 顺序；`hallion-storm-over-iraq.txt`（949,500 字符）
+  ＋`sections.json`（36 段）。未跑 OCR。文本型 EPUB（7.98 MB）。
+- **版本注意**：版权页署 1992（ISBN 1-56098-190-3／1-56098-723-5，eBook 978-1-58834-519-6），
+  但 EPUB 的 Preface 自述"距海湾危机已过十年"并讨论 1994 年卢旺达、1995 年波黑"审慎力量"、1999 年科索沃
+  "盟军力量"，系 2001 年前后的重印前言。引用时须区分"1992 年正文"与"后加前言"。
+- 新建（14 页）：
+  - 来源页 `sources/hallion-storm-over-iraq.md`（含"立场与史料性质""引用注意"两节）
+  - 概念 7：`concepts/air-power-legacy-hallion`（ch1，含一战/二战/原子时代/越南/中东五段）、
+    `air-combat-training-revolution-post-vietnam`（ch2、ch4）、`airland-battle-and-31-initiatives`（ch3）、
+    `precision-strike-revolution-hallion`（ch6—ch7、附录）、`parallel-warfare-warden`（五环＋DMPI＋并行战）、
+    `bda-and-intelligence-gulf-war`（ch7、ch8）、`air-power-decisiveness-debate-1991`（ch8 五问五答）
+  - 概念 1（双源）：`concepts/weinberger-powell-doctrine.md`——Hallion 记起源与六条标准，Karlin 记 911 后回潮与批评，
+    **两书立场相反，页内并列不调和**
+  - 事件 5：`events/desert-one-1980-eagle-claw`、`events/desert-shield-airlift-1990`、
+    `events/instant-thunder-1990-08`、`events/desert-storm-air-campaign-1991`、`events/scud-hunt-1991`
+- 更新（8 处）：`wars/gulf-war/index.md`（新增"空军视角（第六来源）"整节＋sources＋战争入口描述改为六来源）；
+  `wars/gulf-war/timeline.md`（增补 40 余条〔Hallion〕口径节点，frontmatter sources/updated 同步）；
+  `events/desert-storm-opening-night.md`、`events/iraq-1991-desert-storm-air-war.md`、`concepts/sead.md`、
+  `concepts/iraq-1991-coalition-war-pollack.md`、`entities/equipment/f-117a-have-blue.md`、
+  `concepts/air-power-lesson-learning-critique.md` 各加"并列来源：Hallion"节（只加链与口径提示，不改正文）；
+  `index.md`（新增"空中力量专题"入口＋来源㉚条目）。
+- 口径纪律（已写入来源页与各页）：
+  1. 本书是**公开的空军主张书**，非中立战史；作者自陈"非常个人化的战争观，不试图代表任何官方机构"。
+  2. 所有战果/损失数字（F-117 命中率 79%、联军损失 42 架、空军损失率 0.00047、伊军坦克 90% 被毁、
+     空战 35:0、飞毛腿发射 93 枚、首夜 668 架、首日 535 架次打 31 处核生化设施等）标〔Hallion〕。
+  3. **"爱国者拦截率 96%"** 与库内 Van Creveld 的"几乎拦不中"**并列不合并**；本书自己也承认
+     "后来研究对 96% 提出疑问"，但未给替代数字。
+  4. "空权赢得了海湾战争"这一核心主张，与 Pollack／Malovany 的伊军侧解释并列；本库不裁断。
+- 异常／待核：
+  - **五环框架**：首次快速检索未命中 `five rings` 字样而误写"本书未复述五环"，**随后全文复核确认书中 ch5 明写
+    "Warden's concept of the Five Strategic Rings"**，已据此重写 `concepts/parallel-warfare-warden.md`
+    （含五环五项、DMPI 分配法、Deptula 的"打一处瘫一栋"论证）。已删除一度误建的占位页。
+  - Table 4.1／5.1／5.2／6.1／6.3／8.1 六处统计表在 EPUB 文本中仅存表题与正文引述，表格数据未解析。
+  - `notes.xhtml` 尾注（约 13.6 万字符）与 Index 未提取；引用具体脚注须回 raw 核对。
+  - 未逐字精读的段落：ch1 二战小节后半、ch2 导弹技术小节、ch4 利比亚/巴拿马中段、ch5 后半（部队进驻与
+    伊拉克军力清单已读）、ch8 航母与陆战队两节中段。列为"未完整覆盖"，日后如需可补读。
+- 检查：14 个新页 YAML 全部可解析（含 2 页含 `\|` 转义链接，已按库规改写为 `[[a]]（b）`，避免表格内假断链）；
+  新页断链 0；`SCHEMA.md` 未改动；raw 原件与提取文本已保存。
+
+## 2026-11-18 · 来源㉛ Putney《Airpower Advantage: Planning the Gulf War Air Campaign, 1989—1991》
+
+- 来源：`/mnt/share/test/AirpowerAdvantageSoftcover.qxd.pdf`（497 页，PDF 1.7，数字文本层）
+- SHA-256：`e79473a24af6f381023514c19933da4b5554e815cae8f03e0128db152be4e09a`
+- 提取：`pdftotext -layout` → `raw/papers/airpower-advantage-cohen/airpower-advantage-cohen.txt`
+  （1,597,784 字符，保留分页符）；未 OCR。
+- 性质：**美国空军官方史**（Air Force History and Museums Program，2004），
+  解密档案＋规划人员访谈；不写战果，战斗执行只在末章用首日 24 小时作样本。
+
+**新建 9 页**
+
+- `sources/putney-airpower-advantage.md`（含章—行号对照、史料性质、口径冲突清单、未提取范围）
+- 概念 5：`jfacc-and-tacc-gulf-war`、`warden-five-rings-and-targeting`、
+  `targeting-for-effects-and-parallel-warfare`、`counterland-attrition-50-percent`、
+  `gulf-war-intelligence-support-failure`
+- 事件 3：`opled-100290-and-internal-look-1990`、`warden-briefs-horner-1990-08-20`、
+  `desert-storm-first-24-hours-1991`
+
+**更新 7 页**
+
+- `wars/gulf-war/index.md`：新增「计划层（第七来源）」整节；sources 加 putney
+- `wars/gulf-war/timeline.md`：新增〔Putney〕口径 30 余条计划层节点；sources 加 putney
+- `events/instant-thunder-1990-08.md` · `events/desert-storm-air-campaign-1991.md` ·
+  `events/desert-storm-opening-night.md` · `concepts/bda-and-intelligence-gulf-war.md` ·
+  `concepts/parallel-warfare-warden.md`：各加「并列来源：Putney」节，只加链与口径提示，
+  sources 追加、正文未改
+- `index.md`：新增「海湾战争计划层（USAF 官方史）」入口＋来源㉛ 条目
+
+**跳过 / 未逐字**
+
+- Glossary、Bibliography、Notes（p.383—460）、Index 未提取
+- 插图 40 余张与作战图表仅存图题，不据图判读
+- 跳读：ch3 后段、ch4 中段、ch7 后段（Bush 简报与欺骗计划）、ch9 大部分
+  （人质营救、PSYOPS、欺骗、目标开发各节）
+
+**异常与处理**
+
+- 文件名 `AirpowerAdvantageSoftcover.qxd.pdf` 的 "qxd" 与库内 slug 不符，slug 定为
+  `airpower-advantage-cohen`（沿用文件目录，未改文件名）；书名页核对为 Diane T. Putney。
+- 排版核对中发现 wiki 内 `events/opled-100290-and-internal-look-1990` 一处链接误写
+  `opl100290-...`，已修正。
+- 首次给 timeline frontmatter 追加 sources 时误插入注释行，已用 patch 撤回。
+
+**检查**
+
+- 新页 YAML 0 问题；新页断链 0
+- 全库 711 个 md：YAML 仅 SCHEMA.md／log.md 无 frontmatter（符合设计）
+- 全库断链 7 处，全为存量（SCHEMA 示例占位符 `wikilinks`／`PAGE n`／`a`、
+  `operation-bolo`、`chermon-missouri-final-battles-1973`、`entities/people/avner-halutz`），
+  与本次摄入无关
+- `SCHEMA.md` sha256 前缀 `191cd20f951e` 未变
+
+## 2026-11-18 · 来源㉛ 批次二：补读 ch7 / ch9 / ch10（Putney）
+
+- 背景：批次一（计划层骨架）跳读 ch7 后段与 ch9 大部分即建了情报页，属批次合并失误。
+  批次二补读：ch7 全章（Dugan 事件→Gorilla Package→Poobahs Party→情报支援抱怨→
+  Phase I 目标扩张→NBC 目标→Task Force Normandy）、**ch9 全章**（Reflex、Scud、
+  人质营救、McConnell—Glosson 链路、MIB 调查、目标材料、BDA 四难、规划者—情报官摩擦、
+  海军/陆战队/陆军/沙特/英国五组摩擦、欺骗、PSYOPS、领导层与 C3、BW 再议、Proven Force）、
+  ch10（四阶段总汇报、CENTAF 两次改组）。
+
+**新建 4 页**
+
+- `events/dugan-affair-1990-09.md`——空军参谋长因向记者谈"打萨达姆本人"被解职；
+  Horner"是我们的人要因此去死"、Warden 问 Dugan 是否故意泄密、Dugan 的元帅军衔法律论证
+- `concepts/gulf-war-deception-and-drones-1990.md`——BQM-74C"Poobahs Party"
+  （44 架、18 套发射器、第 868 战术导弹训练大队→第 4468 战术侦察大队、
+  架设时间 9.5h→1.5h、前 31 小时 10 个无人机包）、两级作战欺骗、Burning Hawk 的官僚窒死
+- `concepts/nbc-targeting-and-bw-debate-1991.md`——"打也不是、不打也不是"：
+  百万级伤亡预测、超级胶等荒唐方案、Fort Detrick 少校与阳光、1990-12-20 决策、
+  F-117+CBU-89 黎明攻击方案、Abu Ghraib 奶粉厂、CW 8→16 与 35 个目标
+- `events/gulf-war-campaign-planning-1990-10-to-1991-01.md`——Reflex 预案（3 枚测试飞毛腿触发）、
+  Scud 问题（500—700 枚/36 部 TEL/64 固定位；Horner"军事上不重要"的自陈）、
+  Touted Gleem 结果不佳、以色列方向（Hammer Rick、拒绝爱国者、扣住 IFF）、
+  五组摩擦（海军 CAP/A-6/BVR、陆战队 HARM 300、陆军 JSTARS 与破障、沙特 CSS-2、
+  英国丢失计划文件）、1990-12-20 四阶段总汇报（1,316 架、238 目标、32 天、Warden 的 146 架损失预估）、
+  **战后分析未把共和国卫队削到 50%**
+
+**更新 3 页**
+
+- `sources/putney-airpower-advantage.md`：改"未逐字"清单为"2026-11-18 补读（批次二）"；补批次二页清单
+- `concepts/gulf-war-intelligence-support-failure.md`：新增「ch9 补读后的追加」七小节
+  （Whitley 书面抗议与 Horner 正面对立、MIB 调查含 SR-71 建议、McConnell—JIC 链路与
+  "他满足于自己是唯一受益者"、Talbot 的互不信任诊断、Glock 常驻、Christon 战后总结）
+- `concepts/bda-and-intelligence-gulf-war.md`：新增「BDA 的四个结构性难题」七小节
+  （ARCENT 无方法、DIA 三相与 ring-down 之弊、判读技艺消亡与 GBU-27 单独保密、
+  按效果评估加大难度、卫星不够分、平台限制、Schwarzkopf 禁令）
+- `wars/gulf-war/index.md`、`index.md`：入口补 4 页
+
+**仍未逐字**
+
+- ch3 后段（Desert Storm Phase I 的逐目标叙述）、ch4 中段（CENTAF 防御性空中战役、
+  ATF/ATO Bravo 概念）、Notes（p.383—460）、40 余张图表
+
+**检查**
+
+- 新页 YAML 0 问题、断链 0；全库 715 个 md，YAML bad 0
+- `SCHEMA.md` 未改动
+
+## 2026-11-18 · 来源㉛ 批次三：Glossary / Bibliography / Notes（Putney）
+
+- 读取：Glossary（p.363—366，全文）、Bibliography（p.367—382，全文单栏，质量良好）、
+  Notes（p.383—460，**双栏排版，pdftotext 提取后两栏逐行交错，无法按条目重排**）。
+- 处理：不做逐条抄录（技术上不可能），改为**统计＋分层判断**，产出 1 个史学专题页。
+
+**新建 1 页**
+
+- `topics/putney-airpower-advantage-source-base.md`——Putney 的史料解剖：
+  - **层一 访谈**：约 70 位受访者，四个承接机构（CADRE/AU、AFHSO、AFHRA、各司令部史办）；
+    被访频次（本库统计）：Deptula≈410、Horner≈290、Harvey≈192、Glosson/Warden≈175、
+    Glock≈104、Schwarzkopf≈92；**Warden 的访谈由 Putney/Davis/Jamieson/Hallion 四人共同进行**
+    ——解释了本书与 Hallion 书在材料上的亲缘关系
+  - **层二 GWAPS 未刊采集件**：尾注 GWAPS≈502 次、NA 文献编号 48 处、microfilm frame/reel 91 处；
+    另有 Mandeles file、Col Warden's Notes、CSAF Notes 14 Aug、Meilinger/Stanfill 笔记、
+    Kuehl「Notes on Instant Thunder」、AD Fact-Finding 报告
+  - **层三 一手文书**：USCINCCENT/USCENTAF/DO/DOX 电文、Horner 1990-04 的 OPLAN 100290 空中行动简报
+    （逐页引用）、100290 两版草案、AFM 1-1／FM 100-5 三版／USCENTAF Reg 55-45 等条令、
+    单位史与 GWAPS NA 研究报告
+  - **层四 学术文献**：列出与本库直接相关的 12 种（Warden 1988、Mets 1998、Belote 1999、
+    Davis 2002、Andrews 1998、Reynolds 1995、Mann 1995、Frostic 1994、Winnefeld 1994、
+    Pape 1996、Record 1993、Summers 1992）
+  - **证据强度分层表**（文书日期=高／会议内容=中高／引语措辞=中／数字=中且为计划值／
+    对他人的评价=低），并定引用纪律：访谈引语须标〔据 Putney 转引访谈〕
+  - **Glossary 的库内用处**：D-day/G-day/H-hour 三者区分（地面战役／战略空中战役）；
+    counterland 是作者自选术语，1990 年 AFM 1-1 无此任务分类，1997 年才入条令（溯及尾注第 35 条）；
+    GAT = Guidance, Apportionment, and Targeting
+
+**更新 3 页**
+
+- `sources/putney-airpower-advantage.md`：补「史料基础」指向与「批次三」读取说明
+- `wars/gulf-war/index.md`：新增「史学与史料（专题）」入口
+- `index.md`：入口补该专题页
+
+**异常**
+
+- Notes 的双栏交错是**提取工具层面**的缺陷（`pdftotext -layout` 对双栏无解），非源文件问题；
+  已在来源页与专题页两处写明「具体脚注须回 PDF 按页核对」，并把统计口径标为 ±10%。
+
+**检查**
+
+- 新页 YAML 通过、断链 0；全库 716 个 md，YAML bad 0
+- 全库断链 7 处，全为存量（SCHEMA 示例占位符 3 处、log 中 3 处、jezzine 页 1 处）
+- `SCHEMA.md` 未改动
+
+## 2026-11-18 · 来源㉜ Woods《The Mother of All Battles》（伊拉克政权层，缴获档案）批次一
+
+- 来源：`/mnt/share/test/The mother of all battles  Saddam Husseins strategic plan for the Gulf War
+  (Woods, Kevin M) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
+- SHA-256：`73306848a2d7135adb852353b507ab89dd8df17846b7a46e77d32fd788a6c5bf`
+- 提取：`pdftotext -layout` → `raw/papers/woods-mother-of-all-battles/woods-mother-of-all-battles.txt`
+  （1,020,924 字符）；**Internet Archive Scribe 扫描 + OCR 层，未重跑 OCR**。
+- 书目：Naval Institute Press，2008，ISBN 978-1-59114-942-2，LoC DS79.724.I72 W66 2008。
+- 性质：**Iraqi Perspectives Project**（JCOA/JFCOM 资助，JAWD/IDA 出版）；
+  材料为 2003 年 OIF 缴获的伊拉克总统办公室、军事、情报记录与萨达姆会议录音录像
+  （DIA Harmony 数据库，尾注以 ISGQ-2003-M00xxxxx / ISGP-2003-xxxxxxxx 标注）。
+
+**OCR 状况（本批重点核查）**
+
+- 正文识别率约 98% 以上，可正常引用。
+- **目录页（p.v—x）几乎完全乱码**，无法据目录定位章节；已用页眉行号分布重建章目，
+  写入来源页（起点准确，页内边界可能 ±1 页）。
+- 图表／地图／照片页为图像＋噪声，**仅存图题，不据图判读**。
+- 典型误识：`Irag`/`Iraq`、`Tragis`/`Iraqis`、`SS.`/`U.S.`、`XVII`/`XVIII`、
+  元数据 LoC 号 `DS79.724.172` 实为 `I72`。专名罗马化**按书中形式照录，不归一化**。
+
+**本批读取范围**：Preface（p.xiii）、A Note on Sources（p.xv）、Introduction（p.xix）、
+ch1（美方视角概览，p.1—30）、ch2（Saddam's Narrative，p.31—46）。
+
+**新建 3 页**
+
+- `sources/woods-mother-of-all-battles.md`——书目、OCR 状况与常见误识、章—行号对照、
+  史料性质四属性（不完整／无法估计损失比例／嵌着精心记录的谎言／叙事天然失衡）、
+  翻译层失真（Sharabi、Lewis）、引用纪律、与 Malovany 的层级分工
+- `concepts/saddam-pan-arab-strategic-vision.md`——"阿拉伯帐篷的中央支柱"、
+  "长期战争"论与十二个月五万伤亡预算、加利利海与原子弹推演、象年寓言（伊朗=波斯、
+  美国=拜占庭、以色列=阿比西尼亚、叛徒=现代阿拉伯国家）、"海湾阿拉伯人是腐朽的阿拉伯人"、
+  1979 年对科威特的预言式表述、两伊战争是手段非目的、Barzan 1989-09-04 密信五要素
+- `concepts/two-wars-narrative-asymmetry-1991.md`——"仿佛在描述完全不相干的事件"、
+  海夫吉与撤离科威特的分叉、"联军视角充其量只有一半正确"、联军基线的三处高估
+  （伊军能力／精确弹药对装甲／中空轰炸代价）、四个研究用途（批判分析／历史准确性／
+  红队／适应）、以及"巴士拉坦克纵队长当众斥责萨达姆"与"萨达姆自认赢家"并存于档案
+
+**更新 3 页**
+
+- `wars/gulf-war/index.md`：新增「政权层（第八来源）」节；sources 加 woods
+- `index.md`：新增入口与来源㉜ 条目
+- （未改 `log.md` 以外的既有正文）
+
+**待读**：ch3（战略算计，1990 春—夏）、ch4（Restoring the Branch，含入侵与共和国卫队闪击）、
+ch5（占领与巩固）、ch6（科威特防御计划）、ch7（万物之母之战，约 5,400 行，最长）、
+ch8（萨达姆的战后教训）、ch9（Epilogue）、Notes。
+
+**检查**
+
+- 新页 YAML 通过、断链 0；全库 719 个 md，YAML bad 0
+- 全库断链 7 处，全为存量（SCHEMA 示例占位符 3、log 3、jezzine 页 1）
+- `SCHEMA.md` sha256 前缀 `191cd20f951e` 未变
+
+## 2026-11-18 · 来源㉜ Woods 批次二：ch3（战略算计）+ ch4（入侵计划与执行）
+
+**读取范围**：ch3（p.47—59，行 2620—3320）、ch4（p.60—92，行 3320—4605）。
+
+**新建 2 页**
+
+- `concepts/saddam-kuwait-decision-1990.md`——决策层：
+  "档案里没有决定时刻"（compartmented 决策风格）、与 1979 年对伊朗同构的逻辑、
+  经济数字（油价每桶每跌 1 美元＝年损 10 亿；最后要求 24／120／100 亿＋布比延岛租借）、
+  al-Duri"你在逼我杀你"、埃米尔的"夏日云彩"、Glaspie 两种读法并列、
+  1990-04-19 阿拉法特录像会谈（"准备好与美国作战""派绑炸弹的人去华盛顿""当我们抵抗时让我们成为野兽"）、
+  1990-08-04 对也门总统（"科威特是伊拉克的土地""如果他们不付我们就打他们"）、
+  1990-08-07 部长会议逐人发言（无人质疑正当性，只讨论合并方案与阿尔萨斯-洛林先例）、
+  1990-08 复兴党招待会（第二次卡迪西亚的"合法孩子"）
+- `events/project-17-iraqi-invasion-plan-1990.md`——作战层：
+  al-Rawi 受命、总参谋长 al-Khazraji 不知情、GMID 五份研究（**07-25 已预警"美国会干预"**）、
+  Hamdani 宣誓保密、160 公里装甲突进、只打榴弹不打穿甲弹的自我约束、
+  过期 1:100000 地图与"用旅游地图打科威特城"、三叉突击与三个战斗军团、
+  两伊战争三条经验（预备步兵旅／保温水箱／130mm 照明弹推进，20→40 km/h）、
+  空军四次 MiG-25 侦察得 800 余幅图像、海军 36 小时通知与"以色列行动"掩护故事、
+  08-02 海军实况（故障、俄国专家、螺旋桨撞礁、俘获基地司令时骗其"这是演习"）、
+  1990-07 部队规模表
+
+**更新 3 页**：来源页（已读／未读范围）、`wars/gulf-war/index.md`（政权层节补 3 页）、`index.md`（入口补 2 页）
+
+**本批的三个重要并列点（不裁断）**
+
+1. **07-25 GMID 研究报告已写明"美国已声明会干预"**，与"Glaspie 绿灯说"构成张力；
+   Woods 未裁断，本库并列（误判说 vs 知情下注说）。
+2. **Hamdani"对科威特人无敌意、只打榴弹"属单方战后回忆**，与科方／联军记录的伊军暴行不一致，
+   照录但标为自述。
+3. **1990-08-07 部长会议是入侵后记录**，发言有迎合动机，不能当战前共识证据。
+
+**检查**：新页 YAML 通过、断链 0；全库 YAML 无新增错误；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉜ Woods 批次三：ch5（占领与巩固）+ ch6 前半（科威特防御计划）
+
+**读取范围**：ch5（p.93—123，行 4605—5878，读了其中约 90%）、
+ch6 前半（p.124—137，行 5878—6290，至"海军防御"一节）。
+
+**新建 2 页**
+
+- `events/iraq-occupation-of-kuwait-1990-91.md`——占领：
+  组织（al-Majid 任省长、Sabawi 管安全、Taha Ramadan 管掠夺、国防部"道德指导局"印
+  《科威特伊拉克化手册》）、al-Majid 的占领方针、**Sabawi 自述的处决与集体惩罚**
+  （"严厉对待，然后杀掉、埋掉"；al-Fuhud 28 人全杀；一发子弹打整个街区；
+  当众处决后烧房；换身份证或失去全部公民权利）、国家组织的掠夺（400 辆卡车、
+  1.5 万吨大麦、萨达姆指定 Taha Ramadan 负责）、早期混乱的伊方内部备忘录、
+  人民军与"不受欢迎的军队"、人口降 60%、11-24 命令里那句"盗窃者将被处决"、
+  萨达姆战后"悔意"（为军队廉正受损，不为暴行）、
+  阿盟分裂与 08-12 挂钩提议、致拉夫桑贾尼的信废掉八年战争理由、
+  800 名人质与"客人"政策、萨达姆论联合国"是布什的组织"、
+  普里马科夫来访与"强大伊拉克是地区平衡所需"、时间感的正面对撞
+- `concepts/iraqi-kuwait-defense-plan-1990.md`——防御：
+  **没有入侵沙特的严肃计划**（共和国卫队两师无后勤）、35 个师"河豚式防御"、
+  GMID 八份威胁评估（08-08 至 08-29，均不缩小挑战）、
+  西方报章是"最准确情报来源"、**全国只有 16 张过期沙特地图**、侦察纵深 40 公里、
+  萨达姆"没想到空袭持续一个半月"、"好战士是蜷起来抱住武器的人"、
+  疏散与伪装原则、500 辆废坦克作假目标、烧油生烟到 500 米、
+  反巡航导弹科学会议、避卫星演练、禁止使用电话、
+  **实弹靶场与"抵抗与自由演习"（1990-12-19）**、al-Faw 掩体工程（250 磅标准）、
+  "战前空中轰炸"一词的政治含义、海军 1,300 枚水雷七个雷场
+
+**更新 3 页**：来源页（已读／未读范围）、`wars/gulf-war/index.md`、`index.md`
+
+**本批的重要并列点（不裁断）**
+
+1. **"毁伤百分比非常低"是伊拉克自办实弹试验的结论**，Woods 已指出参与试验的将军
+   与士兵在掩体中的利益不一致。本库保留该批评，同时注明：掩体保人 ≠ 空袭无效。
+2. **al-Faw 掩体按承受 250 磅炸弹直击设计**，与联军实际使用的 2,000 磅级钻地弹
+   不在一个量级（本库观察，书中未明说）。
+3. 占领罪行部分全部出自**伊方自己的会议录音与文件**，引用须标〔据 Woods 转引，Harmony 档号〕，
+   不得改写成第三方指控。
+
+**检查**：全库 723 个 md，YAML bad 0；断链 8 处（新增 1 处为自身笔误
+`irawi-kuwait-defense-plan` → 已修为 `iraqi-kuwait-defense-plan`，其余 7 处为存量）；
+`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉜ Woods 批次四：ch6 后半（防御概念、11-18 转向、空军与防空军、导弹）
+
+**读取范围**：ch6 后半（约 6290—7000 行，p.135—150），至导弹部队一节前半。
+
+**新建 3 页**
+
+- `concepts/iraqi-ground-defense-concept-1990.md`——作战构想：
+  萨达姆"地面战将是常规战"的假设、城市战被强调但没准备（Hussein Kamel 任军长）、
+  前推防御与"1939 年马奇诺心态"、第 5 机械化师"机动一号计划"（三次"不惜代价"）、
+  对敌方情景的判断（两路纵队＋Mutla 岭空降，与美军"一个军计划"接近）、
+  **1990-11-18 战略转向**（六条指示原文，含"在敌人的计算里制造恶性循环"与
+  "古典式计算保证了对手单方面优势"的自我批评、从前线收缩换纵深与预备队）、
+  第三军的实施（前推阵地削减近半、假坦克换真坦克）、11-22 增派七个师、
+  12-08/13 破坏命令与油沟点火演练、共和国卫队三种任务与三份反击方案、
+  **11-23 沙盘会议**（陈述"没有说服力"、多数人按伊朗框架答、Hamdani 的间接路线被孤立）
+- `concepts/iraqi-air-force-pre-war-assessment-1990.md`——空中力量：
+  入侵后语气急转、"保存力量"为规划主线、自评 **1:4／1:8／1:12**、
+  八项作战构想（打海水淡化厂判定"经济上毫无价值"并自承损失 50%
+  ——**自我否决**；反航母方案 30 架出动 12 架到目标无一返航"无效"；
+  "66 号任务"；逃伊朗"几乎没有预谋"）、防空军七项优先配置与第五防区（科威特）、
+  "防空兵是政权常规防御的阿尔法与欧米伽"（1991-01-17 02:30 与 2003-04-08 16:00 两份电报）
+- `concepts/oil-as-weapon-project-tariq.md`——塔里克工程：
+  1990-09-17/18 首次讨论、拉希德委员会、**首要目的是烟幕掩护不是污染**、
+  三项任务（部队前方／海岸与布比延岛／海上油污）、
+  A 部分岸基泵站＋"工业岛"、B 部分五艘油轮 53.5 万吨与改装泵、
+  12-13 油沟试验（火焰 50 米、烟 400—500 米）、1,300 枚水雷七个雷场 60% 已布设
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`、`index.md`
+
+**本批重要判断（不裁断）**
+
+1. **塔里克工程证明"烧油田"是 1990 年 9—10 月就成案的有代号方案，不是 1991 年 2 月溃退的临时破坏**；
+   但本库**不断言**纵火是萨达姆一开始就下的令，实际点火的下达依据待 ch7。
+2. **空军自我否决"打海水淡化厂"** 与西方常见的"伊拉克意图以水厂胁迫"叙述张力明显，并列记录。
+3. **陆军过度自信 vs 空军清醒** 是本书内部的真实差异，不简化为"整个政权自欺"。
+4. **11-18 战略转向**是本批最有史料的发现：伊军战前已知前推防御会被绕开，
+   试图改纵深防御，**但迟了**（11-18 下令、11-22 增派七个师，联军西翼回旋正是为此）。
+
+**检查**：全库 726 个 md，YAML bad 0；断链 7 处全为存量；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉜ Woods 批次五：ch7 前半（1 月 13 日—1 月 23 日）
+
+**读取范围**：ch7（Um Al-Ma'arik）前半，p.172—191，约 7942—8600 行。
+
+**新建 2 页**
+
+- `events/um-al-maarik-iraqi-air-war-1991.md`——战役前半（至 1 月底）：
+  战前"许多政治与军事领导人 99.9% 确信战争不会开始"；
+  1-13 幕僚会议十项内容（水雷"放蛇"、**塔里克工程预授权给当地指挥官**、
+  国旗写"真主至大"及其理由"有了这些话它就不能被不尊重了"、纽约—巴格达时区误解、
+  1987 年"决战年"的玩笑、海军被公开看不起、运输机 1 月初送伊朗、
+  库尔德语／土耳其语通信构想、指挥官乘车换车的防护建议）；
+  **1-17 02:00 Task Force Normandy 与"无线电静默保证了报告没到巴格达"**；
+  Hamdani 的 0245 回忆；**0420 破坏 al-Wafrah／al-Burqun 油田命令**；
+  萨达姆在防空作战中心"关心的是不要反应过度"；03:50 与 11:00 的导弹命令原文；
+  **Project 777 的"17 天"**（伊方单方面说法）；
+  **13:34 塔里克工程启动 → 800 万桶原油入海**；
+  1-18 八枚导弹打特拉维夫海法、发射车循环；1-19 电子战命令原文
+  （"不是买密码机，而是停止所有通话"）与手写密件的由来、1,800 枚炸弹仅损 1 人；
+  1-20 导弹效果报告与第三军越境袭击；**1-21 从"防御"转向"存活"**
+  （"敌人正计划缩短这场我们打算延长的战争"→ 缩减弹药 → 士气崩溃、
+  第 25 步兵师用骆驼运补给、al-Majid 说弹药节约反而提高了联军效能）；
+  1-22 拆机器；1-23 Hamdani 失去两个高炮连
+- `concepts/iraqi-failure-to-read-coalition-westward-swing-1991.md`——
+  **1-23 GMID 十项敌方方案评估**（全条合理、结论全错，"第七军是预备队"是致命误判）、
+  Woods 的诊断"试图让情况符合先入之见"与"2003 年作战瘫痪的预演"、
+  三层原因（40 公里侦察纵深与地图灾难／两栖欺骗成功／伊朗框架的先入之见）、
+  Hamdani 在 11-23 沙盘会议上被孤立的预测、**与 Putney 情报失败页构成同一问题的两半**
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`（新增"战争进程"节）、`index.md`
+
+**本批关键结论**
+
+1. **纵火有令**：**0420** 破坏 al-Wafrah／al-Burqun 油田（陆上）、**13:34** 塔里克工程启动（海上）。
+   与批次三、四的"方案—预授权—执行"链条闭合，**不再是"溃退失控"的模糊说法**。
+2. **1-21 是伊军崩溃的转折点**：从"防御"改为"存活"、缩减弹药，直接导致士气崩溃——
+   **这是伊拉克人自己战后的分析**，不是联军侧的判断。
+3. **1-23 的十项评估**是本库最好的"情报充分但框架错误"案例，
+   与 Putney 记录的"情报送不到"合成完整图景。
+4. **Project 777 的"17 天"**为伊方单方面说法，与联军侧记录不合，**并列不裁断**。
+
+**检查**：全库 728 个 md，YAML bad 0；断链 7 处全为存量；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉜ Woods 批次六：ch7 中段（1 月 24 日—2 月上旬）
+
+**读取范围**：ch7 中段，p.189—205，约 8600—9250 行。
+
+**新建 4 页**
+
+- `events/iraqi-aircraft-and-ships-flee-to-iran-1991.md`——
+  **1-26 萨达姆亲自下令**（18 Mirage＋9 Sukhoi＋1 Falcon-50 起）"为了安全保管，
+  直到适当的时机到来再把它们用于对付敌人"；2-13 空军日志里"派四名 Su-25 飞行员
+  连同护照去伊朗办手续"；**137（伊方情报）vs 22（伊朗承认）**；伊朗落地即刷涂装；
+  1-29 夜海军冲向 Bandar-e-Khomeini：9 艘出发（4 导弹艇、3 登陆驳船、炮艇、扫雷舰）、
+  230 公里、无导航雷达无无线电、6 艘沉没、3 艘抵港、
+  **20 人死亡（7 名将军＋13）、68 人被俘、9 人到 1993 年仍关在伊朗**
+- `events/khafji-1991-iraqi-perspective.md`——**不重复战斗过程**，只补：
+  第三军 1-20 越境命令与"迫使敌人进入地面战"的逻辑、
+  伊拉克绝密研究引言（"敌人害怕伊拉克的决心……把他们拖入一场适合我军的地面战"）、
+  1-29 夜第三与第四军三师越境、1-31 结束"两个师重大损失无持久收获"、
+  **萨达姆"海夫吉败坏了敌人的名声，它被视为一次成功"如何定调官方军事史**
+- `concepts/scud-campaign-iraqi-records-1991.md`——
+  **52 枚的分配表**（特拉维夫 20、海法 8、利雅得 13、达兰 7、Baqaq 2、达曼 1、朱拜勒 1）、
+  损失自报（1 军官 5 兵阵亡，未损失任何发射车与导弹）、
+  **库存 230 枚＋75 枚"特殊弹头"、燃料只够 118 枚**、
+  2-02 被迫减半到 2 枚/日、**2-13 al-Firdos 后下令"报复"打 Hafir al-Batin 美军**、
+  循环发射路线、**难民营发射阵地只在缴获原稿里（公开版删掉）**、
+  1-25 十枚为最成功一日、与 Force 17 协作、西部沙漠特种部队交火三例
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`、`index.md`
+
+**本批的关键点**
+
+1. **"逃伊朗"是 1-26 萨达姆的命令，有明确理由（保存待用）**，不是溃散或叛逃；
+   结果与意图相反——伊朗不归还，"安全保管"没有共同定义。
+2. **飞毛腿的硬约束**：燃料只够 118 枚 → 2-02 必须减半发射率。这解释了 2 月发射量的下降，
+   **不是联军猎杀的战果，而是库存见底**。本库同时保留 Hallion 侧"猎杀效果有限"的记录，
+   两条互为印证但因果归属不同，并列不裁断。
+3. **al-Firdos（2-13）触发"报复"命令（2-14 11:45）**：联军侧通常把 2 月中旬的发射记为
+   "持续骚扰"，伊方文件显示其中有**明确的政治报复动机**。
+4. **"特殊弹头"书中未明说是什么**，本库不推断为化学弹头。
+
+**检查**：全库 731 个 md，YAML bad 0；断链 7 处全为存量；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉜ Woods 批次七：ch7 后段前半（2 月 14 日—24 日）
+
+**读取范围**：ch7 后段前半，p.206—220，约 9250—9900 行。
+
+**新建 3 页**
+
+- `events/soviet-mediation-february-1991.md`——2 月苏联调停全过程：
+  2-12 普里马科夫构想 → 2-15 巴格达电台宣布准备"处理 660 号决议"→
+  2-18 戈尔巴乔夫要阿齐兹转达"巴勒斯坦问题交给我"→
+  **2-22 阿齐兹宣布 48 小时解除制裁换三周撤军**；**三封信全文**：
+  萨达姆 2-23 19:00 信（"我们把伊拉克的荣誉托付给这份信任"）、
+  戈尔巴乔夫 2-24 04:45 回信（建议**把 21 天改成 9—10 天**）、
+  萨达姆 06:30 回信（"布什的双手沾满了流血"）；萨达姆急于向俄国大使证明
+  "这封信写在进攻消息之前"；**Woods 的关键判断：油田点火（2-22 已燃 140 多口井）
+  让莫斯科提议在华盛顿当场死亡——预授权的自主性炸掉了自己的退路**
+- `events/feb-24-1991-iraqi-leadership-meeting.md`——2-24 当天的会议录音：
+  02:00 第一军"情况在控制之下"；"苏联骗了我们"／"管他们的父亲……逐屋作战"；
+  朗读三封信；"我就知道他会背叛我们，这个骗子"；阿齐兹"别问我"；
+  "法国人在进攻？还是坐在他们师前面哭？"、"密特朗非常卑鄙"；
+  **萨达姆先见之明**（"先撤回海岸线上伸出去的部队，否则路被切断就回不去"）；
+  **有参谋当面说出"他们要打共和国卫队右翼"却被忽略**；
+  给人民讲话草稿（"敌人继续溺死在自己的血与耻辱中""局势完全在控制之下"）；
+  09:00 的实际态势（第 14 师"可能被击败"，西翼第七军只报"七架直升机"）
+- `concepts/iraqi-army-morale-collapse-1991.md`——士气崩溃：
+  第 20 师逃兵供述（"不相信那个事业"、一天一顿无肉米饭、三人分 1.65 升水、
+  "都在想着投降，恐惧在阻止他们"、尸体留在原地）；
+  五环因果链（1-21 节约弹药 → 看得见打不着 → 防空失去机动 → 补给断绝用骆驼 →
+  成建制逃亡）；al-Majid"弹药节约反而提高了联军效能"；
+  共和国卫队参谋长 1991-05 的坦白；第四军军官"真正伤害我们的是慢速飞机"；
+  **政权层三次误判**（把士气当纪律问题、当宣传问题）
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`、`index.md`
+
+**本批的关键发现**
+
+1. **萨达姆确实在让步**：2-22 已同意 660 号决议与三周撤军，2-24 06:30 的信还在"确认我们已同意的事项"。
+2. **油田大火炸掉了自己的退路**（Woods 判断）：预授权给军长的点火权 → 2-22 点燃 140 多口井 →
+   布什以此为理由拒绝苏联提议 → 2-24 地面战开打。这是本批最重要的因果链。
+3. **2-24 的会议室里有人说对了**（"他们要打共和国卫队右翼，或用空中力量消灭他们"），
+   萨达姆的回应是"要不是他们的空军，我们的共和国卫队早就出来把他们宰了"。
+4. **士气崩溃是"节约弹药"命令的直接后果**，而政权把它当成纪律/宣传问题。
+
+**检查**：全库 734 个 md，YAML bad 0；断链 7 处全为存量；`SCHEMA.md` sha256 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉜ Woods 批次八：ch7 后段（2 月 24 日全天至 27 日）
+
+**读取范围**：ch7 后段，p.220—237，约 9900—10560 行。
+
+**新建 2 页**
+
+- `events/iraqi-withdrawal-from-kuwait-1991.md`——撤出科威特：
+  **2-25 20:30 萨达姆的电话**（"我不希望我们的军队惊慌……希望他们抬着头回来"）、
+  Husayn"死刑判决比这道命令容易得多"、Sultan 的班子的两夜时序（第一夜：海湾行动／
+  第三军／海军／Faylakah；第二夜：第四、六、二、七军，共和国卫队 Tawakalna 留到最后）、
+  信使"无法到达科威特城，因为道路遭轰炸、车辆被毁"、通信崩溃与"没有指挥官怎么撤退"、
+  "我们没有为撤退做过计划，根本没想过这件事"、天气救了人也毁了撤退、
+  **2-26 07:00 萨达姆推翻数小时前的"摧毁"令**、2-26 的实际命令流（1145／1520／1610／1740）、
+  **73 东线的伊方版本**、2-27 萨达姆亲笔信（神学化动员）、
+  2-26 广播"史诗般的决斗"、3 月下旬把"撤出"改称"**撤退战**"、
+  **萨达姆为共和国卫队辩护"卫队司令有权做他所做的……这不会改变"**（对政变的恐惧）
+- `concepts/iraqi-victory-narrative-1991.md`——"我们赢了"叙事的构造：
+  三步（重设目标→重设判定标准→政权存活即胜利）、四根支柱（"只有面对面才算战争"、
+  Project 777"17 天"、共和国卫队幸存、海夫吉）、
+  **本库归纳的"四点不算错"与"四点错在哪"**、能维持十二年的三个条件、
+  与 Karlin 侧"海湾战争被神话为 RMA 证明"构成同一枚硬币两面
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`、`index.md`
+
+**本批的关键点**
+
+1. **2-26 07:00 萨达姆亲自推翻自己数小时前的"摧毁一切带不走的装备"令**，
+   改为"撤出所有装备与伤员"——这说明他在 26 日上午仍在试图保存装备。
+2. **撤退的失败不是"溃逃"，是"没有计划的计划"**：
+   伊方自己说"我们没为撤退做过计划，甚至没想过"，加上通信全断、无指挥官、天气双重作用。
+3. **"撤退战"是 1991 年 3 月下旬才定的名字**，目的是让士兵"学会此类行动的最精确技能"——
+   叙事改写有明确的实用动机。
+4. **萨达姆对军事政变的担忧高于对外部入侵的担忧**（为卫队的独立性辩护），
+   Woods 指出"正如 2003 年又将如此"。
+
+**异常**
+
+- 书中一处日期矛盾：al-Majid 说萨达姆认定"撤出"一词不准确、应称"撤退战"，
+  针对的是"3 月 26—28 日"的机动，而撤退实际发生在 2 月 26—28 日。
+  **已标注为书中原文／可能的笔误或 OCR 误差，待回 PDF 第 231 页核对。**
+- 本批修正自身笔误 1 处：`events/desert-storm-100-hours-ground-war` 不存在，
+  已改为既有的 `events/iraq-1991-desert-storm-ground-war`（4 处）。
+
+**检查**：全库 736 个 md，YAML bad 0；断链 7 处全为存量；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉜ Woods 批次九：ch7 末（2 月 27 日—3 月 3 日）
+
+**读取范围**：ch7 末段，p.237—247，约 10560—11000 行。
+
+**新建 1 页**
+
+- `events/ceasefire-and-safwan-1991.md`——停火与萨夫万谈判：
+  **2-27 亲笔信承认原防御计划"不正确"**、改城市战（并类比两伊战争的
+  al-Shush／Dezfuz／al-Karun／霍拉姆沙赫尔）、八条重新部署令（共和国卫队负责巴士拉内部防御）、
+  2-27 共和国卫队报告的语气（"尼布甲尼撒、汉谟拉比、Adnan 状况良好"、Medina 师"超过 50% 实力"）；
+  2-28 空降谣言与 Tallil 以南真实交战；萨达姆 5-1 复盘（"每营三十五辆坦克"＋承认士气是严重问题）；
+  **萨达姆的停火解释**（"布什直到意识到我们的装甲在抵抗才加快停火""他一个人抢在安理会之前"）；
+  官方战史两个互相矛盾的版本（"敌人打不进来" vs "我们抵消了技术优势"）；
+  **3-2 Hawr al-Hammar 堤道：600 多辆车辆被毁，汉谟拉比师被命令返回巴士拉**；
+  **伊方军官自述"如果没撞上美军，就没有空返回巴士拉"**（起义已开始）；
+  萨夫万：代表团路上遭射击、坦克护送、警卫受伤；
+  **萨达姆的谈判方针**（"以胜利者的精神去""不要先握手""用更严厉的侮辱回敬"
+  "你们连我们所抵抗的 20% 都承受不了"）；
+  **两个视角并列**（Sultan"他们甚至不能直视我们的眼睛" vs 西方记述"伊拉克代表团被震住了"）；
+  **伊拉克获准飞直升机**（本库标出与镇压起义的关联，非书中原文）
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`、`index.md`
+
+**本批最沉重的一段**
+
+3 月 2 日美军在 Hawr al-Hammar 堤道摧毁 600 多辆伊拉克车辆，
+**客观上把汉谟拉比师赶回了即将陷落的巴士拉**，而这支部队随后参与镇压起义。
+伊方军官自己说"如果没撞上美军，就不会有空返回巴士拉"。
+Woods 照录不评价；**本库照录、不引申为对美方决策的指控，也不掩饰这条因果**。
+
+**检查**：全库 737 个 md，YAML bad 0；断链 7 处全为存量；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉜ Woods 批次十（完）：ch7 起事部分 + ch8 + Epilogue + 关键尾注
+
+**读取范围**：ch7 起事部分（约 11000—11350 行）、ch8（p.299—305）、Epilogue（p.307—309）、
+以及尾注 51／124／14／19 等关键条目。**全书正文（ch1—ch9）已读完。**
+
+**新建 3 页**
+
+- `events/al-firdos-bunker-1991.md`——**这一页本库处理得最保守**：
+  204 名平民（书中估计）、尾注 124 的完整叙述、第 1 章"联军规划者不知道它也是防空洞"、
+  政权 2 月初开始打"平民伤亡牌"→ 巴格达市中心成为禁区；
+  2-13 萨达姆下令报复 → 2-14 11:45 六枚齐射；
+  **Woods 尾注 51 的暗示（"可能是政权一次成功的陷阱，旨在制造平民伤亡"）单列一节，
+  标为〔Woods 提出、未经证实〕，并列出支持（4 条）与反对（4 条）两方证据，不写入任何结论**；
+  同时标出书内两处对死者身份的表述不一致（"复兴党精英及其家属" vs "寻求庇护的平民"）
+- `events/iraq-1991-uprising-iraqi-explanation.md`——3 月起事的政权解释：
+  **"复兴党一度失去除 al-Anbar 省以外所有省份的控制"**（本书最重的事实陈述）、
+  1990-12-31 GMID 情报（"他们计划在战争开始时攻击伊拉克"）、
+  **被俘营长"如果我的师长命令我调转枪口，我会做的……但谁会下这道命令"**、
+  萨达姆 4-3"起义才是美国计划的目的本身"、Woods"正如宏大阴谋论通常那样，
+  它能解释掉显然无法解释的事"、**"背后捅刀"与 1920 年 Haldane 的类比**、
+  "叛徒叛乱比它之前的阶段更难"、镇压手段（直升机、al-Majid 视频截图）；
+  **暴行细节按书的处理保持极简，不勉强推导**
+- `concepts/saddam-postwar-strategic-lessons.md`——ch8 + Epilogue：
+  六条"教训"、"在失败之后宣布胜利正是他熟悉的事"（Woods 一句话）、
+  他对 1992 美国大选的分析、**Epilogue 四条可推广洞见**
+  （① 不要假设共同理解 ② **胜利在观者眼中：把胜利定义为"没有输"，把失败定义为"被赶下台"**
+  ③ **不要假设公开修辞与私下信念有差距** ④ 极权国家也有军事创新）、
+  Michael Howard 那句"无知，尤其是受教育者的无知，可能是一种比知识更强大的力量"
+
+**更新 3 页**：来源页（已读／未读最终状态）、`wars/gulf-war/index.md`、`index.md`
+
+**本批最需要谨慎的一处**
+
+Woods 在尾注 51 暗示 al-Firdos 可能是政权故意设的陷阱。这是**全书最重的暗示，
+且只有他一人提出**（Hallion、Putney、Malovany 均无）。本库：
+**单列、标为未经证实、列两方证据、不写进任何结论性语句。**
+
+**检查**：全库 740 个 md，YAML bad 0；断链 7 处全为存量；`SCHEMA.md` 未改。
+
+**本来源剩余**：Appendix A（Timeline）与 Index 未读；尾注仅抽查关键条目，未逐条通读。
+
+## 2026-11-18 · 来源㉜ Woods 批次收尾：全书验收 + 跨来源冲突登记 + 存量表格修复
+
+**1) 全书批次验收（Woods 共 10 批）**
+
+- 24 个新页：source 1、concept 10、event 13；净增约 72,400 汉字 + 4,076 英文词。
+- 更新页：`wars/gulf-war/index.md`（新增「政权层」与「战争进程」两节 + 7 个来源登记）、
+  `index.md`（入口 + 来源㉜ 条目）、`log.md`（11 条记录）。
+- 覆盖 ch1—ch9 全部正文；Appendix A（Timeline）与 Index 未读；
+  尾注仅抽查关键条目（51／124／14／19）。
+
+**2) 新建 `topics/gulf-war-source-conflicts.md`（本书之外的库级收益）**
+
+海湾战争线现为 **7 来源**，此前冲突散落在各页、没有集中登记处。本页补上：
+
+- **来源层级分工表**（7 源各自的层级／材料性质／不适用的问题）——
+  〔本库判断〕多数"冲突"其实源于层级混用。
+- **9 组硬冲突**：① 爱国者 96% vs 拦不中；② 共和国卫队 50% 指标的三重口径
+  （Hallion／Putney 战后分析／Putney 战前自评 39-47-32）；③ Warden 汇报日期与场面；
+  ④ 首夜 668 架次 vs 700 架飞机；⑤ 空权因果权重四说；⑥ 海夫吉三解；
+  ⑦ 飞毛腿发射减少的两种归因（压制 vs 库存见底）；⑧ al-Firdos 陷阱说（未证实）；
+  ⑨ Karlin 年表 2010 两次日期。
+- **5 组"不是冲突的层级差异"**（Malovany vs Woods 关于卫队师数、
+  Hallion vs Woods 关于 17 天、Putney vs Woods 关于情报两条腿等）。
+- **5 条引用纪律** 与 **6 个已知缺口**（GWAPS 五卷、海军侧专源、科威特沙特方来源、
+  第二家独立使用 Harmony 库的研究、DIA 年表、伊方回忆录原文）。
+
+**3) 存量缺陷修复（非本书批次引入）**
+
+- 发现 **28 行表格内嵌 `[[target|alias]]`**，`|` 会破坏表格列结构
+  （库规明令禁止）。全部改为 `[[target]]（别名）`，涉 14 个页面。
+- 修复过程中脚本一度产生 4 行嵌套括号 `（…（…））`，已逐行修正。
+- 复核：全库 741 个 md，YAML bad 0；表格内 alias 违规 0；断链 7 处全为存量
+  （SCHEMA 示例占位符 3、log 3、jezzine 页 1）。
+- `SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉝ Lambeth《The Transformation of American Air Power》（Cornell/RAND 2000）批次一
+
+- 来源：`/mnt/share/test/The transformation of American air power (Lambeth, Benjamin S)
+  (z-library.sk, 1lib.sk, z-lib.sk).pdf`
+- SHA-256：`4a6541799734cf48aa8f964514efdc602d8f879fa1993f405dd58ce97831ae17`
+- 提取：`pdftotext -layout` → `raw/papers/lambeth-transformation-us-air-power/lambeth-transformation.txt`
+  （1,064,750 字符）；**Internet Archive Scribe 扫描 + OCR 层，未重跑 OCR**。
+- 书目：Cornell University Press / RAND，2000，ISBN 0-8014-3816-0，LoC UG633 .L26 2000。
+- 性质：**RAND 研究项目**（Fogleman 上将 1996 年批准），**智库分析者写的空权转型论著**，
+  非官方史；作者系民间飞行员，飞过 35 型以上战机约 280 次训练任务。
+
+**批次一读取范围**：Preface、第 1 章（Air Power Comes of Age, p.1）、第 2 章前半（The Legacy of Vietnam）。
+
+**新建 3 页**
+
+- `sources/lambeth-transformation-us-air-power.md`——书目、OCR 状况与常见误识、
+  章—行号对照（9 章）、**与库内三本 1991 相关来源的分工表**、
+  **Lambeth 对 Hallion"误用产生误解"论的明确反驳**（原文对照）
+- `concepts/air-power-coming-of-age-lambeth.md`——第 1 章：
+  冷战"战略空权＝核＋不被使用"的概念史、1991 年前夜的判断、
+  开战前伤亡预期（10%／施瓦茨科普夫 5,000／鲍威尔 3,000）、
+  首夜 800 架次仅损 1 架 F/A-18（**红外 AA-6 被动寻的的技术解释**）、
+  Mason"20 世纪空权的神化"、Drew"新战争范式"、
+  **McPeak 三句话（campaign vs operation、"第一支被空权击败的野战军"、
+  "我们持球我们得分"）及其限定语与陆军的反击**
+- `concepts/vietnam-air-power-deficiencies-lambeth.md`——第 2 章：
+  量级（1,248,000 架次、**800 万吨＝二战总和两倍**、2,561/3,720 架损失、58,000 死）；
+  **对 Hallion 的反驳结构**（承认政治约束"公允"，但指出装备／运用／组织／熟练度四类内部缺陷）；
+  **1964—68 vs 1972 的关键对照**（政治约束未消失、变的是能力）；
+  早期决策链（1954 奠边府、1963 顾问 16,500、1964-03 NSAM、94 目标 16 天计划、
+  参联会 Wheeler、东京湾决议、**Pierce Arrow 64 架海军飞机**、渐进升级的选择）
+
+**更新 4 页**
+
+- `wars/gulf-war/index.md`：新增「空权转型论（第九来源）」节；sources 加 lambeth
+- `index.md`：新增「空权转型论（跨战争）」入口
+- `topics/gulf-war-source-conflicts.md`：**新增冲突 10**（越战失败的归因：误用 vs 能力不足）；
+  来源数 7→8；sources 加 lambeth
+
+**本批要点**
+
+1. **Lambeth 与 Hallion 在越战归因上明确对立**，且 Lambeth 是后来者、点名批评，
+   而 Hallion 无法回应——这是本库记录的第一组**有时间不对称的论战**。
+2. **首夜损失的技术解释**（红外被动寻的、无雷达照射故无告警）是库内此前没有的细节。
+3. **800 架次**与库内 Hallion 668／Putney 约 700 构成第三种说法，
+   已并入冲突 4 的口径差异。
+4. 本书**大量重叠**于 Hallion/Putney 的 1991 部分，但**科索沃（ch6）与空天协同（ch7）
+   是库内空白**，后续批次的重点应放在这两章。
+
+**异常与修复**
+
+- 本批两次踩到库规"表格内不得嵌 wikilink"：来源页的比较表与冲突页的增补行。
+  已分别改为列表形式；复核全库**表格 alias 违规 0**。
+
+**检查**：全库 744 个 md，YAML bad 0；断链 9 处（4 处为 SCHEMA/log 的示例占位符与
+本日志中的字面写法，5 处为存量），本书新增链接 0 断链；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次二：第 3 章前半（苏联动因 + 训练革命）
+
+**读取范围**：第 3 章前半，p.54—64（行 2932—3480），至"A Revolution in Training"与 DOC 制度。
+
+**新建 2 页**
+
+- `concepts/soviet-threat-driver-us-air-transformation.md`——**补库内一个结构性空白**：
+  此前所有来源都在讲"1991 年美国很强"，但没有一本讲"**它本来是准备打谁的**"。
+  内容：华约 60→90-120 个师 vs 北约 45 个师；3,600 架支援飞机；
+  **苏联每年 1,300 架战斗机＝每天 3 架／每周一中队／每月一联队**；
+  MiG-23 带来**"全向导弹威胁"**取代越战的"后方偷袭"范式；Su-24＝苏联的 F-111；
+  MiG-29/Su-27 质的追平（下视下射、迎头攻击）；3:1 与 2:1 两种数量算法；
+  **"对消耗无动于衷，只要前进势头维持"的作战哲学**；OMG 与 FOFA；
+  **尾注 3 的"好消息"：苏联飞行员熟练度被正确评估为远低于美国、
+  作战概念僵硬且依赖地面控制**——这构成全书论证的闭环；
+  1973 年赎罪日战争作为"预演"（**以色列损失 97 架＝整个空军的 1/3**、两周内物资损失 30%）
+- `concepts/aircrew-training-revolution-dact-redflag.md`——训练革命的**建制史**：
+  1972 年 Nellis 研讨会（"我们没跟上""**没在飞机器的人身上投入足够努力**"）、
+  **"记录的飞行时间与作战熟练度没有相关性"**这一基石前提、
+  DACT 的技术理由（角速度 corner velocity 等）、
+  **1972-10 第 64 战斗机武器中队组建／1973-06 具备作战能力**
+  （"空军中高层普遍紧张不安"、全靠 **Momyer 上将**硬推）、
+  **侵略者中队与 Topgun 的方法差异**（模拟苏联式僵硬战法 vs 把性能发挥到极限）、
+  T-38→F-5E、6 名 GCI 管制员、4 架／两周／40 架次／20 组机组、
+  **"凭感觉把 g 判到半 g 以内"的升级标准**、
+  1975-12 首次红旗（Dixon 批准、Moody Suter 上校构想）、
+  **"前十架次决定生死"**、完整蓝军编成（含 OV-10／RF-4C／F-105 WW／HH-53／
+  生存学校四人组／EC-121 干扰）、1977-05 的 141 架／19 型／2,000 架次、
+  Green/Maple/Blue/Checkered/Copper Flag、**MCM 3-1**（含"以色列人反对写下战术"的对照）、
+  **Bright Star 1982（12 架 A-10 不着陆飞开罗西，30 小时内已在埃及西部沙漠作战，
+  简陋基地 17 天，对抗真实苏制 SAM）**、
+  **Combat Archer（每年 700 枚以上实弹）／Combat Hammer**、DOC 制度
+
+**更新 3 页**：来源页（已读范围）、`wars/gulf-war/index.md`、`index.md`
+
+**本批要点**
+
+1. **1991 年的能力是为打华约准备的**，其认知目标是一个"熟练度低、依赖地面控制"的对手——
+   1991 年在伊拉克遇到的是这两种弱点的放大版。
+2. **Bright Star 1982 是"1991 年不是侥幸"的硬证据**：演练想定正是西南亚，
+   且已验证"离开美国 30 小时内投入作战"。
+3. **"前十架次决定生死"** 是红旗全部设计的立论基础，也是本库此前没有的一句。
+4. **训练革命是上将硬推的**，不是官僚体系自发——书中明写"中高层普遍紧张不安"。
+
+**OCR 校读**：`C-3`→`C-5`、`KC-133`→`KC-135`、`KC-ios`→`KC-10`、`flares` 保留原拼写。
+
+**检查**：全库 746 个 md，YAML bad 0；除 log/SCHEMA 外断链 4 处（3 处为 SCHEMA 示例占位符、
+1 处存量 jezzine 页）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次三：第 3 章后半（战术演进）+ 第 4 章前半（沙漠风暴评价）
+
+**读取范围**：第 3 章后半（行 3480—3700，战术演进／ACMI／低空环境）、
+第 4 章前半（行 5312—5700，至开战前欺骗）。
+
+**新建 2 页**
+
+- `concepts/air-to-air-tactics-evolution-1970s-80s.md`——**库内此前完全空白的一层**：
+  不是"训练了多少"，而是**战术本身怎么被重写**。
+  焊翼／射手-掩护（"僚机只该喊 Mayday 或'长机你着火了'"）→
+  **loose deuce（海军）／double attack（德国空军驻卢克 F-104）／fluid two（融合后）／
+  Six Pack（F-106，换气泡座舱盖＋内置 20mm 炮）**；
+  "所有飞机都被解放为射手，没有任何一架被浪费为长机的纯观察员"；
+  **ACMI 1977 年夏在内利斯启用**（AIM-9 尺寸吊舱＋微波中继＋实时全向）；
+  三项高性价比辅助（带活引导头挂飞 AIM-9／座舱录音／枪炮胶片与 HUD 录像）；
+  **Topgun：30 天课程 23 个架次，讲评"冷静分析、不允许情绪或吹嘘"，
+  谁赢谁输不重要——与电影形象几乎相反**；
+  O'Rourke"要把飞机用到极限，留余量的不是真战斗机飞行员"；
+  低空高威胁训练（"在无线电静默下完成整件事"）；
+  **训练改革导致事故率一度显著上升，Dixon 与 Creech 两位上将"咬住子弹"接受了代价**
+- `concepts/desert-storm-reassessment-lambeth.md`——第四套独立评价：
+  148 名战斗死亡 vs **集结五个月期间日常事故死亡更多**；
+  Cordesman"**即时历史永远是浅薄历史**"（爱国者有效性属被证伪的"事实"）；
+  引 Michael Howard"历史本身不教教训"；
+  **【本批核心】"Adams 在休假"这一偶然性**——若 Adams 在，
+  TAC 会主导答复，而 TAC 立场是"空权支援地面"；附 **1990-08-11 TAC 传真**作反证
+  （"对高价值目标示威性攻击……视需要升级"），Lambeth 评："很可能给联军一个沙漠泥潭"；
+  Horner 同时拒绝了 TAC 与海军的提案（route packages＋由外向内 rollback）；
+  Murray 归功于"特殊性的个人因素"；
+  **Goldwater-Nichols = "海湾战争成功的教父"**（Winnefeld & Johnson）；
+  ATO：200 页以上、**每天 2,000+ 架次**、**900+ 离散无线电频率**、
+  **错五分钟就取消任务**、海军每天派人开软盘送六艘航母；
+  Kari 四区 100+ 雷达站、"在莫斯科之后巴格达防空最密集"；
+  **"预期伊拉克空军像此前叙埃空军对以色列那样作战"**（把苏联动因页与实际对手接上）
+
+**更新 4 页**：来源页（已读范围）、`wars/gulf-war/index.md`、`index.md`、
+`topics/gulf-war-source-conflicts.md`（冲突 1 补时间线：Lambeth 2000 已判定爱国者有效性被证伪）
+
+**本批关键判断**
+
+1. **1991 年空中战役的存在部分取决于一位中将恰好在休假**——Putney 官方史未载，
+   Lambeth 有，且附反证文件。这是本库目前最具体的一条"偶然性"证据。
+2. **Lambeth 在 2000 年就判定"爱国者有效性"被证伪**，而 Hallion（1992）仍以 96% 为说——
+   已并入冲突 1 的时间线说明。
+3. **美国 1970—80 年代模拟的那个"僵硬的苏联式对手"，1991 年以伊拉克空军的形式出现。**
+
+**检查**：全库 748 个 md，YAML bad 0；除 log/SCHEMA 外断链 4 处全为存量；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次四：第 4 章中段（压制 Kari／夺取制空权／中空转移）
+
+**读取范围**：行 5700—6280。Negating Iraq's Air Defenses、The Gaining of Air Control、
+Air Power Fights a Land War、The Move to Medium-Altitude Operations、
+Precision Engagement and the Battle That Didn't Happen（海夫吉／JSTARS）。
+
+**新建 2 页**
+
+- `concepts/kari-sead-and-air-superiority-1991.md`——**库内缺失的"量化过程"**。
+  H 时 0300 由 **CENTAF 气象值班上尉**按"月照最少"建议（尾注 19：Horner 1997-05-15 函）；
+  首夜分钟级序列（H-22 阿帕奇 Hellfire 打两处预警雷达 → H-9 F-117 投下战争首批炸弹
+  打拦截作战中心 → 20 分钟后西区空中作战中心）；
+  SEAD 概念原话"迫使尽可能多 SAM 连开机向 HARM 射手暴露位置"，
+  并明确**追溯到 1982 年贝卡对叙 SA-6**；
+  **量化链**：同时 200+ 枚 HARM 在空中／前 4 小时近 100 次雷达辐射→降至 13 次／
+  首 24 小时 500+ 枚／全战近 2,000 枚半数在第一周／**第 6 天辐射降 93%**；
+  **失效时间线：核心 1 小时、C2 目标 8 小时达成（Glosson 要求 24 小时）、
+  Kari 36 小时、加固中心 4 天**；"不是逐层剥离而是同时攻击"；
+  **SPEAR 两大弱点：AAA 按预设方位弹幕射击；Kari 朝西对以色列、朝东对伊朗、
+  不朝南对沙特**；12 架以上假"Magnum"呼叫即可压制；
+  损失率 1/1800 架次，比后卫 II 低 14 倍；
+  首 24 小时 **812 个作战架次**（二战以来最大单次空中攻势）；
+  联队损失时间分布（近半 17 架在第一周、8 架在最后一周恢复低空支援地面）；
+  **越战 83% 被 AAA 打掉数千架 vs 1991 年 71% 却只有二十余架**；
+  反空军：33 个战果多为 AIM-7、40%+ 为 BVR、IQAF 不到 300 架次 vs 联军 69,000、
+  "最可怕的三个词是可以起飞"、八机跑道头两架被击落后六架滑回掩体、
+  1-24 两架幻影 F1 被一架沙特 F-15 接连击落（挂对地弹药、目标为达兰西南炼油厂）；
+  打机场两阶段（JP233 需 200 英尺直飞、龙卷风损失六架 → 1-23 转打掩体，
+  20 架 F-117 各四枚 Mk 84、七分钟每五秒一命中、**373/594 机堡 63%**）
+- `concepts/medium-altitude-sanctuary-package-q-1991.md`——
+  **Package Q 完整编成**（72 F-16＋8 F-15＋8 F-4G＋2 EF-111＋1 EC-130＋1 RC-135），
+  最后一刻改计划导致混乱，**两架 F-16 在野鼬鼠因油量撤离后才被击落**（书中标 significantly）；
+  三条连锁命令（除 F-117 与巡航导弹外禁飞巴格达／中空下限扩至全区／
+  **任何兵力包不得超过 23 架**）；下限 13,000→8,000→按需；
+  **"选择而非被迫"**；中空代价＝无制导炸弹投放距离变四倍、精度大降，
+  战后解法是**增加能投 LGB 的战机数量**（而非回低空）
+
+**更新 4 页**：来源页、`wars/gulf-war/index.md`、`index.md`、
+`topics/gulf-war-source-conflicts.md`（飞行至伊朗增列第三个数字：Lambeth"三天内 80 架"）
+
+**本批关键判断**
+
+1. **两个来源独立指向"伊朗框架"**：Lambeth 的 SPEAR 分析（Kari 朝东朝西不朝南）
+   与 Woods 的 11-23 沙盘会议（与会者按伊朗框架回答、只有 Hamdani 说对）
+   **互不相干却结论一致**——建议在冲突页作为"跨来源印证"单列。
+2. **Package Q 用最直接的方式证明了中空自由来自 SEAD**：野鼬鼠一撤，两架 F-16 立落。
+3. **"80 架出逃"是第三个数字**（Woods 137／伊朗 22／Lambeth 80），已并列不合并。
+
+**检查**：全库 750 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次五：第 4 章后段（坦克打靶／战果／ATO 摩擦）— 第 4 章读完
+
+**读取范围**：行 6280—6720。JSTARS 效能与弱点、Tank Plinking and Its Impact、
+Allied Air Power in the Endgame、战果数字与 Odom 之争、Air Tasking 与空地协调摩擦。
+
+**新建 2 页**
+
+- `concepts/tank-plinking-1991.md`——库内唯一完整交代该战术的材料：
+  **起源是 1990-12"夜骆驼"演习的物理副产品**：装甲车散热比周围沙地慢，
+  日落后到午夜在红外上格外突出（且是在模拟攻击陆军第七军的对抗演习中偶然看到的）；
+  **启用原因不是战术更优，而是 BDA 跟不上施瓦茨科普夫的时间表**——
+  把库内 BDA 页与 50% 指标页接上；
+  规模：ATO 中 **73% 的 F-111F 架次**、23 天 664 架次；
+  战果：2-13/14 夜 46 架投 184 枚 GBU-12 毁 132 辆（**72%**）、全战 **920／6,100**、
+  峰值 **500+ 辆/天**、CENTCOM 到 2-14 记 1,300 确认击毁；
+  **"挖洞就死，出洞死得更快"**；**逃兵率 25—30%，且是在"当场处决逃兵"的命令下**；
+  绰号由来（施瓦茨科普夫嫌"打靶"不敬要求改用"坦克猎杀"，结果反使后者流传）；
+  JSTARS：**首过 90% 命中**、"弹药先于燃油耗尽"、单次 80% 瘫痪、分不清履带与轮式、
+  **海夫吉以北"敌军活动"实为风中蛇腹铁丝网**；1-29 至 2-3 损耗速率**放大四倍**；
+  装备损耗：G 日前 39%/32%/47%，战后 76%/35%/90%，
+  **尾注 61：CIA 与 DIA 估计低得多，而施瓦茨科普夫拒绝让强调百分比的汇报进行**；
+  **死亡公路死者 200—300 人，却因错误图像导致 100 小时停火**；
+  **Odom"陆军打掉 70—80%" vs Watts"固定翼至少 61%"，
+  旁证是 220,000 发坦克炮弹运去、实射不到 2%**；
+  Mason"陪审团应继续休庭"与被俘军官"再打两三周就会被迫撤退"并列
+- `concepts/air-tasking-and-air-ground-friction-1991.md`——
+  **头两周陆军提名 1,185 个目标 → 202（17%）进 ATO → 137（12%）被打**；
+  全战 3,067 个提名只有略超三分之一被攻击；
+  **军长看战场像"巨大的保龄球道"**；"对抗不是关于空权的表现，而是关于陆军无法控制它"；
+  **但 Horner 几乎不需要被说服就把努力转向地面部队**（区分空军内部之争与军种之争）；
+  Push CAS 是 **1990 年 4 月**（危机前四个月）就想好并汇报过的；
+  **陆战队 70% 架次记为 CAS 但只有 14% 在 FSCL 内**、GWAPS"很少出现部队接触的情形"
+
+**更新 3 页**：来源页（第 4 章读完）、`wars/gulf-war/index.md`、`index.md`
+
+**本批踩坑**：`tank-plinking-1991.md` 的 title 又用了英文双引号嵌中文短语，
+YAML 直接解析失败（库规老问题），已去掉引号并重新 parse 通过。
+
+**本批关键判断**
+
+1. **坦克打靶不是"更好的战术"被采用，而是"打完证明不了"这个官僚问题被解决**——
+   因果链 BDA 之难 → 50% 指标无法验证 → 换成能自己看见结果的打法。
+2. **"22 万发坦克炮弹运去、实射不到 2%"** 是 Odom 之争里最直白的一条旁证。
+3. **CENTCOM 主动拒绝百分比简报**，解释了此后所有"伊军损耗"数字为何对不上。
+4. **死亡公路的 200—300 名死者 + 错误图像导致 100 小时停火**——
+   与 Woods 侧伊方理解（布什抢在安理会前控制停火）并列，归因不同、不裁断。
+
+**检查**：全库 752 个 md，YAML bad 0（修复后）；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次六：第 5 章前半（隐身／弹药／SAC 撤销）
+
+**读取范围**：行 7883—8560。Into the Post-Cold War Era、The Operational Impact of Stealth、
+The Advent of the B-2、A New Generation of Munitions、Completing the Shift to a Conventional Bomber Force。
+
+**新建 2 页**
+
+- `concepts/stealth-and-precision-munitions-post-1991.md`——把"隐身/精确"从形容词变成数字：
+  **隐身把雷达制导 SAM 有效交战包线缩小 93% 或更多**；
+  **同一场战争中：非隐身包 38 架飞机、仅让其中 8 架打 3 个瞄准点；
+  20 架 F-117 打 37 个瞄准点 → 覆盖 +1,200%、飞机 -47%**；
+  Cashen 的限定"隐身在实践中是低可探测性与战术的结合，
+  **未采用适当战术时，名义上隐身的飞机生存性根本没有任何保证**"
+  （1989—1999 年的判断，正好预言 1999-03-27 那架 F-117）；
+  B-2 数量四部曲 **132→73（1990-04，柏林墙倒后不到六个月）→20（1991-12 苏联解体后）
+  →21（含试验机升级）**、400 亿美元、可用率 69%／成熟 80%；
+  **1996 年内利斯三架 B-2 用 GATS/GAM 打 16 个分散目标全部命中，从 42,000 英尺以上投放**；
+  **由此问句反转："一个架次能打多少个瞄准点"取代"要多少架次才能摧毁一个目标"**；
+  **85,000 吨炸弹中 PGM 不到 10%（约 8,000 吨），却造成 75% 以上重大毁伤**；
+  DSB 1993"**一吨 PGM 通常替代 12—20 吨无制导弹药**"；
+  JDAM 绕过天气（Glosson：天气比伊拉克空军更是阻碍）；
+  CBU-97 十枚 BLU-108／共 40 枚 Skeet、每枚扫描 2/3 英亩；
+  **Fogleman：战斧每发 150 万美元，打一场空中战役会很快让国家破产；GPS 弹药低到每发 1.5 万美元**；
+  AMRAAM 主动寻的、350 磅（因 F-16 翼尖挂架限制）、
+  **1982 年 9 月开始全尺寸研制、部署比原计划晚六年**、1992 年 12 月首次实战（最小射程击杀）
+- `concepts/sac-disestablishment-1992.md`——库内完全空白的建制史：
+  **SAC 是被它自己的司令官 Butler 提议撤销的**，理由是
+  "如果再打一次波斯湾，SAC 只能带 B-52 从 40,000 英尺投带箍的高阻炸弹，
+  **那我们就不会被邀请参加**"——不是战果问题，是资格问题；
+  "SAC 就其核心而言是一个核机构，一直如此、当时如此、将永远如此"；
+  **"越战一结束，轰炸机就回家了，直接回到核角色，结果是几乎全部那些战时经验都丢失了"**
+  （解释了为什么 1991 年 B-52 机组投弹精度差）；Chain 让 31 架获得常规角色但"系统不容忍它"；
+  Chain 1988 年要打掉三根"常识支柱"，并指责美国空权思维
+  **"倾向于用战略一词来描述武器和目标，而不是行动和效果"**（与 Putney 侧 `counterland` 术语问题相通）；
+  **1988 年弹药业已配齐（TMD、CBU-87/89/97、DAACM、CALCM），缺的是防御空域内的生存能力**；
+  **1992 年 6 月 SAC 与 TAC 同时撤销**，战斗机武器学校改名加入 B-52／B-1 分部，
+  **但"战斗机和轰炸机机组仍不说同一种语言，也不以同一种模式思考"**
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`、`index.md`
+
+**本批关键判断**
+
+1. **"我们下次不会被邀请参加"** 是本章最重的一句——胜利之后意识到资格会丢失，
+   比任何"转型必要性"的论证都更有效。
+2. **"越战经验全部丢失"** 填补了一个库内此前无法解释的空白：1991 年 B-52 投弹不准的历史原因。
+3. **弹药齐了、平台进不去**——不可把"轰炸机不能打常规战"当作平台缺陷。
+4. 术语问题两条互证：Chain 说"战略被用来描述武器而非效果"、
+   Putney 说 `counterland` 是自造词。**美军空权的词汇没跟上能力。**
+
+**踩坑**：本批两次写错 wikilink——`air-land-battle-and-31-initiatives`
+（实际文件名 `airland-battle-and-31-initiatives`）、以及一个臆造页
+`pave-way-and-laser-guidance-gulf-war`（不存在）。已用全库断链扫描发现并修正。
+
+**检查**：全库 754 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次七：第 5 章中段（AEF／海军转型／波斯尼亚"审慎力量"）
+
+**读取范围**：行 8560—9100。Operational Concepts for the Post-Cold War Era、
+Toward an Expeditionary Air Force、Navy and Marine Developments、
+A New Rite of Passage over Bosnia、Operation Deliberate Force Scores a Win。
+
+**新建 3 页**
+
+- `concepts/air-expeditionary-force-aef.md`——建制史：
+  McPeak 依沙漠风暴"暂编联队"经验建三个混编联队，样板第 366 联队
+  （36 架射手：B-1／F-15C／F-15E／F-16＋E-3＋KC-135）；
+  **Fogleman 砍掉两个专司 CAS 的联队，理由正是"CAS 在沙漠风暴中不是重要需求、
+  也不代表未来战争"**——一个战术事实直接决定建制决定，这条因果链库内此前没有；
+  AEF 出自 Jumper 在 CENTCOM 任空军司令时，
+  **是 1950 年代中期 TAC 第 19 航空队"混编空中打击部队"的复活**；
+  早期编成 **33—40 架（6 轰炸机／12 空对空／12 空地／6 SEAD／最多 14 运输）**、
+  能力略大于一个航母战斗群但到达更快、**24—48 小时投入、surge 七天**；
+  **1998 年重组为 20 个远征联队／10 个基地、每 AEF 约 230 架、约 73 架外派，
+  低密度高需求资产（B-2／F-117／U-2／AWACS／JSTARS）留本土待命**；
+  **"heavying up"——地面部队不再直接交战而是让敌军变重减速、由空权逐个歼灭，
+  且这需要战区 CINC 的观念转变**
+- `concepts/navy-and-marine-aviation-post-cold-war.md`——
+  Owens"**对海军来说，比任何其他军种更是如此，沙漠风暴是变革的助产士**"；
+  1992-09《由海向陆……》"**从海上机动，而不是在海上机动**"；
+  F-14 加 LANTIRN（改装 200 架，进入 F-15E 同档）；
+  **终于能电子接收 ATO**（正是 1991 年"每天开软盘送六艘航母"的补正）；
+  舰载联队可 24 小时内换装机型、**岸上机场架次率与有效架次比高于舰上**；
+  海军与陆战队 F/A-18／F-14／AV-8／EA-6B 并入共同池；
+  **Owens 放弃"战略轰炸理论是否绝对正确"，改问"如何最好地为成功的战略轰炸战役作贡献"**——
+  海军自 1920 年代以来的立场出现实质退让
+- `events/operation-deliberate-force-1995.md`——**本库此前波斯尼亚完全空白**：
+  8-28 萨拉热窝炮击 38 名平民死亡为触发点，8-30 0200 开始，11 天；
+  战略前提"**对支配的恐惧是波黑塞族的核心脆弱点**"（打机动自由与补给能力，不打领导层）；
+  **对手是苏式 IADS（SA-2／SA-6），由受过华约大规模空袭迎击训练的前南防空专业人员操作**，
+  不是"民兵"；首日 300+ 架次／23 个目标／90 次命中、F-15E 用 GBU-10 打冷战地下指挥掩体；
+  9-2 至 9-3 暂停试探、9-5 恢复，**恢复后的空袭与炮兵协调、
+  由地面战术空中控制小组提供目标数据，"与 1982 年贝卡谷地行动开局高度相似"**；
+  **意大利在最高层级最后一刻拒绝 F-117 从阿维亚诺出动**（因被排除在联络小组之外），
+  改用战斧与 GBU-13；天气致美国架次取消 23—30%；
+  **精确武器总体成功率约 60%，GBU-12 最高 76%**；
+  70% 为 LGB／光电制导；**338 个瞄准点／36 个目标／600+ 件精确武器**；
+  DMPI 由维琴察 JFACC 集中控制、尽量用 500 磅而非 2,000 磅；
+  **"未命中 7 英尺以内不算任务有效"**；
+  **1.5 架次 + 2.8 件 PGM 每 DMPI vs 非精确 6.6 枚铁弹**；
+  **3,515 架次／293 架／8 国／18 个地点／750 攻击架次／65% 美国人**；
+  唯一损失为法国幻影 2000D（SA-7）；代顿 11-21 草签／12-14 签署；
+  Fogleman"不是击败塞族，而仅是解除围困并促其遵守联合国授权"
+
+**更新 3 页**：来源页、`wars/gulf-war/index.md`、`index.md`
+
+**本批关键判断**
+
+1. **"沙漠风暴是海军变革的助产士"**——一场海军几乎没打的战争成了海军改写自己的理由，
+   因为旧的存在理由（远洋制海）已无可信挑战者。
+2. **"贝卡模式"第二次被复用**：1995 年空袭＋炮兵协调＋地面引导小组，
+   书中直接类比 1982 年贝卡开局（第一次是 SEAD 战法，见批次四）。
+3. **"heavying up"** 是本库第一次见到把地面部队角色定义为"减速器"的表述。
+4. **"零平民死亡、没有塞族抱怨"是 Lambeth 单方口径**，库内无第二来源，标"〔Lambeth 口径〕"保留。
+
+**检查**：全库 757 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次八：第 5 章末（禁飞行动的失败）＋第 6 章前半（科索沃）
+
+**读取范围**：行 9100—9420。How the Bosnia Mission Almost Failed＋
+NATO's Air War for Kosovo 前半（起源、三阶段计划、首夜、第一周）。
+
+**新建 2 页**
+
+- `events/operation-deny-flight-1993-95.md`——**本书唯一的"空权完全失败"完整案例**。
+  Lambeth 的核心论点：波斯尼亚最该记下的教训不是"审慎力量"的成功，
+  而是**之前两年多"几近灾难性的与失败的调情"**——
+  "无论现代空权这个工具多么有能力，**它产生胜利结果的能力绝不是预先注定的**"；
+  **100,400 个架次（1993-04-12 至 1995-12-20）vs 审慎力量的 3,515 个（70% 突入作战）**；
+  100 多次 CAS 请求只批准 4 次攻击、**精确打击总共只有五次**、
+  5,300 次禁飞区违规只击落 4 架 Galeb；
+  **1/3 是 CAP、30% 是支援**；
+  联合国限制清单（不得打乌德比纳的飞机与防空、只能打向自己开过火的阵地），
+  Ryan 上将"以一种我们不常用空权的方式使用空权"、
+  **"制造噪音"使塞族领导人对北约的威胁"习惯于"不去兑现**；
+  两次可避免的击落：英国海鹞**为打一辆坦克第三次通过同一地点**被 SA-7 击落、
+  F-16 沿"到那时已完全可预测的高空跑道形航线"被 SA-6 击落
+  （**Shalikashvili"绝对没有任何情报" vs Joulwan"已知高威胁环境"，并列不裁断**；
+  Perry 承认信息传递有问题；电子侦察资产"获得了实时迹象但未能及时传达"）；
+  **"跑道可以炸，停机坪上二十多架 Galeb 不能炸"**——1995 年 8 月的"越南式思维"
+- `events/operation-allied-force-1999.md`——**本库此前科索沃完全空白**：
+  3-24 至 6-7 共 78 天；Lambeth 判定它是 1990 年代第三次空权决定地区结局，
+  **但"在效率上相较沙漠风暴是一次倒退"**；
+  四类问题**全是组织性的**（决策犹豫、美欧不信任、互操作性、美军内部军种冲突），
+  **没有一条是打击精度**；
+  三阶段计划（44 度纬线为界、第三阶段才打贝尔格莱德）、五项目标、
+  **明确排除任何北约地面部队支撑**；
+  地理 39,000 平方英里（小于肯塔基州）、科索沃本身不大于洛杉矶都会区；
+  防空：**60 个 SAM 连／约 1,000 枚 SA-2/3/6／1,830 门高炮／240 架作战飞机
+  （15 架 MiG-29、60 架 MiG-21）**，器材至少 15 年机龄，
+  **但"操作人员熟悉美国战术、已精炼技术四十余年"，装备多于 1995 年波黑塞族、
+  防御比 1991 年伊拉克更集中**；五角大楼战前估计首波可能损失 10 架；
+  **初次攻击被公开提前宣布**（为 60 个瞄准点编程战斧需一天以上），
+  Albright 当晚"**我不认为这是一场长期行动**"；
+  首夜 **400 架次中只有 120 个攻击架次、40 个目标**；15,000 英尺高度下限；
+  两架 MiG-29 被 F-15C 击落、一架被荷兰 F-16 击落；
+  **第一周每夜平均不超过约 50 个攻击架次**
+
+**更新 3 页**：来源页、`index.md`（新增三个后冷战事件入口）
+
+**本批关键判断**
+
+1. **十万架次换来五次精确打击**——本库目前关于"空权无效"最刺眼的数字，
+   而且来自自己的统计，不是敌方宣传。
+2. **科索沃的四类问题没有一条是打击精度**，全是决策/联盟/互操作/军种内斗。
+3. **"公开提前宣布开战时间"＋"我不认为这是长期行动"** 可以解释后面 78 天的全部困难。
+4. **1999 年首夜 120 个攻击架次／40 个目标 vs 1991 年 812 架次／全类别目标**——
+   "效率倒退"的具体含义。
+
+**踩坑**：`operation-deny-flight-1993-95.md` 的 title 又用英文双引号嵌中文（库规老问题），
+YAML 失败，已去掉引号。
+
+**检查**：全库 759 个 md，YAML bad 0（修复后）；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次九：第 6 章中段（科索沃僵局、升级、屈服因果、B-2）
+
+**读取范围**：行 9420—9960。防空僵局→遮断、Clark 增兵、阿帕奇之争、
+地面选项的缓慢转向、"四根支柱"与电力战三阶段、KLA 反攻、Why Milosevic Gave Up、
+Air Power's Accomplishments 前半。
+
+**新建 2 页**
+
+- `concepts/kosovo-stalemate-and-escalation-1999.md`——结构性论点：
+  **没有地面威胁 → 塞尔维亚部队仅靠分散隐蔽就能在空袭下生存**
+  （与 1991 年"挖洞就死"形成精确反面：同一套能力，不同政治条件，完全不同结果）；
+  强度：**第一周每夜约 50 个攻击架次（沙漠风暴第一周每天 1,000），
+  一半以上飞机因天气未投弹返回**；**第三周某一个 24 小时 439 架次只打 28 个目标**；
+  Clark 要 300 架 → 总数近 1,000（开战 430 的两倍多，却不到沙漠风暴的一半，
+  美国增加 60%），军种首长抱怨"过度杀伤"、EUCOM 未充分利用现有资产；
+  **阿帕奇之争**：公开理由"怕盟国误认为地面行动前奏"，未明说理由是生存性，
+  最终 24 架部署阿尔巴尼亚、同时声明"不是地面行动前奏"（自相矛盾的物证）；
+  地面选项三步退让（Shelton"目前"→Cohen"非敌对"→Albright"宽容环境"），
+  Clark 与五角大楼裂痕；**Clark："在没有地面组成部分的情况下打一场地面战争，
+  对空军人员来说有点像一种不自然的行为"**；克林顿"修辞牢笼"（官员语）；
+  **四根支柱（政治机器、媒体、安全部队、经济体系）**、4-21 首次打电视台
+  （先警告员工撤离）、4,700 磅 GBU-37 打地下 100 多英尺的全国指挥中心；
+  **电力战三阶段**：5-3 石墨弹 CBU-94/BLU-114（70% 停电，只瘫痪不摧毁）→
+  经济战（克鲁耶瓦茨一厂 13,000 直接失业＋40,000 分包，"产出减半、10 万人失业、
+  超过二战纳粹与盟国连续轰炸"）→ **5-24 实弹打电网**
+  （"这一目标集在沙漠风暴最初几天就已在巴格达被打过"）；
+  **Clark："这是历史上唯一一场恋人们在暮色中沿河岸散步、在露天咖啡馆用餐、
+  观看烟火的空中战役"**；
+  KLA"箭"行动 5-26 四千米游击队，**起初被挫败（250 人被 700 人压制），
+  但迫使塞军出来集结 → 被传感器发现 → 才打得到**；
+  6-7 两架 B-52＋两架 B-1B 投 86 枚 Mk 82 与集束弹，
+  估 800—1,200 人中不到一半幸存（**标初步评估、未证实**），
+  五角大楼称为全战役对已展开部队最重打击
+- `concepts/kosovo-causation-debate.md`——两种对立说法并置不裁断：
+  "历史上第一次仅凭空权迫使军队整体撤出" vs Jackson
+  "**6 月 3 日俄罗斯支持西方是结束战争最具意义的单一事件**"、
+  "**我不负责空中战役；你问错人了**"（Lambeth 明标 Jackson 是公开的空权批评者）；
+  Lambeth 自己的"**同义反复**"批评：没有空袭清洗会继续是真的，
+  但这不等于空袭导致屈服；五条其他因素（国际支持丧失含莫斯科、
+  战争罪起诉、精英家属外逃、寡头经济损失、**地面入侵预期**）；
+  **他把最不利于空权主张的一条称为"最令人不安的"**；
+  北约地面力量清单（SFOR 32,000→50,000、阿尔巴尼亚 7,500、
+  亚得里亚海 2,200 陆战队、匈牙利 800）；
+  **都拉斯—库克斯公路承重标准三变：难民 → 布拉德利 → M1A2（投降前三天）**；
+  秘密 Plan B-minus（9 月第一周，170,000 人，英国出 50,000；
+  渊源 Plan Bravo 300,000）；
+  **B-2 战绩：43 个任务、不到总架次 1%、投放全部精确弹药的三分之一、
+  能在让所有其他盟机停飞的云层之上作战、首夜第一个突入的人驾平台**；
+  21 架轰炸机（10 B-52／5 B-1／6 B-2）投了 23,000 枚中的 11,000 枚
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"挖洞就死"（1991）vs "分散就能活"（1999）**——同一套空中能力，
+   政治条件不同，结果完全相反。这是本库关于"空权有效性"最有结构的一条对照。
+2. **"同义反复"批评**是本库见到的最清晰的关于反事实论证的批评。
+3. **一条路的承重标准（难民→布拉德利→M1A2）** 是"行动比言辞更响亮"最字面的例证。
+4. **B-2 43 个任务投了三分之一的精确弹药**——隐身轰炸机最有说服力的一组数字，
+   与 1996 年内利斯演示形成"预演→实战"链条。
+
+**检查**：全库 761 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十：第 6 章后段（战果归零／假目标／SEAD 失效／F-117）
+
+**读取范围**：行 9960—10330。战果统计、Friction and Problems Encountered、
+Frustrations of the SEAD Campaign、The F-117 Downing。
+
+**新建 3 页＋更新 1 实体页**
+
+- `concepts/kosovo-ground-force-attrition-evidence.md`——"打不着"的证据链：
+  **第三周末北约分析人员未能确认击毁哪怕一辆坦克**；
+  初步复盘"空中战役对塞尔维亚在科索沃的军事行动几乎没有影响"；
+  KFOR 实测"只有少数"；**五角大楼最终 700/1,500，但检查人员未发现相应数量残骸，
+  塞军撤退时带走数百辆且"桀骜不驯而非被打败"**；
+  **口径从 150 辆下调到 110 辆**（因许多是假目标）；
+  **假目标工艺：牛奶盒材料做的坦克、烟囱倾斜的烧柴炉冒充火炮、
+  假目标内放盛水容器在阳光下升温以复制红外信号**；
+  JSTARS/红外在科索沃"基本不适用"的技术原因（SA 分散、关机省油、
+  藏于谷仓教堂森林居民区）；
+  Lambeth 判词"这是先前战略选择的可预测结果，而非空武器固有缺陷"；
+  **"33% 的空中努力用于对付防空换来零阵亡"**；
+  **"无人机损失不引起关切，因为它们是故意派去送死的"**——1999 年原话，
+  预言了此后二十年的无人机战争逻辑
+- `concepts/kosovo-sead-failure-1999.md`——为什么八年之后同样装备失效：
+  ① 敌人不开机（"拒绝成为合作目标"，无法压制也无法证明压制成功）；
+  ② **"融合雷达输入"——从北方跟踪、把数据馈给南方防空雷达，
+  使南方扇区作战中心在附近无任何有源雷达的情况下引导武器**，
+  这解释了 F-16CJ/EA-6B 为何用 HARM 追踪"通常部署在 SAM 连附近"的雷达会失效；
+  ③ 山地使 JSTARS MTI/SAR 与 U-2/RC-135 传感器斜视角失效；
+  **全战约 700 枚 SA-3/SA-6 发射、许多是弹道式无制导**；
+  塞族固定战术是打离场编队的最后一架；
+  **F-16CJ 盘旋太远，探测到发射并发出 HARM 所需时间超过 SAM 飞行时间**，
+  所以被攻击的战斗机"基本上只能靠自己"；
+  **首次把进攻性计算机网络战作为精确武器**（Jumper 证实），
+  1991 年只监听不操纵 vs 1999 年"把假目标放进敌方计算机使其与对方本来就相信的东西相吻合"；
+  **"操作方对情报方"两难**（"不要摧毁，我还在监听"）
+- `events/f-117-downing-1999.md`——隐身飞机首次战斗损失：1999-03-27 约 20:45、
+  布达诺维奇附近、**一阵 SA-3 弹幕**；
+  洛马专家：**"标准倾斜转弯可使雷达截面积增加 100 倍以上"**，而狭小空域内不可避免；
+  RC-135 未能定位肇事 SA-3 连并可能未及时转达——
+  **"与 1995 年 6 月在波斯尼亚 F-16 被击落前所发生的情况非常相似"**；
+  Hawley"当你面对大量未被定位的威胁时，即使在一架隐身飞机里你也有风险"；
+  三种技术假设（舱门开启／云底剪影／双基地雷达）；
+  **空军正式复盘的结论（媒体转引，空军沉默）：低技术战术＋快速学习＋精明的即兴创造，
+  在一个转瞬即逝的瞬间汇合，使一枚不在正常雷达制导模式下工作的 SA-3 击落该机**；
+  **空军排除：舱门卡住／低于 15,000 英尺／被 AAA 击中**；
+  三项被指称（alleged）的程序性失误：RC-135 未跟踪、
+  **三处可探测的低频雷达因美机"轰炸了雷达复合体内错误的瞄准点"而未被瘫痪**、
+  **因 SACEUR 禁飞波黑（保代顿协议）F-117 连续四晚飞同一航线**、
+  EA-6B 距 80—100 英里且方位不对
+- `entities/equipment/f-117a-have-blue.md`（**更新，非覆盖**）：
+  追加 1999 年战斗损失一节，frontmatter 增补 `lambeth-transformation-us-air-power` 至 `sources`，
+  `updated` 改 2026-11-18
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"打不着坦克"与"村庄被烧"是同一件事的两面**：塞军不需集结就能完成清洗，
+   所以既能躲空袭又能干活。
+2. **牛奶盒坦克＋晒热的水平衡红外**——本库全部史料中最低成本对抗高科技的实例。
+3. **"雷达与发射架分离＋融合雷达输入"** 是防空方对反辐射武器的一次成功适应，
+   而它用的是**四十年前的电话线与地下电缆**。
+4. **"政治约束生产战术可预测性"已是第三次重演**（1993 海鹞三次通过、
+   1995 F-16 可预测跑道形航线、1999 因代顿禁飞而四晚同航线）。
+5. **情报链断裂也是第三次**（1991 Putney 侧／1995 波斯尼亚／1999 科索沃，后两次同一型 RC-135）。
+
+**检查**：全库 764 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` sha256 仍 `191cd20f951e`。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十一：第 6 章末（科索沃"教训"判词）— 第 6 章读完
+
+**读取范围**：行 11354—11700。A First Cut at Kosovo "Lessons"。
+
+**新建 1 页**
+
+- `concepts/kosovo-lessons-lambeth.md`——本书对盟军行动的最终判词，全书最不客气的一节：
+  **他反对"空权胜利"这个说法本身**：克林顿"证明了持续空中战役能阻止一支地面军队"、
+  Cohen/Shelton"压倒性的成功"、报纸"仅凭空中力量取得的胜利"，
+  而 Lambeth 说这些"与高级军事专业人士的共识观点明显相悖"；
+  **四条职业军人的否定引语**：战前四位军种参谋长一致怀疑仅凭空袭能否成功、
+  空军参谋长 Ryan"我不知道没有地面部队我们能不能做到"、
+  1995 年得胜指挥官 Leighton Smith"历史上我们运用军事力量可能最糟糕的方式"、
+  前空军参谋长 Fogleman"结果不错不意味执行得当，空权的运用是有缺陷的"、
+  本次 JFACC Short"我们本应该做得不一样"；
+  **他们当时真的没想到会赢**：五月底大多数空军上将已认为打不着更多分散部队、
+  Short 已认为战略难以击垮米洛舍维奇意志、
+  **当时正在计划把空中行动持续到十二月甚至更长**；
+  三条正面（首次纯空中强制、79% 精确弹命中、**平民死亡不超过 600 人**——
+  人权观察实地调查口径、经空军分析员认可"西方最好的实地数据"）；
+  **总判词**："盟军行动是那些负责指导其运用的战略的人对空权的一次次优运用"、
+  "**如果空中武器被以损害其可信度的方式使用，空权的长处本身就会变成弱点**"；
+  **违反两条古老公理**（达成突然性、让敌人对意图不清楚）；
+  **逐条驳斥国防部事后辩解**：①"迫使塞军躲起来因而作为机动力量无效"——
+  但种族清洗不需要战术机动，**他们不需机动也能杀人**；
+  ②"迫使米洛舍维奇保存防空"——**保存下来的防空整场都在限制北约的高度与航线**，
+  这是把"必要"说成"美德"；
+  **极尖锐的反事实**："如果米洛舍维奇满足于蹲守并熬过轰炸，
+  他本可以轻易质疑联盟的长期凝聚力"——**不是北约赢了，是米洛舍维奇犯了错**；
+  Ellis 上将"**运气起了主要作用**"、北约领导人"判断得完全错了"；
+  **Adam Roberts 对 1995 年神话的解构**——塞族此前已在地面失利（被逐出克拉伊纳）、
+  1995 年轰炸不是针对塞尔维亚本土，**而这个神话直接导致了 1999 年的误算**；
+  Jumper"30,000 架次不损失一名飞行员，使空权看起来确实是无风险的、太容易的选择"；
+  **Mason 的"自我威慑"与圣乔治比喻**（"如果圣乔治的第一优先是部队防护，
+  他现在就不会是英格兰的主保圣人"）；
+  Ralston/Jumper **"渐进主义可能是未来、效率可能居次"**；
+  **全书对转型最凝练的表述**："使 1999 年的渐进主义比越南更能忍受的，
+  是隐身、精确防区外攻击与电子战的进步——
+  **转型的意义不在于打得更好，而在于允许政治犯更多错误**"
+
+**更新 3 页**：
+- `events/operation-deliberate-force-1995.md`——**重要修正**：追加"十·补、
+  '神话化'的警告"一节（引 Adam Roberts），并在评价节前加交叉提示。
+  **1995 年就其设计目标而言是成功的，但读成"空权独自迫使屈服"是神话；
+  1999 年的决策者正是按这个神话行事。** 两说并存、因果联系写明。
+- `sources/lambeth-transformation-us-air-power.md`（第 6 章读完，剩余第 7—9 章）
+- `index.md`
+
+**本批关键判断**
+
+1. **一场胜利之后，赢的一方内部职业判断与政治判断分离得这么彻底，本库仅见**：
+   肯定它的是总统、国防部长、报纸；否定它的是前空军参谋长、空军参谋长本人、
+   1995 年的得胜指挥官、本次战役的空战指挥官。
+2. **"当时正在计划打到十二月"** 与"他们赢了"的叙事直接冲突，且出自美方自己的规划。
+3. **"不是北约赢了，是米洛舍维奇犯了战略错误"**（加速清洗，剥夺了北约退出的政治空间）——
+   与 Woods 侧"萨达姆 1-23 评估全合理、结论全错"是同类事件。
+4. **史学修正了一条既有页面**：1995 年"审慎力量"的成功被 Lambeth（引 Roberts）
+   判定为被神话化，而它正是 1999 年误判的来源。这是本库最好的一条
+   "史学如何影响决策"的实例，已回改批次七的页面（不覆盖，追加并交叉标注）。
+5. **"转型 = 允许政治犯更多错误"** 是全书对二十年技术进步价值最凝练的定义。
+
+**检查**：全库 765 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十二：第 7 章前半（太空支援沙漠风暴／作战性太空文化）
+
+**读取范围**：行 11857—12310。The Synergy of Air and Space、
+Space Support to Desert Storm、The Creation of an Operational Space Culture。
+
+**新建 2 页**
+
+- `concepts/space-support-desert-storm.md`——**本库此前对太空层完全空白**，此为技术基础层：
+  战前两个世界（有飞行资格的"操作者" vs 出自头顶侦察与采办秘密世界、
+  主攻核威慑的太空专业人员），
+  **互相轻蔑的原始用词："技术宅"（techies）、"口袋火箭"（pocket rockets）、
+  "太空学员"、"太空极客"**；
+  **"aerospace"一词 1958 年由空军参谋长 White 创造**，
+  但**1985 年 Friedenstein 中校在《空军大学评论》主张"aerospace 没有条令基础、
+  太空是独特的"——战前最强声音是分离而非整合**；
+  1990-08-02 入侵当天**第一批到场的不是飞机、军舰或地面部队，而是在轨的美国太空系统**；
+  七类贡献：GPS（**在轨仅 16 颗、比全覆盖少 5 颗、1 颗故障靠法尔肯基地现场写软件救活**、
+  **每天七个长达 40 分钟的"悲伤时段"**、PLGR 紧急采购 **13,000 台／4,500 进战区**）、
+  DSCS（**3 颗卫星／128 个战术终端／85% 通信量／首次因作战重新定位卫星**）、
+  DMSP（**用土壤湿度分析确定"左勾拳"路线**）、DSP（**30 秒探测尾焰／飞毛腿飞行仅 7 分钟**、
+  靠伊拉克三次试射"意外之喜"调校系统）、
+  侦察与 BDA、Landsat 与 SPOT（**"非机密"产品的价值**）；
+  鲍威尔"**卫星是最重要的单一因素**"；
+  McPeak"第一场太空战争"＋Lambeth 的限定（**不否认是支援，但"全套阵容首次直接支援各级作战"本身就是分水岭**）；
+  **对库内 BDA 页的重要补充**：Lambeth"主要是程序问题与敌人剥夺信息，而非能力局限"
+  （与 Putney 逐条机制并列），并补 **尾注 9：精确武器可观察损伤本小——越准越难评估**
+- `concepts/space-operational-culture-lambeth.md`——建制与文化层：
+  **机制一句话：让一个"受益者"去管"供货方"**（Horner 作为沙漠风暴 JFACC 出身、
+  是太空支援的受益者）；
+  **TAC/SAC 解散的副产品：ICBM 划归 AFSPC**——导弹部队"终于从飞机人的拇指下解脱"，
+  而 AFSPC 得到一群"**作战使命既极其严肃、又几乎永远不可能真正执行**"的战士
+  （**让太空人变成战士的，是一群从未开过火的人**）；
+  1992 年蓝带小组（Moorman 主持）诊断"只重采办运营卫星、极少注意为地面战士利用它们"；
+  **1993-11-01 太空战争中心（SWC）**成立，以武器中心与空战中心为范本；
+  **SWC 要解决的三个真实缺陷**：循环时间慢、**高度机密信息"过度分隔"造成僵局**
+  （**同一病症第四次出现**：1991 SCI 帐篷／1995 波斯尼亚／1999 RC-135／太空领域）；
+  Strike II 1994（空中 F-15E 靠卫星坐标夜袭模拟机动飞毛腿）；
+  把太空塞进蓝旗、红旗、武器学校（**"在手指扣在扳机上的人当中形成太空素养基础"**）；
+  **五任 CINCSPACE 连续为作战飞行员**（Horner→Ashy→Estes→Myers→Eberhart，附背景表）；
+  **结论句："太空推动"（space push）→"操作者拉动"（operator pull）**，
+  同时保留"资深太空人可能私下怀疑这是不是受欢迎的发展"；
+  海军太空司令部司令"**海军没有太空就在功能上死在水里**"
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **本库第一次有了太空层**：七类贡献逐一对应到具体系统，且都带缺陷
+   （16 颗卫星、七个悲伤时段、30 秒 vs 7 分钟）。
+2. **"让受益者管供货方"** 是本库记录过的最干净的一条组织变革机制。
+3. **"从不打仗的导弹部队把作战身份带进了太空社群"**——最精微的一处讽刺。
+4. **"过度分隔导致所需材料从未送到最需要它的人手里"** 是本库同一病症的第四次记录，
+   而且这次是在太空领域——说明它不是某个单位的失误。
+5. **"越准越难评估"（尾注 9）** 是本库 BDA 页缺的一条因果，
+   与 Putney 侧"判读技艺消亡"互补。
+
+**检查**：全库 767 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十三：第 7 章中后段（太空作战媒介／太空军归属之争）
+
+**读取范围**：行 12310—12800。Space as a New Medium of Operations、
+The Promise of Space Power in New-Era Warfare、Growing the Integration of Air and Space。
+
+**新建 3 页**
+
+- `concepts/space-as-operational-medium.md`——2000 年的战略判断：
+  **四类任务**（太空支援／力量增强／太空控制／力量运用），
+  后两类当年"几乎完全没有开发"与"会突破政治可接受性"；
+  **太空控制当时能做的"几乎全部就是干扰或物理摧毁地面卫星站"**；
+  力量运用清单（天基激光拦弹道导弹、天基非核超高速动能武器打地面点目标，
+  **"甚至可能包括装甲车辆"**）；
+  **"经济重心"用美国自己的卫星指自己**（在轨超 1,000 亿美元＋年 70 亿商业产业）；
+  **GPS 悖论：JDAM 完全依赖实时 GPS 引导，而 GPS 信号微弱易被阻断**；
+  **商业卫星扩散**（3 英尺分辨率、法国 1980 年代中期与俄罗斯 1992 年引领、
+  1994 年克林顿批准出售、十年内十余颗民用卫星、结束先进国家垄断）；
+  **最惊人的一条反事实："如果伊拉克能获取实时商业卫星信息，
+  左勾拳的震撼效果极可能会被削弱。幸运的是苏联人选择不告知萨达姆，
+  尽管他们几乎肯定知道"**；
+  伊拉克气象卫星下行链路与**一台未经授权的 Landsat 接收机**被炸
+  （因无法只切断对方而不切断盟友）；
+  **2020 年推演："他们打掉我们大部分天基能力。我们的军事力量就这样停摆了"**；
+  反卫星武器会先服役、天基对地打击在"更下游"；
+  太空带来的三样新东西（开火前控制态势、持久存在、不被还击的参与者）；
+  **Moorman 的成本反驳：替掉一架预警机需要 25—40 颗卫星，"一种非常昂贵的方式"**
+- `concepts/space-service-rivalry-1996-98.md`——军种归属之争：
+  1996 Corona 会议《愿景声明》**"air force → air and space force → space and air force"
+  三个词序**（词序即优先级）；
+  **Horner 1997："空军大致处于陆军 1920 年时的位置"、即"一种否认的状态"，
+  且最尖刻地说这"几乎变成了空军的一次角色与任务抢夺"**——
+  说话者本人正是把太空拉进作战体系的那个人；
+  1998 年参议员 Bob Smith 的最后通牒（**"这不是太空战争；这是利用太空支援空中战争"**），
+  指控空军只把太空当信息媒介、天基导弹防御与空天飞机投资"微不足道"、
+  未把太空军官提到最高将领层；
+  **陆战队司令 Krulak："那片海就是太空，空军说'那是我的'，我说'你别想拿走'"**；
+  空军答复"必须先完善走路再奔跑"——**同一事实，双方得出相反结论**
+- `events/dudayev-killed-1996.md`——**本库对车臣战争唯一页面**，
+  且是作为"太空利用的意外后果"案例引入：1996-04-24、
+  俄罗斯情报定位后传给对地攻击机、据报发射射频寻的导弹、
+  **在他用卫星野战电话通话时**；媒体称两枚导弹由便携电话天线与中继卫星之间的信号制导；
+  **俄国防部拒绝确认或否认**——本库逐条标来源层级，技术细节不作已证实
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"左勾拳的成功部分依赖苏联选择不告诉萨达姆"** 是本批最惊人的一句，
+   与 Woods 侧"伊方读不懂公开信息"拼成完整图景：既读不懂，也没人告诉。
+2. **"经济重心"被用来指美国自己的卫星**——罕见的自我指向用法。
+3. **"那不是太空战争，是利用太空支援空中战争"（Smith）** 与
+   **Horner"角色与任务抢夺"** 并列——**内部人拆自己的台，比外部批评更重。**
+4. **"为每个 JFACC 设常设太空支援小组"** 是 1991 年 SCI 帐篷问题的制度化答案。
+5. **杜达耶夫页严守来源层级**：Lambeth"很可能"、媒体"据报"、俄方"拒绝确认或否认"，
+   不写伤亡、不作首例引申。
+
+**检查**：全库 770 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十四：第 8 章前半（空权论战两条线、理论之争、Pape 之争）
+
+**读取范围**：行 13150—13500。Untangling the Air Power Debate、
+The Dispute over Air Power Theory、Does Strategic Bombing Work?（前半）。
+
+**新建 1 页**
+
+- `concepts/two-air-power-debates.md`——**全书的方法论骨架**：
+  Lambeth 指出**两条并行但分离的论争被混为一谈**：
+  ① 理论之争（战略轰炸能否迫使屈服？空权能否独立赢得战争？）；
+  ② **条令与地盘之争（哪种运用概念最值钱、作战角色如何分配、预算份额）**——
+  **他判断第二条远比第一条重要，而第一条已"大体 moot"**（不是"无效"，是"提法被技术变革绕过"）；
+  思想史接线：**杜黑**（打民众与工业中心、"征服制空权"既必要又充分）→
+  **米切尔**（同样相信打敌地面与海上力量）→
+  **1930 年代空中战术学校的"瓶颈目标"**（"以相对较小力量、几乎外科手术般精确
+  使敌人战争生产停顿"）→ **沃登的重心**——本库第一次把这条线完整接上；
+  三条被引判词：Ziemke"战略轰炸对空军身份的核心性正如新约对天主教会"、
+  Record"不可修复地玷污了空权的信誉"（**Lambeth 反驳：把萨达姆赶下台从来不是明确目标，
+  这是在指责空权未能完成一件从未被要求做的事**，附布什回忆录尾注）、
+  **Pape 33 场战略空中战役"战略轰炸不可能是决定性的"**；
+  **对 Pape 的两面评价**：他对"战略空权倡导者高估恐吓"的批评是对的，
+  但把"战区 vs 战略"当成对立、且无法给 Horner 归类（Watts："通不过常识检验"）是错的；
+  **核心方法论一击——"虚假二分"**：Pape 说三分之二以上精确弹药打的是"战区"目标，
+  Lambeth 说这恰好证明"**这些表面上战区的行动产生了清楚明确的战略结果**"，
+  **因为共和国卫队自始就被列为 CENTCOM 计划中的"战略"目标**；
+  真正的贡献被争论遮住：**"迅速夺取制空权，再利用那种主导地位摧毁或瘫痪
+  敌方多样的军事力量来源，使自己的地面部队以最小困难与损失完成剩余任务"**；
+  Ziemke 的反讽："**把战略轰炸等同于空权，反而把空权最具决定性的方面
+  排除在它自己的效能标尺之外**"；
+  **1991 年的两种意图**（近期逐出科威特 vs 磨掉伊拉克"此后"的棱角）——
+  这个区分解释了本库 Woods 侧与 Hallion／Putney 侧为何记录得不一致
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"moot"不是"无效"**：Lambeth 说的是**问题的提法**被技术变革绕过去了。
+   读者若简化成"Lambeth 认为战略轰炸无用"就完全错了。
+2. **"虚假二分"是本批最有用的分析工具**：它同时解释了本库冲突页里
+   "空权因果"那一组为什么吵不清——**各家对"战略/战区"标签的用法不同，统计口径就不同**。
+3. **"瓶颈目标"→沃登重心**的思想史接线，是本库第一次接通。
+4. **"两种意图"的区分**让 Woods 侧（第二种意图的长期后果）与
+   Hallion／Putney 侧（第一种意图的实施）不再显得互相矛盾。
+
+**检查**：全库 771 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十五：第 8 章中段（杜黑过时／"战略"定义／空权能否单干）
+
+**读取范围**：行 13500—13830。Does Strategic Bombing Work?（后半）、
+Can Air Power Do It Alone?
+
+**新建 1 页**
+
+- `concepts/douhet-obsolete-and-strategic-definition.md`——
+  ① **两种意图的成绩单**：第二个意图（影响伊拉克"此后"）表现"不那么响亮"而招致最严厉斥责，
+  但 Lambeth 说那是"不恰当的衡量标尺"；
+  基础设施攻击**不超过全部攻击架次的 10%**；
+  **Gordon & Trainor（两位陆军出身作者）："空中战役几乎已经赢得了战争"**；
+  ② **GWAPS 的官方判定**：少有证据表明基础设施攻击起了关键作用，
+  **摧毁伊拉克几乎全部石油产能"没有产生重要的军事结果"**
+  （战争结束得太快，燃料短缺来不及影响）；
+  ③ **"23,000 个架次未达 30% 损耗指标，但第二个目标达成了"**——
+  与 Putney 侧 50% 指标页吻合，**并说明那个指标是坏指标**；
+  ④ **"战略"一词的正确定义（Builder）**：不是平台或目标类型，而是**决定性作战效果**
+  （"直取咽喉""聚焦于目的""转化性""改变游戏规则"）；
+  1991 年真正的"战略"焦点：**毁态势感知与集体行动能力 → 迅速制空权（sine qua non）
+  → 剥夺伊军协调反击能力**；
+  ⑤ **条令对立**：**AFM 1-1（1992）讲"摧毁敌人进行战争的能力"（效果）
+  vs JP 1-02（1994）仍按"关键制造系统/电力系统/运输系统"等目标类型定义**，
+  "为当前辩论中对战略空战的所有其他错误处理定了调"——
+  与 Chain 1988、Putney `counterland` 术语问题三条互证；
+  ⑥ **杜黑"过时而非错误"**：他的前提是"空权除了无差别破坏民用目标别无他能"，
+  **这个前提不存在了**；"以惩罚为导向的战略现已过时——
+  除非一个人想做的只是为一桩过失寻求报复，或阻滞敌人战后的经济与社会恢复"；
+  ⑦ **"空权能否单干"的边界划定**：Record 在打稻草人、
+  **尾注 28 一条反证：Glosson 曾告诫施瓦茨科普夫"需要一场能打十五个回合的空中战役"、
+  "将是一场马拉松，而不是冲刺"**；
+  鲍威尔"**在每一场战争中，都必须是步兵在战场上举起胜利的旗帜**"、
+  "**这类战略是为希望获胜而设计的，它们不是为获胜而设计的**"；
+  **Warden 个人确信可以只靠迅雷达成目标，但"从来连遥远都算不上是空军这个法人的主张"**；
+  **Horner 因不同意而把他留在利雅得参谋部之外**；
+  **英国部队司令 Hine 的自问"依赖这一点是否明智？"**——"我确信空权会非常有效甚至决定性，
+  但带着一个不利的地面力量对比去开战，风险太高了"
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"杜黑过时而非错误"**——因为前提消失，不是因为推论错。这个处理比简单否定诚实得多。
+2. **"战略 = 决定性作战效果"（Builder）** 与"1991 年战略实际所指"必须一起读，
+   否则会退化成"战略 = 基础设施"。
+3. **AFM 1-1 vs JP 1-02 的对立**把术语问题变成制度问题：**空军的条令对、
+   参联会的通用词典错**——而词典是全军的语言。
+4. **鲍威尔"为希望获胜而设计，不是为获胜而设计"** 与 **Hine"依赖这一点是否明智？"**
+   并列为"对不确定性的定价"；并注明 **1999 年科索沃用的正是这种战略，却奏效了**
+   ——**反例并列，不裁断。**
+5. **Glosson"马拉松不是冲刺"** 一条尾注推翻了"空权鼓吹者以为能速胜"的整个指控。
+
+**检查**：全库 772 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十六：第 8 章后段（军种地盘之争）
+
+**读取范围**：行 13830—14170。The Battle over Resources and Doctrine、
+Interservice Rivalry Escalates（前半）。
+
+**新建 1 页**
+
+- `concepts/roles-and-missions-battle-1990s.md`——Lambeth 说这一场"远比理论之争重要"：
+  **"四支空军问题"（Nunn, 1992）**＋JP 1-02 的"纵深攻击"定义（FSCL 后 15 英里以上）；
+  **角色／职能／使命三个词的制度区分**（第 10 编／国防部长／CINC），
+  Lasswell 上校"陆军打陆战、空军在空中作战、海军在海上作战、陆战队从海上向岸投送"；
+  **McPeak 的"四场战斗"分区**：近距（含其上方空域）归地面司令、
+  纵深与高空归空中司令、后方/两栖/海上分归陆军/陆战队/海军；
+  **他自称这不是给空军"三分之二"的花招**；**"接缝"（seams）由战区 CINC 管理**；
+  三条反对：**Garner"Air Force uber alles"**、
+  **McPeak 主张陆战队"退出空运业务、ATACMS 与 F/A-18"并放弃太空主张**、
+  **Otis"FLOT 已不存在，线性战场概念失效，控制权应归地面司令"**——
+  **两人都用"技术变了"论证，结论相反**；
+  **McPeak 退役后的自述："本质上是零和博弈"、"各军种默默串通把它关在地下室里，
+  像某个疯狂的亲戚"**；委员会**回避了核心问题**，把争论赶回条令与长期规划，
+  于是有 DAWMS／QDR／NDR；
+  **Lynn："触及各军种的制度身份、各司令部的作战概念，
+  甚至触及本部最神圣的部分——各组成部分的预算份额"**；
+  空军把 1991 年战果换成新概念：**"精确空中力量可在美国地面部队抵达之前
+  迟滞、阻止并可能击败敌方装甲进攻"，且"过早投入地面部队会招致不必要友军伤亡"**
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **空军的论证是道德论据而非预算论据**（"早点派地面部队会多死人"），
+   这解释了为什么陆军反应如此激烈——**它直接威胁陆军的核心职能**。
+   与 AEF 页的"heavying up"是同一论证的两种表述。
+2. **"接缝由唯一不属于任何一方的人来管"**（战区 CINC）是本页最好的制度洞察，
+   与 JFACC 页同一逻辑：**联合的难题不是谁听谁的，是谁有权切分。**
+3. **McPeak 与 Otis 的对照**：两人都说"技术变了"，
+   一个推出"分区管理"，一个推出"FLOT 消失、无需分区"——
+   **同一个前提，相反的结论。**
+4. **"制度身份＋作战概念＋预算份额"三层（Lynn）** 是本库关于
+   "军种之争为什么难解"最好的一句概括，与 Karlin 侧"铁三角"结构相通。
+
+**检查**：全库 773 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉝ Lambeth 批次十八（完）：第 9 章后半 —— 全书正文读完
+
+**读取范围**：行 15140—16150。The Changed Essence（后半）、A Struggle between New and Old、
+Effecting a New American Way of War。
+
+**新建 3 页**
+
+- `concepts/air-power-payoffs-and-limits.md`——四项回报与三项限度：
+  **朝鲜对照补完**（"空权不能独自阻止北朝鲜入侵""不会像沙漠风暴那样单方面打 40 天"）；
+  **回报一：态势感知不对称**（Hobbes"盲人国里独眼人为王"；
+  但"地下室的一支连队""人群中 12 名恐怖分子"仍做不到，**且这对地面部队一点也不更轻松**）；
+  **回报二：做以前做不到的事、以更少做更多**；**回报三：开战即控制态势，
+  "同时"取代"顺序"**（"初次攻击甚至可能是隐蔽的——进入计算机系统"，
+  而 1999 年已发生）；**回报四：持续压力与关闭敌人指挥能力**；
+  **"不必粉碎敌人，只需扰乱其集体行动能力"**；
+  Watts"空地战斗日益由来自空中的间接火力主导"；
+  **全书最大判断："最大效果是救人"**＋Hartmann"用脑飞不用肌肉飞"
+- `concepts/kuhn-paradigm-air-land-struggle.md`——**全书最出人意料的一节**：
+  用库恩框架处理军种之争；**"老范式不会被过于轻易放弃，这是健康的"**；
+  **"所谓的新范式绝非不言自明地是空天范式"**（Larry Welch 四条新能力
+  "绝非空中与太空力量的专有属性"）；两条压力（钱与伤亡敏感）；
+  **民调数据推翻"公众怕死人"的前提**：战前无人支持开战 → 开战后 68—84% 支持、
+  地面战前 79% 只要空战 → **地面战开打后 75% 认为打得对**
+  （**公众跟着结果走，不跟着伤亡走**）；
+  **告诫一至九**：承认做不到什么／承认对方仍提供什么／Neustadt 式说服
+  （"那正是他们自身利益所要求的"）／**否认杜黑"拥有制空权就是拥有胜利"
+  （"那句话在 1921 年首次说出时是假的，今天也一样假"）**／
+  与城市工业轰炸告别／**缺一套"打地面部队"的理论**（Murray：计划者"只是把目标堆积起来"）／
+  **TACWAR 模型三条具体指控**（不允许在 SAM 网上开洞、打 GCI 站点"是浪费的"、
+  武器与目标可以完全错配）／别再谈"主导性空天力量"／需要当代的"胜利"概念
+- `concepts/new-american-way-of-war-lambeth.md`——全书收尾：
+  Mason"不靠承诺与抽象理论，靠以可接受代价确保政治目标的能力"；
+  **澄清空军高层从未主张空权万能**，且一些高级空军人员认为
+  **前沿地面部队可能是最佳地区威慑**；
+  **"1947 年设定的目标（摧毁意志）未实现，实现的是陆军的靶子（摧毁军事力量）"**；
+  **"政治正确的联合"**（politically correct jointness）与 1981 年伊朗人质营救反例；
+  **真正决定战争方式的是战区 CINC，不是军种参谋长**（"空军参谋长再雄辩也只被视为硬件积累者"）；
+  **"TAC 与 Warden 在 1990 年 8 月那道裂痕今天还在"**（把批次三"Adams 在休假"拉成全书线索）、
+  Haffa"空军可能不再作为独立军种存在"；
+  **奥古斯丁定律"2054 年一架飞机吃掉整个国防预算"**；
+  **三种低成本反制**（打 JSTARS/AWACS/加油机、打运输机、打前沿基地、终至 WMD 反威慑）
+  ＋ **Patton"别以为发明能代替苦战"**；
+  **最后三条限定**（空权不能无地面/水面参与而胜；空权不必然更重要；
+  **地面力量从"达成胜利"变为"确保胜利"，且只有地面部队能施加最后一击**）
+
+**更新 2 页**：来源页（**全书正文读完**）、`index.md`
+
+**本批关键判断**
+
+1. **全书说话的对象不是空军，是战区 CINC**——这解释了为什么全书反复强调
+   "能给 CINC 什么"而不是"空军多强"。
+2. **"绕过了难以捉摸的目标（意志），直接走向咽喉（军事力量）"**——
+   空军 1947 年的目标未实现，实现的是陆军的靶子，这才是军种摩擦的真正来源。
+3. **TACWAR 三条指控说明：不是空军吹牛而陆军不信，是双方的模型不描述同一个世界**——
+   模型要求"杀死全正面所有 SAM"，而实战只打了几个节点。
+4. **"公众跟着结果走，不跟着伤亡走"**（战前无人支持 → 开战后 68—84% 支持）
+   推翻"美国公众怕死人"这个常见前提，与科索沃"自我威慑"构成三角：
+   **决策层的顾虑大于公众的顾虑。**
+5. **"缺一套打地面部队的理论"** 是全书最重的自我批评，
+   而且它把 1991 年那个"幸运地成功了"的部分指认为**没有理论支撑的部分**。
+
+**全书完成**：18 批，共新建 **31 页**（来源 1、概念 25、事件 5），另更新既有实体页 1。
+未读仅 Acronyms 与 Index（工具层）。
+
+**检查**：全库 778 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量）；
+表格 alias 违规 0；`SCHEMA.md` sha256 仍 `191cd20f951e`。
+
+## 2026-11-18 · 来源㉞ Gansler《Defense Conversion》（MIT Press 1995）批次一
+
+**来源**：`/mnt/share/test/Defense conversion  transforming the arsenal of democracy (Gansler, Jacques S)...pdf`
+（Internet Archive 2022 扫描 OCR，300 页，sha256 `d815cf2e2439…`）
+**入库**：`raw/papers/gansler-defense-conversion/{gansler-defense-conversion.pdf, .txt}`（15 MB / 11,370 行）
+
+**读取范围**：Foreword、Preface、第 1 章 The Challenge（行 300—900）。
+
+**新建 3 页**
+
+- `sources/gansler-defense-conversion.md`——书目与作者位置（TASC 高级副总裁、
+  前国防部副部长帮办）、核心论点（**"把产业转型为大体上一体化的军民结构"**，
+  既不维持现状也不全转民用）、**史料性质：这是一本主张书（advocacy），不是中立史**、
+  出版下限 1995、OCR 状况（**正文可引，表 1.1 等表格全废，本库不使用本书表格数据**）、
+  章目与行号对照表、本书在本库中的位置（**补的是"造武器的工厂与人"这一层**，
+  与 Lambeth 记的同一场裁军互为两面）
+- `concepts/post-cold-war-defense-drawdown-gansler.md`——
+  **裁军量级**：现役减 25 万、**国防产业裁员近 200 万**（算上间接效应至少翻倍）、
+  预算 -8%、采购 -25%；参议员 Pryor 估"**1992—1997 每天 1,000 人失业**"；
+  **产能利用率 35% vs 高效 85%**；工人承担最多（军种先保人员经费）；
+  **最重的一条：同期 IBM 1992 亏 50 亿、1993 亏 80 亿以上、1986—1994 裁 18 万人，
+  波音 1992 裁 1 万、1993 裁 2.8 万**——**国防裁员的困难不在于人多，
+  而在于能接收这些人的公司同一时期也在裁人**；
+  **四次裁军对照**（二战：提前规划＋需求旺＝好得出奇；朝鲜：无援助但不需要；
+  越战：**二十多个联邦项目仍然很难**）⇒ **援助项目数量不是关键，
+  产业可转换性与宏观需求才是**；"和平红利"没来（1993 年 118 起自决运动、
+  前苏联四国约 30,000 件核武器）；1989 年民调"**日本以三比一被视为最大威胁**"、
+  商务部首次进国安会、"**利息支出超过国家安全支出**"
+- `concepts/weapon-cost-growth-and-procurement-cycle-gansler.md`——
+  **四宗罪**（太贵、太慢、不可靠、保障费高）；成本量级（几千→几百万、
+  轰炸机 ~10 亿、舰艇 30—50 亿）**与 Lambeth 引的奥古斯丁定律是同一件事两个版本**；
+  **16.5 年 vs 6—18 个月**是全书核心矛盾（**制度尺度而非技术是瓶颈**）；
+  1995 年十条需求清单（含"**定位并摧毁移动目标**"，而 1999 年科索沃发现没做到）；
+  **"部队规模 vs 装备现代化"取舍**（Gansler 立场：该保装备，因此主张削减航母与重装师）；
+  **"十年窗口"**；"设计上就要便宜"是文化变革
+
+**更新 2 页**：`index.md`（新增来源㉞ 入口与两页）、来源页（批次记录）
+
+**本批关键判断**
+
+1. **本书是"主张书"，引用纪律已写进来源页**——数据标〔Gansler 口径〕，
+   且其立场（长期在国防工业界与国防部任职、主张军民一体化）须一并交代。
+2. **两次跨来源印证**：① 成本增长／奥古斯丁定律（Lambeth）；
+   ② "制度尺度而非技术是瓶颈"（Lambeth 的太空任务迁移页）。
+3. **"能接收裁员的人的公司也在裁员"** 是本批最重的事实，
+   也是此后所有再就业方案绕不过去的硬约束。
+4. **四次裁军对照的结论反直觉**：援助项目多寡不决定成败。
+
+**OCR 甄别**：封面 `Gansler` 误识为 `bansler`、`1978` 作 `m.978`、
+`1,200` 作 `1,20c`、`20ooD` 类错位；**表 1.1（核化生与导弹扩散表）几乎全废，
+只剩零散 x/X 与乱码，本库不使用**，仅记表题与出处。
+
+**检查**：全库 781 个 md，YAML bad 0；除 log/SCHEMA 外断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次二：第 2 章前半（产业政策先例／产业脆弱性）
+
+**读取范围**：行 1330—1650。The Cold War Defense Industry 前半：
+产业政策争论、政府扶植先例、Industrial Vulnerability、Avtex、
+下层供应商四面夹击、四个重组例子之坦克段。
+
+**新建 2 页**
+
+- `concepts/us-industrial-policy-precedents-gansler.md`——**全书最反直觉也最有力的一节**：
+  **"美国一直有事实上的产业政策"**（农业与住房各约 250 亿美元补贴）；
+  **"规则驱动 vs 计划驱动"**（美国让法官裁决成为国家政策，政府与产业基本敌对；
+  日本计划驱动、由工程师与商人推动）——**Gansler 的论证策略不是"学日本"，
+  而是"我们已经在做，只是不说"**；
+  **四个先例**：NACA 1915（"尽管发明了飞机，美国在飞机工业上却落后于若干欧洲国家"；
+  任务是"为美国飞机工业取得世界领导地位"；下初始订单以求达到低成本产量；
+  **该部门至今仍是美国最大的单一出口产业**）、
+  晶体管（陆军通信兵赞助研究、补贴工程、资助生产规划、**成为初始保证买方**、
+  标准化、传播成果 → **到 1955 年出现相当大的产能过剩**）、
+  数控机床（空军在主承包商工厂采购安装维护一百多台、付钱让人学，
+  **1951—1957 年该产业研发支出增长八倍**）、计算机与 RCA 通信；
+  **工具三分法：研发（NACA）／购买力（计算机与半导体）／专利控制（RCA 与通信）**；
+  **"市场决定谁死，政府决定结构"**——对政府角色的精确界定，
+  且明言当前"监管增加只是使不可避免的改变更困难"
+- `concepts/defense-industry-vulnerability-tiers-gansler.md`——
+  **四个脆弱性变量**（部门依赖度／企业规模／管理文化／**工艺技术的商业可适用性**）；
+  表 2.1 国防销售占比（造船 80%／弹药 84%／飞机约 55%／通信设备 51%／
+  半导体 34%／计算设备 10%）**——其中"飞机"一格 OCR 损坏（`ay)`），
+  按后文"约 50/50"推定为 55／45，已标"推定值须回 PDF 核对"**；
+  **造船的例子：维修交给公共厂还是私营厂，直接决定私营造船业存亡**
+  （私营造船就业 1990 年约 13 万 → 1998 年 3 万，理事会预测"2000 年美国可能连一家开着的船厂都没有"）；
+  **"为保住船厂多造一艘核潜艇＝每艘约 30 亿美元"**——
+  国防采购事实上在承担产业政策功能，但从未被如此设计；
+  **Avtex 人造丝厂**（唯一国防资格来源、1988-11-03 关闭、政府花 1,800 万美元维持、
+  供给航天飞机喷管与 MX／三叉戟 2）；
+  **下层供应商的四面夹击**（预算削减＋主承包商收回自制＋**下层无"购买美国货法"保护
+  而被更便宜的外国来源取代**＋主承包商收缩供应商名单）
+  ⇒ **"正是在这些企业当中，商业与军事世界存在最明显的工艺共通性"
+  ⇒ 全军民一体化的落点在下层，不在顶端**；
+  **"太多"与"太少"用同一套预算工具、方向相反**；最难的是政治，
+  解法是**基地关闭委员会式的"全有或全无投票"**
+
+**更新 3 页**：来源页（批次记录与页脚）、`index.md`
+
+**本批关键判断**
+
+1. **"别只看靠不靠国防，要看机器能不能干别的活"**——第四个变量是全书论证的枢轴。
+2. **"太多"与"太少"方向相反却共用一套工具**，这个矛盾 Gansler 自己承认，
+   并把破局点放在政治上（全有或全无投票）。
+3. **救下层供应商最划算**，因为它们的工艺最接近民用；
+   反过来说，只救主承包商救下的是最难转民用的部分。
+4. **"为保船厂多造一艘潜艇 30 亿美元"**说明产业政策已经在发生，
+   只是以采购决定的形式、且未被当作政策来设计。
+
+**OCR 甄别**：表 2.1 与表 2.2（前 25 大承包商）**大面积损坏**
+（如 `Lis?`、`9° 809898520`、`The Mh`、`oilph3`），
+**本库不使用表 2.2 的任何数字**；表 2.1 只用正文明确引述的那几格，
+且"飞机"一格标为推定值。
+
+**检查**：全库 783 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次三：第 2 章后半＋第 3 章
+
+**读取范围**：行 1650—2170。Four Examples of Restructuring（坦克／飞机／电子／服务业）、
+"defense conversion" 词义批评、Growing Foreign Involvement 全章。
+
+**新建 2 页**
+
+- `concepts/four-sector-restructuring-cases-gansler.md`——
+  **四个案例构成一条"可转换性梯度"**（坦克最不可转 → 飞机半 → 电子民用领先 → 服务人力为主）：
+  **坦克**：一家企业（通用动力）经营两家政府所有的厂，
+  **"当陆军决定建立第二家坦克厂时，它选择不让另一家企业来经营"**——
+  没创造竞争而是打击竞争；**"俄国人在同一家工厂造坦克和铁路车辆"**；
+  **下一代坦克的病根："陆军坚持独特规格"，而不是让坦克装甲与发动机
+  与"大型卡车陶瓷发动机"的商业生产要求兼容**（同一生产线可同时造卡车与坦克陶瓷发动机
+  → 巨大规模经济）；
+  **飞机**：1992 年销售额 728 亿、商业贸易顺差 237 亿、**美国最大单一出口产业**；
+  **波音不是国防部任何飞机的主承包商，洛克希德现在不做任何商业业务**；
+  波音与麦道把军民运输机业务拆成不同设施以避开国防部负担——
+  **"无论是美国商业产业还是国防部，都没有从潜在的协同效应中获益"**；
+  引 Tyson"**美国政策真正的错误在于一种杂乱无章的国防产业政策**"；
+  对照日本：MITI 定为国家级重点，四家公司拿防卫厅钱做工厂现代化，
+  **"在同样的机器上、在同样的工厂里"造 FSX 与波音 777 主要结构件，
+  每家 75—85% 经费依赖军方**，且已取代诺斯罗普与 LTV 成为美国商业运输机主要供应商；
+  **喷气发动机是全书中唯一已军民一体的子系统**（GE 与普惠在军民两界持续竞争、
+  政府持续出钱改进），但警告"可能萎缩到只剩一家"；
+  **电子**：国防部研发与装备预算 **50% 以上由电子产业提供**；
+  **"硬固定在汽车发动机缸体上的芯片超出军规温度范围 10 度、成本远低于军用、
+  可靠性更高、性能先进两到三年"**；
+  **"前十大半导体生产商中有五家表示因政府强加的负担与特殊要求而拒绝国防业务"**；
+  **服务业**：1993 年联邦服务采购 1,030 亿（国防部 620 亿）；
+  **"1980 年代中期海军以每小时 6.50 美元采购有学位的工程服务"**、
+  **"没有商业组织会以'有工程学位证书、体温 98.6 度'为依据购买工程师"**；
+  FFRDC（Aerospace／Mitre）无竞争获经费且不缴联邦税，今天做的工作与私营企业完全相同；
+  **政府从服务的"零售者"变成"批发者"**；
+  **"defense conversion"一词的七种含义**（社区调整／工厂转换／再培训／制造技术培训／
+  技术转移／转型为一体化基础／研发转向双用）⇒ **"没有就应当做什么产生共识"**
+- `concepts/foreign-dependency-defense-industrial-base-gansler.md`——
+  **《购买美国货法》管主承包商、不管零件供应商**（1933 年至今）；
+  **石原慎太郎"停供半导体可让美国六个月跪下"＋实际发生过的展示：
+  MITI 迫使京瓷子公司 Dexcel 向战斧导弹项目扣留先进陶瓷技术**；
+  **海湾战争期间"国防部代表被派到世界各地奔走，恳求特别安排以加快外国部件销售"**
+  ——本库关于 1991 年最有价值的侧面记录之一；
+  **核心概念替换："问题是脆弱性，不是外国依赖"** ⇒ **自给自足的冲动是错位的**；
+  外资所有清单（1991 年 Thomson-CSF 试图收购 LTV 国防部门被公众压力逼退；
+  Matra 买 Fairchild；**Singer 被拆卖给加拿大/日本/英国/德国四国买家**；
+  美资外资所有 1976 年 2,500 亿 → 1990 年 2.2 万亿；
+  **日本酸素买下美国唯一半导体稀有气体厂**、**美国最后两家商业硅制造商卖给德日**；
+  十年内 100 家计算机、45 家半导体、35 家先进材料、20 家航空航天公司被外资买下）；
+  **因果：一座芯片厂 2.5 亿—10 亿美元，美国企业难以获得长期融资，被迫出海找钱**
+  ⇒ **"不是不想卖给自己人，是买不起"**；
+  **Exon-Florio／CFIUS：1988—1992 审查 700 案，只拒一案（疑为间谍掩护的中国机构）
+  ⇒ "该法被认为是一只纸老虎"**，原因是**没有总体目标 ⇒ 每案都是特例 ⇒ 都能找到理由**；
+  技术转让：**两条冷战前提都不成立了**（军民技术难以区分、且民用往往更先进）；
+  **Matrix Churchill**（萨达姆内弟经伦敦母公司买下俄亥俄机床公司，
+  商务部批准为"玻璃纤维厂"，**而它也可造导弹壳体**）；
+  **FSX**（**"日本缺的不是造部件的能力，是总体设计、系统工程与集成"**；
+  美方商务部/国防部/国务院无协调立场，且供应商在国际谈判中互相竞争）
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"陆军坚持独特规格"是整本书最具体的病根**：不是军品不能转民，
+   而是**军品被要求不能与民用共线**——而这条要求来自采购制度，不是技术。
+2. **"在同样的机器上造 FSX 与波音 777 部件"** 是对手给出的军民一体化实物图像；
+   **75—85% 经费来自军方却同时在给波音做件**，说明"依赖军方"与"服务商业"不互斥。
+3. **"前十大半导体厂商有五家拒绝国防业务"** 比任何理论论证都直接：**卖方不卖了**，
+   而拒绝理由是**行政负担**，不是利润。
+4. **"问题是脆弱性不是依赖"** 是全书最精确的概念替换，
+   决定了政策答案是"多来源"而非"自己造"。
+5. **海湾战争"满世界求零件"** 与空袭胜利并列，不矛盾——同一场战争的两个切面。
+6. **Exon-Florio"700 批 699"** 的因果链（无总体目标→每案特例→都能通过）
+   与第 2 章"市场决定谁死、政府决定结构"是同一论点的两面。
+
+**OCR 甄别**：本章表格（表 2.2 前 25 大承包商）仍大面积损坏，**未使用其任何数字**；
+正文中 `1,20c`／`M-1`／`FSX` 等专名清晰可辨；`Sémiconductors` 为 OCR 重音符误加。
+
+**检查**：全库 785 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次四：第 4 章（收缩路径／壁垒／国会保生产线）
+
+**读取范围**：行 2170—2520。Initial Post-Cold War Developments：
+五条收缩路径、企业实例、反垄断/环境/设备壁垒、Barriers to Effective Downsizing。
+
+**新建 2 页**
+
+- `concepts/defense-firm-contraction-paths-gansler.md`——
+  **时间差与螺旋**：预算 1980 年代后半期就开始降，但装备交付到 1990 年代初才骤降
+  （积压订单＋长生产周期），**1982—1992 销售额反而翻倍**（航空航天 700 亿→1,400 亿），
+  而**1992 年底工厂利用率仅 35%**；**"成本上升→产量下降→成本再上升"的下行螺旋**；
+  **部门降幅**（装甲 -55%／飞机发动机 -49%／弹药 -49%／飞机 -47%／电子 -39%／
+  导弹 -34%／通信 -32%／舰船 -29%，**弹药到 1994 年降近 80%**）；
+  **对政府的批评："里根与布什两届政府都主张政府不建指导方针，
+  且关键决定以随机方式作出，导致低效、混乱与浪费"**；
+  **五条路径**（坚持国防／外销／卖给其他政府市场／多元化／退出）；
+  **通用动力"想买买不到、于是把自己一项项卖掉"**
+  （导弹→Hughes、飞机→Lockheed、运载火箭→Martin Marietta、坦克与潜艇待售，
+  **几年内缩编 50,000 人以上**）；Loral/Martin Marietta/Lockheed 反向收购，
+  **"裁完员工后股价飙升"**；
+  **七个多元化实例**（西屋做安保/气象雷达/订票/邮件分拣/车队跟踪/电动车电力；
+  **休斯做客机航电与高科技街机**；TRW 做空管与国税局税务设备；
+  Martin Marietta 为邮政做分拣、为 HUD 管计算机；**Lockheed 替洛杉矶收停车罚款、拆核武器**）；
+  **三类壁垒**：**反垄断用错地方**（FTC 阻挠坦克弹药与夜视设备两起合并，
+  陆军曾论证"只够养一家供应商"；三层论证：五角大楼既是规制者又是唯一客户／
+  市场定义无法确定／国际化使唯一美国企业仍在竞争市场）、
+  **环境清理**（核废料处置超 1,800 亿美元）、
+  **过时资本设备**（折旧压死新业务、税法需允许快速注销）；
+  **"许多国防企业对长期多元化说'算了吧'，转而寻求短期利润"**
+- `concepts/congress-industrial-base-politics-gansler.md`——
+  **四角联盟**（军种＋产业管理层＋劳工领袖＋国会代表团，**资本与劳工在此同向**）；
+  **六条拨款记录**：FY92 加 **80 亿美元**项目、理由全是"保持生产线开工"；
+  FY93 **B-2 加四架（40 亿）＋B-1 修缺陷 3 亿**；
+  **布什要关通用动力的坦克/战斗机/潜艇三条线（连将领都承认军事需求很小），
+  国会以"保存国防工业基础"为由给钱让三条全开**；
+  **5 亿美元新航母初始资金（军内对是否需要仍在争论）**；
+  **"为与对手船厂的两艘驱逐舰相匹配，再买两艘"**；
+  **公共部门设施同样被护，即使重复私营部门工作**；
+  **"显然，国家安全与项目效率都不是考虑因素"**；
+  **机制**："**股东看季度回报，国会看下次选举**"，
+  解法是**配对条件**（企业短期利润再投资于转换 / 国会拨款用于长期工厂转换）；
+  **与基地关闭委员会的对照：整包表决 vs 逐个决定**
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"想买买不到、于是把自己卖掉"（通用动力）** 是 1990 年代国防工业整合最精确的图景。
+2. **"为对等而多买两艘驱逐舰"** 精确暴露机制：**订单的功能是分配就业，不是满足需求**。
+3. **"资本与劳工同向"** 是本库关于国防预算难砍最反常识的一条结构观察。
+4. **"整包表决 vs 逐个决定"** 解释了为什么军事基地能关、武器生产线关不掉。
+5. **七个多元化例子的"不体面"**（收停车罚款、拆核弹、做街机、给国税局做设备）
+   才是多元化的现实形态，比任何"技术升级"叙述都真实。
+
+**OCR 甄别**：本批文本清晰；`18 亿/1,800 亿`等数字均按上下文复核
+（核废料为 1,800 亿、Avtex 为 1,800 万，两者不同，勿混）。
+页码栏 OCR 损坏（`by?`、`me)`、`els!`、`7`），不影响正文。
+
+**检查**：全库 787 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次五：第 4 章末＋第 5 章前半（转换的历史教训）
+
+**读取范围**：行 2863—3230。第 4 章末（克林顿转换计划与联邦培训项目堆叠）＋
+第 5 章 Prior Lessons of Industrial Conversion 前半。
+
+**新建 1 页**
+
+- `concepts/conversion-lessons-and-failure-rates-gansler.md`——全书"教训"部分的地基：
+  **失败率的硬数据**：33 家大型多元化公司 1950—1986 年 **2,644 次进入新市场**
+  （70% 收购／22% 新建／8% 合资），
+  **到 1986 年 74% 的不相关收购与 44% 的合资已被剥离，连相关业务多元化也有一半失败**；
+  **内部增长反而稍好**（重新部署现有资源者约 20% 存活十年）；
+  **收购"特别不成功"**（文化吸收＋管理层无新业务知识），
+  但"裁完员工帮助利润的合并有显著短期收益"——与第 4 章"股价飙升"是同一件事；
+  **转换四分之三在头三年失败**；国防企业成功率 **20%→35%**，
+  相关多元化可达 **60—70%**；
+  失败原因含 **"过度工程化（over-engineered）"**——军规不是优势，是成本；
+  **欧洲十六项障碍完整照录**，并指出两组成对的结构：
+  **"一个客户大批量" vs "多客户小批量"**、**"客户写规格" vs "客户说不清需求"**；
+  **最重要的通则：多数成功转移发生在可比的高技术水平之间，而非技术降级**；
+  **Melman："军工产业最高管理者本身是转换的主要障碍……除非他们准备学习，
+  或者被不受'必须忘掉一套不合适的技能'所累的新人取代"**；
+  **卢卡斯模式被明确否定**（工人＋意识形态驱动、缺管理层支持、十年失败），
+  **"市场拉动"胜于"技术推动"**；
+  **三个案例**：波音-伏托尔（**"更多注意力给了工厂重装设备，而不是设计工程师的再培训"**、
+  车辆因可维护性与耐久性不合格几年内停用）、
+  罗尔（赢下所有能投标的地铁合同、**不懂"按成本设计"、过度指定系统**）、
+  **雷神**（专门获取营销技能，收购 Amana 改造微波炉，
+  **商业销售 15%→50%，同期裁掉国防工厂 15% 劳动力**）；
+  **两条原则：不要把军民目标塞进同一个产品；不要等客户来定义产品**；
+  **时间尺度：Harwell 十年／Matra 二十年（1970 年钟表首战失败）／MBB 三十五年／
+  瑞典估八到十年／选定后还需两年规划**——
+  **与"国家只有几年窗口"构成全书核心矛盾**；
+  失败代价（格鲁曼 1,500 万、麦道 6,900 万收购后亏 3.33 亿关停）；
+  **技术转移最佳做法：商业设计师与用户从一开始就在设计桌上**
+  （英国铁路混合研究团队；**西德工人在坦克与铁路车辆之间来回流动**）
+
+**第 4 章末读段（未单独建页，记入日志）**：克林顿政府承诺
+**1994—1997 财年共 203 亿美元"转换计划"**（1997 财年单项 52 亿），
+分配为再培训 40 亿／社区援助 10 亿／双用技术 50 亿／民用技术 100 亿；
+**联邦有 125 个在运项目、每年超 180 亿美元，密歇根一州就有 70 个项目由 9 个部门监管；
+国防转换委员会查明共有 58 个人援助项目与 86 个社区与企业援助项目，
+总审计局发现"它们之间的协调几乎不存在"，且"没有聚焦任何长期解决方案"**；
+1994 年共和党大胜后这些拨款开始遭到严重攻击。
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"连相关业务多元化都有一半失败，样本还是专业多元化的大公司"**——
+   这一句限定了后面所有乐观说法。
+2. **"过度工程化"是全书最精准的词**：军规不是优势，是成本（与"汽车缸体芯片"呼应）。
+3. **转换的瓶颈不在机器，在人的设计哲学**（波音-伏托尔的原话）。
+4. **"需要的转型要二十年，可用的窗口只有几年"** 是全书核心矛盾，本批首次量化。
+5. **"工人在坦克与铁路车辆之间来回流动"** 证明工艺共用是物理事实，
+   要克服的是制度不是技术。
+6. **联邦 125 个项目、协调几乎不存在、不聚焦长期方案**——
+   与第 1 章"越战后二十多个项目仍然很难"的历史结论完全吻合。
+
+**OCR 甄别**：本批第 5 章开头夹有一整页图表扫描残片（约行 3010—3040，
+满页乱码如 `ggihaw 0 diltea id Ret Ceoreine`），**已整段跳过，未引用任何内容**；
+正文部分清晰。`Rohr`／`Kaman`／`Raytheon`／`Matra`／`MBB`／`Hagglunds` 等专名可辨。
+
+**检查**：全库 788 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次六：第 5 章后半＋第 6 章开头（三种政策选项）
+
+**读取范围**：行 3230—3600。第 5 章末（转换工程/管理人员、核心能力、VHSIC、
+政府支持经验、基地关闭、八项考虑与九步）＋第 6 章 The Choices。
+
+**新建 2 页**
+
+- `concepts/core-competence-and-rd-targeting-gansler.md`——
+  **最反直觉的通则**："专门化资产对盈利的贡献与其在其他市场的适用范围**成反比**"，
+  因此"成功的多元化倾向于发生在靠近本行的地方"；
+  **核心能力而非产品相似性**是方法论枢轴；
+  **Stansaab**（军用空中预警 → 民用空管 → 医院监护，
+  共同点是"**分布式项目的集中监测**"；医院那一跳**必须增加懂医院的新人**）；
+  **"制度结构与公司政策甚至比兼容的技术更重要"**（解法：吸收或适应）；
+  **Spectra 实验**（1986—1992 投 2,500 万／17 家／**13 家盈利／成功者 70% 收入来自商业**；
+  失败的四家"**考虑解决方案，不考虑产品**——像工程师那样，没受过完成任务的训练"）；
+  **VHSIC 案例**（国防部本意是帮美国重返商业半导体，
+  但按传统做法**直接与大型武器制造商签约**，
+  由它们挑商业元件供应商作分包——**结果元件被规定成军专用**；
+  若反过来资助商业元件商、由它们给国防企业分包，
+  "几乎肯定能开发出同时满足军民需要的产品"）；
+  **政府能做**：第一买主（半导体→超级计算机，但"迫使政府采取长期视角，
+  而它过去一直不愿"）、补贴初创、坚持 50% 成本分担；
+  **政府不能做**：立法转换、救助/拉长/额外采购（除非企业真正自我改造）、
+  单靠保护主义（须有时限且最终自救）；
+  **基地关闭：1.5 个新岗位／158,104 个新岗位替代 93,424 个；
+  代价是短期大量裁员与地方困苦**；**罗斯威尔 1967（一夜失去三分之一人口、
+  失业超 20%、房价崩溃，靠"快速反应、强领导、清晰愿景、社区支持"复原）**；
+  1989 年宣布关闭的 86 个基地中 **26 个受化学污染（5 个严重）**；
+  **八项考虑**与**九步建议**（**顺序本身是论证：换管理层在第四步，
+  改造厂房设备在第八步——而现实多数计划从第八步开始**）；
+  收尾引语（改写丘吉尔）"**转换可能是最糟糕的选择——除了所有其他选择之外**"
+- `concepts/defense-industrial-structure-options-gansler.md`——第 6 章开篇：
+  **"即使没有冷战结束也必须改组"**（成本上涨＋开发周期长＋军民技术隔离
+  本身就不可持续，**冷战结束只是加速器**）；
+  **三种政策选项**：国有化（穆勒／加尔布雷思）／公用事业式管制／市场竞争；
+  **国有化的关键追问："这会导致公共控制，还是仅仅提供一个政治庇护所？"**；
+  **公共设施效率约低 30%、更难关闭**；"更多出于沮丧而非逻辑"，
+  **但保留让步："在少数部门里可能确实是最好的方案"**；
+  **公用事业管制的现状矛盾**：承包商受联邦采购条例控制，
+  **却从未被正式列为"受管制"**——因为**国防部在微观层面（焊接规格、检验细节）
+  管制，而不是宏观层面（结构、利润、定价）**；
+  **航空、卡车运输、核电的经验：管制者被俘获、管制阻碍变化**
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"制度结构比技术更重要"** 与 **VHSIC**（同样的钱、因签约对象不同，
+   一个产出军专用、一个可产出军民通用）合起来，是全书最有力的一组论据：
+   **决定技术形态的不是技术政策的口号，是合同的签约对象。**
+2. **九步建议的顺序**（换管理层第四、改造厂房第八）**与现实多数计划从第八步开始**
+   完全对应——这一条把第 5 章前后两部分扣上了。
+3. **"公共设施效率低 30%、更难关闭"** 回答了第 4 章"为什么政府船厂关不掉"。
+4. **"管制在微观不在宏观"** 是全书对"国防工业有管制无政策"最精确的表述，
+   与 Exon-Florio"700 批 699"是同一诊断的第三个版本。
+5. **"即使没有冷战结束也必须改组"** 使 Gansler 的方案不只适用于裁军时期。
+
+**OCR 甄别**：本批文本清晰；`VHSIC`／`Stansaab`／`Spectra`／`Roswell`／`Vickers`
+等专名可辨；第 5 章末"50% cost sharing"处 OCR 作 `SO percent`，
+按上下文（政府坚持产业承担一半）录为 50%。
+第 6 章"利润往往显著高于……"一句在页界处截断，**本库未补全，如实标出未完**。
+
+**检查**：全库 790 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次七：第 6 章中段（军民一体化 · 全书核心方案）
+
+**读取范围**：行 3600—3780。The Choices 收束、Civil/Military Integration 全节。
+
+**新建 1 页**
+
+- `concepts/civil-military-integration-gansler.md`——**全书核心方案**：
+  **公用事业管制收束**（利润高于国防业、成本转嫁客户、
+  "**唯一受益者可能只是国防产业自己**"；国会每逢此事就推、
+  1980 年代加强管制产生了第 2 章的不良结果）；
+  **所选路径**："政府作为独家买方必须以**促进而非取代**自然市场力量的方式行使权力"；
+  **防误读关键段**："**让官僚把资本从一家企业转移到另一家企业以培育中意赢家的
+  国家计划方式，并不是这里所提议的**"——他要减少国防专属规则，
+  不是增加政府挑选赢家的权力；末引"谁来监督监督者"（莫尔／奥威尔）；
+  **三种形态**：双用研发（共同要求）／双用工厂（共同工程、生产、保障）／
+  双用设备（零件、材料、软件）→"**真正的互操作性**"；
+  **"设计即双用"为三者中最重要**，且**明确否定 spin-off（军用转民用）与
+  spin-on（民用改军用）两个流行模型**——因为"**国防已不再在技术上领先，
+  商业也无法容忍国防的开发周期**"；
+  **结构判断：只留少数国防专属工厂（主要武器总装与测试），
+  "大多数主要承包商运营，以及几乎所有低层级与供应商层级的运营，都可以是双用的"**
+  ——与第 2 章"下层最接近民用"首尾呼应；
+  **软件占现代武器成本约 25%**；
+  **MIMIC 案例（全书唯一完整的存在证明）**：
+  ARPA 项目，设计准则**同等重视低成本与高可靠性**（而非仅"最高性能"）→
+  **军用部署之前就被汽车业用于防撞与收费**（校车盲区雷达，
+  **首次使用据称救了一名钻到车下的孩子**）→
+  民用大批量使供应商（休斯与德尔科合资）重设计工艺，
+  **成本 8,000→200 美元（40 倍）**→ 国防部回头买便宜货；
+  成功前提：**放弃国防常规规则、从一开始用商业做法与标准**；
+  **Perry 估计每年省约 300 亿美元、采购人员减 20% 以上**；
+  **四条理由**（更低成本更高质量／快速获取最先进技术／
+  **危机 surge 的备用产能**——"唯一替代方案是养大量常年闲置且必将过时的军事能力"／
+  **更多采购竞争**）+ 宏观第五条（**每年 350 亿研发＋500 亿采购进入商业部门**）
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **MIMIC 是"存在证明"而非提议**：四步机制（加低成本准则／豁免国防规则／
+   民用大批量压成本／国防回头买）是全书唯一被完整验证过的路径。
+2. **"这不是我要提议的"** 防误读段必须保留——Gansler 要的是**减少国防专属规则**，
+   与中文语境里"加强产业政策"的方向相反。
+3. **"备用产能"理由最被低估**：军民一体化是唯一既能省钱又能 surge 的方案；
+   纯国防产能必常年闲置并过时。
+4. **"设计即双用"否定 spin-off 与 spin-on**，理由极其朴素：
+   **国防不再领先，商业等不了**。这一条把 1995 年与冷战时代的假设彻底切开。
+
+**OCR 甄别**：本批清晰；`MIMIC`／`gallium arsenide`／`Hughes and Delco`／
+`ARPA` 可辨；`8,000 each to $200` 数字完整。
+"利润往往显著高于……"一句在上一批末尾被页界截断，本批已接上（"国防产业的利润"）。
+
+**检查**：全库 791 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次八：第 7 章全章（国防专属工厂／手工式产业／公共 vs 私营）
+
+**读取范围**：行 4163—4680。A Few Defense-Unique Plants 全章：
+上限估算、Efficient and Effective Downsizing、Public versus Private。
+
+**新建 3 页**
+
+- `concepts/defense-unique-plants-ceiling-gansler.md`——
+  **"不同（different）≠ 独特（unique）"**：独特的唯一标准是"是否必须为它单独建厂做设计、
+  制造或保障"；**陆军火炮与铁路车轴共用同一台旋转锻造机**；
+  **上限：Kutscher 1990——320 万军工相关私营岗位中不到 50 万在难转工厂
+  ⇒ 国防专属部门应小于全产业 15%，且可能显著更少**
+  （趋势：装备电子密集化＋柔性制造普及）；
+  **"放手不管造成每一个危机都在真空中被处理"**四种局面
+  （只剩一家是否该救／外国买家／公共 vs 私营没钱支持两者／
+  资助下一代研发还是多造一件上一代）——**这一节把前几批所有零散案例收进一个框架**；
+  **商业世界性能升成本降周期缩 vs 国防部成本同速上升、时间更拉长**；
+  波音 737 生产周期 13→6 个月、降本 25—30%、UPS 货机 28 个月 vs 通常 38 个月；
+  **国防部 1991 年从概念到首次生产平均 198 个月（16.5 年），且预算越砍项目越长**；
+  **"时间就是钱"两条机制＋"技术一旦验证，唯一维持优势的办法是迅速建造并部署"**
+- `concepts/craft-industry-downsizing-gansler.md`——
+  **"四十年的重大错误假设：把国防工业看作大批量生产产业"**，
+  正确位置是 **craft industry（手工式产业）**：**按技能而非按产品设计产线**；
+  而现状"工厂只做一个产品、没订单就空着"恰与灵活多用途相反；
+  **补贴对象应是"少数关键武器系统工程团队"而非工厂**；
+  **维持竞争的具体机制**：一家造当前一代并更新、另一家开发下一代，**来回交替**＋
+  **"竞争性分配"维修工作**；经济论证"维持团队成本可能小于垄断加价"；
+  **反垄断三级退让**（放宽市场定义→"两家到一家"符合国家利益→国家安全压倒反垄断）；
+  **外国供应商的作用是保持竞争压力**；
+  **"某部门一分钱采购都没有"**的两个办法（联合生产／只养少数关键设计与生产工程师）；
+  **"擅长金属切削的厂不会重视复合材料"→ 换技术路径即第二来源**；
+  **政府理想角色四步**（定产业目标／逐部门分析最低需要／设定企业数与规模与技术领域／
+  逐项目给指导）＋"避免管理、把决定移出政治过程"＋**借日本"行政指导"概念**
+- `concepts/public-private-duplication-gansler.md`——
+  **那个反讽**："**世界经济中唯一一直在显著走向社会主义的主要部分，
+  是美国国防部的工业基础**"（1990—1992 每年 150 家私有化、1986—1992 累计 3,250 亿）；
+  **四类公共/准公共部门**（大修厂／兵工厂／实验室／FFRDC），
+  **缩减速度远低于私营部分**（因"悠久历史与非常强大的政治支持"）；
+  **大修厂**：二战"保险单"逻辑→冷战后三条反驳
+  （**短促冲突没时间返修**、**私营在越战与沙漠风暴中就在战区有维护人员**、
+  国际公司例行全球维护）；**1991 年 69% 维修在建制内、30 多处设施、
+  175,113 文职＋3,031 军职、140 亿修理＋90 亿改装**；
+  **兵工厂/船厂**：农夫-士兵模式遗产、公务人员"极难被解雇"；
+  **造船专项研究：私营效率高 33%**（与第 6 章"低 30%"同量级互证）；
+  **实验室：700 多个、年 200 亿美元（政府研发 1/3、全国 1/6）**、
+  三大核实验室各近 8,000 人；**对比 IBM 3,200 人、贝尔实验室 1,400 人**；
+  军种理由"**买得聪明**"——**Gansler 明确承认"有相当的有效性"**；
+  **FFRDC**：核实验室从二战保密遗产扩张到"巨大过剩产能"；
+  系统工程类（兰德起源：**付不起公务员薪水吸引最好的工程师**），
+  **而原始理由已消失**——私营专业服务产业能提供同样服务，
+  且许多家同样"只服务政府以保持独立性"
+
+**更新 3 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"不同 ≠ 独特"** 是全书方案的语义基石，把"不能转"从产品属性改成了工厂属性。
+2. **"不到 15%"** 是政策分水岭：**"国防工业不能转民用"最多只对 15% 成立**。
+3. **"手工式产业"不是"小规模"，是另一种生产逻辑**：按技能设计产线，而非按产品。
+4. **"每一个危机都在真空中被处理"** 把前七批的零散案例（Avtex／Exon-Florio／
+   船厂归属／多造潜艇）收进一个框架——本库认为这是第 7 章最有结构价值的一段。
+5. **"补贴工程团队而不是补贴工厂"** 比"多造一艘潜艇 30 亿"便宜两个数量级。
+6. **"全世界在私有化，唯独美国国防工业在国有化"** 解释了本章所有建议遭遇的抵抗性质：
+   **不是效率问题，是意识形态问题**。
+7. **FFRDC 的原始理由在事实上消失**（私营已能提供同样服务且同样独立），
+   比"效率低"是更强的论证。
+
+**OCR 甄别**：本批清晰；`Kutscher`／`FFRDC`／`MITRE`／`Aerospace`／`Sandia`／
+`Los Alamos`／`Lawrence Livermore` 可辨；`198 months` 与第 1 章 `16.5 years` 一致，
+**系同一事实的两处表述**（已互注）。
+"显然存在某些独特的能力……"一句在批末页界处截断，**未补全，如实标出未完**。
+
+**检查**：全库 794 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次九：第 8 章前半（壁垒与"分离是程序性的"）
+
+**读取范围**：行 4773—5140。Current Barriers to Integration：摩托罗拉无线电、
+5,000 条法律、明朝引语、DSB/GAO/Brooks 对撞、Background 全节。
+
+**新建 2 页**
+
+- `concepts/integration-barriers-gansler.md`——
+  **摩托罗拉无线电案**：沙漠风暴期间陆军急需无线电，
+  摩托罗拉给警察的型号完全合用，但**法律使"以非最低价卖政府"成为犯罪**，
+  摩托罗拉无法证明给的是最低价（地方分销商给警察折扣）→
+  陆军求高层签豁免未果（**无国会批准无人有权违法**）→
+  **解决办法是让日本从摩托罗拉买了再作为其对战争的贡献送给美军**；
+  **体量**：**5,000 条法律条文／125,000 页规章／32,000 份规格／数十万人日常执行**；
+  **明朝引语**："官僚统治已发展到如此高级阶段，
+  以致数千人的一切隐秘需求与欲望、连同个人抱负，
+  都不可逆转地与这个庞大的现状绑在一起"——
+  Lambeth 判断"这也是 20 世纪末转型的主要问题"；
+  **DSB(1987) vs GAO vs 众议员 Brooks 三方对撞**：
+  DSB 建议半导体采购用商业做法；GAO 称其"非基于坚实事实证据"、
+  未证明 CICA 阻碍商业采购、**未讨论商业与政府运营的根本差异**；
+  Brooks 承认"无疑会为纳税人省数十亿"但抨击其"试图把限制性竞争合法化"、
+  指责国防部"会不择手段，包括使用伪造的研究"；
+  **Lambeth 式判断："不是 Brooks 错了，也不是 DSB 错了，
+  而是他们试图通过国防采购追求两个不同目标"**——
+  **公平与信任 vs 效率与有效，"目前全部重量压在一侧"**；
+  **"即便每年数十亿美元的节省，也不能压过公平与信任问题"**；
+  **最根本的制度缺口："多花的数十亿不在任何预算案里，
+  被吸收进武器单价" ⇒ 增加立法与监管"不存在任何财政约束"**
+- `concepts/procedural-separation-gansler.md`——全书最完整的因果解释：
+  **"在绝大多数工业领域，分离的原因不是技术性的，而是程序性的"**；
+  **"5 人 vs 680 人"**（波音：政府 5 人监督全部商业飞机业务 vs
+  国防部 680 人监督数量远少的军用飞机）——**而航空安全是人命关天的领域**；
+  **第二个原因：国防采购被用作社会政策工具**（高失业地区、少数族裔企业、
+  工会化工厂、小企业），**附加要求未计入社会成本，账单落在国防部头上**；
+  **10 万美元以下必须买小企业 → 买不到备用半导体（因为芯片厂商不是小企业）**；
+  **白手套 32 美元 vs 商业同款 20 美元**；**衬衫纽扣间距规格 →
+  行业标准的钉扣托板不能使用，需单独军用托板**；
+  **行政成本**：四倍人员／三比一管理比例／206 家企业调查三倍行政成本；
+  **总成本两项研究并列不裁断：30—50% vs 200—500%**；
+  企业三种反应（设独立工厂／干脆拒绝国防合同）；
+  **曼斯菲尔德修正案（1970）**："明文禁止把企业独立研发分摊到国防合同，
+  除非完全用于国防"，**持续二十多年**；主张双用者"要么被封口、要么被解职"；
+  **1992 年才被推翻**；
+  **MSPB 1992：31,000 名合同官"因规则而无法创造与创新"**；
+  **"公众与国会都没有区分浪费（数十亿）与欺诈（数百万）"** →
+  改革选了更快的那条路（加监督），结果效率更低；
+  **1980 年代两次改革的后果**：成本型竞争（低报价再求救助）
+  与采购过失刑事化（**小企业负担不起辩护成本，被迫认罪**；qui tam 奖励）
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"分离的原因是程序性的，不是技术性的"** 是全书对"为什么改不动"最本质的回答；
+   而 **5 人 vs 680 人** 是最有力的一条证据（航空安全用商业做法）。
+2. **曼斯菲尔德修正案**证明军民分离曾被**法律强制**，不只是制度惰性；
+   这条证据把全书从"建议"抬到了"纠正一项错误立法"。
+3. **"浪费（数十亿）与欺诈（数百万）被混为一谈"** 把责任分给了公众与国会，
+   而不只是官僚——这是全书最不讨好的一个判断，也最难反驳。
+4. **"加监管不存在任何财政约束"**（成本被吸收进武器单价、不上预算案）
+   是全部壁垒中最根本的一条机制。
+5. **白手套与衬衫纽扣**两个小案例比任何统计都有说服力：
+   **规格的目的是"可写、可比价、可公平投标"，不是性能。**
+
+**OCR 甄别**：本批清晰；`Mansfield`／`CICA`／`MSPB`／`qui tam`／`Motorola`／
+`Rock Island Arsenal`／`Lehman` 等可辨；
+两处页码栏损坏（`LW   ls`）不影响正文；
+"30 to 50 percent"与"200 to 500 percent"两个研究数字**并列照录、未裁断**。
+
+**检查**：全库 796 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`）；表格 alias 违规 0；`SCHEMA.md` 未改。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十：第 8 章中段（成本型合同与军用规格）
+
+**读取范围**：行 5140—5500。需求流程末（IDA 对「按成本设计」的评估）／
+Cost-Based Contracting 全节／Military Specifications and Standards 前半。
+
+**新建 2 页**
+
+- `concepts/four-barriers-survey-gansler.md`——
+  **两场丑闻的机制**：备件丑闻的真因是**间接费用按销售额分摊**
+  （一把 12 美元的锤子被算成 500 美元，是会计结果不是贪污），
+  而公众"相信同样比例适用于导弹、飞机、舰船"→ 要求更多审计 → 国会照办；
+  "ill wind"贿赂案之后加的是**额外的刑事化立法**，
+  效果是"在政府与产业关系中引入更大的恐惧、不信任与隔离"；
+  **国防部几乎不反抗**，GAO 说"有很多演说，但没有朝向改变的真诚努力"，
+  原因是**"检查者、审计员与督察员越多，责任就越分散"**（对个人是降风险，对组织是加成本）；
+  **企业自己排的壁垒顺序（严格照录）**：① 武器需求流程几乎排他性地关注性能；
+  ② 成本型（非价值型）合同系统；③ 独特军用规格与标准；④ 专门采购法律；
+  附加项中单列**"政府保留随时更改设备的权利（单方面更改单）"**——
+  **商业最怕的不是规格高，是规格可以随时变**；
+  **200 家企业调查**：**"压倒性地把联邦合同的要求、而不是独特技术需要，列为首要原因"**；
+  **两个传统官方理由（军品没商业市场／商业部门没能力做军品）被企业自己否认**；
+  **89% 说不同产品可在单一运营中制造，200 家中只有 4 家说完全不行**；
+  **需求流程的翻译链**：任务需要 → 逐级认证至参联会主席 → 演化成"一架轰炸机"→
+  速度高度载弹量 → 规格 → RFP；成本只问"会不会破银行"和"能不能拨出第一年"，　
+  理由是**"我们需要这个系统，到时候再想办法怎么付钱"**；
+  **85% 的生产与保障成本在设计阶段就已锁死**；
+  **"单引擎还是双引擎"**——最大单项后勤成本，却几乎完全在性能层面辩论，
+  这个例子乘以数千个决定就**排除了并行工程**；
+  **反事实**：摧毁一个指挥中心可以选"低速类货机在防区外放巡航导弹"或
+  "有人高速突防轰炸机"，**巡航导弹选项已可用数十年、便宜若干数量级，
+  却被需求流程挡在高级决策者之外**——**"没有重大的资源约束，传统的军事做事方式总会胜出"**
+- `concepts/cost-based-contracting-and-milspec-gansler.md`——
+  **IDA：89 个系统只有 32 个应用了按成本设计，且只在全面生产阶段、
+  不在概念形成阶段**（而政策 1973 年宣布、1975 年成指令、1983 年还更新过）——
+  **政策存在 ≠ 政策生效**（与曼斯菲尔德修正案同类，本库第三次记录此模式）；
+  **成本型合同**："如果有一项做法迫使分离，那就是它"，
+  哲学根源是**"对市场资本主义力量的信任 vs 不信任"**；
+  三个反商业后果：**"just-in-case"库存 vs 准时制**、
+  **有便宜的工人也优先用贵的**（只要成本可证明）、
+  **合同官把注意力放在占成本 10% 的利润上、然后去验证那 90% 的成本**——
+  **政府宁可多付 90% 也不肯多赚 10%**；
+  **"最大的谬误"：武器贵不是因为暴利，国防承包商利润甚至低于受管制的产业**；
+  **两套账本**：Intel 花 **200 多万美元**改会计系统以迎合国防部，然后放弃；
+  **IRS 与 SEC 甚至不用政府的人核证成本，只用独立注册会计师，只有国防合同要**——
+  而 Gansler 承认**"这样做成本远超节省，但这不是问题的关键"**；
+  **监督体量**：企业要出政府人员**两倍**的人力供数据；
+  同公司同型产品的军品部门**行政人员按销售额计是民品的八倍**；
+  **B-2：国防部 183 名全职驻厂代表＋GAO 现场代表（1990—1993）＋
+  1981—1990 年间近 150 次议员访问＋州与地方从空气质量查到工人安全**，
+  而**"其中没有一项是为了降低 B-2 的基本成本"**；
+  出路是**独立会计师事务所＋作业成本法**，真正门槛是**"一旦政府在哲学上承诺"**；
+  **军规六条滥用完整照录**，含**"描述本质非军事的项目：牙签、狗嘴套、钱袋、芥末"**、
+  **"详述怎么做而不是需要什么"**、**"自动施加于分包商"**；
+  附属文件"许多已绝版"
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **89 个系统／32 个应用／且用错阶段**：这是全书最硬的"政策失效"证据。
+   与曼斯菲尔德修正案、第 2 章"陆军坚持独特规格"构成同一模式的第三次出现。
+2. **"盯着 10% 的利润、验证 90% 的成本"** 是全批最精确的机制：
+   **政府宁可多付 90%，也不肯让承包商多赚 10%。** 这是考核指标问题，不是腐败。
+3. **IRS 与 SEC 都不用政府的人核证，只有国防合同要**：这条论证绕过了
+   "国防特殊"的说法——税收与证券同样关乎巨额金钱与公众信任，用的却是独立会计师。
+4. **B-2 的 183 名驻厂代表＋GAO＋150 次议员访问，"没有一项为降低成本"**：
+   这套系统运作得很好，只是它在做的事不是降低武器成本。
+5. **89% 可同厂生产、200 家中只 4 家说不行**，且企业**自己否认了两个官方理由**——
+   这是全书方案唯一的实证基础，方法也干净（让企业自己排理由）。
+
+**OCR 甄别**：本批清晰；`IDA`／`Northrop`／`just-in-case`／`cost-plus-fee`／
+`activities-based costing`／`form, fit, and function` 可辨；
+两处页码栏损坏（`fense employers.`／`130.`）；`$2 million` 处原文有一处
+可疑字形但语义与上下文一致（Intel 半导体供应商），照录并标"200 多万美元"。
+末句在页界处截断（"要求只引用主文件来避免它……"），**未补全、如实标出**。
+
+**检查**：全库 798 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，属 1982 年黎巴嫩线，与本书无关）；
+表格 alias 违规 0；`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十一：第 8 章后段（采购实务／行为惯例／后勤）
+
+**读取范围**：行 5500—5880。军规后半、Procurement Practices、
+Business Practices、Logistics Support。
+
+**新建 2 页**
+
+- `concepts/procurement-practices-absurdities-gansler.md`——
+  **先修正常见误解**：军规曾是事实上的国家标准，
+  **一份 1982 年航空航天报告称约 5,000 项军规被定期用于造商用客机**；
+  领先地位已反转：**军标移动电源是 25 年前的设计**，
+  效率更低、污染更大、可靠性更差，**无商业供应商故只能专门造、花大价钱**；
+  空军自查索引：**45% 的规格超 5 年、29% 超 7 年**；
+  **五种替代核证方式**（第三方认证如 UL／合格制造商／国际标准／
+  国防部评估承包商内部标准／验收测试）；
+  **DFARS 211 早禁止对商业物品用军规，"问题当然是，它并不常被适用"**
+  ——**"政策存在 ≠ 政策生效"第四次**；1994 年国防部长指示＋国会法案，
+  他写"影响仍有待观察"；
+  **马丁·马丽埃塔同一颗通信卫星的两份提案：
+  给私营企业 1,000 美元／10 页，给政府 100 万美元／10,000 页**——
+  **产品一样、客户不同、成本差 1,000 倍**；
+  周期 **9—12 个月 vs 2 个月**（小型）、**18—36 个月 vs 5—6 个月**（大型）；
+  **抗议制度**：1984《竞争与合同法》鼓励落败者抗议，
+  **1984—1991 申诉增 63%（2,071→3,372）**；
+  软件密集系统（布鲁克斯法）**超 90% 授标被抗议、约 40% 需重竞标**，
+  《平等司法机会法》还由政府支付抗议者费用；
+  他的评语**"这些法律显然正在达成其预期目标——然而代价是效率与有效性"**；
+  **GAO：同型号商用示波器卖陆海空三军，需应对 205 条合同条款，
+  重叠仅 12%**；出路是**《统一商法典》**；
+  题眼：**"今天的目标是完美——包括绝对公平与防止任何错误……完全缺失的是对效率的任何考虑"**；
+  戈尔工作组第一条采购建议：**把 1,600 页《联邦采购条例》从僵硬规则转为指导原则**
+  （与"125,000 页规章"口径不同，一处标出）
+- `concepts/logistics-and-business-practices-gansler.md`——
+  **一年一预算**：**美国是世界上唯一按一年做财政规划的国家**，
+  其他国家用滚动多年预算（每年辩论第五或第六年、放出一年的钱）；
+  **唯一例外是海军北极星／海神／三叉戟项目（至少三年承诺），
+  持续受国会与 GAO 赞扬**；风险可按**精算**处理而不必逐年计提；
+  **企业计划（Enterprise Programs，1980 年代）**允许按里程碑做多年预算，
+  **而国防部选择不用，因为会失去预算灵活性**；
+  **"国会改约 50%、国防部改几乎全部，双方都有责任"**——
+  **"政策存在 ≠ 政策生效"第五次，但拒绝理由是主动的**（灵活性 vs 效率）；
+  **分阶段采办**：每个点都要证明"应该继续"、**为重大决定停六到九个月**，
+  而**商业的可见性与控制更多、只是进度驱动**；
+  **试验与鉴定**：商业"找失效并持续改进" vs 军事**期末考／审计**，
+  **"测试被设计成不会失败"，故学到的东西极少，缺陷发现晚而非早**——目的倒置；
+  **数据权**：政府要全部专有数据**以便能创造未来的竞争者**，故许多企业拒绝国防业务；
+  **后勤（本页最硬）**：**波音承诺任何商用飞机零件 24 小时内送达全球**；
+  **卡特彼勒同一批零件：商业渠道本土 1—2 天／海外偏远 2—4 天且超 4 天退钱，
+  军方渠道本土 21—36 天／海外 50—68 天**——**变量只有一个：走谁的渠道**；
+  **沙漠盾牌每日申请峰值 35,000 件 vs UPS 平均 1,150 万件／日**；
+  **"承包商不会到场"被战争本身反驳：越战与沙漠风暴承包商都在场，
+  沙漠风暴有三十多家企业 4,500 人在波斯湾**，
+  且这些人多为前军人、由企业培训过新装备；
+  **保障可写进合同、按报销人工材料计、不付待命费**
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **波音 24 小时 vs 卡特彼勒军方渠道 68 天**，且是**同一批零件**：
+   全书最无可辩驳的对照，变量被压缩到一个（走谁的渠道）。
+2. **试验与鉴定的目的倒置**（"测试被设计成不会失败，所以学不到东西"）
+   是全章最深的一层——不是激励不足，是**目的本身被换掉了**。
+3. **企业计划：国会立了法，国防部选择不用**——"政策存在 ≠ 政策生效"的第五次，
+   且这次拒绝是**主动**的：对官僚而言**灵活性比效率值钱**。
+4. **"国会改 50%、国防部改几乎全部，双方都有责任"** 是全书对军方自身最公道的一句。
+5. **4,500 名承包商就在波斯湾**：对"承包商不会到场"的反驳来自 1991 年那场战争本身。
+
+**OCR 甄别**：本批清晰；`Polaris/Poseidon/Trident`／`Enterprise Programs`／
+`Underwriters Laboratory`（原文如此，实为 Laboratories）／`Caterpillar`／
+`Uniform Commercial Code`／`DFARS 211`／`Intelsat`／`Geosat` 可辨；
+`today’s equipment ts` 一处字形错误（应为 is），按文义照录；
+"美国是世界上唯一按一年做财政规划的国家"本批已读完整句，前批截断处补全。
+
+**检查**：全库 800 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十二：第 9 章前半（三部分战略与公众信任）
+
+**读取范围**：行 5919—6280。A Three-Part Transformation Strategy 前半
+＋ Public Trust 前半后半。
+
+**新建 2 页**
+
+- `concepts/three-part-transformation-strategy-gansler.md`——
+  开篇第一句是最后一句：**"归根结底，转型取决于个别工厂管理者的日常决定"**
+  （政策只创造条件）；
+  **三部分战略逐条照录**：① 移除壁垒＋提供指南与激励；② 通过鼓励迅速应用
+  最先进产品与制造技术确保关键技术领导地位；③ 劳动力各层级的人力资源开发；
+  **"改革推力必须由产业引领"**；
+  三项政府投资回报率〔Gansler 口径〕：**研发 15—25%／劳动技能至少 15%／
+  基础设施约 12%**；
+  **本批最重要的数字矛盾：初始转型需 3—5 年、完全实施最多 10 年，
+  而政治官员平均在位 2.5 年**——"政府来回摇摆，没有长期一致持续的方向"；
+  国会那一环他定性为"不是政治问题，而是特殊利益不在美国最佳利益轨道上"，
+  论证是**把 10 万美元以下采购锁给小企业＝把小企业关进萎缩市场**；
+  **七种市场调节工具**（产业联合体／多家企业分领域资助／补贴资本投资／
+  融资激励／直接采购创造第二来源／幼稚产业保护／贸易政策），
+  但**"最好的手段是重大合同授标"**——因为授标是已有动作、不需新立法；
+  具体化为三句可写进授标的话：**"这个部门要三家"／"关键工程与制造在国内"／
+  "军民在同一厂房"**；**并给予机床、超级材料、软件、电子元件与坦克飞机同等关注**；
+  明确否认**"高度干预主义工业战略"与"美国通产省（MITI）"**，
+  **"重点不是单个企业，而是部门的结构"**；
+  **国会工作人员那句"这行不通——因为有承包商贪婪"**（承认逻辑清楚、能省数十亿，
+  然后说行不通）；
+  **公众五关切全部有效**（必要／公平价格／符合预期／公平可及／欺诈滥用），
+  而现行制度解决不了且鼓励滥用：**"镀金"因为利润按成本百分比给、
+  不投资效率因为降成本会降利润**；只有两条路，
+  而**"自由市场是美国方式，监管更容易实施"**
+- `concepts/market-tools-for-public-trust-gansler.md`——
+  **"几代领导人几乎每天都在说教自由市场，却一直选监管"**（知行不一，不是缺认识）；
+  **六项工具**：① **扩大竞争并改变竞争单位**——用性能规格取代详细设计规格、
+  用共同的形式配合功能规格（航空公司让产品可互换的做法）；
+  **功能竞争的具体三选项：有人突防轰炸机／防区外飞机发射导弹／陆基弹道导弹**
+  ——正是第 8 章说"被需求流程挡在决策者之外"的那组，本批变成采购规则；
+  ② **类比市场调研**（避免 12 美元锤子卖 500 美元）；
+  ③ **按以往业绩而非未来承诺选商**（新进入者交"投标样品"、小企业可获特别贷款），
+  并指出**"当前体系只需做到够用，注意力放在下一次投标"**；
+  ④ 单一来源的四种监控（独立市场与成本分析／长期监控唯一生产者／
+  总有更新的替代品／持续监控国内外市场）；
+  ⑤ **停权与除名 → 企业自律 → 可撤掉外部监管**（不需立法的改动）；
+  ⑥ 本来就有的民事法律＋专家称"可接受的风险"，条件是"更好的培训"；
+  **最难的一项他直接承认监管失败**：**"当前的监督系统运作得不好——如果它运作的话"**
+  （而是否必要正是加监管最多的地方），唯一出路是需求流程内部改变＋功能竞争；
+  **猪肉桶政治**："选区看作好处、地方新闻正面报道、全国新闻不鸟
+  （读者假定'国会就这么办事'）、议员不指责同僚因为自己也在做"，
+  他的办法**"把成本放在聚光灯下"**——本库注明这是他自认力度不足的建议；
+  **"买家不该关心供应商赚多少，只要自己拿到公平价格"**；
+  **"buying in"（低报再解释）是承包商与军种双方共同参与**，不可只归一方
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **3—5 年／10 年 vs 官员平均在位 2.5 年**：全书最根本的矛盾，
+   比任何武器成本数字都重要——**要做的改革比做决策的人的任期长二到四倍。**
+2. **"这行不通——因为有承包商贪婪"** 是全批最有分量的一手记录：
+   对方承认逻辑与节省，问题在信念层，因此前八章的数字都不起作用。
+3. **"最好的手段是重大合同授标"**：不需要新立法与新预算科目，
+   且把 MIMIC 从示范项目升级为授标条件。
+4. **"当前的监督系统运作得不好——如果它运作的话"**：他对最难的第五项
+   （是否必要）的直接让步，而它恰是监管最密集处。
+5. **功能竞争的三选项与第 8 章的反事实成对**：控诉与方案在同一组例子上闭合。
+
+**OCR 甄别**：本批清晰；`MITI`／`Hart Senate Office Building`／
+`Rayburn House Office Building`／`buying in`／`bid samples` 可辨；
+两处页码栏损坏（`152.   Chapter9`／`procurement` 被拆行）；
+一处 OCR 断行（`"` 单独成行后接 `an acceptable risk`）按文义合并。
+
+**检查**：全库 802 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十三：第 10 章前半（技术领导力）
+
+**读取范围**：行 6766—7150。Technological Leadership 全节前半
+＋ Government Role 前半。
+
+**新建 2 页**
+
+- `concepts/technological-leadership-criteria-gansler.md`——
+  **四项互补投资**（研发／资本设备／基础设施／教育与培训）＋
+  **"赢的国家不是做出原始研发的，而是最快把产品推向市场的"**；
+  研发回报率**每年高达 50%**〔Gansler 口径〕；
+  **基础设施的历史类比**：上一代以国家安全为由修公路→刺激汽车业，
+  这一代是信息基础设施（公共品故私营投资不足）；
+  企业研发投资不足的四种原因（无法利用回报／风险太大／
+  益处更多归公众／**尤其是负面短期利润影响**）；
+  **"这不仅是投多少钱，还有花在什么上、多有效率；以及花在哪里——
+  如果制造转移海外，工程很快就会跟上"**（与 FSX"部件能买、系统集成只能从整机学"
+  互为两向印证）；
+  **"多个小项目比一两个'大科学'项目回报更高"**；
+  **五项判据（本页核心）**：**critical／fast-changing／
+  linked（食物链：半导体→计算机→电信）／leveraged（不被现有投资水平淹没）／
+  vulnerable（易丧失快速获取）**——第五项直接接第 2 章"脆弱性而非依赖"；
+  **"大多数美国产业、政府与劳工领袖都是技术文盲，往往有法律金融营销背景"**
+  ＋**"利益冲突立法阻碍高科技管理者进入政府"**＝自我强化循环，
+  他称"可能是致命缺陷"，因为**政府出全国约 50% 研发资金**；
+  **1994 财年政府研发 755 亿美元、56%（425 亿）为军事**；
+  **非国防研发占 GNP：日 3.0%／德 2.75%／美 1.9%（1990）**——已标口径；
+  **范内瓦·布什 1945《科学：无尽的前沿》**：确立联邦科学政策，
+  **但政府不承担技术开发角色**；当时"技术强科学弱"，**今天正好相反**；
+  **他给自己方案列的两条风险**：政府投资不够市场驱动、
+  **可能只是替代产业的钱而不是净增益**；Branscomb 三条指南；
+  **"预期价值必须在投资之前被明确识别"**
+- `concepts/arpa-model-and-rd-tax-policy-gansler.md`——
+  **五项资助纪律**（成本分担／产业参与启动与设计／投资多元化／
+  **项目选择脱离政治过程**／严格评估）；
+  **制度要求**：NSF 与国防部 DDR&E 式的协调组织＋招有工业经验的人＋
+  类似 DSB 的外部意见渠道；
+  **FCCSET（布什末期，"fix it"）→ NSTC（克林顿更名、升到国安会同级、总统亲任主席）**，
+  跨机构委员会、不控预算与项目；
+  **六领域 FY93 投入**：先进制造 14 亿／高性能计算与通信 10 亿／
+  全球变化 15 亿／先进材料 20 亿／生物技术 43 亿／STEM 教育 23 亿美元；
+  **ATP**（NIST 主管、前竞争性通用技术、要求成本分担）／
+  **TRP**（1993、ARPA 管理、双用、初始 5 亿、**近 3,000 份提案**）；
+  **IR&D 1990 年 36 亿美元、承包商自选方向、政府全额报销**——
+  与第 8 章"政府要所有图纸"构成**同合同内的两种信任度**；
+  **ARPA 模式五条内核**：少数项目主管＋被给予的自由／
+  **执行 100% 在政府之外**／**按"最佳想法"而非报价授予**／
+  **同时给不止一家以维持竞争**；
+  **"设政府实验室本质是与产业竞争，效果差得多，应劝阻"**，
+  而**"近期国会立法显著偏向使用政府实验室"**；
+  **税法漏洞完整照录**：**可扣除研发额只相当于企业全球销售额中的美国份额**，
+  外国政府又不认海外登记的支出 ⇒ **要么放弃扣除，要么把研发搬出去**；
+  **受影响最直接的是资助美国大部分私人研究的大企业**（转移相对容易）
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **五项判据**（critical/fast-changing/linked/leveraged/vulnerable）
+   是全章最可搬用的工具，且每一条都能否证一个具体申请。
+2. **"制造转移海外，工程很快跟上"** 与 FSX 案例是同一因果的两向印证：
+   **能力跟着整机走，整机跟着制造走。**
+3. **ARPA vs 政府实验室**：两种做法都已存在、结果不同——
+   **少量主管＋自由＋外部执行＋按想法授予＋多家中标**；
+   而"立法偏向政府实验室"说明制度惯性又反向走了一步。
+4. **税法漏洞**是本批最具体的一条：**不是美国研发贵，
+   是美国的研发在海外卖得越多、扣得越少**，于是最先搬走的是最有能力做研发的企业。
+5. **"政府出全国一半研发资金，而多数领袖是技术文盲"**：
+   钱最多的一方最不懂技术，且利益冲突法把懂的人挡在外面。
+
+**OCR 甄别**：本批清晰；`FCCSET`／`NSTC`／`ARPA`／`ATP`／`TRP`／`IR&D`／
+`Branscomb`／`DDR&E` 可辨；表 10.1 表头**完全损坏**（`ee ee ee` 一行），
+**不引用其表头，仅记表题与所列政策工具**；两处页码栏损坏
+（`171`／`173`／`175` 前有多余空格）；
+`the council cam provide` 一处字形错误（应为 can），按文义照录。
+
+**检查**：全库 804 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十四：第 10 章后半（贸易、联合体、并行工程）
+
+**读取范围**：行 7150—7530。税法余下、技术情报、小企业融资、贸易政策、
+联合体、CRADA、标准、Branscomb 五条、Defense Needs、Manufacturing 开头。
+
+**新建 2 页**
+
+- `concepts/trade-policy-and-consortia-gansler.md`——
+  **财政部的回应"我们需要这些税收来缓解赤字"**，Gansler 评"不灵活的短视
+  将不可避免损害国家利益：让别国获得美国最先进技术、把资金从培养下一代
+  科学家工程师的美国大学抽走、在别国培养最先进工程师"；
+  **技术情报对照（本页最强的一组数字）**：美国情报界监控全球军事技术趋势、
+  **"很少提供给国防界以外的人"**；日本科技厅 1988《日本的未来技术：展望 2015 年》，
+  **JETRO 是通产省"情报部门"，1957 年成立，有 300 多名政府官员驻美使领馆、
+  200 名日本记者协助，数据由通产省在各产业间分发**——
+  与本库"情报存在但没送到需要它的人手里"线索**又对上一次**；
+  **SBA 贷款"现在主要针对餐饮生意"**、SBIR 应针对关键技术、
+  **"防止拿政府钱本身变成一门生意"**；
+  **Scherer（哈佛）：美国企业获得高技术进口保护后，实际上削减了该领域的研发投资**；
+  **保护主义是"以邻为壑"的负和博弈**；
+  **Vernon 的机制**：保护主义联盟三十五年的策略是**"确保问题总是个案处理而非系统处理"**
+  ——与第 4 章"基地关闭委员会把逐个决定变成整包表决所以有效"**是同一杠杆的镜像**；
+  **Borrus："高科技竞争曾经是企业之间的，现在已是国家及其政府之间的"**；
+  **1984《国家合作研究法》→ 头五年一百多个联合体 → 1989 扩展到生产**；
+  **"对右派说绕过反托拉斯、对左派说能规划"**的双向修辞；
+  **NAE 四条标准**：① 在美国落后的领域；② 特定狭窄目的；
+  ③ **存续期限在成立时确定**（预设退出）；④ **促进行业上下游关系、
+  没有内部竞争者**（防止变卡特尔）；
+  **Stevenson-Wydler 1980（技术转移成为机构"责任"）→ 联邦技术转移法 1986
+  （授权 CRADA，1989 扩到 GOCO 实验室）→ "CRADA 如野花般生长"**，
+  指出从"应当做"到"可以用合同做"隔了六年；
+  **标准**：私营标准过程"缓慢且资金不足"、政府可资助加速＋鼓励双用标准，
+  **"没有标准就会在不合格产品上重复努力"**（与 205 条合同条款那页对上）；
+  **Branscomb 五条**＋**"必须敢于停掉项目、启动多种途径、对失败不能有惩罚"**
+  ——与"采购过失刑事化"构成正面冲突：**同一个政府两种要求**
+- `concepts/concurrent-engineering-and-flexible-manufacturing-gansler.md`——
+  **两条路**：找突破（需"更愿意接受偶尔的技术失败"）或把下一代造便宜；
+  **McElroy 1958 年："我想要一个机构，确保没有任何重要的事情
+  因为不符合某个人的任务而留待未做"**——ARPA 是为绕开军种本位而设，
+  三部分战略里唯一的"制度新建"建议；
+  **并行工程四例（两军两民）**：波音弹道系统部 **30% 成本节省＋67% 检验比例下降**；
+  麦道 TAV-8B **图纸更改 −68%、废品 −58%**；惠普仪器 **开发时间 −35%、现场故障 −60%**；
+  约翰迪尔 **开发成本 −30%、开发时间 −60%**；
+  **"质量改善要求采购更少系统"**这个反直觉推论（故有制度阻力）；
+  **16 天 vs 16 年（本页最惊人）**：沙漠风暴中美国亟需地面车辆敌我识别技术，
+  **ARPA 用 16 天设计并交付一套全新系统（完全绕开国防部所有规定的程序）**，
+  而国防领域新产品实现周期**平均超过 16 年**——
+  **方法（绕开程序）与结果（快 365 倍）直接相连**；
+  **380 亿美元年度研发几乎全给"新产品最大性能"，先进制造只留"微不足道的数额"**；
+  制造技术的新焦点是**信息技术与仿真建模**（"再造"，不是仿真现有流程）；
+  **作业成本法试行 1991—1993 从 11 家活跃参与者降到 2 家**——
+  **示范项目会死，授标条件不会死**（与第 9 章互补）；
+  **造船：德国 16 个月 vs 美国 30 个月**，"可以想象美国重回造船业"；
+  **NSA 保密电话：开发时间 5:1、生产成本 10:1**——双用最硬的一次量化，
+  且它是保密要求最强的项目；
+  **"总会需要少数非常昂贵的投资"**（新飞机研发 20—40 亿美元、
+  新发动机或新半导体设施各超 10 亿美元）——对"15% 上限"的限定；
+  **柔性制造**：定义是"在小批量里达成大批量效率"、五大理念
+  （准时制／产品工艺一体化／全面质量管理／企业集成／**工人赋权**）、
+  **关键指标是缩短换线时间**、**主要由日本人发展**
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **16 天 vs 16 年**：全书最有冲击力的数字对，且方法—结果直接相连，
+   不留给"美国人不行"的误读空间。
+2. **Scherer 的发现（保护使被保护者减少研发）**：推翻保护主义最常用的自我辩护。
+3. **Vernon 的"个案化 vs 系统化"**与基地关闭委员会"整包表决"
+   **是同一杠杆的镜像**——本库能给出的最清晰的制度原理。
+4. **JETRO 300 名官员＋200 名记者** vs **美国情报"很少提供给国防界以外的人"**：
+   "情报没送到需要它的人手里"的第五次记录，且这次是和平时期的。
+5. **NSA 保密电话 5:1／10:1**：双用主张最硬的一次量化，
+   且出自保密要求最强的领域。
+6. **作业成本法 11→2 家**：方法再好，没有授标条件就会死。
+
+**OCR 甄别**：本批清晰；`JETRO`／`Scherer`／`Vernon`／`Borrus`／`NAE`／`CRADA`／
+`Stevenson-Wydler`／`McElroy`／`TAV-8B`／`John Deere` 可辨；
+**判断一处原文错误**：Vernon 的机构原文被 OCR 成大学名相近的字形，
+按上下文（"also of Harvard"）与人物身份照录为哈佛，**未改动引文内容**；
+`a crying need nor just for` 一处字形错误（应为 not just），按文义照录；
+`process ehanges`（应为 changes）、`mainly developed by the Japanese`
+被拆行致 `largely developed` 前有断字，均已按文义还原并在此说明。
+
+**检查**：全库 806 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十五：第 11 章前半（劳动力）
+
+**读取范围**：行 7870—8260。第 11 章 The Critical Work Force 前半
+（含 Current Problems and Potentials、Engineers versus Lawyers）。
+注：本章标题是 **The Critical Work Force**（目录行 147 记作 Human Resource
+Development，实为章题不同，以正文页眉为准）。
+
+**新建 2 页**
+
+- `concepts/critical-work-force-gansler.md`——
+  **框架句**：旧批量生产模式把工人当**成本**（泰勒制：把每个工人所需步骤分解到最少，
+  故技能需求很少，机器取代劳工）；精益模式把劳动力当**最有价值的资产**——
+  **过去一百年的工厂是为低技能工人设计的**，所以要求能动性不是意愿问题；
+  **劳动力占 GDP 约 70%**；
+  **实际工资 1978 年后下降，到 1990 年低于 1964 年**（Figure 11.1，劳工统计局）；
+  **"美国工人的梦想越来越难以实现"**；**2000 年劳动力 80% 已在就业**；
+  **Public Agenda 五数字**：**23% 说发挥了全部潜力／44% 不多投入／
+  75% 说能更有效／73% 说努力与薪酬无关／73% 认为这是努力下降主因**；
+  并照录他的双向结论（管理层要鼓励＋工人要自我提升＋
+  **多数人高估自己的技能且离校后几乎不提升**）；
+  **美国商会：只有 9% 的美国工人相信自己是生产力改进的主要受益者，
+  多数认为提高生产力会让他们失业**（其他国家工人期望随公司成长受益）；
+  日本劳动省：**自动化企业中整整一半不得不增人以跟上订单**，
+  丰田"带人情味的自动化"；
+  **功能性文盲**：**13% 美国学生离校无最低阅读技能**（英 10%／法德荷 4%／日 1%）；
+  **每五名成年人一名功能性文盲**（不会读招聘通知、不会找零）；
+  **每十人中一人受毒品或酒精成瘾损害**；
+  **在岗者 20% 功能性文盲 vs 日本 2%**；
+  **3,000—4,000 万人在岗且功能性文盲**；**一线工人三分之一是高中辍学生**；
+  **5,000 万人需要额外培训才能有效履行现有工作**；
+  **21—25 岁三项测试按族裔分列完整照录**（找新闻信息 60/40/25、
+  看公交时刻表 25/7/3、两份菜单找零 44/20/8）；
+  **只有 11% 获得公司正式培训**；**40% 的工人现职不到两年**；
+  **维护设备花设备成本 11%，维护员工技能花薪资成本不到 2%**；
+  **Marshall 与 Tucker："我们的一线工人可能是所有主要工业国家中技能最低的"**；
+  **大学/非大学工资差 1979 年 30% → 1989 年 80%**；
+  **即时培训（just-in-time training）优于通用再培训**——
+  转换立法大部分培训"针对正在离开岗位的工人"，而通用再培训无效
+  （无动机、新岗位未界定）；
+  **临时性劳动力占 25%、预计 2000 年达三分之一**；
+  **晋升机会从五分之一降到三十分之一**（扁平化的生产好处与激励灾难由同一决定产生）
+- `concepts/engineers-versus-lawyers-gansler.md`——
+  **小学一年级就把孩子对科学的兴趣关掉了（康奈尔 Corson）**；
+  **全国科学教师协会公开承认 50% 成员没资格教其所授课程、小学阶段估计 95%**；
+  **工程师知识半衰期约五年**，而多数教学与从业者离校远超此年限；
+  **死亡螺旋全文照录**（教得差→无兴趣→企业缺工程师→迁往海外→
+  更少岗位与激励→螺旋下行）；
+  **制造工程：1987 年全国仅两校授学位、42 名毕业生 / 75,735；
+  从业者仅 4% 有工程学位**——与第 10 章"380 亿研发几乎不给先进制造"同构的人才侧；
+  **0.5% vs −0.3%**（多 10% 大学生学工程 → 增长率每年 +0.5%；
+  法学院人数翻倍 → 每年 −0.3%）与 **100:1,000 vs 1,000:100** 之比；
+  **律师数字**：**1987 年日本 18,000 vs 美国 50 多万**；
+  **每 6,693 人一名 vs 每 360 人一名**；**1990 年美国 756,000**；
+  **美国一年毕业的律师比全日本现有还多**；
+  **司法部 FY82—FY88 +30.4% vs 教育部 −31.6%**；
+  **1993 年华盛顿 80,000 名游说者**→"持续如洪水般的规制与诉讼，
+  与效率正好相反"——**规则数量与制定规则者的职业供给有关**（接第 8 章 5,000 条法律）；
+  **激励错位**：产业高管来自法律/金融 vs 日德来自技术界，
+  **"市场激励会在上大学时劝阻学生"**；与英国衰落的类比照录；
+  **反向论证（本库特别标注）**：**美国工程研究生一半以上是外国学生，
+  许多人回国后成为欧美日高技术企业的骨干**——
+  **底层教育差与顶层培养强同时成立**；若"人才在不在国内"是问题，
+  **解法在移民与薪酬政策，不在教育部**
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **"维护设备 11%、维护员工技能 2%"**：全章最有说服力的一句，
+   因为不需要价值判断——同一家企业在两件事上的投入比是 11 比 2。
+2. **"只有 9% 相信自己是生产力改进的受益者"**：最令人不安的数据，
+   **它是预期问题不是技能问题**——当改进必然伤害做改进的人时，任何培训都没用。
+3. **"1990 年实际工资低于 1964 年"＋"2000 年劳动力 80% 已在就业"**：
+   政策目标不在学校，在已经在岗的几百万人。
+4. **"1987 年全国两所学校授制造工程学位、42 个毕业生"**：
+   在提倡柔性制造的国家里，几乎没人在学校里学过怎么造东西。
+5. **反向论证**：美国培养的工程师大量回国成为对手的骨干——
+   本库据此指出解法不在教育部而在移民与薪酬政策，且这一条与"底层教育差"不矛盾。
+
+**OCR 甄别**：本批清晰；`Taylorism`／`Public Agenda`／`Marshall and Tucker`／
+`Corson`／`automation with a human touch` 可辨；
+**Figure 11.1 图形数据不可读**（仅存轴标与年份乱码），
+故未引用图中任何数值，**只引用正文"1990 年低于 1964 年"这一表述**；
+两处页码页眉损坏（`f iit`／`202   Chapter 11`）；
+`國際`一处应为"国际"，已改；`recéived`／`teh`类字形错误按文义照录。
+
+**检查**：全库 808 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十六：第 11 章后半（学校、兵役培训、国际对照）
+
+**读取范围**：行 8260—8660。学生补贴余下、The School System、Industry、
+Government Education and Training、Training in Other Countries。
+
+**新建 1 页**
+
+- `concepts/schools-and-training-comparative-gansler.md`——
+  **NSF：约 75% 拿系里资助的工程研究生是外国公民**，
+  资金部分来自州补贴学费与**国防部研究经费**；
+  **"这些工程专业实际上充当了一个美国补贴的技术转移项目"**——
+  **"国防部实际上在相当程度上补贴了美国的外国竞争者"**
+  （本库注明这不是排外论证，他的解法是提高本国基础教育）；
+  **机构臃肿三对照**：政府就业已超制造业就业；
+  **陆军军官 +7%、士兵 −3.5%（1980—1991）**；
+  **学校非教学人员 +102%、学生 −8%（1965—1985）**；
+  **纽约市 7,000 名官僚、每生每年近 7,000 美元**（"行政涅槃"）；
+  **"问题基本上不是钱"**：每生实际支出 **1970 年约 2,700 → 1992 年超 5,000 美元**，
+  而 **SAT 语文 460 → 420**；
+  **1945 vs 1985 学校问题清单**（嚼口香糖/上课讲话 → 毒品/抑郁/自杀/怀孕/强奸）
+  ——本库明确标注**两份调查不可作等价量化比较**；
+  **联邦只占教育支出 6%（1980 年 9%）**，
+  而他认为分权是可取的（**"研究表明校长与教师的独立性是最大贡献因素"**），
+  联邦该做的是**国家测试标准、公布各校结果、研究信息技术潜力**；
+  **教育部研发预算仅 3.5 亿美元＝本部预算不到 1%、全国教育支出的 0.1%**——
+  与第 10 章"380 亿几乎不给先进制造"同一种错配；
+  **国防部每年培训 25 万新兵（从基础读写到电子技师与飞行员）**，
+  裁军将使美国失去**最大的成人基础教育与技能培训项目**，
+  且**"在别处很难替代，因为军事环境与同辈群体的影响是独特的"**——
+  全书唯一无法市场化替代的论点；
+  **"每隔四到八年把公司所有高管换成该行业没经验的人"**的类比；
+  利益冲突解法是**回避＋监督**（比第 10 章更具体）；
+  他国视公务员为精英队伍 vs 美国视政府为"最后才考虑的雇主"；
+  **德国学徒 170 万 vs 美国 30 万（人口仅四分之一）、企业出资约 70%、
+  17 岁中 50%+ 注册、书面考试与认证保证可转移**；
+  **瑞典 58%/54%/43% 过去一年参加过教育，学习圈 260 万人（人口 840 万）**；
+  **1992 年：每百名雇员美国 12 条建议 vs 日本 3,664 条；提建议者 9 vs 75**；
+  **Roos 表 11.1（1989，本页核心否证）**：
+  建议数 **日本本土 61.6 → 北美日资 1.4 → 北美美资 0.4**；
+  新工人培训小时 **380.3 / 370.0 / 46.4**；
+  团队劳动力占比 日本 69.3%、欧洲全部 0.6%（另两格 OCR 损坏不可用）；
+  **本库分析**：培训差 8 倍是雇主带来的（可复制），
+  但**给了 370 小时的日资美国厂，建议数仍只有日本本土的 2%**
+  ⇒ **培训可以复制，参与习惯不能靠培训复制**——这是对他"培训是关键"的最强限制；
+  **18,000 日本人在美留学 vs 900 美国人在日；5,000 日本科学家在美实验室 vs <150**；
+  **1993 年日语成为 MIT 第一外语、哈佛第二**；
+  **英国国家小学课程＋每校自主预算；法国学前 85%/100% 覆盖**；
+  落点是**"教师素质——而这恰恰是美国没有强调的"**（页界截断）
+
+**更新 2 页**：来源页、`index.md`
+
+**本批关键判断**
+
+1. **Roos 表 11.1 是全书最好的一次混合设计比较**：
+   同时控制国别与雇主国籍，于是能分离出——
+   **培训可以转移（日资在美国也给 370 小时），参与文化不能转移（建议数只剩 2%）**。
+2. **"美国补贴的技术转移项目"**：75% 的受资助工程研究生是外国公民，
+   钱一部分出在国防部账上——这是"人才外流"最具体的会计形式，
+   而他的解法不是限制外国人，是提高本国基础教育与教师地位。
+3. **国防部每年培训 25 万新兵，是美国最大的成人基础教育项目**：
+   裁军的代价被算到了本库没有预料的地方，且**无法被市场化替代**。
+4. **教育部研发 3.5 亿／占全国教育支出 0.1%** 与 **380 亿几乎不给先进制造**：
+   **两条最大的资源错配，错法完全一样**。
+5. **1945 vs 1985 的问题清单**冲击力最大，但也最需要小心——
+   本库已标注两份调查不可作等价量化比较。
+
+**OCR 甄别**：本批清晰但**表 11.1 三格损坏**：
+`FAM}`（团队占比，北美日资）、`I hes8)`（团队占比，北美美资）、
+`733`（欧洲培训小时，**推定 73.3**）；
+表格数字与正文引述的"日本 61.6 / 北美日资 1.4 / 美资 0.4"
+与"380.3 / 370.0 / 46.4"**一致，可交叉验证**，故这三个数字可用。
+其余：`recéived`、`teh`、`govern-` 类断字按文义照录；
+"administrative nirvana"直译为"行政涅槃"并保留英文。
+
+**检查**：全库 809 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十七：“把价格变成一项军事要求”
+
+**读取范围**：行 8710—9100。第 12 章 Achieving Civil/Military Integration
+前半：马基雅维利引语、三个必须理由、60—75% 壁垒、CAS 改编码案、
+Sixteen Specific Government Actions 第 1—13 条。
+
+**新建 1 页**：`concepts/sixteen-government-actions-gansler.md`
+
+**本页的核心是一句话**：第 4 条——
+**“把一件武器的价格变成军事要求的一部分——类似于性能”**，
+**“这一单一步骤将明确创造激励，去引入其他所有效率导向的变革”**。
+落实方式：**对目前施加于武器项目的每一项法律、规章、规格与标准，
+以及未来拟议的那些，评估其不利的成本影响。**
+→ 与第 8 章“85% 的成本在设计阶段就锁死”正好接上：
+**如果价格不是要求，就永远不会在概念阶段被讨论。**
+
+**开篇引马基雅维利**（本页最重要的自我定位）：
+**“创新者会遭到所有在旧条件下过得好的人的敌视，
+而在新条件下可能过得好的人，只是他的半心半意的拥护者”**——
+与第 11 章“只有 9% 的工人相信自己是生产力改进的受益者”是同一心理机制。
+
+**可行性估计（第 12 章最实用的一句）**：
+**现有壁垒 60% 到 75% 可由行政部门（主要是国防部）无需立法移除**，
+其余须国会处理；而**两个最难的障碍是成本型合同与采购流程，
+“两者都因国防部的极端解释与适用而变得更糟”**。
+
+**CAS 改编码案（1992-04-17）**：在**总统暂停新规章令**期间发布，
+理由是**“经济影响预计微小，因此不需要监管影响分析”**；
+而**安达信称之为过去二十年最重要的规章之一**，
+结论是**供应商更少、价格更高**。
+→ 机制：**不知道影响，所以不必评估；不评估，所以永远“影响微小”。**
+
+**其余要点**：
+- 第 3 条：**80% 商业销售的设施 ⇒ 其产出的国防专属物品可定为“商业物品”**
+- 第 7 条：**主承包商必须向下传递 80 多条条款，还自己再加**；
+  **超过 50% 的成本在供应商与零件层**（接第 2 章“下层最脆弱”）
+- 第 9 条：**后勤保障应以承包商为常态，建制能力只在前线这类情况下才正当**
+- 第 11 条：**达到 20% 商业销售＋质量与作业成本法认证 ⇒ 豁免全部国防专属法律**
+  （不用罚款不用补贴，用豁免权作奖品，对政府零成本）；
+  **审工艺质量而不只是产品质量**；帕卡德委员会 1986 年统计质控受阻
+- 第 12 条：**允许合并到两家甚至更低，但须用“扩大的市场定义”维持竞争**
+- 第 13 条（首次见到）：**1980 年代买的新设备按国防部会计规则
+  必须在商业工作上摊销，造成对工厂一体化的重大抑制**——
+  **最想转换的企业，恰好因为过去听政府的话而转换不了**
+- 对国会：**“从帝国式规则制定者地位下来”**，每项立法须经
+  独立的成本与结构影响分析
+
+**OCR 甄别**：本批清晰；`Machiavelli`／`CAS Board`／`Arthur Anderson`（原文如此，
+实为 Andersen）／`Packard Commission`／`Panel 800` 可辨；
+`60 and 7S percent` 一处字形错误（应为 75），按上下文照录为 75% 并注明；
+`Dob’s`（应为 DoD's）多处字形错误按文义照录。
+
+**检查**：全库 810 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler 批次十八：第 12 章中段（文职削减与全有或全无）
+
+**读取范围**：行 9100—9300。第 14—16 条、Table 12.1 十六条全表、
+The Defense Production Act、Complementary Broad Government Actions 前半。
+
+**新建 1 页**：`concepts/government-downsizing-and-all-or-nothing-gansler.md`
+
+**本页最有价值的是第 15 条的推理链**：
+**“如果没有刻意移除不再需要的政府人员，
+只会出现人员从一个职能转移到另一个职能；
+某一领域移除的规章与过度监督，会在别处增加”**
+⇒ **唯一办法是把文职劳动力减少 30% 到 50%**。
+→ 这是一个量守恒式判断：**规章总量不取决于需要多少监管，
+取决于监管者的数量**；也解释了第 8 章“国防部几乎不反抗加监管”——
+**对一个机构来说，人就是权力本身。**
+对照：戈尔 1993 工作组建议五年削减 **252,000 人（约 12%）**；
+**30—50% 是 Gansler 主张，比现实方案激进四五倍**，已标明。
+
+**最好的制度设计（基地关闭委员会模式的扩展）**：
+国防工业的公共部门（大修厂、实验室、兵工厂）在国会影响力太强，
+**“可能无法一个一个地关掉”**，因此建议设立
+**“国防工业公共部门合理缩减委员会”**，以基地关闭委员会为模板、
+由国会授权，**定期提交全有或全无的平衡削减清单**
+（或直接用基地关闭委员会本身）；
+**同样的“全有或全无”用于立法**（卡内基委员会研究亦认可），
+理由：**“仅仅是为了让国会去做他们知道必要、却无法让自己单独去做的事”**。
+→ 这是对第 7 章“703 个实验室、69% 维修在建制内”给出的唯一可行解法。
+
+**Table 12.1 十六条完整照录**（OCR 清晰）。
+**本库发现全表的共同语法**：第 6、7、11 条都带“除非获得书面豁免”——
+**不是禁止，是“默认商业、例外需签字”，举证责任被反过来。**
+
+**《国防生产法》第三条**：历史用途是刺激海外依赖材料的国内产能
+（两阶段、政府作“最后买家”）；
+**1992 年重新授权把重点转向双用**；
+**新用法（本页最漂亮的一处制度复用）：资助行业标准原型、测试与鉴定，
+但不进入生产，生产与营销由竞争的企业自己负责**
+（实例：开放式架构数字控制机床控制器）；
+**而“只能采购与采购承诺”的限制只是 OMB 与国防部之间的一纸跨机构协议，
+改起来很容易**——卡住的不是法律，是没人去改那张协议。
+
+**多年预算（与第 8 章接上并给出具体方案）**：
+**没有其他发达国家按一年期财政计划运作**；
+建议**滚动三年**（国会预算流程已为此准备）；
+**两年不够**，理由是第二年末的不确定性。
+
+**另外**：第 16 条要求**基于产出指标**监测转型，
+而**外部顾问小组不应拥有自己的权力**（避免出现两套倡议）。
+
+**OCR 甄别**：本批清晰；`Table 12.1` 文字完整可读；
+`Dob’s` 字形错误按文义照录；
+`buyer of last resort`／`continuing resolutions`／`all-or-nothing` 可辨。
+
+**检查**：全库 811 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，与本书无关）；表格 alias 违规 0；
+`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。
+
+## 2026-11-18 · 来源㉞ Gansler《Defense Conversion》批次十九 + **全书验收收口**
+
+**读取范围**：行 9300—9540。第 12 章末（出口管制、技术情报、
+Overcoming the Resistance to Change）+ **Conclusion**。
+**ch1—ch12 正文全部读完**；Notes（p.241 起）与 Index 未读。
+
+**新建 1 页**：`concepts/why-this-reform-might-succeed-gansler.md`
+
+**本页核心是七条失败原因**（可复用清单）：
+① 目标未被实施组织与最高管理层完全接受；② 威胁到岗位／存在被感知的利益冲突；
+③ 意图传达很差；④ **没有激励，而变革对风险厌恶群体意味着风险**；
+⑤ **预测了节省就削减资源，没有认识到变革本身要花钱、收益需时间**；
+⑥ **领导层无持续支持，实施期常长于政务官任期**；⑦ **没有产出指标**。
+→ 本库判断：**第 5 条是一切"效率改革"的共同死因——
+改革被当成省钱项目立项，于是它一开始就没有启动资金。**
+
+**他自问"为什么这次会成功"的两个答案**：
+① **危机真实**（"一场国防部危机就在眼前"）——
+**过去的改革可以失败，因为失败不致命；现在市场消失了**；
+② **领导层对齐**（佩里在国防部，克林顿/戈尔/国家经济委员会同方向），
+"这是过去不曾成立的条件——当时国防部与白宫内许多人都主张现状良好"。
+**七条失败原因 + "启动动作（重组、发指令）不能算成就" +
+"至少五年，或许三年才见可测影响" + "必须有超量的沟通"** 全部照录。
+
+**技术情报那句补上了本库一条长线索的制度原因**：
+**"历史上美国对国际数据收集采取非常狭窄的看法——主要因为美国通常领先——
+所以唯一感兴趣的是收集关于潜在军事对手的情报"**
+⇒ **收集目的决定了分发给谁**（回应第 10 章 JETRO 300 人的对照，
+以及本库"情报存在但没送到需要它的人手里"的五次记录）。
+
+**出口管制**：清单可大幅缩短，**"多数情况下经济竞争力比国家安全更值得关切"**；
+例：**喷气发动机热端设计**是一直成功管制的双用产品。
+
+**结论**：六步变革（准备／承诺／部署／行动／强化／测量反馈）；
+**"字面上数百亿美元"**〔Gansler 口径〕；
+**最后一句是警告清单而非希望**：**"规模小、高度补贴、低效、无效、
+无竞争力、技术上过时，既无激增能力、也无任何民用益处"**——
+本库逐项对应到前文证据（15% 上限／公共部门与国会保线／效率低 30%／
+45% 规格超 5 年／第 3 章／备用产能论点）。
+
+---
+
+## Gansler《Defense Conversion》全书验收（19 批）
+
+**来源**：Jacques S. Gansler, *Defense Conversion: Transforming the Arsenal
+of Democracy*, MIT Press, 1995（Twentieth Century Fund 资助）。
+Internet Archive 扫描 OCR 版，300 页；原文存
+`raw/papers/gansler-defense-conversion/`（PDF 15M + TXT 692K）。
+
+**产出**：**34 页**（来源 1 + 概念 33），分 19 批，覆盖 ch1—ch12 正文全篇。
+
+**页目（按章）**
+- 来源页：`sources/gansler-defense-conversion`
+- ch1：`post-cold-war-defense-drawdown-gansler`、
+  `weapon-cost-growth-and-procurement-cycle-gansler`
+- ch2—ch3：`us-industrial-policy-precedents-gansler`、
+  `defense-industry-vulnerability-tiers-gansler`、
+  `four-sector-restructuring-cases-gansler`、
+  `foreign-dependency-defense-industrial-base-gansler`
+- ch4：`defense-firm-contraction-paths-gansler`、
+  `congress-industrial-base-politics-gansler`
+- ch5：`conversion-lessons-and-failure-rates-gansler`、
+  `core-competence-and-rd-targeting-gansler`
+- ch6：`defense-industrial-structure-options-gansler`、
+  `civil-military-integration-gansler`
+- ch7：`defense-unique-plants-ceiling-gansler`、
+  `craft-industry-downsizing-gansler`、`public-private-duplication-gansler`
+- ch8：`integration-barriers-gansler`、`procedural-separation-gansler`、
+  `four-barriers-survey-gansler`、`cost-based-contracting-and-milspec-gansler`、
+  `procurement-practices-absurdities-gansler`、
+  `logistics-and-business-practices-gansler`
+- ch9：`three-part-transformation-strategy-gansler`、
+  `market-tools-for-public-trust-gansler`
+- ch10：`technological-leadership-criteria-gansler`、
+  `arpa-model-and-rd-tax-policy-gansler`、`trade-policy-and-consortia-gansler`、
+  `concurrent-engineering-and-flexible-manufacturing-gansler`
+- ch11：`critical-work-force-gansler`、`engineers-versus-lawyers-gansler`、
+  `schools-and-training-comparative-gansler`
+- ch12：`sixteen-government-actions-gansler`、
+  `government-downsizing-and-all-or-nothing-gansler`、
+  `why-this-reform-might-succeed-gansler`
+
+**全书五个最重要发现**
+1. **"军民分离的原因是程序性的，不是技术性的"**（ch8）——**89% 的企业说
+   不同产品可以在同一设施里造，200 家中只有 4 家说不行**，
+   而企业压倒性地把原因归于**联邦合同要求**而非技术需要；
+   同时**企业自己否认了两个官方理由**（军品没商业市场／商业部门没能力）。
+2. **"政策存在 ≠ 政策生效"在本库的第五、六次记录**：曼斯菲尔德修正案（1970，
+   明文禁止把企业独立研发分摊到国防合同，1992 才推翻）、
+   按成本设计指令（1975／1983，**89 个系统只有 32 个应用，且只在生产阶段**）、
+   DFARS 211（早禁止对商业物品用军规，**"问题是不常适用"**）、
+   企业计划（1980 年代国会立法允许多年预算，**国防部选择不用**，因为失去灵活性）。
+3. **波音 24 小时 vs 卡特彼勒军方渠道 68 天，且是同一批零件**（ch8）——
+   全书最无法辩驳的对照，变量被压到一个（走谁的渠道）；
+   旁证 **沙漠盾牌每日申请峰值 35,000 件 vs UPS 1,150 万件／日**，
+   以及 **沙漠风暴期间三十多家企业的 4,500 人在波斯湾**（反驳"承包商不会到场"）。
+4. **把价格变成军事要求的一部分**（ch12 第 4 条）——全书一句话总结；
+   落实法：**对每一项法律、规章、规格、标准评估其成本影响**。
+   与之配套的机制是 **"80% 商业销售的工厂 ⇒ 其产品可定为商业物品"**，
+   以及 **"20% 商业销售＋认证 ⇒ 豁免全部国防专属法律"**（用豁免权当奖品，零成本）。
+5. **"某处移除的规章会在别处增加"⇒ 不减人就不可能真正减监管**（ch12 第 15 条）——
+   本库读到的最准的官僚系统观察，是一个量守恒式判断：
+   **规章总量取决于监管者的人数，而不是需要多少监管。**
+   而他主张**文职减 30—50%**，比戈尔工作组的 252,000 人（约 12%）激进四五倍。
+
+**四处需要用户裁定的判断**
+1. **本书是"主张书"而非战史**：数据与论点一律标〔Gansler 口径〕。
+   最典型的是**研发回报率每年 50%**、**Perry 的每年省 300 亿美元**、
+   **转换需要 20—35 年 vs 只有几年时间**这三处内在张力。
+2. **ch11 "1945 vs 1985 学校问题清单"**（嚼口香糖→强奸与自杀）：
+   本库已标注**两份调查不可作等价量化比较**，但保留其冲击力。
+3. **ch11 "美国工程研究生一半以上是外国学生、许多人回国"**：
+   Gansler 据此批评教育，本库反向指出**底层教育差与顶层培养强同时成立**，
+   若"人才在不在国内"是问题，**解法在移民与薪酬政策**——
+   这条标为"本库判断"，与他的原意并列保留。
+4. **OCR 不可用的部分**：**表 1.1（核化生与导弹扩散）几乎全废**、
+   **表 2.2（前 25 大承包商）大面积损坏**、**表 10.1 表头损坏**、
+   **表 11.1 三格损坏**（两格团队占比、欧洲培训小时推定为 73.3）、
+   **第 5 章开头一整页图表残片**、**Figure 11.1／11.2 图形不可读**、
+   **Notes（p.241 起）与 Index 全为乱码扫描件**。
+   **本库一律未使用这些表格与图形中的数据**，仅记表题与出处；
+   可与正文交叉验证的（表 11.1 的建议数与培训小时）已注明。
+5. **Notes 未读**——因此本书**所有引文无法回溯到原始出处**，
+   只能标"据 Gansler 正文"；若日后需精确引用某一数字，须回 PDF 的 Notes 页核对。
+
+**检查**：全库 812 个 md，YAML bad 0；断链 1 处（存量
+`entities/people/avner-halutz`，属 1982 年黎巴嫩线，与本书无关）；
+表格 alias 违规 0；`SCHEMA.md` sha256 前缀 `191cd20f951e` 未变。

@@ -6,9 +6,9 @@ war: gulf-war-1991
 start_date: 1990-08-02
 end_date: 1990-08-04
 tags: [iraq, kuwait, 1990, operational-art]
-sources: [arabs-at-war-pollack]
+sources: [arabs-at-war-pollack, malovany-wars-of-modern-babylon]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 # 伊拉克入侵科威特（1990-08-02）
@@ -73,4 +73,7 @@ updated: 2026-10-22
 - [[concepts/iraq-1991-coalition-war-pollack]] · [[events/was-al-khafji-1991]] ·
   [[concepts/iraq-depoliticization-1982]] · [[concepts/iraq-1991-final-assessment]]
 - 战争线：[[wars/gulf-war/index|海湾战争]] · [[concepts/egypt-1991-gulf-war-pollack|埃及军的对照]]
-- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2
+- **并列（伊方计划与逐时编成）**：[[events/iraq-invasion-of-kuwait-1990-iraqi-plan|"伟大召唤之日"行动]]
+  ——Malovany 版提供 8 个共和国卫队师、27 个旅、约 14 万人的编成、五条轴线与逐时过程，
+  并披露 **1961 年卡塞姆时代的入侵计划**；其战损（伊 300 死／360 伤、科 4,000 以上）与 Pollack 不并判。
+- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2 · [[sources/malovany-wars-of-modern-babylon|Malovany]] ch27

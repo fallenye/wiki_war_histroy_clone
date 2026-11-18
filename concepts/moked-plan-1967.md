@@ -101,7 +101,7 @@ Sivron 拒绝。最后计划印刷时，**那一栏写的是"零时另行通知"
 | 项目 | 本书（Yonay） | Herzog 卷 III |
 |---|---|---|
 | 计划起源 | 1963 年春 Weizman 命 Nevo 制定 | 未以此形式记述 |
-| 零时选定 | Nevo／Sivron 主张 8:00，Weizman 要求拂晓，最终"另行通知" | 见 [[wars/six-day-war-1967/index|1967 战争索引]] |
+| 零时选定 | Nevo／Sivron 主张 8:00，Weizman 要求拂晓，最终"另行通知" | 见 [[wars/six-day-war-1967/index]]（1967 战争索引） |
 | 首日战果 | 见 [[events/operation-moked-1967-06-05]] | 见同一事件页"与他书并列"节 |
 
 ## 九、本书的评语

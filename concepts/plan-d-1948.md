@@ -1,5 +1,5 @@
 ---
-title: "D 计划"（Plan D／Tochnit Dalet，1948）
+title: "D 计划（Plan D／Tochnit Dalet，1948）"
 type: concept
 concept_type: doctrine
 war: war-of-independence-1948

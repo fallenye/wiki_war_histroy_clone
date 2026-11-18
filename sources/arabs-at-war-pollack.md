@@ -1,5 +1,5 @@
 ---
-title: Kenneth M. Pollack《Arabs at War: Military Effectiveness, 1948—1991》
+title: "Kenneth M. Pollack《Arabs at War: Military Effectiveness, 1948—1991》"
 type: source
 source_type: book
 sources: [arabs-at-war-pollack]

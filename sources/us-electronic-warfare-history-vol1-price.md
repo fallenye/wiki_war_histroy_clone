@@ -3,7 +3,7 @@ title: 《美国电子战史（第一卷）》（Alfred Price · 老乌鸦协会
 type: source
 source_type: book
 author: Alfred Price
-original_title: The History of US Electronic Warfare, Vol.1: The Years of Innovation — Beginnings to 1946
+original_title: "The History of US Electronic Warfare, Vol.1: The Years of Innovation — Beginnings to 1946"
 publisher_orig: 美国老乌鸦协会（Association of Old Crows）, 1984
 publisher_zh: 中国人民解放军总参谋部第四部（内部中译本）
 lang: zh-Hans

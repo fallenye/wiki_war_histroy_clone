@@ -1,5 +1,5 @@
 ---
-title: "一支空军怎样看待自己"：Yonay 的六条判断主线
+title: "一支空军怎样看待自己——Yonay 的六条判断主线"
 type: concept
 concept_type: analysis
 tags: [historiography, iaf, doctrine]

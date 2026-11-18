@@ -55,10 +55,10 @@ updated: 2026-10-22
 
 | 主题 | 主用来源 | 用法 |
 |---|---|---|
-| 各场战争的战役过程 | [[sources/arab-israeli-wars-herzog|Herzog]] · [[sources/yom-kippur-war-rabinovich|Rabinovich]] | 叙述与日期以它们为准 |
+| 各场战争的战役过程 | [[sources/arab-israeli-wars-herzog]]（Herzog） · [[sources/yom-kippur-war-rabinovich]]（Rabinovich） | 叙述与日期以它们为准 |
 | IDF 的制度、人事、军工、审查、社会关系 | **本书** | 结构层材料，不与战役页重复 |
-| 阿拉伯军队的效能评估 | [[sources/arabs-at-war-pollack|Pollack]] | 与本书"以方自评"互为反面 |
-| 空军的形成与内部文化 | [[sources/no-margin-for-error-yonay|Yonay]] | 与本书第三部互相印证/抵触处并列 |
+| 阿拉伯军队的效能评估 | [[sources/arabs-at-war-pollack]]（Pollack） | 与本书"以方自评"互为反面 |
+| 空军的形成与内部文化 | [[sources/no-margin-for-error-yonay]]（Yonay） | 与本书第三部互相印证/抵触处并列 |
 
 ## 七、建国前身线（1907—1948）
 

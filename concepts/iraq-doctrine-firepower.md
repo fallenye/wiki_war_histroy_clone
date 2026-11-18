@@ -4,9 +4,9 @@ type: concept
 concept_type: doctrine
 war: yom-kippur-war
 tags: [iraq, doctrine, firepower, 1973]
-sources: [arabs-at-war-pollack]
+sources: [arabs-at-war-pollack, malovany-wars-of-modern-babylon]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 # 伊拉克军队的两大学习成果（1967—1973）
@@ -65,4 +65,8 @@ updated: 2026-10-22
 
 - [[concepts/iraq-1948-pollack]] · [[concepts/iraq-1973-pollack]] · [[events/kurdish-wars-1961-75]]
 - [[entities/organizations/iraqi-expeditionary-golan-1973]] · [[topics/arab-military-effectiveness-pollack|专题页]]
-- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2
+- **并列（伊方条令自述）**：[[concepts/iraqi-defensive-battle-system-1982-88|伊军防御战役法（1982—88）]] ·
+  [[concepts/iraq-iran-war-1988-summary-malovany|伊方战争自我总结]] ·
+  [[entities/organizations/iraqi-expeditionary-golan-1973|1973 年远征军]]（Malovany ch2 提供逐日叙述与战损：
+  835 死、73 失踪、271 伤）
+- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2 · [[sources/malovany-wars-of-modern-babylon|Malovany]] ch2、ch25

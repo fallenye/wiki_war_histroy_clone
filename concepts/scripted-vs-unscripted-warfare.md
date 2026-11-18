@@ -1,5 +1,5 @@
 ---
-title: "剧本内与剧本外"：Pollack 对阿拉伯军队"脱稿即崩"机制的总结
+title: "剧本内与剧本外——Pollack 对阿拉伯军队脱稿即崩机制的总结"
 type: concept
 concept_type: mechanism
 tags: [mechanism, effectiveness, polling]

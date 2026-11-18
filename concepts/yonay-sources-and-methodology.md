@@ -1,5 +1,5 @@
 ---
-title: "谁在说话"：Yonay 的采访名单与本书的史料结构
+title: "谁在说话——Yonay 的采访名单与本书的史料结构"
 type: concept
 concept_type: historiography
 tags: [historiography, iaf, sources, methodology]

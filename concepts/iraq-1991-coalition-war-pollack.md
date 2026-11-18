@@ -4,9 +4,9 @@ type: concept
 concept_type: assessment
 war: gulf-war-1991
 tags: [iraq, gulf-war, 1991, air-power, effectiveness]
-sources: [arabs-at-war-pollack]
+sources: [arabs-at-war-pollack, malovany-wars-of-modern-babylon]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 # 伊拉克在 1991 年海湾战争中的表现：Pollack 的评估
@@ -258,4 +258,17 @@ updated: 2026-10-22
   [[concepts/iraq-1991-final-assessment]] · [[concepts/iraq-depoliticization-1982]]
 - 对照：[[concepts/egypt-1991-gulf-war-pollack]] · [[concepts/saudi-military-effectiveness-pollack]]
 - 战争线：[[wars/gulf-war/index|海湾战争]] · 专题：[[topics/arab-military-effectiveness-pollack|阿拉伯军事效能专题]]
-- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2
+- **并列（伊方视角）**：[[events/iraq-1990-91-kuwait-theater-deployment|科威特战区部署（十军五十五师）]] ·
+  [[events/iraq-1991-desert-storm-air-war|空袭与导弹战]] · [[events/iraq-1991-desert-storm-ground-war|地面战与撤退]]
+  ——Malovany 记有 al-Khazraji 总参谋长因反对入侵而被解职、al-Nu'aimi 的战备预警被压下等
+  政治—指挥层细节，可与本页"效能"判断并读。
+- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2 · [[sources/malovany-wars-of-modern-babylon|Malovany]] ch28—ch32
+
+## 并列来源：Hallion（美方空军视角）
+
+- [[sources/hallion-storm-over-iraq|Hallion（来源㉚）]] 对同一批现象（防空网两天崩溃、指挥瘫痪、空军避战）
+  给出**相反方向的因果**：他把它们归因于空中战役设计（五环／DMPI／并行战）的成果，
+  而非伊军自身能力不足。→ [[events/desert-storm-air-campaign-1991]] ·
+  [[concepts/air-power-decisiveness-debate-1991]]
+- 书中对伊军的战力评估（"第三世界国家、第一世界军队"）：90 万兵力／约 60 个师／5,700 辆坦克／
+  16,000 枚 SAM／约 600 枚飞毛腿——与 Pollack 的效能判断**并列**，本库不合并。

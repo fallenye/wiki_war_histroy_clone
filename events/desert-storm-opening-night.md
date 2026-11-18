@@ -6,7 +6,7 @@ war: gulf-war
 start_date: 1991-01-17
 end_date: 1991-01-17
 tags: [event, sead, wild-weasel, desert-storm]
-sources: [f-4-wild-weasel-units-in-combat]
+sources: [f-4-wild-weasel-units-in-combat, putney-airpower-advantage]
 created: 2026-09-02
 updated: 2026-09-02
 ---
@@ -47,3 +47,19 @@ TFS/35th TFW(P)）为叙述主轴，详记首个进入科威特上空的 Weasel�
 本页来自单一外勤回忆性 Osprey 卷的第 4 章。"当夜 125 枚 HARM/56 雷达站" 一带数字
 以及 B-52G "In HARM's Way" 毁损细节在官方史与目击证词间有口径差异，已按书存，
 待多来源校核。
+
+## 并列来源：Hallion（空军视角）
+
+- [[sources/hallion-storm-over-iraq|Hallion（来源㉚）]] ch6 对同一夜有更完整的战局叙述：
+  Task Force Normandy 的时间线（02:20 越境／02:38 攻击）、F-117 首击 Nukhayb（H-9 分钟）、
+  106 枚 TLAM、首夜 668 架、首 24 小时 1,300 架次、巴格达防空密度为后卫 II 时期河内的 7 倍，
+  以及"战争在最初 10 分钟分出胜负"的判断。→ [[events/desert-storm-air-campaign-1991]]
+- 该书的电子战段落（诱饵无人机、200 枚以上 HARM 齐射、英国 ALARM 的伞降悬停）可补本页 SEAD 侧。
+- **口径提示**：Hallion 的损失与战果数字为空军统计，与本页来源不同体系，并列不合并。
+
+## 并列来源：Putney《Airpower Advantage》（来源㉛）
+
+> Putney 对本夜的记录是**计划执行视角**，与上文并列，不校正。要点：
+> Task Force Normandy 于 **02:38** 开火（比计划早 1 分钟）、H-hour 定为 **03:00**、
+> 首日约 **700** 架飞机（与 Hallion 的 668 架次不同，两说并列）、30 架 F-117 参战。
+> 详见 [[events/desert-storm-first-24-hours-1991]]。

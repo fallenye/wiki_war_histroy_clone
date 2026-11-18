@@ -182,8 +182,8 @@ Marom 的评语："在 Bir Gafgafa 很容易意识到战争还在打。**在 Bir
 
 | 项目 | 本书（Yonay） | Herzog 卷 VI | Pollack 埃及章 |
 |---|---|---|---|
-| 空军战果／损失 | 137 架（含 5 架苏联机）／自损 24 架 | 见 [[wars/war-of-attrition-1969-70/index|消耗战索引]] | 空战损失比"至少 10:1"，每年约损失 30 名飞行员 |
-| 苏联介入时间 | 1970-01 纳赛尔访苏；3 月三个 MiG-21 中队进驻 | 同向 | 见 [[concepts/egypt-military-effectiveness-pollack|埃及效能]] |
+| 空军战果／损失 | 137 架（含 5 架苏联机）／自损 24 架 | 见 [[wars/war-of-attrition-1969-70/index]]（消耗战索引） | 空战损失比"至少 10:1"，每年约损失 30 名飞行员 |
+| 苏联介入时间 | 1970-01 纳赛尔访苏；3 月三个 MiG-21 中队进驻 | 同向 | 见 [[concepts/egypt-military-effectiveness-pollack]]（埃及效能） |
 | 停火后导弹前移 | 16 → 50 个阵地 | 见索引 | — |
 
 ## 十四、Grant 2002 引 Mason 的交换比（第三来源）

@@ -16,7 +16,9 @@ Rolling Thunder 战役层资料，并开始 WWII 海军陆基巡逻航空（DANA
 ## 战争入口
 
 - [[wars/vietnam-war/index|越南战争]]（Wild Weasel/SEAD 侧重；战役页 Rolling Thunder 等）
-- [[wars/gulf-war/index|海湾战争]]（沙漠盾牌/风暴及战后禁飞区）
+- [[wars/gulf-war/index|海湾战争]]（沙漠盾牌/风暴及战后禁飞区；**六来源**：F-4 WW 的 SEAD 战术层、
+  Pollack 的伊军效能、Van Creveld 的 IDF 机构层、Malovany 的伊方口径、Karlin 的"遗产读法"、
+  Hallion 的空军视角——见下"空中力量专题"）
 - [[wars/world-war-ii/index|第二次世界大战]]（现有：海军重巡逻陆基中队 VP-HL-1/3/5 等）
 - [[wars/korean-war/index|朝鲜战争（抗美援朝）]]（志愿军空军线与官方全史主干＋防空兵线，见 来源⑦/⑧/⑫）
 - [[wars/cold-war-cuban-missile-crisis/index|古巴导弹危机（冷战 1962）]]（核对抗/危机决策线；来源⑬，
@@ -42,6 +44,155 @@ Rolling Thunder 战役层资料，并开始 WWII 海军陆基巡逻航空（DANA
   [[events/iaf-sinai-air-war-1956|1956 年西奈战役中的空军]]
 - **跨战争专题**：[[topics/arab-military-effectiveness-pollack|阿拉伯军事效能专题（Pollack, 1948—1991）]]——
   六国（埃、约、叙、伊、利、沙）的效能评估、四项常量缺陷、概念与战例入口（来源㉕）
+- **军队史专题（伊拉克军）**：[[topics/iraqi-army-malovany|伊拉克军队 1921—2003（Malovany）]]——
+  以"军队本身"为轴（英国骨架、军队与政治、双军队化），Part 5 编制/人力/训练/后勤/军工全链条入口；
+  并列于 Pollack 的效能评估（来源㉘）
+- **空中力量专题（美军，跨战争）**：来源㉚ Hallion《Storm Over Iraq》（Smithsonian 1992，
+  **空军主张书、非中立战史**）→ [[sources/hallion-storm-over-iraq|来源页]]。入口：
+  [[concepts/air-power-legacy-hallion|空中力量遗产（"误用产生误解"）]] ·
+  [[concepts/air-combat-training-revolution-post-vietnam|越战后训练革命]] ·
+  [[concepts/airland-battle-and-31-initiatives|空地一体战／ALFA／31 项倡议]] ·
+  [[concepts/precision-strike-revolution-hallion|精确打击革命]] ·
+  [[concepts/parallel-warfare-warden|并行战与五环／DMPI]] ·
+  [[concepts/bda-and-intelligence-gulf-war|战损评估与情报之争]] ·
+  [[concepts/air-power-decisiveness-debate-1991|空权决定性之争（五问五答）]]；
+  战役：[[events/desert-storm-air-campaign-1991|沙漠风暴空中战役]] ·
+  [[events/instant-thunder-1990-08|Instant Thunder]] · [[events/scud-hunt-1991|飞毛腿猎杀]] ·
+  [[events/desert-shield-airlift-1990|沙漠盾牌空运]] · [[events/desert-one-1980-eagle-claw|沙漠一号]]
+- **海湾战争计划层（USAF 官方史）**：来源㉛ Putney《Airpower Advantage》（USAF 2004，
+  **解密档案＋规划人员访谈**，不写战果）→ [[sources/putney-airpower-advantage|来源页]]。入口：
+  [[concepts/jfacc-and-tacc-gulf-war|JFACC 与 TACS／Push CAS]] ·
+  [[concepts/warden-five-rings-and-targeting|Warden 五环（最详一版）]] ·
+  [[concepts/targeting-for-effects-and-parallel-warfare|按效果打击与 MAP]] ·
+  [[concepts/counterland-attrition-50-percent|反地面部队 50% 指标]] ·
+  [[concepts/gulf-war-intelligence-support-failure|情报支援失败]]；
+  事件：[[events/opled-100290-and-internal-look-1990|OPLAN 1002-90 与 Internal Look]] ·
+  [[events/warden-briefs-horner-1990-08-20|Warden 汇报 Horner（8-20）]] ·
+  [[events/desert-storm-first-24-hours-1991|首日 24 小时]] ·
+  [[events/dugan-affair-1990-09|Dugan 事件]] ·
+  [[events/gulf-war-campaign-planning-1990-10-to-1991-01|战役规划收尾]] ·
+  [[concepts/gulf-war-deception-and-drones-1990|欺骗与无人机]] ·
+  [[concepts/nbc-targeting-and-bw-debate-1991|核生化目标与 BW 之争]] ·
+  [[topics/putney-airpower-advantage-source-base|Putney 史料基础解剖]]
+- **伊拉克政权层（缴获档案）**：来源㉜ Woods《The Mother of All Battles》（Naval Institute 2008，
+  **IPP 缴获档案研究**）→ [[sources/woods-mother-of-all-battles|来源页]]。入口：
+  [[concepts/saddam-pan-arab-strategic-vision|萨达姆的泛阿拉伯战略构想]] ·
+  [[concepts/two-wars-narrative-asymmetry-1991|两场不同的战争（双侧叙事不对称）]] ·
+  [[concepts/saddam-kuwait-decision-1990|入侵决策（1990 夏）]] ·
+  [[events/project-17-iraqi-invasion-plan-1990|项目 17 入侵计划]] ·
+  [[concepts/iraqi-kuwait-defense-plan-1990|科威特防御计划]] ·
+  [[events/iraq-occupation-of-kuwait-1990-91|占领科威特]] ·
+  [[concepts/iraqi-ground-defense-concept-1990|地面防御概念]] ·
+  [[concepts/iraqi-air-force-pre-war-assessment-1990|空军战前评估]] ·
+  [[concepts/oil-as-weapon-project-tariq|塔里克工程]] ·
+  [[events/um-al-maarik-iraqi-air-war-1991|万物之母之战（伊方）]] ·
+  [[concepts/iraqi-failure-to-read-coalition-westward-swing-1991|西翼解读失败]] ·
+  [[events/iraqi-aircraft-and-ships-flee-to-iran-1991|飞机舰艇逃伊朗]] ·
+  [[events/khafji-1991-iraqi-perspective|海夫吉（伊方）]] ·
+  [[concepts/scud-campaign-iraqi-records-1991|飞毛腿战役]] ·
+  [[concepts/iraqi-army-morale-collapse-1991|士气崩溃]] ·
+  [[events/soviet-mediation-february-1991|苏联调停（2 月）]] ·
+  [[events/feb-24-1991-iraqi-leadership-meeting|2-24 会议录音]] ·
+  [[events/iraqi-withdrawal-from-kuwait-1991|撤出科威特]] ·
+  [[events/ceasefire-and-safwan-1991|停火与萨夫万]] ·
+  [[events/al-firdos-bunker-1991|al-Firdos 掩体]] ·
+  [[events/iraq-1991-uprising-iraqi-explanation|3 月起事（政权解释）]] ·
+  [[concepts/saddam-postwar-strategic-lessons|萨达姆战后教训]] ·
+  [[topics/gulf-war-source-conflicts|海湾战争多来源硬冲突对照]] ·
+  [[concepts/iraqi-victory-narrative-1991|"我们赢了"叙事]]
+- **空权转型论（跨战争）**：来源㉝ Lambeth《The Transformation of American Air Power》
+  （Cornell/RAND 2000）→ [[sources/lambeth-transformation-us-air-power|来源页]]。入口：
+  [[concepts/air-power-coming-of-age-lambeth|空权"成年"论与军种争论]] ·
+  [[concepts/vietnam-air-power-deficiencies-lambeth|越战暴露的四类缺陷]] ·
+  [[concepts/soviet-threat-driver-us-air-transformation|转型的苏联动因]] ·
+  [[concepts/aircrew-training-revolution-dact-redflag|训练革命（DACT／红旗）]] ·
+  [[concepts/air-to-air-tactics-evolution-1970s-80s|空对空战术演进]] ·
+  [[concepts/desert-storm-reassessment-lambeth|沙漠风暴独立评价]] ·
+  [[concepts/kari-sead-and-air-superiority-1991|Kari 与制空权]] ·
+  [[concepts/medium-altitude-sanctuary-package-q-1991|中空避难所与 Package Q]] ·
+  [[concepts/tank-plinking-1991|坦克打靶]] ·
+  [[concepts/air-tasking-and-air-ground-friction-1991|ATO 摩擦]] ·
+  [[concepts/stealth-and-precision-munitions-post-1991|隐身与弹药（1991 后）]] ·
+  [[concepts/sac-disestablishment-1992|SAC 撤销]] ·
+  [[concepts/air-expeditionary-force-aef|AEF 与混编联队]] ·
+  [[concepts/navy-and-marine-aviation-post-cold-war|海军空权转型]] ·
+  [[events/operation-deny-flight-1993-95|禁飞行动（空权失效两年）]] ·
+  [[events/operation-deliberate-force-1995|审慎力量 1995]] ·
+  [[events/operation-allied-force-1999|盟军行动 1999（科索沃）]] ·
+  [[concepts/kosovo-stalemate-and-escalation-1999|科索沃僵局与升级]] ·
+  [[concepts/kosovo-causation-debate|米洛舍维奇为何屈服]] ·
+  [[concepts/kosovo-ground-force-attrition-evidence|打不着的证据链]] ·
+  [[concepts/kosovo-sead-failure-1999|科索沃 SEAD 失效]] ·
+  [[events/f-117-downing-1999|F-117 被击落 1999]] ·
+  [[concepts/kosovo-lessons-lambeth|科索沃"教训"判词]] ·
+  [[concepts/space-support-desert-storm|太空支援 1991]] ·
+  [[concepts/space-operational-culture-lambeth|作战性太空文化]] ·
+  [[concepts/space-as-operational-medium|太空作为作战媒介]] ·
+  [[concepts/space-service-rivalry-1996-98|太空军归属之争]] ·
+  [[events/dudayev-killed-1996|杜达耶夫之死 1996]] ·
+  [[concepts/two-air-power-debates|空权论战两条线]] ·
+  [[concepts/douhet-obsolete-and-strategic-definition|杜黑过时与"战略"定义]] ·
+  [[concepts/roles-and-missions-battle-1990s|军种地盘之争（四支空军问题）]] ·
+  [[concepts/two-visions-of-warfare-army-vs-air-force|陆军的反击与两种战争观]] ·
+  [[concepts/air-power-transformed-lambeth-conclusion|全书结论：空权本质的变化]] ·
+  [[concepts/air-power-payoffs-and-limits|四项回报与限度]] ·
+  [[concepts/kuhn-paradigm-air-land-struggle|库恩式范式之争]] ·
+  [[concepts/new-american-way-of-war-lambeth|新的美国战争方式]]
+- **来源㉞ Gansler《Defense Conversion》（1995，MIT Press）**——冷战后国防工业与就业层：
+  [[concepts/post-cold-war-defense-drawdown-gansler|裁军规模与就业冲击]] ·
+  [[concepts/weapon-cost-growth-and-procurement-cycle-gansler|武器成本增长与 16.5 年采购周期]] ·
+  [[concepts/us-industrial-policy-precedents-gansler|政府扶植产业的四个先例]] ·
+  [[concepts/defense-industry-vulnerability-tiers-gansler|产业脆弱性的分层]] ·
+  [[concepts/four-sector-restructuring-cases-gansler|四个产业重组案例]] ·
+  [[concepts/foreign-dependency-defense-industrial-base-gansler|对外依赖与外资所有]] ·
+  [[concepts/defense-firm-contraction-paths-gansler|五条收缩路径]] ·
+  [[concepts/congress-industrial-base-politics-gansler|国会保生产线]] ·
+  [[concepts/conversion-lessons-and-failure-rates-gansler|转换的历史教训]] ·
+  [[concepts/core-competence-and-rd-targeting-gansler|核心能力与研发投向]] ·
+  [[concepts/defense-industrial-structure-options-gansler|三种政策选项]] ·
+  [[concepts/civil-military-integration-gansler|军民一体化与设计即双用]] ·
+  [[concepts/defense-unique-plants-ceiling-gansler|国防专属工厂上限 15%]] ·
+  [[concepts/craft-industry-downsizing-gansler|手工式产业与维持竞争]] ·
+  [[concepts/public-private-duplication-gansler|公共与私营的重复]] ·
+  [[concepts/integration-barriers-gansler|一体化的壁垒]] ·
+  [[concepts/procedural-separation-gansler|分离是程序性的，不是技术性的]] ·
+  [[concepts/four-barriers-survey-gansler|四项壁垒与 89% 调查]] ·
+  [[concepts/cost-based-contracting-and-milspec-gansler|成本型合同与军用规格]] ·
+  [[concepts/procurement-practices-absurdities-gansler|采购实务的荒谬]] ·
+  [[concepts/logistics-and-business-practices-gansler|后勤与行为惯例]] ·
+  [[concepts/three-part-transformation-strategy-gansler|三部分转型战略]] ·
+  [[concepts/market-tools-for-public-trust-gansler|用市场力量替代监管]] ·
+  [[concepts/technological-leadership-criteria-gansler|技术领导力的五项判据]] ·
+  [[concepts/arpa-model-and-rd-tax-policy-gansler|ARPA 模式与研发税法]] ·
+  [[concepts/trade-policy-and-consortia-gansler|贸易政策与产业联合体]] ·
+  [[concepts/concurrent-engineering-and-flexible-manufacturing-gansler|并行工程与柔性制造]] ·
+  [[concepts/critical-work-force-gansler|劳动力是资产还是成本]] ·
+  [[concepts/engineers-versus-lawyers-gansler|一千个律师对一百个工程师]] ·
+  [[concepts/schools-and-training-comparative-gansler|学校、兵役培训与国际对照]] ·
+  [[concepts/sixteen-government-actions-gansler|十六条政府行动]] ·
+  [[concepts/government-downsizing-and-all-or-nothing-gansler|文职削减与全有或全无]] ·
+  [[concepts/why-this-reform-might-succeed-gansler|为什么这次可能成功]]
+- **911 后战争线（美军机构史）**：[[wars/post-9-11-wars/index|911 后战争 2001— ]]（来源㉙ Karlin，
+  **不是战役线**：三个危机＋怎么去打仗/怎么打仗/谁服役/谁领军/准备未来）。入口：
+  [[concepts/crisis-of-confidence-karlin|信心危机]] · [[concepts/crisis-of-caring-karlin|关怀危机]] ·
+  [[concepts/crisis-of-meaningful-civilian-control-karlin|实质性文官控制危机]] ·
+  [[topics/post-9-11-wars-legacy|清算与未完成的对话]] · [[topics/post-9-11-military-manpower|人员与社会构成]]；
+  四军种 [[entities/organizations/us-army-post-9-11|陆军]] · [[entities/organizations/us-marine-corps-post-9-11|陆战队]] ·
+  [[entities/organizations/us-air-force-post-9-11|空军]] · [[entities/organizations/us-navy-post-9-11|海军]]
+- **两伊战争线（伊军视角）**：[[wars/iran-iraq-war-1980-88/index|两伊战争 1980—1988]]（来源㉘ Malovany 主源，
+  逐战七阶段＋条令总结；**与 Pollack 的评估页并列、不合并**）。新建入口页：
+  [[events/iran-iraq-war-1980-invasion|1980 年入侵]] · [[events/iran-iraq-war-1981-82-iranian-counteroffensive|1981—82 伊朗反攻]] ·
+  [[events/iran-iraq-war-1982-first-basra|第一次巴士拉战役]] · [[events/iran-iraq-war-1983-maysan-and-north|1982—83 迈桑与北部]] ·
+  [[events/iran-iraq-war-1984-huweize-marshes|1984—85 沼泽战]] · [[events/iran-iraq-war-1986-al-faw-falls|第一次法奥之战]] ·
+  [[events/iran-iraq-war-1986-87-karbala-battles|Karbala 系列]] · [[events/halabja-chemical-attack-1988-03-16|哈拉布贾化学攻击]] ·
+  [[events/iran-iraq-war-of-the-cities-1988|城市之战与 Al-Hussein]] · [[events/iran-iraq-war-1988-blessed-ramadan-al-faw|斋月行动]] ·
+  [[events/iran-iraq-war-1988-tawakalna-liberations|Tawakalna 解放作战]] · [[events/iran-iraq-war-1988-end-and-tally|战争终结与账目]]
+- **2003 年伊拉克战争线（伊方视角）**：[[wars/iraq-war-2003/index|2003 年"决定性战争"]]（来源㉘；
+  伊军部署与"四道防线"、南伊拉克/巴士拉、卡尔巴拉缺口、巴格达之战；联军侧叙述本库尚无专源）
+- **海湾线伊方视角（第五来源）**：[[events/iraq-invasion-of-kuwait-1990-iraqi-plan|入侵科威特（伊方计划与编成）]] ·
+  [[events/iraq-1990-91-kuwait-theater-deployment|科威特战区部署（十军五十五师）]] ·
+  [[events/iraq-1991-desert-storm-air-war|空袭与导弹战]] · [[events/iraq-1991-desert-storm-ground-war|地面战与撤退]] ·
+  [[events/iraq-1991-intifada|1991 年起事]] · [[events/iraq-no-fly-zones-1991-2003|禁飞区 1991—2003]]
 - **军队史专题（IDF 机构层）**：[[topics/idf-force-history|IDF 军队史专题（Van Creveld《The Sword and the Olive》）]]——
   以"军队本身"为轴：[[entities/organizations/idf-tzahal|IDF／TSAHAL]] 沿革与指挥链、兵役与预备役、军官团、optional control、
   女兵与 CHEN、装甲条令、军工复合体、占领治理与 Intifada、"失速"论；1948 年前身线另建
@@ -189,6 +340,52 @@ technical reference 模式，**新建 4 页**（[[concepts/spectrum-warfare-ems|
 建国工具、文官控制与审查、军工复合体）＋占领治理与"失速论"两页＋军民信任破裂事件页；
 并把机构层入口挂入 1948/1956/1967/消耗战/1973/1982/海湾 七个战争索引与三个时间线（本书评断一律标〔Van Creveld 判断〕）。
 
+来源㉙：**Mara E. Karlin《The Inheritance: America's Military After Two Decades of War》
+（Brookings，EPUB 文本型 3.56 MB，未 OCR）** → [[sources/karlin-inheritance|来源页]]。
+**911 后美国军队的机构层诊断**（近百人匿名访谈 2018—2020，以将官为主＋少量文官）：
+开 [[wars/post-9-11-wars/index|911 后战争线]]（非战役线）＋[[wars/post-9-11-wars/timeline|时间线]]；
+建三危机（[[concepts/crisis-of-confidence-karlin|信心]]／[[concepts/crisis-of-caring-karlin|关怀]]／
+[[concepts/crisis-of-meaningful-civilian-control-karlin|实质性文官控制]]）＋11 个概念页
+（war 遗产与神话、铁三角、临时拼凑、经费"开放式酒吧"、AVF 家族生意、问责浓汤、伤亡个人化、
+四种胜利理论、借道伙伴、SOF 与无人机）＋1 事件页（战争计划过程失败）＋4 军种页＋2 专题页。
+**引用纪律：全部访谈引语标〔Karlin 访谈〕；转引数字不当作原始统计；本书下限约 2021 年初。**
+
+来源㉚：**Richard P. Hallion《Storm Over Iraq: Air Power and the Gulf War》
+（Smithsonian History of Aviation Series，1992；EPUB 为 2000 年后重印，Preface 含 1994—1999 补论）**
+→ [[sources/hallion-storm-over-iraq|来源页]]。
+**空军视角的海湾战争与"空中力量为何在 1991 年变得决定性"的通史论证**（ch1 一战—越战的遗产 →
+ch2 空优重建 → ch3 为大战重建 → ch4 信心重建 → ch5 走向战争 → ch6—ch7 战役 → ch8 五问五答）。
+新建 8 个概念页（遗产与"误用产生误解"、训练革命、空地一体战／31 项倡议、精确打击革命、
+并行战与五环／DMPI、BDA 与情报之争、空权决定性之争、温伯格—鲍威尔主义〔与 Karlin 并列双源〕）
+＋5 个事件页（沙漠一号、沙漠盾牌空运、Instant Thunder、沙漠风暴空中战役、飞毛腿猎杀）；
+增量挂接 6 个既有页（开局夜、伊方空袭页、SEAD、Pollack 伊军表现、F-117A、教训学习批判），
+并给 `wars/gulf-war/timeline.md` 增补 40 余条〔Hallion〕口径节点。
+**口径纪律：本书为空军主张书（作者自陈"非常个人化的战争观"），战果与损失数字一律标〔Hallion〕；
+"爱国者 96% 拦截率"与 Van Creveld 的"几乎拦不中"两说并列，本库不裁断。**
+
+来源㉛：**Diane T. Putney《Airpower Advantage: Planning the Gulf War Air Campaign, 1989—1991》
+（USAF in the Persian Gulf War 丛书，Air Force History and Museums Program，2004；
+PDF 497 页，文本层提取，未 OCR）** → [[sources/putney-airpower-advantage|来源页]]。
+**美国空军官方史，主题是"计划怎么被做出来"**：依据解密档案＋参战规划人员访谈，
+**不写战果、不写地面战**，战斗执行只在末章用首日 24 小时作样本。
+新建 5 概念页（JFACC 与 TACS／Push CAS、Warden 五环〔库内最详〕、按效果打击与 MAP／Deptula numbers、
+反地面部队 50% 指标、情报支援失败）＋3 事件页（OPLAN 1002-90 与 Internal Look、Warden 8-20 汇报 Horner、
+首日 24 小时）；增量挂接 5 个既有页（Instant Thunder、沙漠风暴空中战役、开局夜、BDA 与情报、
+并行战与五环），并给 `wars/gulf-war/timeline.md` 增补 30 余条〔Putney〕口径计划层节点。
+**口径纪律：与 Hallion 属同一空军史系统但性质不同（官方研究 vs 个人主张书）；
+两书细节冲突（Warden 简报日期与场面、首夜架次数 700 vs 668、空权因果解释）一律并列不合并。**
+
+来源㉜：**Kevin M. Woods《The Mother of All Battles: Saddam Hussein's Strategic Plan for the Gulf War》
+（Naval Institute Press，2008；Iraqi Perspectives Project / JCOA-JAWD，PDF 388 页扫描 OCR）**
+→ [[sources/woods-mother-of-all-battles|来源页]]。
+**战胜国对战败国档案的整理与解读**：材料是 2003 年 OIF 缴获的伊拉克总统办公室、军事、
+情报记录与萨达姆会议录音／录像（DIA Harmony 数据库，尾注以 ISGQ/ISGP 档号标注）。
+建 2 概念页（[[concepts/saddam-pan-arab-strategic-vision|萨达姆泛阿拉伯战略构想]]、
+[[concepts/two-wars-narrative-asymmetry-1991|双侧叙事不对称]]）。
+**口径纪律：作者自陈档案"嵌着精心记录的谎言"、部分材料来自战后重构；
+引语标〔Woods 转引 + 档号〕，其动机解读标〔Woods 判断〕。
+OCR 版本：正文可读，目录页与图表页损坏，专名罗马化按书中形式照录不做归一化。**
+
 主题枢纽：[[concepts/sead|防空压制 SEAD/DEAD]]；
 平台谱系：[[entities/equipment/f-100f-wild-weasel-i|F-100F]] →
 [[entities/equipment/f-105-wild-weasel|F-105]] →
@@ -326,6 +523,18 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
   及概念/地点四页（[[concepts/israeli-intelligence-failure-1973|情报"概念"]]、
   [[concepts/yom-kippur-1973-equipment-comparison|装备对照]]、[[entities/places/golan-heights|戈兰高地]]、
   [[entities/places/suez-canal-bar-lev-line|运河与 Bar-Lev 线]]）。后续逐章续建（断点见 log）。未改 SCHEMA。
+来源㉘：**Col. Pesach Malovany（IDF 退役）《Wars of Modern Babylon: A History of the Iraqi Army from 1921 to 2003》
+（University Press of Kentucky 2017，EPUB 文本型，5 部 56 章）** →
+[[sources/malovany-wars-of-modern-babylon|来源页]]。**伊拉克军队通史**：以萨达姆时代伊拉克报刊＋撤军后将军回忆＋
+2003 年缴获档案（NDU－CRRC）为骨干，逐战重构两伊八年的七个阶段、1990—91 与 2003 两场对联军战争及军队全链条建制。
+本轮**全书 ch1—ch56 全部摄入**，建立：**两伊战争线**（[[wars/iran-iraq-war-1980-88/index|索引]]＋时间线＋
+12 战役/事件页）、**2003 年战争线**（[[wars/iraq-war-2003/index|索引]]＋时间线＋4 页）、
+海湾线伊方视角 6 页、专题 [[topics/iraqi-army-malovany|伊拉克军队 1921—2003]]，
+以及机构/部队/装备/概念 24 页（共和国卫队、特别共和国卫队、人民军、边防军、空军、防空兵、海军、地地导弹兵、
+军情局、军事工业委员会、第 1 特种军、耶路撒冷军、萨达姆敢死队、SSO、Al-Hussein/Al-Abbas、
+[[concepts/iraqi-corps-system-rusum-al-jaysh|编制体系]]、[[concepts/iraqi-defensive-battle-system-1982-88|防御战役法]]、
+[[concepts/iraqi-chemical-weapons|化学武器]]、[[concepts/iraqi-lines-of-communication|交通线]]等）。
+**所有战损与战果为伊方口径**，与 Pollack／联军数字并列不合并；7 个 Pollack 既有页已加"并列来源"链与 sources。
 来源㉔ Herzog《The Arab-Israeli Wars: War and Peace in the Middle East》（Arms & Armour 1982／
   Vintage 1984；→ [[sources/arab-israeli-wars-herzog|来源页]]，Internet Archive 扫描、未 OCR，440 页）：
   本书覆盖 1948—1982 七段战争，本轮摄入 **Book V（1973 年赎罪日战争）**——作为 Rabinovich 线的
@@ -358,4 +567,15 @@ WWII 电子战线装备/单位：[[entities/equipment/window-chaff|Window/Chaff]
   战例页 [[events/was-al-khafji-1991|海夫吉之战]]，并把埃及 1973 的两个既有页（
   [[events/operation-badr-1973|Badr]]、[[events/october-14-1973-egyptian-armor-attack|10-14 反攻]]）
   补入 Pollack 对照节。**数字冲突一律并列标注、不合并。**
+- 〔伊拉克军通史，2026-11-18〕来源㉘ Malovany《Wars of Modern Babylon》（→ [[sources/malovany-wars-of-modern-babylon|来源页]]，
+  EPUB 解包、未 OCR，全书 56 章一遍读完）：新开 **两伊战争线**（[[wars/iran-iraq-war-1980-88/index|索引]]＋
+  [[wars/iran-iraq-war-1980-88/timeline|时间线]]＋12 战役/事件页）与 **2003 年战争线**
+  （[[wars/iraq-war-2003/index|索引]]＋[[wars/iraq-war-2003/timeline|时间线]]＋4 页），
+  海湾线补伊方视角 6 页（入侵计划含 **1961 年卡塞姆旧案**、十军五十五师部署、空袭与导弹战、地面战与撤退、
+  1991 起事、禁飞区），专题 [[topics/iraqi-army-malovany|伊拉克军队 1921—2003]]，
+  机构/部队/装备/概念 24 页；并给 7 个 Pollack 既有页加"并列来源"链（**两套判断并列不合并**：
+  Pollack"战术层恒定低水平"vs Malovany"1982 年后持续改进、1988 年已能打合成进攻"）。
+  本书系**伊拉克官方口径材料为主**，所有战损/战果须标"伊方口径"；已建立的敏感条目
+  （[[events/halabja-chemical-attack-1988-03-16|哈拉布贾]]、[[events/iran-iraq-war-1987-kurdistan-and-anfal|安法尔]]）
+  只记伊方材料，定性判断待库尔德/联合国一手材料入藏后再作。
 - 资料层：raw/papers 保存原始 PDF 与提取文本；更新记录见 `log.md`。

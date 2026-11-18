@@ -1,5 +1,5 @@
 ---
-title: "蓝军与绿军"：1949—1953 年空军的军种地位之争
+title: "蓝军与绿军——1949—1953 年空军的军种地位之争"
 type: concept
 concept_type: doctrine
 war: war-of-independence-1948

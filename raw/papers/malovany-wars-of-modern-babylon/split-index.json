@@ -1,0 +1,318 @@
+[
+ {
+  "file": "OEBPS/xhtml/01_Cover.xhtml",
+  "chars": 0
+ },
+ {
+  "file": "OEBPS/xhtml/02_Halftitle.xhtml",
+  "chars": 22
+ },
+ {
+  "file": "OEBPS/xhtml/03_Fm01.xhtml",
+  "chars": 1214
+ },
+ {
+  "file": "OEBPS/xhtml/04_Title01.xhtml",
+  "chars": 296
+ },
+ {
+  "file": "OEBPS/xhtml/05_Copyright01.xhtml",
+  "chars": 1114
+ },
+ {
+  "file": "OEBPS/xhtml/06_Contents.xhtml",
+  "chars": 6091
+ },
+ {
+  "file": "OEBPS/xhtml/07_ListofMap.xhtml",
+  "chars": 4635
+ },
+ {
+  "file": "OEBPS/xhtml/08_Foreword.xhtml",
+  "chars": 2056
+ },
+ {
+  "file": "OEBPS/xhtml/09_Foreword.xhtml",
+  "chars": 4662
+ },
+ {
+  "file": "OEBPS/xhtml/10_Preface.xhtml",
+  "chars": 14630
+ },
+ {
+  "file": "OEBPS/xhtml/11_Introduction.xhtml",
+  "chars": 5127
+ },
+ {
+  "file": "OEBPS/xhtml/12_Introduction.xhtml",
+  "chars": 14600
+ },
+ {
+  "file": "OEBPS/xhtml/13_Part01.xhtml",
+  "chars": 123
+ },
+ {
+  "file": "OEBPS/xhtml/14_Chapter01.xhtml",
+  "chars": 80540
+ },
+ {
+  "file": "OEBPS/xhtml/15_Chapter02.xhtml",
+  "chars": 126053
+ },
+ {
+  "file": "OEBPS/xhtml/16_Chapter03.xhtml",
+  "chars": 37120
+ },
+ {
+  "file": "OEBPS/xhtml/17_Part02.xhtml",
+  "chars": 50
+ },
+ {
+  "file": "OEBPS/xhtml/18_Chapter04.xhtml",
+  "chars": 39094
+ },
+ {
+  "file": "OEBPS/xhtml/19_Chapter05.xhtml",
+  "chars": 60829
+ },
+ {
+  "file": "OEBPS/xhtml/20_Chapter06.xhtml",
+  "chars": 47457
+ },
+ {
+  "file": "OEBPS/xhtml/21_Chapter07.xhtml",
+  "chars": 47028
+ },
+ {
+  "file": "OEBPS/xhtml/22_Chapter08.xhtml",
+  "chars": 42464
+ },
+ {
+  "file": "OEBPS/xhtml/23_Chapter09.xhtml",
+  "chars": 61396
+ },
+ {
+  "file": "OEBPS/xhtml/24_Chapter10.xhtml",
+  "chars": 53668
+ },
+ {
+  "file": "OEBPS/xhtml/25_Chapter11.xhtml",
+  "chars": 36881
+ },
+ {
+  "file": "OEBPS/xhtml/26_Chapter12.xhtml",
+  "chars": 42183
+ },
+ {
+  "file": "OEBPS/xhtml/27_Chapter13.xhtml",
+  "chars": 60574
+ },
+ {
+  "file": "OEBPS/xhtml/28_Chapter14.xhtml",
+  "chars": 39966
+ },
+ {
+  "file": "OEBPS/xhtml/29_Chapter15.xhtml",
+  "chars": 25270
+ },
+ {
+  "file": "OEBPS/xhtml/30_Chapter16.xhtml",
+  "chars": 65358
+ },
+ {
+  "file": "OEBPS/xhtml/31_Chapter17.xhtml",
+  "chars": 52614
+ },
+ {
+  "file": "OEBPS/xhtml/32_Chapter18.xhtml",
+  "chars": 68689
+ },
+ {
+  "file": "OEBPS/xhtml/33_Chapter19.xhtml",
+  "chars": 41811
+ },
+ {
+  "file": "OEBPS/xhtml/34_Chapter20.xhtml",
+  "chars": 45028
+ },
+ {
+  "file": "OEBPS/xhtml/35_Chapter21.xhtml",
+  "chars": 83988
+ },
+ {
+  "file": "OEBPS/xhtml/36_Chapter22.xhtml",
+  "chars": 47494
+ },
+ {
+  "file": "OEBPS/xhtml/37_Chapter23.xhtml",
+  "chars": 72324
+ },
+ {
+  "file": "OEBPS/xhtml/38_Chapter24.xhtml",
+  "chars": 36019
+ },
+ {
+  "file": "OEBPS/xhtml/39_Chapter25.xhtml",
+  "chars": 112713
+ },
+ {
+  "file": "OEBPS/xhtml/40_Part03.xhtml",
+  "chars": 96
+ },
+ {
+  "file": "OEBPS/xhtml/41_Chapter26.xhtml",
+  "chars": 30209
+ },
+ {
+  "file": "OEBPS/xhtml/42_Chapter27.xhtml",
+  "chars": 41354
+ },
+ {
+  "file": "OEBPS/xhtml/43_Chapter28.xhtml",
+  "chars": 76692
+ },
+ {
+  "file": "OEBPS/xhtml/44_Chapter29.xhtml",
+  "chars": 42313
+ },
+ {
+  "file": "OEBPS/xhtml/45_Chapter30.xhtml",
+  "chars": 22208
+ },
+ {
+  "file": "OEBPS/xhtml/46_Chapter31.xhtml",
+  "chars": 37850
+ },
+ {
+  "file": "OEBPS/xhtml/47_Chapter32.xhtml",
+  "chars": 27128
+ },
+ {
+  "file": "OEBPS/xhtml/48_Chapter33.xhtml",
+  "chars": 27149
+ },
+ {
+  "file": "OEBPS/xhtml/49_Part04.xhtml",
+  "chars": 136
+ },
+ {
+  "file": "OEBPS/xhtml/50_Chapter34.xhtml",
+  "chars": 44241
+ },
+ {
+  "file": "OEBPS/xhtml/51_Chapter35.xhtml",
+  "chars": 29213
+ },
+ {
+  "file": "OEBPS/xhtml/52_Chapter36.xhtml",
+  "chars": 31093
+ },
+ {
+  "file": "OEBPS/xhtml/53_Chapter37.xhtml",
+  "chars": 19117
+ },
+ {
+  "file": "OEBPS/xhtml/54_Chapter38.xhtml",
+  "chars": 30480
+ },
+ {
+  "file": "OEBPS/xhtml/55_Chapter39.xhtml",
+  "chars": 23628
+ },
+ {
+  "file": "OEBPS/xhtml/56_Chapter40.xhtml",
+  "chars": 35907
+ },
+ {
+  "file": "OEBPS/xhtml/57_Chapter41.xhtml",
+  "chars": 37422
+ },
+ {
+  "file": "OEBPS/xhtml/58_Chapter42.xhtml",
+  "chars": 43138
+ },
+ {
+  "file": "OEBPS/xhtml/59_Part05.xhtml",
+  "chars": 45
+ },
+ {
+  "file": "OEBPS/xhtml/60_Chapter43.xhtml",
+  "chars": 32582
+ },
+ {
+  "file": "OEBPS/xhtml/61_Chapter44.xhtml",
+  "chars": 37842
+ },
+ {
+  "file": "OEBPS/xhtml/62_Chapter45.xhtml",
+  "chars": 46383
+ },
+ {
+  "file": "OEBPS/xhtml/63_Chapter46.xhtml",
+  "chars": 57366
+ },
+ {
+  "file": "OEBPS/xhtml/64_Chapter47.xhtml",
+  "chars": 32576
+ },
+ {
+  "file": "OEBPS/xhtml/65_Chapter48.xhtml",
+  "chars": 36883
+ },
+ {
+  "file": "OEBPS/xhtml/66_Chapter49.xhtml",
+  "chars": 22776
+ },
+ {
+  "file": "OEBPS/xhtml/67_Chapter50.xhtml",
+  "chars": 17688
+ },
+ {
+  "file": "OEBPS/xhtml/68_Chapter51.xhtml",
+  "chars": 60851
+ },
+ {
+  "file": "OEBPS/xhtml/69_Chapter52.xhtml",
+  "chars": 22694
+ },
+ {
+  "file": "OEBPS/xhtml/70_Chapter53.xhtml",
+  "chars": 31605
+ },
+ {
+  "file": "OEBPS/xhtml/71_Chapter54.xhtml",
+  "chars": 42243
+ },
+ {
+  "file": "OEBPS/xhtml/72_Chapter55.xhtml",
+  "chars": 47597
+ },
+ {
+  "file": "OEBPS/xhtml/73_Chapter56.xhtml",
+  "chars": 77572
+ },
+ {
+  "file": "OEBPS/xhtml/74_Epilogue.xhtml",
+  "chars": 6493
+ },
+ {
+  "file": "OEBPS/xhtml/75_Appendix01.xhtml",
+  "chars": 418
+ },
+ {
+  "file": "OEBPS/xhtml/76_Appendix02.xhtml",
+  "chars": 8864
+ },
+ {
+  "file": "OEBPS/xhtml/77_Bibliography.xhtml",
+  "chars": 25338
+ },
+ {
+  "file": "OEBPS/xhtml/78_ListofIll.xhtml",
+  "chars": 1208
+ },
+ {
+  "file": "OEBPS/xhtml/79_Index01.xhtml",
+  "chars": 46070
+ }
+]

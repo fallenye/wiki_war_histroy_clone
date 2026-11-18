@@ -6,9 +6,9 @@ war: iran-iraq-war-1980-88
 start_date: 1980-09-22
 end_date: 1988-08-20
 tags: [iraq, iran, 1980s, effectiveness]
-sources: [arabs-at-war-pollack]
+sources: [arabs-at-war-pollack, malovany-wars-of-modern-babylon]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-18
 ---
 
 # 两伊战争（1980—1988）：Pollack 的评估
@@ -17,8 +17,10 @@ updated: 2026-10-22
 > **本页不是两伊战争通史**：本书只在"衡量伊拉克军事效能"的框架下叙述，
 > 伊朗一侧的决策、政治与伤亡统计基本不涉及。国内政治与战争罪责、化学武器使用的国际法层面，
 > **本书不足以支持判断**，本页不作评定。
-> **战线归属**：本库尚无 `wars/iran-iraq-war-1980-88/`，本页暂挂 `war` 字段，
-> 只在专题页与伊拉克相关页挂链；待读到足够材料再建线。
+> **战线归属**：本库已建 [[wars/iran-iraq-war-1980-88/index|两伊战争（伊军视角）]] 战争线
+> （主源 Malovany《Wars of Modern Babylon》）。**本页与那条线并列、不合并**：
+> Malovany 依伊拉克报刊/将官回忆写逐战过程，Pollack 依美军档案与将领访谈做效能评估，
+> 两书的战损数字与因果判断常有冲突，凡冲突处本库并列，不择一。
 
 ## 战前：1973—1980 的扩军与"忠诚优先"的代价
 
@@ -314,4 +316,18 @@ updated: 2026-10-22
 - [[concepts/arab-tactical-leadership]] · [[concepts/arab-information-management]] ·
   [[topics/arab-military-effectiveness-pollack|阿拉伯军事效能专题]]
 - 1991：见 [[concepts/egypt-1991-gulf-war-pollack]]（对照）与海湾战争线 [[wars/gulf-war/index|海湾战争]]
-- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2
+- **并列来源（伊方视角）**：[[wars/iran-iraq-war-1980-88/index|两伊战争（伊军视角）]] 及其战役页——
+  [[events/iran-iraq-war-1980-invasion|1980 年入侵]] ·
+  [[events/iran-iraq-war-1981-82-iranian-counteroffensive|1981—82 伊朗反攻]] ·
+  [[events/iran-iraq-war-1982-first-basra|第一次巴士拉战役]] ·
+  [[events/iran-iraq-war-1983-maysan-and-north|1982—83 迈桑与北部]] ·
+  [[events/iran-iraq-war-1984-huweize-marshes|1984—85 沼泽战]] ·
+  [[events/iran-iraq-war-1986-al-faw-falls|第一次法奥之战]] ·
+  [[events/iran-iraq-war-1986-87-karbala-battles|Karbala 系列战役]] ·
+  [[events/iran-iraq-war-1988-blessed-ramadan-al-faw|斋月行动]] ·
+  [[events/iran-iraq-war-1988-tawakalna-liberations|Tawakalna 解放作战]] ·
+  [[events/iran-iraq-war-1988-end-and-tally|战争终结与账目]]
+- 并列概念：[[concepts/iraqi-defensive-battle-system-1982-88|伊军防御战役法]] ·
+  [[concepts/iraq-iran-war-1988-summary-malovany|伊方战争自我总结]] ·
+  [[concepts/iraqi-chemical-weapons|化学武器]]
+- 来源：[[sources/arabs-at-war-pollack|Pollack]] ch2 · [[sources/malovany-wars-of-modern-babylon|Malovany]]

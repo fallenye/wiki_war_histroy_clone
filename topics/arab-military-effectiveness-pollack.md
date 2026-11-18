@@ -37,9 +37,9 @@ updated: 2026-10-22
 | 国 | 页面 | Pollack 的一句话 |
 |---|---|---|
 | 埃及 | [[concepts/egypt-military-effectiveness-pollack]]（1948—1967）＋1973 两战例页＋[[events/egypt-in-yemen-1962-67]]<br>[[concepts/six-day-war-air-power-debate]] | 战术层四十四年不变，变的是战略层；1973 年战略"非常出色"却只换来有限战果，**10-14 之后立刻退回旧模式** |
-| 约旦 | [[concepts/arab-legion-1948-pollack]]（1948）<br>[[concepts/jordan-1948-vs-1967-pollack]]（受控比较）<br>[[concepts/jordan-army-decline-pollack]]（长期衰变）<br>[[concepts/jordan-british-officers-1956-pollack]]（1956 分水岭）<br>[[concepts/jordan-1973-october-war-pollack]]（1973）<br>[[concepts/jordan-effectiveness-since-1973-pollack|1973 以后＋总评]] | 1948 年"现代史上阿拉伯军队最好的一次表现"，此后四十三年"挣扎着保住熟练度" |
-| 叙利亚 | [[concepts/syria-1948-galilee-pollack]]（1948）<br>[[concepts/syria-1967-golan-pollack]]（1967）<br>[[concepts/syria-1973-golan-pollack]]（1973）<br>[[concepts/syria-1982-lebanon-pollack]]（1982）<br>[[concepts/syria-effectiveness-1948-91-pollack|1948—91 总评]] | "脱稿即崩"机制最清晰的样本；1982 年突击队是唯一被认可的精锐 |
-| 伊拉克 | [[concepts/iraq-1948-pollack]]（1948）· [[concepts/iraq-1973-pollack]]（1973）· [[concepts/iraq-doctrine-firepower|教义]]· [[concepts/iraq-depoliticization-1982|1982 去政治化]]· [[concepts/iraq-1991-final-assessment|1948—91 总评]] | 1948 年战术失败；1973 年"四支阿军中最差"，但顽强＋后勤好；1980—82 年入侵崩盘后靠**去政治化＋筑垒＋预备队**守住 |
+| 约旦 | [[concepts/arab-legion-1948-pollack]]（1948）<br>[[concepts/jordan-1948-vs-1967-pollack]]（受控比较）<br>[[concepts/jordan-army-decline-pollack]]（长期衰变）<br>[[concepts/jordan-british-officers-1956-pollack]]（1956 分水岭）<br>[[concepts/jordan-1973-october-war-pollack]]（1973）<br>[[concepts/jordan-effectiveness-since-1973-pollack]]（1973 以后＋总评） | 1948 年"现代史上阿拉伯军队最好的一次表现"，此后四十三年"挣扎着保住熟练度" |
+| 叙利亚 | [[concepts/syria-1948-galilee-pollack]]（1948）<br>[[concepts/syria-1967-golan-pollack]]（1967）<br>[[concepts/syria-1973-golan-pollack]]（1973）<br>[[concepts/syria-1982-lebanon-pollack]]（1982）<br>[[concepts/syria-effectiveness-1948-91-pollack]]（1948—91 总评） | "脱稿即崩"机制最清晰的样本；1982 年突击队是唯一被认可的精锐 |
+| 伊拉克 | [[concepts/iraq-1948-pollack]]（1948）· [[concepts/iraq-1973-pollack]]（1973）· [[concepts/iraq-doctrine-firepower]]（教义）· [[concepts/iraq-depoliticization-1982]]（1982 去政治化）· [[concepts/iraq-1991-final-assessment]]（1948—91 总评） | 1948 年战术失败；1973 年"四支阿军中最差"，但顽强＋后勤好；1980—82 年入侵崩盘后靠**去政治化＋筑垒＋预备队**守住 |
 | 利比亚 | [[concepts/libya-military-effectiveness-pollack]] | 政治化直接摧毁战术层；"有战略、没战术"的极端案例 |
 | 沙特 | [[concepts/saudi-military-effectiveness-pollack]] | "钱买不到"：同样的毛病，且因石油财富而"更严重" |
 
@@ -101,6 +101,9 @@ updated: 2026-10-22
 
 ## 相关页面
 
+- 并列专题：[[topics/iraqi-army-malovany|伊拉克军队 1921—2003（Malovany）]]——按"军队本身"组织的入口，
+  与本文"效能评估"框架并列；两者对 1988 年伊军能力的判断分歧见
+  [[concepts/iraq-iran-war-1988-summary-malovany|伊方战争自我总结]]。
 - 来源：[[sources/arabs-at-war-pollack|Pollack]]
 - 对照线：[[wars/war-of-independence-1948/index|1948]] · [[wars/sinai-campaign-1956/index|1956]] ·
   [[wars/six-day-war-1967/index|1967]] · [[wars/yom-kippur-war/index|1973]] ·
